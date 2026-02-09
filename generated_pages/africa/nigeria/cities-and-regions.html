@@ -1,0 +1,242 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Nigeria Cities & Regions Guide - Comprehensive guide to Nigeria. Global Country Guide.">
+    <title>Nigeria Cities & Regions Guide | Global Country Guide</title>
+    <style>
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+            line-height: 1.7;
+            color: #2d3436;
+            background: #fafafa;
+        }
+        header {
+            background: linear-gradient(135deg, #E67E22, #F39C12);
+            color: white;
+            padding: 24px 0;
+        }
+        header .container {
+            max-width: 900px;
+            margin: 0 auto;
+            padding: 0 20px;
+        }
+        header h1 {
+            font-size: 1.8em;
+            font-weight: 700;
+        }
+        .flag { font-size: 1.4em; margin-right: 8px; }
+        .breadcrumb {
+            max-width: 900px;
+            margin: 0 auto;
+            padding: 12px 20px;
+            font-size: 0.85em;
+            color: #636e72;
+        }
+        .breadcrumb a { color: #E67E22; text-decoration: none; }
+        .breadcrumb a:hover { text-decoration: underline; }
+        .angle-nav {
+            max-width: 900px;
+            margin: 0 auto;
+            padding: 0 20px 16px;
+            display: flex;
+            flex-wrap: wrap;
+            gap: 6px;
+        }
+        .angle-link {
+            display: inline-block;
+            padding: 6px 14px;
+            border-radius: 20px;
+            font-size: 0.82em;
+            text-decoration: none;
+            color: #636e72;
+            background: #f1f2f6;
+            transition: all 0.2s;
+        }
+        .angle-link:hover { background: #dfe6e9; }
+        .angle-link.active {
+            background: #E67E22;
+            color: white;
+        }
+        article {
+            max-width: 900px;
+            margin: 0 auto;
+            padding: 20px;
+            background: white;
+            border-radius: 8px;
+            box-shadow: 0 1px 3px rgba(0,0,0,0.08);
+            margin-bottom: 40px;
+        }
+        article h2 {
+            color: #E67E22;
+            margin: 28px 0 12px;
+            padding-bottom: 6px;
+            border-bottom: 2px solid #E67E2222;
+        }
+        article h3 { color: #2d3436; margin: 20px 0 8px; }
+        article p { margin-bottom: 14px; }
+        article ul, article ol { padding-left: 24px; margin-bottom: 14px; }
+        article li { margin-bottom: 6px; }
+        /* Factbox */
+        .factbox {
+            background: linear-gradient(135deg, #E67E2208, #E67E2215);
+            border: 1px solid #E67E2230;
+            border-radius: 10px;
+            padding: 20px 24px;
+            margin: 20px 0;
+        }
+        .factbox h3 {
+            color: #E67E22;
+            margin: 0 0 12px;
+            font-size: 1.05em;
+        }
+        .fact-row {
+            display: flex;
+            justify-content: space-between;
+            padding: 6px 0;
+            border-bottom: 1px solid #E67E2215;
+        }
+        .fact-row:last-child { border-bottom: none; }
+        .fact-key { font-weight: 600; color: #2d3436; flex: 0 0 45%; }
+        .fact-val { color: #636e72; text-align: right; flex: 0 0 50%; }
+        /* Tables */
+        .table-wrapper { overflow-x: auto; margin: 16px 0; }
+        table { border-collapse: collapse; width: 100%; font-size: 0.92em; }
+        th {
+            background: #E67E22;
+            color: white;
+            padding: 10px 14px;
+            text-align: left;
+            font-weight: 600;
+        }
+        td { padding: 10px 14px; border-bottom: 1px solid #eee; }
+        tr:nth-child(even) { background: #f8f9fa; }
+        tr:hover { background: #E67E2208; }
+        /* Callout */
+        .callout {
+            background: #fff3cd;
+            border-left: 4px solid #ffc107;
+            padding: 14px 18px;
+            border-radius: 0 8px 8px 0;
+            margin: 16px 0;
+            font-size: 0.93em;
+        }
+        .callout .misconception {
+            color: #856404;
+            margin-bottom: 4px;
+        }
+        .callout .reality {
+            color: #155724;
+            background: #d4edda;
+            padding: 8px 12px;
+            border-radius: 4px;
+            margin-bottom: 12px;
+        }
+        /* Rating */
+        .rating {
+            display: flex;
+            align-items: center;
+            gap: 10px;
+            padding: 6px 0;
+        }
+        .rating-label { font-weight: 600; min-width: 160px; }
+        .rating-dots { font-size: 1.2em; color: #E67E22; letter-spacing: 2px; }
+        .rating-score { color: #636e72; font-size: 0.85em; }
+        footer {
+            text-align: center;
+            padding: 30px 20px;
+            color: #b2bec3;
+            font-size: 0.8em;
+        }
+        footer a { color: #636e72; }
+        @media (max-width: 600px) {
+            header h1 { font-size: 1.3em; }
+            .angle-nav { gap: 4px; }
+            .angle-link { padding: 4px 10px; font-size: 0.75em; }
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <div class="container">
+            <h1><span class="flag">🇳🇬</span> Nigeria Cities & Regions Guide</h1>
+        </div>
+    </header>
+
+    <nav class="breadcrumb"><a href="/">Home</a> &raquo; <a href="/africa/">Africa</a> &raquo; <a href="/africa/nigeria/">Nigeria</a> &raquo; <span>Cities And Regions</span></nav>
+
+    <nav class="angle-nav">
+        <a href="/africa/nigeria/overview.html" class="angle-link ">Overview</a>
+        <a href="/africa/nigeria/geography.html" class="angle-link ">Geography</a>
+        <a href="/africa/nigeria/must-know-truth.html" class="angle-link ">Must Know Truth</a>
+        <a href="/africa/nigeria/positive-things.html" class="angle-link ">Positive Things</a>
+        <a href="/africa/nigeria/cities-and-regions.html" class="angle-link active">Cities And Regions</a>
+        <a href="/africa/nigeria/visa-and-entry.html" class="angle-link ">Visa And Entry</a>
+        <a href="/africa/nigeria/cost-of-living.html" class="angle-link ">Cost Of Living</a>
+        <a href="/africa/nigeria/economy.html" class="angle-link ">Economy</a>
+        <a href="/africa/nigeria/culture.html" class="angle-link ">Culture</a>
+        <a href="/africa/nigeria/travel-safety.html" class="angle-link ">Travel Safety</a>
+    </nav>
+
+    <article>
+        <div class="factbox"><h3>Quick Facts</h3>
+        <div class="fact-row"><span class="fact-key">Administrative Divisions</span><span class="fact-val">36 states and the Federal Capital Territory</span></div>
+        <div class="fact-row"><span class="fact-key">Largest City</span><span class="fact-val">Lagos, 13.4M</span></div>
+        <div class="fact-row"><span class="fact-key">Capital</span><span class="fact-val">Abuja</span></div>
+        <div class="fact-row"><span class="fact-key">Number of Cities Over 1M</span><span class="fact-val">5</span></div>
+        </div>
+        <h2>How Nigeria Is Divided</h2>
+        <p>Nigeria is a federal republic divided into 36 states and the Federal Capital Territory, Abuja. The country is further divided into 774 local government areas, which are the third-tier administrative divisions. The 36 states are grouped into six geopolitical zones: North Central, North East, North West, South East, South South, and South West. Each state has its own government and is responsible for providing certain services such as education, healthcare, and infrastructure.</p>
+        <p>The administrative structure of Nigeria is designed to promote decentralization and regional development. The federal government is responsible for matters such as national defense, foreign policy, and interstate commerce, while the state governments have jurisdiction over matters such as education, healthcare, and local infrastructure. The local government areas are responsible for providing basic services such as sanitation, water supply, and primary education.</p>
+        <h2>Major Cities</h2>
+        <p><strong>Lagos</strong> (13.4M)</p>
+        <p>Role: Economic hub</p>
+        <p>Known For: Lagos is a bustling metropolis and the economic center of Nigeria, known for its vibrant culture, beautiful beaches, and bustling markets. The city is home to many industries, including finance, technology, and entertainment.</p>
+        <p>Best For: Business travelers, entrepreneurs, and culture enthusiasts</p>
+        <p><strong>Abuja</strong> (3.2M)</p>
+        <p>Role: Capital</p>
+        <p>Known For: Abuja is a planned city and the capital of Nigeria, known for its modern architecture, beautiful parks, and vibrant cultural scene. The city is home to many government institutions, embassies, and international organizations.</p>
+        <p>Best For: Diplomats, government officials, and international visitors</p>
+        <p><strong>Kano</strong> (3.6M)</p>
+        <p>Role: Cultural center</p>
+        <p>Known For: Kano is a historic city and a major cultural center in northern Nigeria, known for its ancient walls, bustling markets, and traditional crafts. The city is home to many museums, galleries, and cultural institutions.</p>
+        <p>Best For: History buffs, cultural enthusiasts, and adventure seekers</p>
+        <p><strong>Ibadan</strong> (3.1M)</p>
+        <p>Role: Economic hub</p>
+        <p>Known For: Ibadan is a major city in southwestern Nigeria, known for its vibrant markets, beautiful parks, and rich cultural heritage. The city is home to many industries, including agriculture, manufacturing, and technology.</p>
+        <p>Best For: Business travelers, entrepreneurs, and students</p>
+        <p><strong>Port Harcourt</strong> (2.3M)</p>
+        <p>Role: Port city</p>
+        <p>Known For: Port Harcourt is a major port city in southern Nigeria, known for its beautiful beaches, vibrant nightlife, and rich oil and gas reserves. The city is home to many industries, including energy, manufacturing, and logistics.</p>
+        <p>Best For: Oil and gas professionals, logistics experts, and beach lovers</p>
+        <h2>Key Regions</h2>
+        <div class="table-wrapper"><table>
+        <thead><tr><th>Region</th><th>Character</th><th>Known For</th><th>Major City</th></tr></thead><tbody>
+        <tr><td>North Central</td><td>Agricultural</td><td>Rich farmland, beautiful scenery</td><td>Abuja</td></tr>
+        <tr><td>North East</td><td>Cultural</td><td>Ancient history, traditional crafts</td><td>Maiduguri</td></tr>
+        <tr><td>North West</td><td>Industrial</td><td>Mining, manufacturing, trade</td><td>Kano</td></tr>
+        <tr><td>South East</td><td>Economic</td><td>Oil and gas, finance, technology</td><td>Enugu</td></tr>
+        <tr><td>South South</td><td>Oil-rich</td><td>Oil and gas reserves, beautiful beaches</td><td>Port Harcourt</td></tr>
+        <tr><td>South West</td><td>Cultural</td><td>Rich heritage, beautiful scenery</td><td>Ibadan</td></tr>
+        <tr><td>Niger Delta</td><td>Coastal</td><td>Beautiful beaches, vibrant culture</td><td>Warri</td></tr>
+        </table></div>
+        <h2>Regional Differences</h2>
+        <ul>
+        <li>The north and south of Nigeria have distinct cultural and linguistic differences, with the north being predominantly Muslim and the south being predominantly Christian.</li>
+        <li>The eastern and western regions have different economic profiles, with the east being more industrialized and the west being more agricultural.</li>
+        <li>The northern regions are generally drier and hotter than the southern regions, which are more humid and tropical.</li>
+        <li>The major cities in Nigeria have distinct characters and identities, with Lagos being the economic hub, Abuja being the capital, and Kano being the cultural center.</li>
+        </ul>
+        <h2>Getting Around</h2>
+        <p>Nigeria has a relatively well-developed transportation network, with many domestic flights, trains, and buses connecting the major cities. The country has a total of 32 airports, with the Murtala Muhammed International Airport in Lagos being the busiest. The Nigerian Railway Corporation operates a network of trains that connect the major cities, including Lagos, Abuja, and Kano. The roads in Nigeria are generally in good condition, but driving can be challenging due to traffic congestion and poor road discipline. Many Nigerians rely on buses and taxis for transportation, but there are also many private car owners and ride-hailing services.</p>
+        <p>Getting around Nigeria can be challenging, especially for foreigners. However, with the right information and planning, it is possible to navigate the country's transportation network. [CALLOUT] It is recommended to use reputable transportation services and to avoid traveling at night, especially in rural areas. Additionally, it is a good idea to learn some basic Nigerian phrases and to be respectful of local customs and traditions. With the right attitude and preparation, visitors can have a safe and enjoyable experience in Nigeria. [/CALLOUT]</p>
+    </article>
+
+    <footer>
+        <p>&copy; 2026 Global Country Guide. Evergreen reference content.</p>
+        <p>This page contains factual, timeless information. Always verify visa and safety details with official sources.</p>
+    </footer>
+</body>
+</html>
