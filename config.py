@@ -20,8 +20,8 @@ GROQ_API_KEY = os.environ.get("GROQ_API_KEY", "")
 GROQ_MODEL = "llama-3.3-70b-versatile"
 
 # Site settings
-SITE_NAME = "Global Country Guide"
-SITE_URL = "https://yourusername.github.io/GlobalCountryPages"
+SITE_NAME = "360 Nations"
+SITE_URL = "https://360nations.com"
 SITE_DESCRIPTION = "Comprehensive country guides covering 249 countries and territories worldwide."
 
 # Generation settings

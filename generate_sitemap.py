@@ -16,7 +16,7 @@ try:
     from config import SITE_URL
 except ImportError:
     import os
-    SITE_URL = os.environ.get("SITE_URL", "https://yourusername.github.io/GlobalCountryPages")
+    SITE_URL = os.environ.get("SITE_URL", "https://360nations.com")
 
 SKIP_FILES = {"index.html", "robots.txt", "sitemap.xml", "CNAME", ".nojekyll"}
 

@@ -30,7 +30,7 @@ try:
 except ImportError:
     GROQ_API_KEY = os.environ.get("GROQ_API_KEY", "")
     GROQ_MODEL = "llama-3.3-70b-versatile"
-    SITE_NAME = "Global Country Guide"
+    SITE_NAME = "360 Nations"
     SITE_URL = ""
     CONTINENT_COLORS = {
         "africa": {"primary": "#E67E22", "secondary": "#F39C12", "name": "Africa"},
