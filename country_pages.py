@@ -151,7 +151,8 @@ def generate_with_groq(prompt, model=None, max_tokens=2500):
 # =============================================================================
 
 def get_prompt_for_angle(entity, angle_id, comparison_entity=None):
-    """Build the AI prompt for a given entity + angle."""
+    """Build the AI prompt for a given entity + angle.
+    Each angle produces a DIFFERENT content structure matching its search intent."""
     name = entity["name"]
     capital = entity.get("capital", "")
     continent = entity.get("continent", "")
@@ -172,165 +173,523 @@ Type: {entity_type}
 {f'Parent: {parent}' if parent else ''}
 Neighbors: {neighbors}"""
 
+    # ── FORMAT INSTRUCTIONS (shared across prompts) ──
+    format_rules = """
+OUTPUT FORMAT RULES (follow exactly):
+- Use [SECTION] Section Name [/SECTION] to wrap major sections
+- Use [TABLE] with | pipes | for data tables (first row = header, use | --- | for separator)
+- Use [FACTBOX] for quick-reference stat boxes (one "Key: Value" per line)
+- Use [CALLOUT] for important tips, warnings, or highlights
+- Use [RATING] label: X/5 for ratings (whole numbers only)
+- Use - for bullet lists, 1. for numbered lists
+- Use ** for bold text on key terms
+- No emojis, no markdown headings (#), no HTML tags
+- 8th-grade reading level, factual, evergreen"""
+
     prompts = {
-        "overview": f"""Write an overview page about {name}.
+        # ── OVERVIEW: Quick-reference factsheet + short narrative ──
+        "overview": f"""Generate a country overview reference page for {name}.
 
 {context}
 
-Structure:
-1. IDENTITY: What {name} is (sovereign nation/territory/etc), where it sits, sovereignty status
-2. AT A GLANCE: Key facts - capital, population, languages, currency, time zone
-3. BRIEF HISTORY: 3-4 sentences covering founding/independence and key milestones
-4. WHAT MAKES IT UNIQUE: 3-4 distinctive characteristics
-5. QUICK SUMMARY: One sentence capturing the essence of {name}
+This page answers: "What is {name}? Give me the essential facts quickly."
 
-Rules: 800 words, factual, evergreen, no opinions, 8th-grade reading level, no emojis, no markdown.""",
+FORMAT:
 
-        "geography": f"""Write a geography page about {name}.
+[FACTBOX]
+Official Name: (full official name)
+Capital: {capital}
+Population: {pop} million
+Languages: {languages}
+Currency: {currency}
+Government: (type)
+Continent: {continent.replace('-', ' ').title()}
+ISO Code: {entity.get('iso_code', '')}
+Calling Code: (phone code)
+Drives On: (left/right)
+Time Zone: (UTC offset)
+[/FACTBOX]
 
-{context}
+[SECTION] What Is {name}? [/SECTION]
+2-3 paragraphs: sovereignty status, geographic position, what it is known for. Plain language.
 
-Structure:
-1. LOCATION: Exact position, borders, what region/continent it belongs to
-2. TERRAIN & LANDSCAPE: Mountains, rivers, deserts, coastlines, notable features
-3. CLIMATE: Weather patterns, seasons, temperature ranges
-4. BEST TIME TO VISIT: Optimal months and why
-5. NATURAL HIGHLIGHTS: National parks, natural wonders, biodiversity
-6. SIZE COMPARISON: Compare land area to well-known reference countries
+[SECTION] Key History [/SECTION]
+A numbered timeline of 5-7 major events. Format: "1. YEAR - Event description"
 
-Rules: 700 words, factual, evergreen, no opinions, 8th-grade reading level, no emojis, no markdown.""",
+[SECTION] What Makes {name} Unique [/SECTION]
+4-5 bullet points, each one sentence, factual.
 
-        "must_know_truth": f"""Write a "must-know truth" page about {name}.
+[SECTION] Quick Summary [/SECTION]
+One sentence capturing the essence.
 
-{context}
+{format_rules}
+Target: 700-900 words.""",
 
-Structure:
-1. REAL HISTORY: Colonial history (if any), independence story, or "never colonized" status
-2. THINGS MOST PEOPLE GET WRONG: 4-5 common misconceptions and the truth
-3. CHALLENGES: Current realities people should know about (poverty, governance, etc.)
-4. RESILIENCE: How the country has overcome or is addressing challenges
-5. WHAT THE MEDIA MISSES: Nuanced facts that don't make headlines
-
-Rules: 800 words, factual, balanced, no propaganda, no sensationalism, 8th-grade reading level, no emojis, no markdown.""",
-
-        "positive_things": f"""Write a page about positive things about {name}.
+        # ── GEOGRAPHY: Data-heavy with climate table ──
+        "geography": f"""Generate a geography reference page for {name}.
 
 {context}
 
-Structure:
-1. ACHIEVEMENTS: Notable accomplishments in science, sport, arts, development
-2. CULTURAL TREASURES: UNESCO sites, traditions, art forms worth celebrating
-3. PEOPLE & VALUES: Hospitality, community values, notable figures
-4. INNOVATION & PROGRESS: Modern achievements, economic growth, tech
-5. HIDDEN GEMS: Underappreciated positive aspects
-6. WHY PEOPLE LOVE IT: What visitors and residents consistently praise
+This page answers: "Where is {name}? What's the terrain and climate like? When should I visit?"
 
-Rules: 700 words, factual, genuinely positive without being promotional, 8th-grade reading level, no emojis, no markdown.""",
+FORMAT:
 
-        "cities_and_regions": f"""Write a cities and regions guide for {name}.
+[FACTBOX]
+Land Area: (km2 and comparison, e.g. "about the size of Texas")
+Highest Point: (name, elevation)
+Lowest Point: (name, elevation)
+Coastline: (km, or "landlocked")
+Borders: {neighbors}
+Climate Type: (e.g. tropical, arid, temperate)
+[/FACTBOX]
 
-{context}
+[SECTION] Location & Borders [/SECTION]
+Where exactly it sits. Which countries border it. What bodies of water surround it. 2 paragraphs.
 
-Structure:
-1. ADMINISTRATIVE STRUCTURE: How {name} is divided (states/provinces/regions/etc.)
-2. MAJOR CITIES: Top 5-8 cities with brief description of each (character, population, role)
-3. KEY REGIONS: Notable regions and what they're known for
-4. REGIONAL DIFFERENCES: Cultural, economic, or geographic variations
-5. GETTING AROUND: How regions connect (transport overview)
+[SECTION] Terrain & Landscape [/SECTION]
+Mountains, rivers, deserts, forests, coastlines. What does the land actually look like? 2-3 paragraphs.
 
-Rules: 900 words, factual, evergreen, useful for trip planning, 8th-grade reading level, no emojis, no markdown.""",
+[SECTION] Climate By Season [/SECTION]
+[TABLE]
+| Season | Months | Temperature Range | Rainfall | Conditions |
+| --- | --- | --- | --- | --- |
+(fill 3-4 rows for main seasons)
+[/TABLE]
 
-        "visa_and_entry": f"""Write a visa and entry requirements page for {name}.
+[SECTION] Best Time To Visit [/SECTION]
+[CALLOUT] Best months: (months). Why: (1-2 sentences). Avoid: (months and why). [/CALLOUT]
 
-{context}
+[SECTION] Natural Highlights [/SECTION]
+5-6 bullet points: national parks, natural wonders, unique biodiversity. One sentence each.
 
-Structure:
-1. GENERAL POLICY: Visa-free, visa-on-arrival, or visa-required overview
-2. BY VISITOR TYPE: Requirements for tourists, business travelers, students, workers
-3. COMMON NATIONALITIES: Visa rules for US, UK, EU, Australian, Canadian citizens
-4. DOCUMENTS NEEDED: Passport validity, photos, proof of funds, return ticket
-5. BORDER CROSSINGS: Entry points, land borders, airport procedures
-6. TIPS: Common mistakes to avoid, processing times
+{format_rules}
+Target: 700-800 words.""",
 
-Note: Use general/typical requirements. Add disclaimer that rules change and travelers should verify with official sources.
-
-Rules: 700 words, factual, practical, evergreen framework, 8th-grade reading level, no emojis, no markdown.""",
-
-        "cost_of_living": f"""Write a cost of living page for {name}.
+        # ── MUST-KNOW TRUTH: Fact-check format with myth/reality pairs ──
+        "must_know_truth": f"""Generate a "must-know facts" reference page for {name}.
 
 {context}
 
-Structure:
-1. OVERVIEW: How affordable is {name} compared to global averages
-2. ACCOMMODATION: Typical rent prices (budget/mid-range/luxury)
-3. FOOD & DINING: Meal costs (street food, casual restaurant, fine dining)
-4. TRANSPORT: Public transit, taxis, fuel prices
-5. DAILY ESSENTIALS: Groceries, utilities, internet, mobile
-6. BUDGET BREAKDOWN: Sample monthly budgets for budget/mid-range/comfortable lifestyles
-7. MONEY TIPS: How to save, where to splurge
+This page answers: "What do most people get wrong about {name}? What's the real story?"
 
-Rules: 700 words, use approximate ranges not exact prices, evergreen framework, 8th-grade reading level, no emojis, no markdown.""",
+FORMAT:
 
-        "economy": f"""Write an economy page about {name}.
+[SECTION] Historical Context [/SECTION]
+3-4 paragraphs covering: founding/colonization/independence timeline. State only verifiable facts, dates, and classifications. No moral judgments.
 
-{context}
+[SECTION] Common Misconceptions [/SECTION]
+Format each as a myth/reality pair:
 
-Structure:
-1. ECONOMIC OVERVIEW: GDP, income level, economic classification
-2. KEY INDUSTRIES: Top 3-5 industries driving the economy
-3. TRADE: Major exports and imports, key trading partners
-4. INFRASTRUCTURE: Transport, energy, digital connectivity
-5. EMPLOYMENT: Job market, key sectors, unemployment context
-6. ECONOMIC OUTLOOK: Growth trajectory and development priorities
+[CALLOUT] Misconception: "(common false belief)"
+Reality: (the verified truth, with context) [/CALLOUT]
 
-Rules: 700 words, factual, use ranges not exact figures, evergreen framework, 8th-grade reading level, no emojis, no markdown.""",
+Provide 5-6 of these pairs. Cover geography, culture, safety, economy, people.
 
-        "culture": f"""Write a culture page about {name}.
+[SECTION] Challenges & Context [/SECTION]
+4-5 bullet points on real challenges. State facts and data. No editorializing.
 
-{context}
+[SECTION] What Gets Overlooked [/SECTION]
+4-5 bullet points of nuanced facts that don't make international headlines. Positive or neutral facts that add depth.
 
-Structure:
-1. CULTURAL IDENTITY: What defines {name}'s culture, key influences
-2. FOOD & CUISINE: Signature dishes, eating customs, food culture
-3. TRADITIONS & FESTIVALS: Major celebrations, customs, rituals
-4. ETIQUETTE: Social norms, do's and don'ts for visitors
-5. ARTS & MUSIC: Notable art forms, music genres, literature
-6. LANGUAGE: How language shapes culture, useful phrases for visitors
+{format_rules}
+Rules: Factual only. No moral conclusions. State timelines, classifications, and verified data. No "colonization was good/bad" framing.
+Target: 800-900 words.""",
 
-Rules: 800 words, respectful, informative, celebratory without stereotyping, 8th-grade reading level, no emojis, no markdown.""",
-
-        "travel_safety": f"""Write a travel safety page for {name}.
+        # ── POSITIVE THINGS: Achievement cards + evidence ──
+        "positive_things": f"""Generate a page about positive achievements and highlights of {name}.
 
 {context}
 
-Structure:
-1. OVERALL SAFETY LEVEL: General safety assessment for tourists
-2. COMMON RISKS: Petty crime, scams, natural hazards specific to {name}
-3. AREAS TO AVOID: Regions or neighborhoods with higher risk
-4. HEALTH: Vaccinations, water safety, medical facilities
-5. EMERGENCY INFO: Emergency numbers, embassy contacts framework
-6. SAFETY TIPS: Practical advice for staying safe
-7. WOMEN/SOLO TRAVELERS: Specific considerations if applicable
+This page answers: "What is {name} good at? What should people know that's positive?"
 
-Add disclaimer that safety conditions change and travelers should check current advisories.
+FORMAT:
 
-Rules: 600 words, factual, helpful without being alarmist, 8th-grade reading level, no emojis, no markdown.""",
+[SECTION] Notable Achievements [/SECTION]
+[TABLE]
+| Category | Achievement | Details |
+| --- | --- | --- |
+(6-8 rows covering: science, sports, arts, development, innovation, global contributions)
+[/TABLE]
 
-        "vs": f"""Write a comparison page: {name} vs {comparison_entity or entity.get('common_comparisons', [''])[0]}.
+[SECTION] Cultural Treasures [/SECTION]
+4-5 bullet points: UNESCO sites, traditions, art forms. Include specific names. One sentence each.
+
+[SECTION] People & Global Impact [/SECTION]
+3-4 bullet points: notable figures, diaspora contributions, values. Factual, not promotional.
+
+[SECTION] What Visitors Love [/SECTION]
+5-6 bullet points of consistently praised aspects: hospitality, food, scenery, experiences. Evidence-based (travel reviews, cultural recognition).
+
+[SECTION] Hidden Gems [/SECTION]
+3-4 lesser-known positives that deserve more recognition. One sentence each.
+
+{format_rules}
+Rules: Evidence-based. Cite specific achievements, places, people. No generic praise.
+Target: 700-800 words.""",
+
+        # ── CITIES & REGIONS: City cards with role/character/pop ──
+        "cities_and_regions": f"""Generate a cities and regions reference guide for {name}.
 
 {context}
 
-Compare {name} with {comparison_entity or entity.get('common_comparisons', [''])[0]}.
+This page answers: "What are the main cities and regions? How is {name} divided?"
 
-Structure:
-1. WHY PEOPLE COMPARE THEM: What makes this comparison common
-2. KEY DIFFERENCES: 5-6 major differences (geography, culture, cost, etc.)
-3. KEY SIMILARITIES: 3-4 things they share
-4. FOR TRAVELERS: Which suits what type of traveler
-5. SIDE BY SIDE: Quick comparison of key stats (size, population, cost level, language, climate)
-6. VERDICT: Not a winner, but clarifying which excels at what
+FORMAT:
 
-Rules: 800 words, balanced, no bias, practical for decision-making, 8th-grade reading level, no emojis, no markdown.""",
+[FACTBOX]
+Administrative Divisions: (how many states/provinces/regions and what they're called)
+Largest City: (name, population)
+Capital: {capital}
+Number of Cities Over 1M: (number)
+[/FACTBOX]
+
+[SECTION] How {name} Is Divided [/SECTION]
+1-2 paragraphs explaining the administrative structure.
+
+[SECTION] Major Cities [/SECTION]
+For each of the top 5-8 cities, use this format:
+
+**City Name** (population estimate)
+Role: (capital / economic hub / cultural center / port city / etc.)
+Known For: (1-2 sentences on character and identity)
+Best For: (what type of visitor or interest it serves)
+
+[SECTION] Key Regions [/SECTION]
+[TABLE]
+| Region | Character | Known For | Major City |
+| --- | --- | --- | --- |
+(5-8 rows for main regions/states/provinces)
+[/TABLE]
+
+[SECTION] Regional Differences [/SECTION]
+3-4 bullet points on how regions differ (culture, economy, climate, language).
+
+[SECTION] Getting Around [/SECTION]
+Brief transport overview: domestic flights, trains, buses, driving conditions. 1-2 paragraphs.
+
+{format_rules}
+Target: 900-1000 words.""",
+
+        # ── VISA & ENTRY: Lookup table by nationality ──
+        "visa_and_entry": f"""Generate a visa and entry requirements reference page for {name}.
+
+{context}
+
+This page answers: "Do I need a visa for {name}? What documents do I need?"
+
+FORMAT:
+
+[CALLOUT] Visa rules change frequently. Always verify current requirements with the official embassy or consulate of {name} before traveling. [/CALLOUT]
+
+[SECTION] Visa Policy Overview [/SECTION]
+1-2 paragraphs: general visa stance (liberal/moderate/strict), how many countries get visa-free access.
+
+[SECTION] Requirements By Nationality [/SECTION]
+[TABLE]
+| Nationality | Visa Required? | Type | Max Stay | Notes |
+| --- | --- | --- | --- | --- |
+| US Citizens | (Yes/No/On Arrival) | (Tourist/eVisa/etc) | (days) | (key note) |
+| UK Citizens | ... | ... | ... | ... |
+| EU Citizens | ... | ... | ... | ... |
+| Canadian Citizens | ... | ... | ... | ... |
+| Australian Citizens | ... | ... | ... | ... |
+| Indian Citizens | ... | ... | ... | ... |
+| Chinese Citizens | ... | ... | ... | ... |
+[/TABLE]
+
+[SECTION] By Visitor Type [/SECTION]
+**Tourists:** (requirements, typical stay, extensions)
+**Business Travelers:** (requirements, invitation letters, differences)
+**Students:** (requirements, enrollment proof, duration)
+**Workers:** (requirements, sponsorship, process)
+
+[SECTION] Documents Checklist [/SECTION]
+Numbered list of documents typically required. 8-10 items.
+
+[SECTION] Entry Points & Procedures [/SECTION]
+Main airports, land borders, what to expect at immigration. 1-2 paragraphs.
+
+[SECTION] Common Mistakes To Avoid [/SECTION]
+5-6 bullet points of practical tips.
+
+{format_rules}
+Target: 700-800 words.""",
+
+        # ── COST OF LIVING: Price tables + budget tiers ──
+        "cost_of_living": f"""Generate a cost of living reference page for {name}.
+
+{context}
+Local currency: {currency}
+
+This page answers: "How much does it cost to live in or visit {name}?"
+
+FORMAT:
+
+[FACTBOX]
+Cost Level: (Cheap / Affordable / Moderate / Expensive / Very Expensive)
+Daily Budget (Backpacker): ($XX-XX USD)
+Daily Budget (Mid-Range): ($XX-XX USD)
+Daily Budget (Comfort): ($XX-XX USD)
+Currency: {currency}
+Tipping Custom: (expected/not expected/percentage)
+[/FACTBOX]
+
+[SECTION] How Expensive Is {name}? [/SECTION]
+1-2 paragraphs positioning {name} relative to global averages and neighbors.
+
+[SECTION] Accommodation Prices [/SECTION]
+[TABLE]
+| Type | Price Range (USD/night) | Notes |
+| --- | --- | --- |
+| Hostel/Budget | $X-X | (typical quality) |
+| Mid-Range Hotel | $X-X | (what to expect) |
+| Luxury/Resort | $X-X | (what to expect) |
+| Apartment Rent (monthly) | $X-X | (city center vs outside) |
+[/TABLE]
+
+[SECTION] Food & Dining Prices [/SECTION]
+[TABLE]
+| Meal Type | Price Range (USD) |
+| --- | --- |
+| Street Food / Local Eatery | $X-X |
+| Casual Restaurant | $X-X |
+| Mid-Range Restaurant (2 people) | $X-X |
+| Fine Dining | $X-X |
+| Beer (local) | $X-X |
+| Coffee | $X-X |
+| Water (1.5L bottle) | $X-X |
+[/TABLE]
+
+[SECTION] Transport Costs [/SECTION]
+[TABLE]
+| Transport | Cost (USD) |
+| --- | --- |
+| Local bus/metro ride | $X-X |
+| Taxi (per km) | $X-X |
+| Domestic flight | $X-X |
+| Fuel (per liter) | $X-X |
+[/TABLE]
+
+[SECTION] Monthly Budget Breakdown [/SECTION]
+[TABLE]
+| Category | Budget ($) | Mid-Range ($) | Comfortable ($) |
+| --- | --- | --- | --- |
+| Rent | X | X | X |
+| Food | X | X | X |
+| Transport | X | X | X |
+| Utilities | X | X | X |
+| Entertainment | X | X | X |
+| **Total** | **X** | **X** | **X** |
+[/TABLE]
+
+[SECTION] Money-Saving Tips [/SECTION]
+5-6 bullet points specific to {name}.
+
+{format_rules}
+Rules: Use approximate USD ranges. Prices are rough guides, not exact.
+Target: 700-800 words.""",
+
+        # ── ECONOMY: Key indicators table + sector breakdown ──
+        "economy": f"""Generate an economy reference page for {name}.
+
+{context}
+
+This page answers: "How does {name}'s economy work? What drives it?"
+
+FORMAT:
+
+[FACTBOX]
+GDP (nominal): ($X billion/million estimate)
+GDP Per Capita: ($X,XXX estimate)
+Income Classification: (Low / Lower-Middle / Upper-Middle / High)
+Main Industries: (top 3)
+Currency: {currency}
+Unemployment Rate: (approximate %)
+Ease of Doing Business: (general ranking context)
+[/FACTBOX]
+
+[SECTION] Economic Overview [/SECTION]
+2-3 paragraphs: economic classification, development level, trajectory. What kind of economy is this?
+
+[SECTION] Key Industries [/SECTION]
+[TABLE]
+| Industry | Contribution | Details |
+| --- | --- | --- |
+(4-6 rows: agriculture, mining, manufacturing, services, tourism, tech, etc.)
+[/TABLE]
+
+[SECTION] Trade Profile [/SECTION]
+**Top Exports:** (5 items with brief context)
+**Top Imports:** (5 items)
+**Key Trading Partners:** (3-5 countries)
+
+[SECTION] Infrastructure [/SECTION]
+4-5 bullet points covering: transport networks, energy, internet/mobile penetration, ports/airports.
+
+[SECTION] Economic Outlook [/SECTION]
+2 paragraphs: growth direction, development priorities, major projects or reforms.
+
+{format_rules}
+Target: 700-800 words.""",
+
+        # ── CULTURE: Do's/don'ts + food guide + phrase table ──
+        "culture": f"""Generate a culture reference page for {name}.
+
+{context}
+
+This page answers: "What's the culture like in {name}? What should I know before visiting?"
+
+FORMAT:
+
+[SECTION] Cultural Identity [/SECTION]
+2-3 paragraphs: what defines {name}'s culture, key influences, ethnic/linguistic makeup.
+
+[SECTION] Food & Cuisine [/SECTION]
+[TABLE]
+| Dish | Type | Description | Must-Try? |
+| --- | --- | --- | --- |
+(6-8 rows of signature dishes/drinks)
+[/TABLE]
+1 paragraph on eating customs and food culture.
+
+[SECTION] Traditions & Festivals [/SECTION]
+[TABLE]
+| Festival/Tradition | When | What It Is |
+| --- | --- | --- |
+(5-6 major celebrations)
+[/TABLE]
+
+[SECTION] Etiquette: Do's and Don'ts [/SECTION]
+**Do:**
+- (5-6 bullet points)
+
+**Don't:**
+- (5-6 bullet points)
+
+[SECTION] Arts & Music [/SECTION]
+4-5 bullet points: notable art forms, music genres, literature, film. Specific names and examples.
+
+[SECTION] Useful Phrases [/SECTION]
+[TABLE]
+| English | Local Language | Pronunciation |
+| --- | --- | --- |
+| Hello | ... | ... |
+| Thank you | ... | ... |
+| Please | ... | ... |
+| Yes / No | ... | ... |
+| How much? | ... | ... |
+| Goodbye | ... | ... |
+(8-10 essential phrases in the primary local language)
+[/TABLE]
+
+{format_rules}
+Rules: Respectful. Avoid stereotypes. Specific over generic.
+Target: 800-900 words.""",
+
+        # ── TRAVEL SAFETY: Risk ratings + area-by-area ──
+        "travel_safety": f"""Generate a travel safety reference page for {name}.
+
+{context}
+
+This page answers: "Is {name} safe to visit? What should I watch out for?"
+
+FORMAT:
+
+[CALLOUT] Safety conditions change. Always check your government's current travel advisory for {name} before traveling. [/CALLOUT]
+
+[FACTBOX]
+Overall Safety Rating: X/5 (1=very dangerous, 5=very safe)
+Petty Crime Risk: (Low/Moderate/High)
+Violent Crime Risk: (Low/Moderate/High)
+Scam Risk: (Low/Moderate/High)
+Natural Disaster Risk: (Low/Moderate/High)
+Health Risk: (Low/Moderate/High)
+Emergency Number: (number)
+Tourist Police: (Yes/No, number if yes)
+[/FACTBOX]
+
+[SECTION] Overall Safety Assessment [/SECTION]
+2 paragraphs: honest, balanced assessment. Not alarmist, not dismissive.
+
+[SECTION] Safety By Area [/SECTION]
+[TABLE]
+| Area/Region | Safety Level | Notes |
+| --- | --- | --- |
+(5-8 rows covering major tourist areas and areas to avoid)
+[/TABLE]
+
+[SECTION] Common Risks & Scams [/SECTION]
+6-8 bullet points: specific scams, crime patterns, and hazards that affect tourists in {name}. Be specific, not generic.
+
+[SECTION] Health & Medical [/SECTION]
+- **Vaccinations:** (recommended/required ones)
+- **Water Safety:** (tap water safe? bottled recommended?)
+- **Medical Facilities:** (quality, availability, insurance needed?)
+- **Pharmacy Access:** (easy/limited?)
+
+[SECTION] Practical Safety Tips [/SECTION]
+6-8 bullet points specific to {name}. Actionable advice.
+
+[SECTION] For Solo & Women Travelers [/SECTION]
+3-4 bullet points with honest, specific guidance.
+
+{format_rules}
+Target: 600-700 words.""",
+
+        # ── VS: Side-by-side comparison table ──
+        "vs": f"""Generate a comparison reference page: {name} vs {comparison_entity or entity.get('common_comparisons', [''])[0]}.
+
+{context}
+
+The other country: {comparison_entity or entity.get('common_comparisons', [''])[0]}
+
+This page answers: "{name} or {comparison_entity or entity.get('common_comparisons', [''])[0]}? Which is better for me?"
+
+FORMAT:
+
+[SECTION] Why People Compare Them [/SECTION]
+1-2 paragraphs: what makes this a common comparison.
+
+[SECTION] At A Glance [/SECTION]
+[TABLE]
+| Factor | {name} | {comparison_entity or entity.get('common_comparisons', [''])[0]} |
+| --- | --- | --- |
+| Population | ... | ... |
+| Size | ... | ... |
+| Language | ... | ... |
+| Currency | ... | ... |
+| Climate | ... | ... |
+| Cost Level | ... | ... |
+| Safety Level | ... | ... |
+| Visa Ease | ... | ... |
+| Best For | ... | ... |
+[/TABLE]
+
+[SECTION] Key Differences [/SECTION]
+6 bullet points. Each starts with the category in bold. One sentence per difference.
+
+[SECTION] Key Similarities [/SECTION]
+4 bullet points. Same format.
+
+[SECTION] Which Is Better For... [/SECTION]
+[TABLE]
+| If You Want... | Choose | Why |
+| --- | --- | --- |
+| Budget Travel | ... | ... |
+| Culture & History | ... | ... |
+| Beaches / Nature | ... | ... |
+| Food | ... | ... |
+| Nightlife | ... | ... |
+| Safety | ... | ... |
+| Ease of Travel | ... | ... |
+[/TABLE]
+
+[SECTION] Bottom Line [/SECTION]
+2-3 sentences. No winner declared. Clarify what each excels at.
+
+{format_rules}
+Rules: Balanced. No bias. Practical for trip planning decisions.
+Target: 800-900 words.""",
     }
 
     return prompts.get(angle_id, prompts["overview"])
@@ -462,6 +821,71 @@ def build_html(entity, angle_id, title, content, breadcrumbs=None):
         article p {{ margin-bottom: 14px; }}
         article ul, article ol {{ padding-left: 24px; margin-bottom: 14px; }}
         article li {{ margin-bottom: 6px; }}
+        /* Factbox */
+        .factbox {{
+            background: linear-gradient(135deg, {colors['primary']}08, {colors['primary']}15);
+            border: 1px solid {colors['primary']}30;
+            border-radius: 10px;
+            padding: 20px 24px;
+            margin: 20px 0;
+        }}
+        .factbox h3 {{
+            color: {colors['primary']};
+            margin: 0 0 12px;
+            font-size: 1.05em;
+        }}
+        .fact-row {{
+            display: flex;
+            justify-content: space-between;
+            padding: 6px 0;
+            border-bottom: 1px solid {colors['primary']}15;
+        }}
+        .fact-row:last-child {{ border-bottom: none; }}
+        .fact-key {{ font-weight: 600; color: #2d3436; flex: 0 0 45%; }}
+        .fact-val {{ color: #636e72; text-align: right; flex: 0 0 50%; }}
+        /* Tables */
+        .table-wrapper {{ overflow-x: auto; margin: 16px 0; }}
+        table {{ border-collapse: collapse; width: 100%; font-size: 0.92em; }}
+        th {{
+            background: {colors['primary']};
+            color: white;
+            padding: 10px 14px;
+            text-align: left;
+            font-weight: 600;
+        }}
+        td {{ padding: 10px 14px; border-bottom: 1px solid #eee; }}
+        tr:nth-child(even) {{ background: #f8f9fa; }}
+        tr:hover {{ background: {colors['primary']}08; }}
+        /* Callout */
+        .callout {{
+            background: #fff3cd;
+            border-left: 4px solid #ffc107;
+            padding: 14px 18px;
+            border-radius: 0 8px 8px 0;
+            margin: 16px 0;
+            font-size: 0.93em;
+        }}
+        .callout .misconception {{
+            color: #856404;
+            margin-bottom: 4px;
+        }}
+        .callout .reality {{
+            color: #155724;
+            background: #d4edda;
+            padding: 8px 12px;
+            border-radius: 4px;
+            margin-bottom: 12px;
+        }}
+        /* Rating */
+        .rating {{
+            display: flex;
+            align-items: center;
+            gap: 10px;
+            padding: 6px 0;
+        }}
+        .rating-label {{ font-weight: 600; min-width: 160px; }}
+        .rating-dots {{ font-size: 1.2em; color: {colors['primary']}; letter-spacing: 2px; }}
+        .rating-score {{ color: #636e72; font-size: 0.85em; }}
         footer {{
             text-align: center;
             padding: 30px 20px;
@@ -503,67 +927,184 @@ def build_html(entity, angle_id, title, content, breadcrumbs=None):
 
 
 def content_to_html(content):
-    """Convert AI-generated text content into HTML."""
+    """Convert structured AI output into styled HTML.
+    Handles: [SECTION], [TABLE], [FACTBOX], [CALLOUT], [RATING], bold, lists."""
+    # Pre-process: handle inline bold **text**
+    def bold(text):
+        return re.sub(r'\*\*(.+?)\*\*', r'<strong>\1</strong>', text)
+
     lines = content.strip().split("\n")
     html_parts = []
-    in_list = False
+    in_list = False        # inside <ul>
+    in_ol = False          # inside <ol>
+    in_table = False       # inside <table>
+    in_factbox = False
+    in_callout = False
+    table_header_done = False
 
-    for line in lines:
-        line = line.strip()
-        if not line:
-            if in_list:
-                html_parts.append("</ul>")
-                in_list = False
-            continue
-
-        # Headers
-        if line.upper() == line and len(line) > 3 and not line.startswith("-") and not line.startswith("*") and ":" in line:
-            if in_list:
-                html_parts.append("</ul>")
-                in_list = False
-            heading = line.rstrip(":").strip()
-            html_parts.append(f"<h2>{heading.title()}</h2>")
-            continue
-
-        # Numbered section headers like "1. IDENTITY:" or "1. IDENTITY"
-        num_header = re.match(r'^\d+\.\s+([A-Z][A-Z\s&/,\'-]+):?\s*$', line)
-        if num_header:
-            if in_list:
-                html_parts.append("</ul>")
-                in_list = False
-            heading = num_header.group(1).strip().rstrip(":")
-            html_parts.append(f"<h2>{heading.title()}</h2>")
-            continue
-
-        # Section headers like "IDENTITY:" at start of line followed by content
-        section_match = re.match(r'^(\d+\.\s+)?([A-Z][A-Z\s&/,\'-]+):\s+(.+)', line)
-        if section_match and len(section_match.group(2)) > 2:
-            if in_list:
-                html_parts.append("</ul>")
-                in_list = False
-            heading = section_match.group(2).strip()
-            rest = section_match.group(3).strip()
-            html_parts.append(f"<h2>{heading.title()}</h2>")
-            html_parts.append(f"<p>{rest}</p>")
-            continue
-
-        # Bullet points
-        if line.startswith("- ") or line.startswith("* ") or line.startswith("• "):
-            if not in_list:
-                html_parts.append("<ul>")
-                in_list = True
-            item = line.lstrip("-*• ").strip()
-            html_parts.append(f"<li>{item}</li>")
-            continue
-
-        # Regular paragraph
+    def close_list():
+        nonlocal in_list, in_ol
         if in_list:
             html_parts.append("</ul>")
             in_list = False
-        html_parts.append(f"<p>{line}</p>")
+        if in_ol:
+            html_parts.append("</ol>")
+            in_ol = False
 
-    if in_list:
-        html_parts.append("</ul>")
+    for line in lines:
+        stripped = line.strip()
+
+        # ── Skip empty lines (close open lists) ──
+        if not stripped:
+            if not in_table and not in_factbox and not in_callout:
+                close_list()
+            continue
+
+        # ── [FACTBOX] / [/FACTBOX] ──
+        if stripped == "[FACTBOX]":
+            close_list()
+            in_factbox = True
+            html_parts.append('<div class="factbox"><h3>Quick Facts</h3>')
+            continue
+        if stripped == "[/FACTBOX]":
+            in_factbox = False
+            html_parts.append("</div>")
+            continue
+        if in_factbox:
+            # Parse "Key: Value" lines
+            if ":" in stripped:
+                key, _, val = stripped.partition(":")
+                html_parts.append(f'<div class="fact-row"><span class="fact-key">{bold(key.strip())}</span><span class="fact-val">{bold(val.strip())}</span></div>')
+            continue
+
+        # ── [CALLOUT] / [/CALLOUT] ──
+        if stripped == "[CALLOUT]":
+            close_list()
+            in_callout = True
+            html_parts.append('<div class="callout">')
+            continue
+        if stripped == "[/CALLOUT]":
+            in_callout = False
+            html_parts.append("</div>")
+            continue
+        # Inline callout (single line: [CALLOUT] text [/CALLOUT])
+        callout_inline = re.match(r'^\[CALLOUT\]\s*(.+?)\s*\[/CALLOUT\]$', stripped)
+        if callout_inline:
+            close_list()
+            html_parts.append(f'<div class="callout"><p>{bold(callout_inline.group(1))}</p></div>')
+            continue
+        if in_callout:
+            # Check for Misconception/Reality pattern
+            if stripped.startswith("Misconception:") or stripped.startswith("Reality:"):
+                key, _, val = stripped.partition(":")
+                css_class = "misconception" if key.strip() == "Misconception" else "reality"
+                html_parts.append(f'<p class="{css_class}"><strong>{key.strip()}:</strong> {bold(val.strip())}</p>')
+            else:
+                html_parts.append(f"<p>{bold(stripped)}</p>")
+            continue
+
+        # ── [SECTION] Name [/SECTION] ──
+        section_match = re.match(r'^\[SECTION\]\s*(.+?)\s*\[/SECTION\]$', stripped)
+        if section_match:
+            close_list()
+            html_parts.append(f"<h2>{bold(section_match.group(1))}</h2>")
+            continue
+
+        # ── [TABLE] / [/TABLE] ──
+        if stripped == "[TABLE]":
+            close_list()
+            in_table = True
+            table_header_done = False
+            html_parts.append('<div class="table-wrapper"><table>')
+            continue
+        if stripped == "[/TABLE]":
+            in_table = False
+            table_header_done = False
+            html_parts.append("</table></div>")
+            continue
+        if in_table:
+            # Skip separator rows like | --- | --- |
+            if re.match(r'^\|[\s\-:|]+\|$', stripped):
+                continue
+            # Parse table row
+            cells = [c.strip() for c in stripped.strip("|").split("|")]
+            if not table_header_done:
+                html_parts.append("<thead><tr>" + "".join(f"<th>{bold(c)}</th>" for c in cells) + "</tr></thead><tbody>")
+                table_header_done = True
+            else:
+                html_parts.append("<tr>" + "".join(f"<td>{bold(c)}</td>" for c in cells) + "</tr>")
+            continue
+
+        # ── [RATING] label: X/5 ──
+        rating_match = re.match(r'^\[RATING\]\s*(.+?):\s*(\d)/5', stripped)
+        if rating_match:
+            close_list()
+            label = rating_match.group(1)
+            score = int(rating_match.group(2))
+            filled = "●" * score + "○" * (5 - score)
+            html_parts.append(f'<div class="rating"><span class="rating-label">{bold(label)}</span><span class="rating-dots">{filled}</span><span class="rating-score">{score}/5</span></div>')
+            continue
+
+        # ── Numbered headers: "1. TITLE" or "1. TITLE:" (all caps) ──
+        num_header = re.match(r'^(\d+)\.\s+([A-Z][A-Z\s&/,\'-]+):?\s*$', stripped)
+        if num_header:
+            close_list()
+            heading = num_header.group(2).strip().rstrip(":")
+            html_parts.append(f"<h2>{heading.title()}</h2>")
+            continue
+
+        # ── ALL-CAPS headers with colon: "SECTION NAME:" ──
+        if stripped.upper() == stripped and len(stripped) > 3 and ":" in stripped and not stripped.startswith("-") and not stripped.startswith("|"):
+            close_list()
+            heading = stripped.rstrip(":").strip()
+            html_parts.append(f"<h2>{heading.title()}</h2>")
+            continue
+
+        # ── Bold subheader: **Label:** followed by text ──
+        bold_header = re.match(r'^\*\*(.+?)\*\*:?\s*$', stripped)
+        if bold_header:
+            close_list()
+            html_parts.append(f"<h3>{bold_header.group(1)}</h3>")
+            continue
+
+        # ── Bold label with inline content: **Label:** some text ──
+        bold_inline = re.match(r'^\*\*(.+?)\*\*:\s+(.+)', stripped)
+        if bold_inline:
+            close_list()
+            html_parts.append(f"<p><strong>{bold_inline.group(1)}:</strong> {bold(bold_inline.group(2))}</p>")
+            continue
+
+        # ── Bullet points ──
+        if re.match(r'^[-*•]\s+', stripped):
+            if not in_list:
+                close_list()
+                html_parts.append("<ul>")
+                in_list = True
+            item = re.sub(r'^[-*•]\s+', '', stripped)
+            html_parts.append(f"<li>{bold(item)}</li>")
+            continue
+
+        # ── Numbered list ──
+        ol_match = re.match(r'^(\d+)\.\s+(.+)', stripped)
+        if ol_match:
+            if not in_ol:
+                close_list()
+                html_parts.append("<ol>")
+                in_ol = True
+            html_parts.append(f"<li>{bold(ol_match.group(2))}</li>")
+            continue
+
+        # ── Regular paragraph ──
+        close_list()
+        html_parts.append(f"<p>{bold(stripped)}</p>")
+
+    close_list()
+    if in_table:
+        html_parts.append("</tbody></table></div>")
+    if in_factbox:
+        html_parts.append("</div>")
+    if in_callout:
+        html_parts.append("</div>")
 
     return "\n        ".join(html_parts)
 
