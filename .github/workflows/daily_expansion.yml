@@ -1,0 +1,76 @@
+name: Daily Country Expansion
+
+on:
+  schedule:
+    - cron: '0 3 * * *'  # Daily at 3 AM UTC
+  workflow_dispatch:
+    inputs:
+      pages_per_run:
+        description: 'Number of pages to generate'
+        required: false
+        default: '200'
+      phase_override:
+        description: 'Override phase (1-5, leave empty for auto)'
+        required: false
+        default: ''
+
+env:
+  GROQ_API_KEY: ${{ secrets.GROQ_API_KEY }}
+
+jobs:
+  expand:
+    runs-on: ubuntu-latest
+    timeout-minutes: 120
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: pip install openai requests
+
+      - name: Detect current phase
+        id: detect
+        run: |
+          PHASE=$(python entity_discovery.py --detect-phase 2>/dev/null | grep "CURRENT_PHASE=" | cut -d= -f2)
+          echo "phase=${PHASE:-1}" >> $GITHUB_OUTPUT
+          echo "Current phase: ${PHASE:-1}"
+
+      - name: Set phase
+        id: phase
+        run: |
+          OVERRIDE="${{ github.event.inputs.phase_override }}"
+          DETECTED="${{ steps.detect.outputs.phase }}"
+          PHASE="${OVERRIDE:-$DETECTED}"
+          echo "phase=$PHASE" >> $GITHUB_OUTPUT
+          echo "Using phase: $PHASE"
+
+      - name: Generate pages
+        run: |
+          PHASE=${{ steps.phase.outputs.phase }}
+          COUNT=${{ github.event.inputs.pages_per_run || '200' }}
+          echo "Phase $PHASE: Generating $COUNT pages..."
+          python country_pages.py --generate-batch --phase $PHASE --count $COUNT
+
+      - name: Generate sitemap
+        run: python generate_sitemap.py
+
+      - name: Check closure status
+        run: python entity_discovery.py --check-closure
+
+      - name: Commit and push
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "Country Guide Bot"
+          git add -A
+          PHASE=${{ steps.phase.outputs.phase }}
+          PAGE_COUNT=$(find generated_pages -name "*.html" 2>/dev/null | wc -l)
+          git diff --staged --quiet || git commit -m "Auto-expand: Phase $PHASE - $PAGE_COUNT total pages"
+          git push

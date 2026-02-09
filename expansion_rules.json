@@ -1,0 +1,76 @@
+{
+  "version": "1.0",
+  "description": "Rules governing entity expansion phases",
+
+  "phases": {
+    "1": {
+      "name": "Overview Pass",
+      "description": "Generate overview pages for all 249 entities",
+      "angles": ["overview"],
+      "entity_level": 2,
+      "priority": 100,
+      "estimated_days": 2,
+      "pages_per_day": 200
+    },
+    "2": {
+      "name": "Full Angle Pass",
+      "description": "Generate remaining 9 required angles per entity, continent by continent",
+      "angles": ["geography", "must-know-truth", "positive-things", "cities-and-regions", "visa-and-entry", "cost-of-living", "economy", "culture", "travel-safety"],
+      "entity_level": 2,
+      "priority": 90,
+      "estimated_days": 12,
+      "pages_per_day": 200,
+      "order": ["africa", "asia", "europe", "north-america", "south-america", "oceania"]
+    },
+    "3": {
+      "name": "Comparison Pass",
+      "description": "Generate vs comparison pages",
+      "angles": ["vs"],
+      "entity_level": 2,
+      "priority": 70,
+      "estimated_days": 4,
+      "pages_per_day": 200
+    },
+    "4": {
+      "name": "Level 3 Regions",
+      "description": "Generate sub-region pages for large countries",
+      "angles": ["overview", "geography", "culture", "cost-of-living", "cities-and-regions", "travel-safety", "positive-things"],
+      "entity_level": 3,
+      "entity_type": "region",
+      "priority": 60,
+      "estimated_days": 14,
+      "pages_per_day": 200
+    },
+    "5": {
+      "name": "Level 3 Cities",
+      "description": "Generate city pages for large countries",
+      "angles": ["overview", "geography", "culture", "cost-of-living", "travel-safety"],
+      "entity_level": 3,
+      "entity_type": "city",
+      "priority": 50,
+      "estimated_days": 38,
+      "pages_per_day": 200
+    }
+  },
+
+  "size_class_rules": {
+    "large": {
+      "description": "Countries with population >20M or major tourism",
+      "has_level3": true,
+      "max_regions": 30,
+      "max_cities": 50
+    },
+    "medium": {
+      "description": "Countries with population 1M-20M",
+      "has_level3": false,
+      "max_regions": 0,
+      "max_cities": 0
+    },
+    "small": {
+      "description": "Countries/territories with population <1M",
+      "has_level3": false,
+      "max_regions": 0,
+      "max_cities": 0
+    }
+  }
+}

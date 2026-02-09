@@ -1,0 +1,6058 @@
+{
+  "version": "1.0",
+  "generated_date": "2026-02-08",
+  "total_entities": 244,
+  "entities": {
+    "afghanistan": {
+      "name": "Afghanistan",
+      "iso_code": "AF",
+      "type": "sovereign",
+      "parent_entity": "",
+      "continent": "asia",
+      "sub_region": "southern-asia",
+      "capital": "Kabul",
+      "population_millions": 40.1,
+      "languages": [
+        "Pashto",
+        "Dari"
+      ],
+      "currency": "AFN",
+      "size_class": "large",
+      "neighbors": [
+        "Iran",
+        "Pakistan",
+        "Turkmenistan",
+        "Uzbekistan",
+        "Tajikistan",
+        "China"
+      ],
+      "common_comparisons": [
+        "Pakistan",
+        "Iran"
+      ]
+    },
+    "albania": {
+      "name": "Albania",
+      "iso_code": "AL",
+      "type": "sovereign",
+      "parent_entity": "",
+      "continent": "europe",
+      "sub_region": "southern-europe",
+      "capital": "Tirana",
+      "population_millions": 2.8,
+      "languages": [
+        "Albanian"
+      ],
+      "currency": "ALL",
+      "size_class": "medium",
+      "neighbors": [
+        "Montenegro",
+        "Kosovo",
+        "North Macedonia",
+        "Greece"
+      ],
+      "common_comparisons": [
+        "North Macedonia",
+        "Kosovo"
+      ]
+    },
+    "algeria": {
+      "name": "Algeria",
+      "iso_code": "DZ",
+      "type": "sovereign",
+      "parent_entity": "",
+      "continent": "africa",
+      "sub_region": "northern-africa",
+      "capital": "Algiers",
+      "population_millions": 45.6,
+      "languages": [
+        "Arabic",
+        "Berber"
+      ],
+      "currency": "DZD",
+      "size_class": "large",
+      "neighbors": [
+        "Morocco",
+        "Tunisia",
+        "Libya",
+        "Niger",
+        "Mali",
+        "Mauritania",
+        "Western Sahara"
+      ],
+      "common_comparisons": [
+        "Morocco",
+        "Tunisia"
+      ]
+    },
+    "andorra": {
+      "name": "Andorra",
+      "iso_code": "AD",
+      "type": "sovereign",
+      "parent_entity": "",
+      "continent": "europe",
+      "sub_region": "southern-europe",
+      "capital": "Andorra la Vella",
+      "population_millions": 0.08,
+      "languages": [
+        "Catalan"
+      ],
+      "currency": "EUR",
+      "size_class": "small",
+      "neighbors": [
+        "France",
+        "Spain"
+      ],
+      "common_comparisons": [
+        "Monaco",
+        "Liechtenstein"
+      ]
+    },
+    "angola": {
+      "name": "Angola",
+      "iso_code": "AO",
+      "type": "sovereign",
+      "parent_entity": "",
+      "continent": "africa",
+      "sub_region": "middle-africa",
+      "capital": "Luanda",
+      "population_millions": 35.6,
+      "languages": [
+        "Portuguese"
+      ],
+      "currency": "AOA",
+      "size_class": "large",
+      "neighbors": [
+        "DR Congo",
+        "Republic of Congo",
+        "Zambia",
+        "Namibia"
+      ],
+      "common_comparisons": [
+        "Mozambique",
+        "DR Congo"
+      ]
+    },
+    "antigua-and-barbuda": {
+      "name": "Antigua and Barbuda",
+      "iso_code": "AG",
+      "type": "sovereign",
+      "parent_entity": "",
+      "continent": "north-america",
+      "sub_region": "caribbean",
+      "capital": "St. John's",
+      "population_millions": 0.1,
+      "languages": [
+        "English"
+      ],
+      "currency": "XCD",
+      "size_class": "small",
+      "neighbors": [
+        "Saint Kitts and Nevis"
+      ],
+      "common_comparisons": [
+        "Barbuda",
+        "Saint Kitts and Nevis"
+      ]
+    },
+    "argentina": {
+      "name": "Argentina",
+      "iso_code": "AR",
+      "type": "sovereign",
+      "parent_entity": "",
+      "continent": "south-america",
+      "sub_region": "south-america",
+      "capital": "Buenos Aires",
+      "population_millions": 46.0,
+      "languages": [
+        "Spanish"
+      ],
+      "currency": "ARS",
+      "size_class": "large",
+      "neighbors": [
+        "Chile",
+        "Bolivia",
+        "Paraguay",
+        "Brazil",
+        "Uruguay"
+      ],
+      "common_comparisons": [
+        "Chile",
+        "Brazil"
+      ]
+    },
+    "armenia": {
+      "name": "Armenia",
+      "iso_code": "AM",
+      "type": "sovereign",
+      "parent_entity": "",
+      "continent": "asia",
+      "sub_region": "western-asia",
+      "capital": "Yerevan",
+      "population_millions": 3.0,
+      "languages": [
+        "Armenian"
+      ],
+      "currency": "AMD",
+      "size_class": "medium",
+      "neighbors": [
+        "Georgia",
+        "Azerbaijan",
+        "Iran",
+        "Turkey"
+      ],
+      "common_comparisons": [
+        "Georgia",
+        "Azerbaijan"
+      ]
+    },
+    "australia": {
+      "name": "Australia",
+      "iso_code": "AU",
+      "type": "sovereign",
+      "parent_entity": "",
+      "continent": "oceania",
+      "sub_region": "australia-new-zealand",
+      "capital": "Canberra",
+      "population_millions": 26.4,
+      "languages": [
+        "English"
+      ],
+      "currency": "AUD",
+      "size_class": "large",
+      "neighbors": [
+        "Indonesia",
+        "Papua New Guinea",
+        "New Zealand"
+      ],
+      "common_comparisons": [
+        "New Zealand",
+        "Canada"
+      ]
+    },
+    "austria": {
+      "name": "Austria",
+      "iso_code": "AT",
+      "type": "sovereign",
+      "parent_entity": "",
+      "continent": "europe",
+      "sub_region": "western-europe",
+      "capital": "Vienna",
+      "population_millions": 9.1,
+      "languages": [
+        "German"
+      ],
+      "currency": "EUR",
+      "size_class": "medium",
+      "neighbors": [
+        "Germany",
+        "Czech Republic",
+        "Slovakia",
+        "Hungary",
+        "Slovenia",
+        "Italy",
+        "Switzerland",
+        "Liechtenstein"
+      ],
+      "common_comparisons": [
+        "Switzerland",
+        "Germany"
+      ]
+    },
+    "azerbaijan": {
+      "name": "Azerbaijan",
+      "iso_code": "AZ",
+      "type": "sovereign",
+      "parent_entity": "",
+      "continent": "asia",
+      "sub_region": "western-asia",
+      "capital": "Baku",
+      "population_millions": 10.2,
+      "languages": [
+        "Azerbaijani"
+      ],
+      "currency": "AZN",
+      "size_class": "medium",
+      "neighbors": [
+        "Russia",
+        "Georgia",
+        "Armenia",
+        "Iran",
+        "Turkey"
+      ],
+      "common_comparisons": [
+        "Armenia",
+        "Georgia"
+      ]
+    },
+    "bahamas": {
+      "name": "Bahamas",
+      "iso_code": "BS",
+      "type": "sovereign",
+      "parent_entity": "",
+      "continent": "north-america",
+      "sub_region": "caribbean",
+      "capital": "Nassau",
+      "population_millions": 0.41,
+      "languages": [
+        "English"
+      ],
+      "currency": "BSD",
+      "size_class": "small",
+      "neighbors": [
+        "United States",
+        "Cuba"
+      ],
+      "common_comparisons": [
+        "Bermuda",
+        "Turks and Caicos"
+      ]
+    },
+    "bahrain": {
+      "name": "Bahrain",
+      "iso_code": "BH",
+      "type": "sovereign",
+      "parent_entity": "",
+      "continent": "asia",
+      "sub_region": "western-asia",
+      "capital": "Manama",
+      "population_millions": 1.5,
+      "languages": [
+        "Arabic"
+      ],
+      "currency": "BHD",
+      "size_class": "medium",
+      "neighbors": [
+        "Saudi Arabia",
+        "Qatar"
+      ],
+      "common_comparisons": [
+        "Qatar",
+        "Kuwait"
+      ]
+    },
+    "bangladesh": {
+      "name": "Bangladesh",
+      "iso_code": "BD",
+      "type": "sovereign",
+      "parent_entity": "",
+      "continent": "asia",
+      "sub_region": "southern-asia",
+      "capital": "Dhaka",
+      "population_millions": 172.0,
+      "languages": [
+        "Bengali"
+      ],
+      "currency": "BDT",
+      "size_class": "large",
+      "neighbors": [
+        "India",
+        "Myanmar"
+      ],
+      "common_comparisons": [
+        "India",
+        "Pakistan"
+      ]
+    },
+    "barbados": {
+      "name": "Barbados",
+      "iso_code": "BB",
+      "type": "sovereign",
+      "parent_entity": "",
+      "continent": "north-america",
+      "sub_region": "caribbean",
+      "capital": "Bridgetown",
+      "population_millions": 0.28,
+      "languages": [
+        "English"
+      ],
+      "currency": "BBD",
+      "size_class": "small",
+      "neighbors": [
+        "Saint Lucia",
+        "Saint Vincent and the Grenadines"
+      ],
+      "common_comparisons": [
+        "Trinidad and Tobago",
+        "Jamaica"
+      ]
+    },
+    "belarus": {
+      "name": "Belarus",
+      "iso_code": "BY",
+      "type": "sovereign",
+      "parent_entity": "",
+      "continent": "europe",
+      "sub_region": "eastern-europe",
+      "capital": "Minsk",
+      "population_millions": 9.4,
+      "languages": [
+        "Belarusian",
+        "Russian"
+      ],
+      "currency": "BYN",
+      "size_class": "medium",
+      "neighbors": [
+        "Russia",
+        "Ukraine",
+        "Poland",
+        "Lithuania",
+        "Latvia"
+      ],
+      "common_comparisons": [
+        "Ukraine",
+        "Lithuania"
+      ]
+    },
+    "belgium": {
+      "name": "Belgium",
+      "iso_code": "BE",
+      "type": "sovereign",
+      "parent_entity": "",
+      "continent": "europe",
+      "sub_region": "western-europe",
+      "capital": "Brussels",
+      "population_millions": 11.7,
+      "languages": [
+        "Dutch",
+        "French",
+        "German"
+      ],
+      "currency": "EUR",
+      "size_class": "medium",
+      "neighbors": [
+        "France",
+        "Germany",
+        "Luxembourg",
+        "Netherlands"
+      ],
+      "common_comparisons": [
+        "Netherlands",
+        "Luxembourg"
+      ]
+    },
+    "belize": {
+      "name": "Belize",
+      "iso_code": "BZ",
+      "type": "sovereign",
+      "parent_entity": "",
+      "continent": "north-america",
+      "sub_region": "central-america",
+      "capital": "Belmopan",
+      "population_millions": 0.41,
+      "languages": [
+        "English"
+      ],
+      "currency": "BZD",
+      "size_class": "small",
+      "neighbors": [
+        "Mexico",
+        "Guatemala"
+      ],
+      "common_comparisons": [
+        "Guatemala",
+        "Honduras"
+      ]
+    },
+    "benin": {
+      "name": "Benin",
+      "iso_code": "BJ",
+      "type": "sovereign",
+      "parent_entity": "",
+      "continent": "africa",
+      "sub_region": "western-africa",
+      "capital": "Porto-Novo",
+      "population_millions": 13.4,
+      "languages": [
+        "French"
+      ],
+      "currency": "XOF",
+      "size_class": "medium",
+      "neighbors": [
+        "Togo",
+        "Burkina Faso",
+        "Niger",
+        "Nigeria"
+      ],
+      "common_comparisons": [
+        "Togo",
+        "Ghana"
+      ]
+    },
+    "bhutan": {
+      "name": "Bhutan",
+      "iso_code": "BT",
+      "type": "sovereign",
+      "parent_entity": "",
+      "continent": "asia",
+      "sub_region": "southern-asia",
+      "capital": "Thimphu",
+      "population_millions": 0.78,
+      "languages": [
+        "Dzongkha"
+      ],
+      "currency": "BTN",
+      "size_class": "small",
+      "neighbors": [
+        "China",
+        "India"
+      ],
+      "common_comparisons": [
+        "Nepal",
+        "Sikkim"
+      ]
+    },
+    "bolivia": {
+      "name": "Bolivia",
+      "iso_code": "BO",
+      "type": "sovereign",
+      "parent_entity": "",
+      "continent": "south-america",
+      "sub_region": "south-america",
+      "capital": "Sucre",
+      "population_millions": 12.1,
+      "languages": [
+        "Spanish",
+        "Quechua",
+        "Aymara"
+      ],
+      "currency": "BOB",
+      "size_class": "medium",
+      "neighbors": [
+        "Brazil",
+        "Paraguay",
+        "Argentina",
+        "Chile",
+        "Peru"
+      ],
+      "common_comparisons": [
+        "Peru",
+        "Paraguay"
+      ]
+    },
+    "bosnia-and-herzegovina": {
+      "name": "Bosnia and Herzegovina",
+      "iso_code": "BA",
+      "type": "sovereign",
+      "parent_entity": "",
+      "continent": "europe",
+      "sub_region": "southern-europe",
+      "capital": "Sarajevo",
+      "population_millions": 3.2,
+      "languages": [
+        "Bosnian",
+        "Croatian",
+        "Serbian"
+      ],
+      "currency": "BAM",
+      "size_class": "medium",
+      "neighbors": [
+        "Croatia",
+        "Serbia",
+        "Montenegro"
+      ],
+      "common_comparisons": [
+        "Serbia",
+        "Croatia"
+      ]
+    },
+    "botswana": {
+      "name": "Botswana",
+      "iso_code": "BW",
+      "type": "sovereign",
+      "parent_entity": "",
+      "continent": "africa",
+      "sub_region": "southern-africa",
+      "capital": "Gaborone",
+      "population_millions": 2.6,
+      "languages": [
+        "English",
+        "Setswana"
+      ],
+      "currency": "BWP",
+      "size_class": "medium",
+      "neighbors": [
+        "South Africa",
+        "Namibia",
+        "Zimbabwe",
+        "Zambia"
+      ],
+      "common_comparisons": [
+        "Namibia",
+        "Zimbabwe"
+      ]
+    },
+    "brazil": {
+      "name": "Brazil",
+      "iso_code": "BR",
+      "type": "sovereign",
+      "parent_entity": "",
+      "continent": "south-america",
+      "sub_region": "south-america",
+      "capital": "Brasilia",
+      "population_millions": 216.0,
+      "languages": [
+        "Portuguese"
+      ],
+      "currency": "BRL",
+      "size_class": "large",
+      "neighbors": [
+        "Argentina",
+        "Bolivia",
+        "Colombia",
+        "French Guiana",
+        "Guyana",
+        "Paraguay",
+        "Peru",
+        "Suriname",
+        "Uruguay",
+        "Venezuela"
+      ],
+      "common_comparisons": [
+        "Argentina",
+        "Mexico"
+      ]
+    },
+    "brunei": {
+      "name": "Brunei",
+      "iso_code": "BN",
+      "type": "sovereign",
+      "parent_entity": "",
+      "continent": "asia",
+      "sub_region": "south-eastern-asia",
+      "capital": "Bandar Seri Begawan",
+      "population_millions": 0.45,
+      "languages": [
+        "Malay"
+      ],
+      "currency": "BND",
+      "size_class": "small",
+      "neighbors": [
+        "Malaysia"
+      ],
+      "common_comparisons": [
+        "Singapore",
+        "Qatar"
+      ]
+    },
+    "bulgaria": {
+      "name": "Bulgaria",
+      "iso_code": "BG",
+      "type": "sovereign",
+      "parent_entity": "",
+      "continent": "europe",
+      "sub_region": "eastern-europe",
+      "capital": "Sofia",
+      "population_millions": 6.5,
+      "languages": [
+        "Bulgarian"
+      ],
+      "currency": "BGN",
+      "size_class": "medium",
+      "neighbors": [
+        "Romania",
+        "Serbia",
+        "North Macedonia",
+        "Greece",
+        "Turkey"
+      ],
+      "common_comparisons": [
+        "Romania",
+        "Serbia"
+      ]
+    },
+    "burkina-faso": {
+      "name": "Burkina Faso",
+      "iso_code": "BF",
+      "type": "sovereign",
+      "parent_entity": "",
+      "continent": "africa",
+      "sub_region": "western-africa",
+      "capital": "Ouagadougou",
+      "population_millions": 22.7,
+      "languages": [
+        "French"
+      ],
+      "currency": "XOF",
+      "size_class": "large",
+      "neighbors": [
+        "Mali",
+        "Niger",
+        "Benin",
+        "Togo",
+        "Ghana",
+        "Ivory Coast"
+      ],
+      "common_comparisons": [
+        "Mali",
+        "Niger"
+      ]
+    },
+    "burundi": {
+      "name": "Burundi",
+      "iso_code": "BI",
+      "type": "sovereign",
+      "parent_entity": "",
+      "continent": "africa",
+      "sub_region": "eastern-africa",
+      "capital": "Gitega",
+      "population_millions": 13.2,
+      "languages": [
+        "Kirundi",
+        "French"
+      ],
+      "currency": "BIF",
+      "size_class": "medium",
+      "neighbors": [
+        "DR Congo",
+        "Rwanda",
+        "Tanzania"
+      ],
+      "common_comparisons": [
+        "Rwanda",
+        "DR Congo"
+      ]
+    },
+    "cabo-verde": {
+      "name": "Cabo Verde",
+      "iso_code": "CV",
+      "type": "sovereign",
+      "parent_entity": "",
+      "continent": "africa",
+      "sub_region": "western-africa",
+      "capital": "Praia",
+      "population_millions": 0.6,
+      "languages": [
+        "Portuguese"
+      ],
+      "currency": "CVE",
+      "size_class": "small",
+      "neighbors": [],
+      "common_comparisons": [
+        "Sao Tome and Principe",
+        "Mauritius"
+      ]
+    },
+    "cambodia": {
+      "name": "Cambodia",
+      "iso_code": "KH",
+      "type": "sovereign",
+      "parent_entity": "",
+      "continent": "asia",
+      "sub_region": "south-eastern-asia",
+      "capital": "Phnom Penh",
+      "population_millions": 17.0,
+      "languages": [
+        "Khmer"
+      ],
+      "currency": "KHR",
+      "size_class": "medium",
+      "neighbors": [
+        "Thailand",
+        "Laos",
+        "Vietnam"
+      ],
+      "common_comparisons": [
+        "Vietnam",
+        "Laos"
+      ]
+    },
+    "cameroon": {
+      "name": "Cameroon",
+      "iso_code": "CM",
+      "type": "sovereign",
+      "parent_entity": "",
+      "continent": "africa",
+      "sub_region": "middle-africa",
+      "capital": "Yaounde",
+      "population_millions": 28.6,
+      "languages": [
+        "French",
+        "English"
+      ],
+      "currency": "XAF",
+      "size_class": "large",
+      "neighbors": [
+        "Nigeria",
+        "Chad",
+        "Central African Republic",
+        "Republic of Congo",
+        "Gabon",
+        "Equatorial Guinea"
+      ],
+      "common_comparisons": [
+        "Nigeria",
+        "Gabon"
+      ]
+    },
+    "canada": {
+      "name": "Canada",
+      "iso_code": "CA",
+      "type": "sovereign",
+      "parent_entity": "",
+      "continent": "north-america",
+      "sub_region": "northern-america",
+      "capital": "Ottawa",
+      "population_millions": 39.0,
+      "languages": [
+        "English",
+        "French"
+      ],
+      "currency": "CAD",
+      "size_class": "large",
+      "neighbors": [
+        "United States"
+      ],
+      "common_comparisons": [
+        "United States",
+        "Australia"
+      ]
+    },
+    "central-african-republic": {
+      "name": "Central African Republic",
+      "iso_code": "CF",
+      "type": "sovereign",
+      "parent_entity": "",
+      "continent": "africa",
+      "sub_region": "middle-africa",
+      "capital": "Bangui",
+      "population_millions": 5.5,
+      "languages": [
+        "French",
+        "Sango"
+      ],
+      "currency": "XAF",
+      "size_class": "medium",
+      "neighbors": [
+        "Cameroon",
+        "Chad",
+        "Sudan",
+        "South Sudan",
+        "DR Congo",
+        "Republic of Congo"
+      ],
+      "common_comparisons": [
+        "Chad",
+        "DR Congo"
+      ]
+    },
+    "chad": {
+      "name": "Chad",
+      "iso_code": "TD",
+      "type": "sovereign",
+      "parent_entity": "",
+      "continent": "africa",
+      "sub_region": "middle-africa",
+      "capital": "N'Djamena",
+      "population_millions": 17.7,
+      "languages": [
+        "French",
+        "Arabic"
+      ],
+      "currency": "XAF",
+      "size_class": "medium",
+      "neighbors": [
+        "Libya",
+        "Sudan",
+        "Central African Republic",
+        "Cameroon",
+        "Nigeria",
+        "Niger"
+      ],
+      "common_comparisons": [
+        "Niger",
+        "Central African Republic"
+      ]
+    },
+    "chile": {
+      "name": "Chile",
+      "iso_code": "CL",
+      "type": "sovereign",
+      "parent_entity": "",
+      "continent": "south-america",
+      "sub_region": "south-america",
+      "capital": "Santiago",
+      "population_millions": 19.5,
+      "languages": [
+        "Spanish"
+      ],
+      "currency": "CLP",
+      "size_class": "medium",
+      "neighbors": [
+        "Argentina",
+        "Bolivia",
+        "Peru"
+      ],
+      "common_comparisons": [
+        "Argentina",
+        "Peru"
+      ]
+    },
+    "china": {
+      "name": "China",
+      "iso_code": "CN",
+      "type": "sovereign",
+      "parent_entity": "",
+      "continent": "asia",
+      "sub_region": "eastern-asia",
+      "capital": "Beijing",
+      "population_millions": 1412.0,
+      "languages": [
+        "Mandarin"
+      ],
+      "currency": "CNY",
+      "size_class": "large",
+      "neighbors": [
+        "Russia",
+        "Mongolia",
+        "North Korea",
+        "Vietnam",
+        "Laos",
+        "Myanmar",
+        "India",
+        "Bhutan",
+        "Nepal",
+        "Pakistan",
+        "Afghanistan",
+        "Tajikistan",
+        "Kyrgyzstan",
+        "Kazakhstan"
+      ],
+      "common_comparisons": [
+        "Japan",
+        "India"
+      ]
+    },
+    "colombia": {
+      "name": "Colombia",
+      "iso_code": "CO",
+      "type": "sovereign",
+      "parent_entity": "",
+      "continent": "south-america",
+      "sub_region": "south-america",
+      "capital": "Bogota",
+      "population_millions": 52.0,
+      "languages": [
+        "Spanish"
+      ],
+      "currency": "COP",
+      "size_class": "large",
+      "neighbors": [
+        "Venezuela",
+        "Brazil",
+        "Peru",
+        "Ecuador",
+        "Panama"
+      ],
+      "common_comparisons": [
+        "Venezuela",
+        "Mexico"
+      ]
+    },
+    "comoros": {
+      "name": "Comoros",
+      "iso_code": "KM",
+      "type": "sovereign",
+      "parent_entity": "",
+      "continent": "africa",
+      "sub_region": "eastern-africa",
+      "capital": "Moroni",
+      "population_millions": 0.91,
+      "languages": [
+        "Comorian",
+        "Arabic",
+        "French"
+      ],
+      "currency": "KMF",
+      "size_class": "small",
+      "neighbors": [
+        "Madagascar",
+        "Mozambique"
+      ],
+      "common_comparisons": [
+        "Madagascar",
+        "Mauritius"
+      ]
+    },
+    "republic-of-congo": {
+      "name": "Republic of Congo",
+      "iso_code": "CG",
+      "type": "sovereign",
+      "parent_entity": "",
+      "continent": "africa",
+      "sub_region": "middle-africa",
+      "capital": "Brazzaville",
+      "population_millions": 6.1,
+      "languages": [
+        "French"
+      ],
+      "currency": "XAF",
+      "size_class": "medium",
+      "neighbors": [
+        "Cameroon",
+        "Central African Republic",
+        "DR Congo",
+        "Angola",
+        "Gabon"
+      ],
+      "common_comparisons": [
+        "DR Congo",
+        "Gabon"
+      ]
+    },
+    "dr-congo": {
+      "name": "DR Congo",
+      "iso_code": "CD",
+      "type": "sovereign",
+      "parent_entity": "",
+      "continent": "africa",
+      "sub_region": "middle-africa",
+      "capital": "Kinshasa",
+      "population_millions": 102.0,
+      "languages": [
+        "French"
+      ],
+      "currency": "CDF",
+      "size_class": "large",
+      "neighbors": [
+        "Republic of Congo",
+        "Central African Republic",
+        "South Sudan",
+        "Uganda",
+        "Rwanda",
+        "Burundi",
+        "Tanzania",
+        "Zambia",
+        "Angola"
+      ],
+      "common_comparisons": [
+        "Republic of Congo",
+        "Nigeria"
+      ]
+    },
+    "costa-rica": {
+      "name": "Costa Rica",
+      "iso_code": "CR",
+      "type": "sovereign",
+      "parent_entity": "",
+      "continent": "north-america",
+      "sub_region": "central-america",
+      "capital": "San Jose",
+      "population_millions": 5.2,
+      "languages": [
+        "Spanish"
+      ],
+      "currency": "CRC",
+      "size_class": "medium",
+      "neighbors": [
+        "Nicaragua",
+        "Panama"
+      ],
+      "common_comparisons": [
+        "Panama",
+        "Nicaragua"
+      ]
+    },
+    "ivory-coast": {
+      "name": "Ivory Coast",
+      "iso_code": "CI",
+      "type": "sovereign",
+      "parent_entity": "",
+      "continent": "africa",
+      "sub_region": "western-africa",
+      "capital": "Yamoussoukro",
+      "population_millions": 28.9,
+      "languages": [
+        "French"
+      ],
+      "currency": "XOF",
+      "size_class": "large",
+      "neighbors": [
+        "Liberia",
+        "Guinea",
+        "Mali",
+        "Burkina Faso",
+        "Ghana"
+      ],
+      "common_comparisons": [
+        "Ghana",
+        "Senegal"
+      ]
+    },
+    "croatia": {
+      "name": "Croatia",
+      "iso_code": "HR",
+      "type": "sovereign",
+      "parent_entity": "",
+      "continent": "europe",
+      "sub_region": "southern-europe",
+      "capital": "Zagreb",
+      "population_millions": 3.9,
+      "languages": [
+        "Croatian"
+      ],
+      "currency": "EUR",
+      "size_class": "medium",
+      "neighbors": [
+        "Slovenia",
+        "Hungary",
+        "Serbia",
+        "Bosnia and Herzegovina",
+        "Montenegro"
+      ],
+      "common_comparisons": [
+        "Slovenia",
+        "Serbia"
+      ]
+    },
+    "cuba": {
+      "name": "Cuba",
+      "iso_code": "CU",
+      "type": "sovereign",
+      "parent_entity": "",
+      "continent": "north-america",
+      "sub_region": "caribbean",
+      "capital": "Havana",
+      "population_millions": 11.1,
+      "languages": [
+        "Spanish"
+      ],
+      "currency": "CUP",
+      "size_class": "medium",
+      "neighbors": [
+        "United States",
+        "Jamaica",
+        "Haiti",
+        "Mexico"
+      ],
+      "common_comparisons": [
+        "Puerto Rico",
+        "Jamaica"
+      ]
+    },
+    "cyprus": {
+      "name": "Cyprus",
+      "iso_code": "CY",
+      "type": "sovereign",
+      "parent_entity": "",
+      "continent": "europe",
+      "sub_region": "southern-europe",
+      "capital": "Nicosia",
+      "population_millions": 1.25,
+      "languages": [
+        "Greek",
+        "Turkish"
+      ],
+      "currency": "EUR",
+      "size_class": "medium",
+      "neighbors": [
+        "Turkey",
+        "Greece",
+        "Syria",
+        "Lebanon"
+      ],
+      "common_comparisons": [
+        "Greece",
+        "Malta"
+      ]
+    },
+    "czech-republic": {
+      "name": "Czech Republic",
+      "iso_code": "CZ",
+      "type": "sovereign",
+      "parent_entity": "",
+      "continent": "europe",
+      "sub_region": "eastern-europe",
+      "capital": "Prague",
+      "population_millions": 10.8,
+      "languages": [
+        "Czech"
+      ],
+      "currency": "CZK",
+      "size_class": "medium",
+      "neighbors": [
+        "Germany",
+        "Poland",
+        "Slovakia",
+        "Austria"
+      ],
+      "common_comparisons": [
+        "Slovakia",
+        "Poland"
+      ]
+    },
+    "denmark": {
+      "name": "Denmark",
+      "iso_code": "DK",
+      "type": "sovereign",
+      "parent_entity": "",
+      "continent": "europe",
+      "sub_region": "northern-europe",
+      "capital": "Copenhagen",
+      "population_millions": 5.9,
+      "languages": [
+        "Danish"
+      ],
+      "currency": "DKK",
+      "size_class": "medium",
+      "neighbors": [
+        "Germany",
+        "Sweden",
+        "Norway"
+      ],
+      "common_comparisons": [
+        "Sweden",
+        "Norway"
+      ]
+    },
+    "djibouti": {
+      "name": "Djibouti",
+      "iso_code": "DJ",
+      "type": "sovereign",
+      "parent_entity": "",
+      "continent": "africa",
+      "sub_region": "eastern-africa",
+      "capital": "Djibouti",
+      "population_millions": 1.0,
+      "languages": [
+        "French",
+        "Arabic"
+      ],
+      "currency": "DJF",
+      "size_class": "medium",
+      "neighbors": [
+        "Eritrea",
+        "Ethiopia",
+        "Somalia"
+      ],
+      "common_comparisons": [
+        "Eritrea",
+        "Somalia"
+      ]
+    },
+    "dominica": {
+      "name": "Dominica",
+      "iso_code": "DM",
+      "type": "sovereign",
+      "parent_entity": "",
+      "continent": "north-america",
+      "sub_region": "caribbean",
+      "capital": "Roseau",
+      "population_millions": 0.07,
+      "languages": [
+        "English"
+      ],
+      "currency": "XCD",
+      "size_class": "small",
+      "neighbors": [
+        "Martinique",
+        "Guadeloupe"
+      ],
+      "common_comparisons": [
+        "Dominican Republic",
+        "Grenada"
+      ]
+    },
+    "dominican-republic": {
+      "name": "Dominican Republic",
+      "iso_code": "DO",
+      "type": "sovereign",
+      "parent_entity": "",
+      "continent": "north-america",
+      "sub_region": "caribbean",
+      "capital": "Santo Domingo",
+      "population_millions": 11.3,
+      "languages": [
+        "Spanish"
+      ],
+      "currency": "DOP",
+      "size_class": "medium",
+      "neighbors": [
+        "Haiti"
+      ],
+      "common_comparisons": [
+        "Haiti",
+        "Puerto Rico"
+      ]
+    },
+    "ecuador": {
+      "name": "Ecuador",
+      "iso_code": "EC",
+      "type": "sovereign",
+      "parent_entity": "",
+      "continent": "south-america",
+      "sub_region": "south-america",
+      "capital": "Quito",
+      "population_millions": 18.0,
+      "languages": [
+        "Spanish"
+      ],
+      "currency": "USD",
+      "size_class": "medium",
+      "neighbors": [
+        "Colombia",
+        "Peru"
+      ],
+      "common_comparisons": [
+        "Peru",
+        "Colombia"
+      ]
+    },
+    "egypt": {
+      "name": "Egypt",
+      "iso_code": "EG",
+      "type": "sovereign",
+      "parent_entity": "",
+      "continent": "africa",
+      "sub_region": "northern-africa",
+      "capital": "Cairo",
+      "population_millions": 110.0,
+      "languages": [
+        "Arabic"
+      ],
+      "currency": "EGP",
+      "size_class": "large",
+      "neighbors": [
+        "Libya",
+        "Sudan",
+        "Israel",
+        "Palestine"
+      ],
+      "common_comparisons": [
+        "Morocco",
+        "Turkey"
+      ]
+    },
+    "el-salvador": {
+      "name": "El Salvador",
+      "iso_code": "SV",
+      "type": "sovereign",
+      "parent_entity": "",
+      "continent": "north-america",
+      "sub_region": "central-america",
+      "capital": "San Salvador",
+      "population_millions": 6.3,
+      "languages": [
+        "Spanish"
+      ],
+      "currency": "USD",
+      "size_class": "medium",
+      "neighbors": [
+        "Guatemala",
+        "Honduras"
+      ],
+      "common_comparisons": [
+        "Honduras",
+        "Guatemala"
+      ]
+    },
+    "equatorial-guinea": {
+      "name": "Equatorial Guinea",
+      "iso_code": "GQ",
+      "type": "sovereign",
+      "parent_entity": "",
+      "continent": "africa",
+      "sub_region": "middle-africa",
+      "capital": "Malabo",
+      "population_millions": 1.7,
+      "languages": [
+        "Spanish",
+        "French",
+        "Portuguese"
+      ],
+      "currency": "XAF",
+      "size_class": "medium",
+      "neighbors": [
+        "Cameroon",
+        "Gabon"
+      ],
+      "common_comparisons": [
+        "Gabon",
+        "Cameroon"
+      ]
+    },
+    "eritrea": {
+      "name": "Eritrea",
+      "iso_code": "ER",
+      "type": "sovereign",
+      "parent_entity": "",
+      "continent": "africa",
+      "sub_region": "eastern-africa",
+      "capital": "Asmara",
+      "population_millions": 3.7,
+      "languages": [
+        "Tigrinya",
+        "Arabic"
+      ],
+      "currency": "ERN",
+      "size_class": "medium",
+      "neighbors": [
+        "Sudan",
+        "Ethiopia",
+        "Djibouti"
+      ],
+      "common_comparisons": [
+        "Ethiopia",
+        "Djibouti"
+      ]
+    },
+    "estonia": {
+      "name": "Estonia",
+      "iso_code": "EE",
+      "type": "sovereign",
+      "parent_entity": "",
+      "continent": "europe",
+      "sub_region": "northern-europe",
+      "capital": "Tallinn",
+      "population_millions": 1.36,
+      "languages": [
+        "Estonian"
+      ],
+      "currency": "EUR",
+      "size_class": "medium",
+      "neighbors": [
+        "Latvia",
+        "Russia",
+        "Finland"
+      ],
+      "common_comparisons": [
+        "Latvia",
+        "Lithuania"
+      ]
+    },
+    "eswatini": {
+      "name": "Eswatini",
+      "iso_code": "SZ",
+      "type": "sovereign",
+      "parent_entity": "",
+      "continent": "africa",
+      "sub_region": "southern-africa",
+      "capital": "Mbabane",
+      "population_millions": 1.2,
+      "languages": [
+        "Swazi",
+        "English"
+      ],
+      "currency": "SZL",
+      "size_class": "medium",
+      "neighbors": [
+        "South Africa",
+        "Mozambique"
+      ],
+      "common_comparisons": [
+        "Lesotho",
+        "South Africa"
+      ]
+    },
+    "ethiopia": {
+      "name": "Ethiopia",
+      "iso_code": "ET",
+      "type": "sovereign",
+      "parent_entity": "",
+      "continent": "africa",
+      "sub_region": "eastern-africa",
+      "capital": "Addis Ababa",
+      "population_millions": 126.0,
+      "languages": [
+        "Amharic"
+      ],
+      "currency": "ETB",
+      "size_class": "large",
+      "neighbors": [
+        "Eritrea",
+        "Djibouti",
+        "Somalia",
+        "Kenya",
+        "South Sudan",
+        "Sudan"
+      ],
+      "common_comparisons": [
+        "Kenya",
+        "Nigeria"
+      ]
+    },
+    "fiji": {
+      "name": "Fiji",
+      "iso_code": "FJ",
+      "type": "sovereign",
+      "parent_entity": "",
+      "continent": "oceania",
+      "sub_region": "melanesia",
+      "capital": "Suva",
+      "population_millions": 0.93,
+      "languages": [
+        "English",
+        "Fijian",
+        "Hindi"
+      ],
+      "currency": "FJD",
+      "size_class": "small",
+      "neighbors": [
+        "Tonga",
+        "Vanuatu",
+        "New Zealand"
+      ],
+      "common_comparisons": [
+        "Tonga",
+        "Samoa"
+      ]
+    },
+    "finland": {
+      "name": "Finland",
+      "iso_code": "FI",
+      "type": "sovereign",
+      "parent_entity": "",
+      "continent": "europe",
+      "sub_region": "northern-europe",
+      "capital": "Helsinki",
+      "population_millions": 5.6,
+      "languages": [
+        "Finnish",
+        "Swedish"
+      ],
+      "currency": "EUR",
+      "size_class": "medium",
+      "neighbors": [
+        "Sweden",
+        "Norway",
+        "Russia"
+      ],
+      "common_comparisons": [
+        "Sweden",
+        "Estonia"
+      ]
+    },
+    "france": {
+      "name": "France",
+      "iso_code": "FR",
+      "type": "sovereign",
+      "parent_entity": "",
+      "continent": "europe",
+      "sub_region": "western-europe",
+      "capital": "Paris",
+      "population_millions": 68.0,
+      "languages": [
+        "French"
+      ],
+      "currency": "EUR",
+      "size_class": "large",
+      "neighbors": [
+        "Belgium",
+        "Luxembourg",
+        "Germany",
+        "Switzerland",
+        "Italy",
+        "Monaco",
+        "Spain",
+        "Andorra"
+      ],
+      "common_comparisons": [
+        "United Kingdom",
+        "Germany"
+      ]
+    },
+    "gabon": {
+      "name": "Gabon",
+      "iso_code": "GA",
+      "type": "sovereign",
+      "parent_entity": "",
+      "continent": "africa",
+      "sub_region": "middle-africa",
+      "capital": "Libreville",
+      "population_millions": 2.4,
+      "languages": [
+        "French"
+      ],
+      "currency": "XAF",
+      "size_class": "medium",
+      "neighbors": [
+        "Cameroon",
+        "Equatorial Guinea",
+        "Republic of Congo"
+      ],
+      "common_comparisons": [
+        "Republic of Congo",
+        "Equatorial Guinea"
+      ]
+    },
+    "gambia": {
+      "name": "Gambia",
+      "iso_code": "GM",
+      "type": "sovereign",
+      "parent_entity": "",
+      "continent": "africa",
+      "sub_region": "western-africa",
+      "capital": "Banjul",
+      "population_millions": 2.7,
+      "languages": [
+        "English"
+      ],
+      "currency": "GMD",
+      "size_class": "medium",
+      "neighbors": [
+        "Senegal"
+      ],
+      "common_comparisons": [
+        "Senegal",
+        "Guinea-Bissau"
+      ]
+    },
+    "georgia": {
+      "name": "Georgia",
+      "iso_code": "GE",
+      "type": "sovereign",
+      "parent_entity": "",
+      "continent": "asia",
+      "sub_region": "western-asia",
+      "capital": "Tbilisi",
+      "population_millions": 3.7,
+      "languages": [
+        "Georgian"
+      ],
+      "currency": "GEL",
+      "size_class": "medium",
+      "neighbors": [
+        "Russia",
+        "Azerbaijan",
+        "Armenia",
+        "Turkey"
+      ],
+      "common_comparisons": [
+        "Armenia",
+        "Azerbaijan"
+      ]
+    },
+    "germany": {
+      "name": "Germany",
+      "iso_code": "DE",
+      "type": "sovereign",
+      "parent_entity": "",
+      "continent": "europe",
+      "sub_region": "western-europe",
+      "capital": "Berlin",
+      "population_millions": 84.5,
+      "languages": [
+        "German"
+      ],
+      "currency": "EUR",
+      "size_class": "large",
+      "neighbors": [
+        "Denmark",
+        "Poland",
+        "Czech Republic",
+        "Austria",
+        "Switzerland",
+        "France",
+        "Luxembourg",
+        "Belgium",
+        "Netherlands"
+      ],
+      "common_comparisons": [
+        "France",
+        "United Kingdom"
+      ]
+    },
+    "ghana": {
+      "name": "Ghana",
+      "iso_code": "GH",
+      "type": "sovereign",
+      "parent_entity": "",
+      "continent": "africa",
+      "sub_region": "western-africa",
+      "capital": "Accra",
+      "population_millions": 33.5,
+      "languages": [
+        "English"
+      ],
+      "currency": "GHS",
+      "size_class": "large",
+      "neighbors": [
+        "Ivory Coast",
+        "Burkina Faso",
+        "Togo"
+      ],
+      "common_comparisons": [
+        "Nigeria",
+        "Ivory Coast"
+      ]
+    },
+    "greece": {
+      "name": "Greece",
+      "iso_code": "GR",
+      "type": "sovereign",
+      "parent_entity": "",
+      "continent": "europe",
+      "sub_region": "southern-europe",
+      "capital": "Athens",
+      "population_millions": 10.4,
+      "languages": [
+        "Greek"
+      ],
+      "currency": "EUR",
+      "size_class": "medium",
+      "neighbors": [
+        "Albania",
+        "North Macedonia",
+        "Bulgaria",
+        "Turkey"
+      ],
+      "common_comparisons": [
+        "Turkey",
+        "Italy"
+      ]
+    },
+    "grenada": {
+      "name": "Grenada",
+      "iso_code": "GD",
+      "type": "sovereign",
+      "parent_entity": "",
+      "continent": "north-america",
+      "sub_region": "caribbean",
+      "capital": "St. George's",
+      "population_millions": 0.12,
+      "languages": [
+        "English"
+      ],
+      "currency": "XCD",
+      "size_class": "small",
+      "neighbors": [
+        "Trinidad and Tobago",
+        "Saint Vincent and the Grenadines"
+      ],
+      "common_comparisons": [
+        "Saint Vincent and the Grenadines",
+        "Barbados"
+      ]
+    },
+    "guatemala": {
+      "name": "Guatemala",
+      "iso_code": "GT",
+      "type": "sovereign",
+      "parent_entity": "",
+      "continent": "north-america",
+      "sub_region": "central-america",
+      "capital": "Guatemala City",
+      "population_millions": 17.6,
+      "languages": [
+        "Spanish"
+      ],
+      "currency": "GTQ",
+      "size_class": "medium",
+      "neighbors": [
+        "Mexico",
+        "Belize",
+        "Honduras",
+        "El Salvador"
+      ],
+      "common_comparisons": [
+        "Honduras",
+        "El Salvador"
+      ]
+    },
+    "guinea": {
+      "name": "Guinea",
+      "iso_code": "GN",
+      "type": "sovereign",
+      "parent_entity": "",
+      "continent": "africa",
+      "sub_region": "western-africa",
+      "capital": "Conakry",
+      "population_millions": 14.0,
+      "languages": [
+        "French"
+      ],
+      "currency": "GNF",
+      "size_class": "medium",
+      "neighbors": [
+        "Guinea-Bissau",
+        "Senegal",
+        "Mali",
+        "Ivory Coast",
+        "Liberia",
+        "Sierra Leone"
+      ],
+      "common_comparisons": [
+        "Guinea-Bissau",
+        "Sierra Leone"
+      ]
+    },
+    "guinea-bissau": {
+      "name": "Guinea-Bissau",
+      "iso_code": "GW",
+      "type": "sovereign",
+      "parent_entity": "",
+      "continent": "africa",
+      "sub_region": "western-africa",
+      "capital": "Bissau",
+      "population_millions": 2.1,
+      "languages": [
+        "Portuguese"
+      ],
+      "currency": "XOF",
+      "size_class": "medium",
+      "neighbors": [
+        "Senegal",
+        "Guinea"
+      ],
+      "common_comparisons": [
+        "Guinea",
+        "Senegal"
+      ]
+    },
+    "guyana": {
+      "name": "Guyana",
+      "iso_code": "GY",
+      "type": "sovereign",
+      "parent_entity": "",
+      "continent": "south-america",
+      "sub_region": "south-america",
+      "capital": "Georgetown",
+      "population_millions": 0.81,
+      "languages": [
+        "English"
+      ],
+      "currency": "GYD",
+      "size_class": "small",
+      "neighbors": [
+        "Venezuela",
+        "Brazil",
+        "Suriname"
+      ],
+      "common_comparisons": [
+        "Suriname",
+        "Trinidad and Tobago"
+      ]
+    },
+    "haiti": {
+      "name": "Haiti",
+      "iso_code": "HT",
+      "type": "sovereign",
+      "parent_entity": "",
+      "continent": "north-america",
+      "sub_region": "caribbean",
+      "capital": "Port-au-Prince",
+      "population_millions": 11.7,
+      "languages": [
+        "French",
+        "Haitian Creole"
+      ],
+      "currency": "HTG",
+      "size_class": "medium",
+      "neighbors": [
+        "Dominican Republic"
+      ],
+      "common_comparisons": [
+        "Dominican Republic",
+        "Jamaica"
+      ]
+    },
+    "honduras": {
+      "name": "Honduras",
+      "iso_code": "HN",
+      "type": "sovereign",
+      "parent_entity": "",
+      "continent": "north-america",
+      "sub_region": "central-america",
+      "capital": "Tegucigalpa",
+      "population_millions": 10.4,
+      "languages": [
+        "Spanish"
+      ],
+      "currency": "HNL",
+      "size_class": "medium",
+      "neighbors": [
+        "Guatemala",
+        "El Salvador",
+        "Nicaragua"
+      ],
+      "common_comparisons": [
+        "El Salvador",
+        "Guatemala"
+      ]
+    },
+    "hungary": {
+      "name": "Hungary",
+      "iso_code": "HU",
+      "type": "sovereign",
+      "parent_entity": "",
+      "continent": "europe",
+      "sub_region": "eastern-europe",
+      "capital": "Budapest",
+      "population_millions": 9.6,
+      "languages": [
+        "Hungarian"
+      ],
+      "currency": "HUF",
+      "size_class": "medium",
+      "neighbors": [
+        "Austria",
+        "Slovakia",
+        "Ukraine",
+        "Romania",
+        "Serbia",
+        "Croatia",
+        "Slovenia"
+      ],
+      "common_comparisons": [
+        "Romania",
+        "Czech Republic"
+      ]
+    },
+    "iceland": {
+      "name": "Iceland",
+      "iso_code": "IS",
+      "type": "sovereign",
+      "parent_entity": "",
+      "continent": "europe",
+      "sub_region": "northern-europe",
+      "capital": "Reykjavik",
+      "population_millions": 0.38,
+      "languages": [
+        "Icelandic"
+      ],
+      "currency": "ISK",
+      "size_class": "small",
+      "neighbors": [
+        "Greenland",
+        "United Kingdom",
+        "Norway"
+      ],
+      "common_comparisons": [
+        "Greenland",
+        "Norway"
+      ]
+    },
+    "india": {
+      "name": "India",
+      "iso_code": "IN",
+      "type": "sovereign",
+      "parent_entity": "",
+      "continent": "asia",
+      "sub_region": "southern-asia",
+      "capital": "New Delhi",
+      "population_millions": 1428.0,
+      "languages": [
+        "Hindi",
+        "English"
+      ],
+      "currency": "INR",
+      "size_class": "large",
+      "neighbors": [
+        "Pakistan",
+        "China",
+        "Nepal",
+        "Bhutan",
+        "Bangladesh",
+        "Myanmar",
+        "Sri Lanka"
+      ],
+      "common_comparisons": [
+        "China",
+        "Pakistan"
+      ]
+    },
+    "indonesia": {
+      "name": "Indonesia",
+      "iso_code": "ID",
+      "type": "sovereign",
+      "parent_entity": "",
+      "continent": "asia",
+      "sub_region": "south-eastern-asia",
+      "capital": "Jakarta",
+      "population_millions": 277.0,
+      "languages": [
+        "Indonesian"
+      ],
+      "currency": "IDR",
+      "size_class": "large",
+      "neighbors": [
+        "Malaysia",
+        "Papua New Guinea",
+        "East Timor",
+        "Australia"
+      ],
+      "common_comparisons": [
+        "Malaysia",
+        "Philippines"
+      ]
+    },
+    "iran": {
+      "name": "Iran",
+      "iso_code": "IR",
+      "type": "sovereign",
+      "parent_entity": "",
+      "continent": "asia",
+      "sub_region": "western-asia",
+      "capital": "Tehran",
+      "population_millions": 88.6,
+      "languages": [
+        "Persian"
+      ],
+      "currency": "IRR",
+      "size_class": "large",
+      "neighbors": [
+        "Iraq",
+        "Turkey",
+        "Armenia",
+        "Azerbaijan",
+        "Turkmenistan",
+        "Afghanistan",
+        "Pakistan"
+      ],
+      "common_comparisons": [
+        "Iraq",
+        "Turkey"
+      ]
+    },
+    "iraq": {
+      "name": "Iraq",
+      "iso_code": "IQ",
+      "type": "sovereign",
+      "parent_entity": "",
+      "continent": "asia",
+      "sub_region": "western-asia",
+      "capital": "Baghdad",
+      "population_millions": 44.5,
+      "languages": [
+        "Arabic",
+        "Kurdish"
+      ],
+      "currency": "IQD",
+      "size_class": "large",
+      "neighbors": [
+        "Turkey",
+        "Iran",
+        "Kuwait",
+        "Saudi Arabia",
+        "Jordan",
+        "Syria"
+      ],
+      "common_comparisons": [
+        "Iran",
+        "Syria"
+      ]
+    },
+    "ireland": {
+      "name": "Ireland",
+      "iso_code": "IE",
+      "type": "sovereign",
+      "parent_entity": "",
+      "continent": "europe",
+      "sub_region": "northern-europe",
+      "capital": "Dublin",
+      "population_millions": 5.1,
+      "languages": [
+        "English",
+        "Irish"
+      ],
+      "currency": "EUR",
+      "size_class": "medium",
+      "neighbors": [
+        "United Kingdom"
+      ],
+      "common_comparisons": [
+        "United Kingdom",
+        "Scotland"
+      ]
+    },
+    "israel": {
+      "name": "Israel",
+      "iso_code": "IL",
+      "type": "sovereign",
+      "parent_entity": "",
+      "continent": "asia",
+      "sub_region": "western-asia",
+      "capital": "Jerusalem",
+      "population_millions": 9.8,
+      "languages": [
+        "Hebrew",
+        "Arabic"
+      ],
+      "currency": "ILS",
+      "size_class": "medium",
+      "neighbors": [
+        "Lebanon",
+        "Syria",
+        "Jordan",
+        "Egypt",
+        "Palestine"
+      ],
+      "common_comparisons": [
+        "Palestine",
+        "Lebanon"
+      ]
+    },
+    "italy": {
+      "name": "Italy",
+      "iso_code": "IT",
+      "type": "sovereign",
+      "parent_entity": "",
+      "continent": "europe",
+      "sub_region": "southern-europe",
+      "capital": "Rome",
+      "population_millions": 59.0,
+      "languages": [
+        "Italian"
+      ],
+      "currency": "EUR",
+      "size_class": "large",
+      "neighbors": [
+        "France",
+        "Switzerland",
+        "Austria",
+        "Slovenia",
+        "San Marino",
+        "Vatican City"
+      ],
+      "common_comparisons": [
+        "Spain",
+        "France"
+      ]
+    },
+    "jamaica": {
+      "name": "Jamaica",
+      "iso_code": "JM",
+      "type": "sovereign",
+      "parent_entity": "",
+      "continent": "north-america",
+      "sub_region": "caribbean",
+      "capital": "Kingston",
+      "population_millions": 3.0,
+      "languages": [
+        "English"
+      ],
+      "currency": "JMD",
+      "size_class": "medium",
+      "neighbors": [
+        "Cuba",
+        "Haiti"
+      ],
+      "common_comparisons": [
+        "Trinidad and Tobago",
+        "Barbados"
+      ]
+    },
+    "japan": {
+      "name": "Japan",
+      "iso_code": "JP",
+      "type": "sovereign",
+      "parent_entity": "",
+      "continent": "asia",
+      "sub_region": "eastern-asia",
+      "capital": "Tokyo",
+      "population_millions": 124.0,
+      "languages": [
+        "Japanese"
+      ],
+      "currency": "JPY",
+      "size_class": "large",
+      "neighbors": [
+        "South Korea",
+        "China",
+        "Russia"
+      ],
+      "common_comparisons": [
+        "South Korea",
+        "China"
+      ]
+    },
+    "jordan": {
+      "name": "Jordan",
+      "iso_code": "JO",
+      "type": "sovereign",
+      "parent_entity": "",
+      "continent": "asia",
+      "sub_region": "western-asia",
+      "capital": "Amman",
+      "population_millions": 11.4,
+      "languages": [
+        "Arabic"
+      ],
+      "currency": "JOD",
+      "size_class": "medium",
+      "neighbors": [
+        "Syria",
+        "Iraq",
+        "Saudi Arabia",
+        "Israel",
+        "Palestine"
+      ],
+      "common_comparisons": [
+        "Israel",
+        "Lebanon"
+      ]
+    },
+    "kazakhstan": {
+      "name": "Kazakhstan",
+      "iso_code": "KZ",
+      "type": "sovereign",
+      "parent_entity": "",
+      "continent": "asia",
+      "sub_region": "central-asia",
+      "capital": "Astana",
+      "population_millions": 19.8,
+      "languages": [
+        "Kazakh",
+        "Russian"
+      ],
+      "currency": "KZT",
+      "size_class": "medium",
+      "neighbors": [
+        "Russia",
+        "China",
+        "Kyrgyzstan",
+        "Uzbekistan",
+        "Turkmenistan"
+      ],
+      "common_comparisons": [
+        "Uzbekistan",
+        "Mongolia"
+      ]
+    },
+    "kenya": {
+      "name": "Kenya",
+      "iso_code": "KE",
+      "type": "sovereign",
+      "parent_entity": "",
+      "continent": "africa",
+      "sub_region": "eastern-africa",
+      "capital": "Nairobi",
+      "population_millions": 55.0,
+      "languages": [
+        "Swahili",
+        "English"
+      ],
+      "currency": "KES",
+      "size_class": "large",
+      "neighbors": [
+        "Ethiopia",
+        "Somalia",
+        "Tanzania",
+        "Uganda",
+        "South Sudan"
+      ],
+      "common_comparisons": [
+        "Tanzania",
+        "Ethiopia"
+      ]
+    },
+    "kiribati": {
+      "name": "Kiribati",
+      "iso_code": "KI",
+      "type": "sovereign",
+      "parent_entity": "",
+      "continent": "oceania",
+      "sub_region": "micronesia",
+      "capital": "Tarawa",
+      "population_millions": 0.13,
+      "languages": [
+        "English",
+        "Gilbertese"
+      ],
+      "currency": "AUD",
+      "size_class": "small",
+      "neighbors": [
+        "Marshall Islands",
+        "Nauru"
+      ],
+      "common_comparisons": [
+        "Tuvalu",
+        "Marshall Islands"
+      ]
+    },
+    "north-korea": {
+      "name": "North Korea",
+      "iso_code": "KP",
+      "type": "sovereign",
+      "parent_entity": "",
+      "continent": "asia",
+      "sub_region": "eastern-asia",
+      "capital": "Pyongyang",
+      "population_millions": 26.1,
+      "languages": [
+        "Korean"
+      ],
+      "currency": "KPW",
+      "size_class": "large",
+      "neighbors": [
+        "South Korea",
+        "China",
+        "Russia"
+      ],
+      "common_comparisons": [
+        "South Korea",
+        "China"
+      ]
+    },
+    "south-korea": {
+      "name": "South Korea",
+      "iso_code": "KR",
+      "type": "sovereign",
+      "parent_entity": "",
+      "continent": "asia",
+      "sub_region": "eastern-asia",
+      "capital": "Seoul",
+      "population_millions": 51.7,
+      "languages": [
+        "Korean"
+      ],
+      "currency": "KRW",
+      "size_class": "large",
+      "neighbors": [
+        "North Korea",
+        "Japan",
+        "China"
+      ],
+      "common_comparisons": [
+        "North Korea",
+        "Japan"
+      ]
+    },
+    "kuwait": {
+      "name": "Kuwait",
+      "iso_code": "KW",
+      "type": "sovereign",
+      "parent_entity": "",
+      "continent": "asia",
+      "sub_region": "western-asia",
+      "capital": "Kuwait City",
+      "population_millions": 4.3,
+      "languages": [
+        "Arabic"
+      ],
+      "currency": "KWD",
+      "size_class": "medium",
+      "neighbors": [
+        "Iraq",
+        "Saudi Arabia"
+      ],
+      "common_comparisons": [
+        "Qatar",
+        "Bahrain"
+      ]
+    },
+    "kyrgyzstan": {
+      "name": "Kyrgyzstan",
+      "iso_code": "KG",
+      "type": "sovereign",
+      "parent_entity": "",
+      "continent": "asia",
+      "sub_region": "central-asia",
+      "capital": "Bishkek",
+      "population_millions": 7.0,
+      "languages": [
+        "Kyrgyz",
+        "Russian"
+      ],
+      "currency": "KGS",
+      "size_class": "medium",
+      "neighbors": [
+        "Kazakhstan",
+        "China",
+        "Tajikistan",
+        "Uzbekistan"
+      ],
+      "common_comparisons": [
+        "Tajikistan",
+        "Kazakhstan"
+      ]
+    },
+    "laos": {
+      "name": "Laos",
+      "iso_code": "LA",
+      "type": "sovereign",
+      "parent_entity": "",
+      "continent": "asia",
+      "sub_region": "south-eastern-asia",
+      "capital": "Vientiane",
+      "population_millions": 7.5,
+      "languages": [
+        "Lao"
+      ],
+      "currency": "LAK",
+      "size_class": "medium",
+      "neighbors": [
+        "Myanmar",
+        "China",
+        "Vietnam",
+        "Cambodia",
+        "Thailand"
+      ],
+      "common_comparisons": [
+        "Cambodia",
+        "Vietnam"
+      ]
+    },
+    "latvia": {
+      "name": "Latvia",
+      "iso_code": "LV",
+      "type": "sovereign",
+      "parent_entity": "",
+      "continent": "europe",
+      "sub_region": "northern-europe",
+      "capital": "Riga",
+      "population_millions": 1.8,
+      "languages": [
+        "Latvian"
+      ],
+      "currency": "EUR",
+      "size_class": "medium",
+      "neighbors": [
+        "Estonia",
+        "Lithuania",
+        "Russia",
+        "Belarus"
+      ],
+      "common_comparisons": [
+        "Lithuania",
+        "Estonia"
+      ]
+    },
+    "lebanon": {
+      "name": "Lebanon",
+      "iso_code": "LB",
+      "type": "sovereign",
+      "parent_entity": "",
+      "continent": "asia",
+      "sub_region": "western-asia",
+      "capital": "Beirut",
+      "population_millions": 5.5,
+      "languages": [
+        "Arabic"
+      ],
+      "currency": "LBP",
+      "size_class": "medium",
+      "neighbors": [
+        "Syria",
+        "Israel"
+      ],
+      "common_comparisons": [
+        "Israel",
+        "Jordan"
+      ]
+    },
+    "lesotho": {
+      "name": "Lesotho",
+      "iso_code": "LS",
+      "type": "sovereign",
+      "parent_entity": "",
+      "continent": "africa",
+      "sub_region": "southern-africa",
+      "capital": "Maseru",
+      "population_millions": 2.3,
+      "languages": [
+        "Sesotho",
+        "English"
+      ],
+      "currency": "LSL",
+      "size_class": "medium",
+      "neighbors": [
+        "South Africa"
+      ],
+      "common_comparisons": [
+        "Eswatini",
+        "South Africa"
+      ]
+    },
+    "liberia": {
+      "name": "Liberia",
+      "iso_code": "LR",
+      "type": "sovereign",
+      "parent_entity": "",
+      "continent": "africa",
+      "sub_region": "western-africa",
+      "capital": "Monrovia",
+      "population_millions": 5.4,
+      "languages": [
+        "English"
+      ],
+      "currency": "LRD",
+      "size_class": "medium",
+      "neighbors": [
+        "Guinea",
+        "Ivory Coast",
+        "Sierra Leone"
+      ],
+      "common_comparisons": [
+        "Sierra Leone",
+        "Guinea"
+      ]
+    },
+    "libya": {
+      "name": "Libya",
+      "iso_code": "LY",
+      "type": "sovereign",
+      "parent_entity": "",
+      "continent": "africa",
+      "sub_region": "northern-africa",
+      "capital": "Tripoli",
+      "population_millions": 7.0,
+      "languages": [
+        "Arabic"
+      ],
+      "currency": "LYD",
+      "size_class": "medium",
+      "neighbors": [
+        "Tunisia",
+        "Algeria",
+        "Niger",
+        "Chad",
+        "Sudan",
+        "Egypt"
+      ],
+      "common_comparisons": [
+        "Tunisia",
+        "Algeria"
+      ]
+    },
+    "liechtenstein": {
+      "name": "Liechtenstein",
+      "iso_code": "LI",
+      "type": "sovereign",
+      "parent_entity": "",
+      "continent": "europe",
+      "sub_region": "western-europe",
+      "capital": "Vaduz",
+      "population_millions": 0.04,
+      "languages": [
+        "German"
+      ],
+      "currency": "CHF",
+      "size_class": "small",
+      "neighbors": [
+        "Austria",
+        "Switzerland"
+      ],
+      "common_comparisons": [
+        "Monaco",
+        "Andorra"
+      ]
+    },
+    "lithuania": {
+      "name": "Lithuania",
+      "iso_code": "LT",
+      "type": "sovereign",
+      "parent_entity": "",
+      "continent": "europe",
+      "sub_region": "northern-europe",
+      "capital": "Vilnius",
+      "population_millions": 2.8,
+      "languages": [
+        "Lithuanian"
+      ],
+      "currency": "EUR",
+      "size_class": "medium",
+      "neighbors": [
+        "Latvia",
+        "Belarus",
+        "Poland",
+        "Russia"
+      ],
+      "common_comparisons": [
+        "Latvia",
+        "Poland"
+      ]
+    },
+    "luxembourg": {
+      "name": "Luxembourg",
+      "iso_code": "LU",
+      "type": "sovereign",
+      "parent_entity": "",
+      "continent": "europe",
+      "sub_region": "western-europe",
+      "capital": "Luxembourg City",
+      "population_millions": 0.66,
+      "languages": [
+        "Luxembourgish",
+        "French",
+        "German"
+      ],
+      "currency": "EUR",
+      "size_class": "small",
+      "neighbors": [
+        "Belgium",
+        "France",
+        "Germany"
+      ],
+      "common_comparisons": [
+        "Belgium",
+        "Liechtenstein"
+      ]
+    },
+    "madagascar": {
+      "name": "Madagascar",
+      "iso_code": "MG",
+      "type": "sovereign",
+      "parent_entity": "",
+      "continent": "africa",
+      "sub_region": "eastern-africa",
+      "capital": "Antananarivo",
+      "population_millions": 30.3,
+      "languages": [
+        "Malagasy",
+        "French"
+      ],
+      "currency": "MGA",
+      "size_class": "large",
+      "neighbors": [
+        "Mozambique",
+        "Comoros"
+      ],
+      "common_comparisons": [
+        "Mozambique",
+        "Mauritius"
+      ]
+    },
+    "malawi": {
+      "name": "Malawi",
+      "iso_code": "MW",
+      "type": "sovereign",
+      "parent_entity": "",
+      "continent": "africa",
+      "sub_region": "eastern-africa",
+      "capital": "Lilongwe",
+      "population_millions": 20.4,
+      "languages": [
+        "English",
+        "Chichewa"
+      ],
+      "currency": "MWK",
+      "size_class": "large",
+      "neighbors": [
+        "Mozambique",
+        "Tanzania",
+        "Zambia"
+      ],
+      "common_comparisons": [
+        "Zambia",
+        "Mozambique"
+      ]
+    },
+    "malaysia": {
+      "name": "Malaysia",
+      "iso_code": "MY",
+      "type": "sovereign",
+      "parent_entity": "",
+      "continent": "asia",
+      "sub_region": "south-eastern-asia",
+      "capital": "Kuala Lumpur",
+      "population_millions": 33.9,
+      "languages": [
+        "Malay"
+      ],
+      "currency": "MYR",
+      "size_class": "large",
+      "neighbors": [
+        "Thailand",
+        "Indonesia",
+        "Brunei",
+        "Singapore",
+        "Philippines"
+      ],
+      "common_comparisons": [
+        "Singapore",
+        "Thailand"
+      ]
+    },
+    "maldives": {
+      "name": "Maldives",
+      "iso_code": "MV",
+      "type": "sovereign",
+      "parent_entity": "",
+      "continent": "asia",
+      "sub_region": "southern-asia",
+      "capital": "Male",
+      "population_millions": 0.52,
+      "languages": [
+        "Dhivehi"
+      ],
+      "currency": "MVR",
+      "size_class": "small",
+      "neighbors": [
+        "Sri Lanka",
+        "India"
+      ],
+      "common_comparisons": [
+        "Sri Lanka",
+        "Seychelles"
+      ]
+    },
+    "mali": {
+      "name": "Mali",
+      "iso_code": "ML",
+      "type": "sovereign",
+      "parent_entity": "",
+      "continent": "africa",
+      "sub_region": "western-africa",
+      "capital": "Bamako",
+      "population_millions": 22.4,
+      "languages": [
+        "French"
+      ],
+      "currency": "XOF",
+      "size_class": "large",
+      "neighbors": [
+        "Algeria",
+        "Niger",
+        "Burkina Faso",
+        "Ivory Coast",
+        "Guinea",
+        "Senegal",
+        "Mauritania"
+      ],
+      "common_comparisons": [
+        "Niger",
+        "Burkina Faso"
+      ]
+    },
+    "malta": {
+      "name": "Malta",
+      "iso_code": "MT",
+      "type": "sovereign",
+      "parent_entity": "",
+      "continent": "europe",
+      "sub_region": "southern-europe",
+      "capital": "Valletta",
+      "population_millions": 0.54,
+      "languages": [
+        "Maltese",
+        "English"
+      ],
+      "currency": "EUR",
+      "size_class": "small",
+      "neighbors": [
+        "Italy",
+        "Tunisia"
+      ],
+      "common_comparisons": [
+        "Cyprus",
+        "Sicily"
+      ]
+    },
+    "marshall-islands": {
+      "name": "Marshall Islands",
+      "iso_code": "MH",
+      "type": "sovereign",
+      "parent_entity": "",
+      "continent": "oceania",
+      "sub_region": "micronesia",
+      "capital": "Majuro",
+      "population_millions": 0.04,
+      "languages": [
+        "Marshallese",
+        "English"
+      ],
+      "currency": "USD",
+      "size_class": "small",
+      "neighbors": [
+        "Kiribati",
+        "Micronesia"
+      ],
+      "common_comparisons": [
+        "Micronesia",
+        "Palau"
+      ]
+    },
+    "mauritania": {
+      "name": "Mauritania",
+      "iso_code": "MR",
+      "type": "sovereign",
+      "parent_entity": "",
+      "continent": "africa",
+      "sub_region": "western-africa",
+      "capital": "Nouakchott",
+      "population_millions": 4.9,
+      "languages": [
+        "Arabic"
+      ],
+      "currency": "MRU",
+      "size_class": "medium",
+      "neighbors": [
+        "Western Sahara",
+        "Algeria",
+        "Mali",
+        "Senegal"
+      ],
+      "common_comparisons": [
+        "Mali",
+        "Western Sahara"
+      ]
+    },
+    "mauritius": {
+      "name": "Mauritius",
+      "iso_code": "MU",
+      "type": "sovereign",
+      "parent_entity": "",
+      "continent": "africa",
+      "sub_region": "eastern-africa",
+      "capital": "Port Louis",
+      "population_millions": 1.3,
+      "languages": [
+        "English",
+        "French",
+        "Creole"
+      ],
+      "currency": "MUR",
+      "size_class": "medium",
+      "neighbors": [
+        "Madagascar",
+        "Reunion"
+      ],
+      "common_comparisons": [
+        "Seychelles",
+        "Maldives"
+      ]
+    },
+    "mexico": {
+      "name": "Mexico",
+      "iso_code": "MX",
+      "type": "sovereign",
+      "parent_entity": "",
+      "continent": "north-america",
+      "sub_region": "central-america",
+      "capital": "Mexico City",
+      "population_millions": 129.0,
+      "languages": [
+        "Spanish"
+      ],
+      "currency": "MXN",
+      "size_class": "large",
+      "neighbors": [
+        "United States",
+        "Guatemala",
+        "Belize"
+      ],
+      "common_comparisons": [
+        "United States",
+        "Colombia"
+      ]
+    },
+    "micronesia": {
+      "name": "Micronesia",
+      "iso_code": "FM",
+      "type": "sovereign",
+      "parent_entity": "",
+      "continent": "oceania",
+      "sub_region": "micronesia",
+      "capital": "Palikir",
+      "population_millions": 0.11,
+      "languages": [
+        "English"
+      ],
+      "currency": "USD",
+      "size_class": "small",
+      "neighbors": [
+        "Palau",
+        "Marshall Islands",
+        "Papua New Guinea"
+      ],
+      "common_comparisons": [
+        "Marshall Islands",
+        "Palau"
+      ]
+    },
+    "moldova": {
+      "name": "Moldova",
+      "iso_code": "MD",
+      "type": "sovereign",
+      "parent_entity": "",
+      "continent": "europe",
+      "sub_region": "eastern-europe",
+      "capital": "Chisinau",
+      "population_millions": 2.6,
+      "languages": [
+        "Romanian"
+      ],
+      "currency": "MDL",
+      "size_class": "medium",
+      "neighbors": [
+        "Romania",
+        "Ukraine"
+      ],
+      "common_comparisons": [
+        "Romania",
+        "Ukraine"
+      ]
+    },
+    "monaco": {
+      "name": "Monaco",
+      "iso_code": "MC",
+      "type": "sovereign",
+      "parent_entity": "",
+      "continent": "europe",
+      "sub_region": "western-europe",
+      "capital": "Monaco",
+      "population_millions": 0.04,
+      "languages": [
+        "French"
+      ],
+      "currency": "EUR",
+      "size_class": "small",
+      "neighbors": [
+        "France"
+      ],
+      "common_comparisons": [
+        "Liechtenstein",
+        "Andorra"
+      ]
+    },
+    "mongolia": {
+      "name": "Mongolia",
+      "iso_code": "MN",
+      "type": "sovereign",
+      "parent_entity": "",
+      "continent": "asia",
+      "sub_region": "eastern-asia",
+      "capital": "Ulaanbaatar",
+      "population_millions": 3.4,
+      "languages": [
+        "Mongolian"
+      ],
+      "currency": "MNT",
+      "size_class": "medium",
+      "neighbors": [
+        "Russia",
+        "China"
+      ],
+      "common_comparisons": [
+        "Kazakhstan",
+        "China"
+      ]
+    },
+    "montenegro": {
+      "name": "Montenegro",
+      "iso_code": "ME",
+      "type": "sovereign",
+      "parent_entity": "",
+      "continent": "europe",
+      "sub_region": "southern-europe",
+      "capital": "Podgorica",
+      "population_millions": 0.62,
+      "languages": [
+        "Montenegrin"
+      ],
+      "currency": "EUR",
+      "size_class": "small",
+      "neighbors": [
+        "Croatia",
+        "Bosnia and Herzegovina",
+        "Serbia",
+        "Kosovo",
+        "Albania"
+      ],
+      "common_comparisons": [
+        "Serbia",
+        "Croatia"
+      ]
+    },
+    "morocco": {
+      "name": "Morocco",
+      "iso_code": "MA",
+      "type": "sovereign",
+      "parent_entity": "",
+      "continent": "africa",
+      "sub_region": "northern-africa",
+      "capital": "Rabat",
+      "population_millions": 37.5,
+      "languages": [
+        "Arabic",
+        "Berber"
+      ],
+      "currency": "MAD",
+      "size_class": "large",
+      "neighbors": [
+        "Algeria",
+        "Western Sahara",
+        "Spain"
+      ],
+      "common_comparisons": [
+        "Algeria",
+        "Tunisia"
+      ]
+    },
+    "mozambique": {
+      "name": "Mozambique",
+      "iso_code": "MZ",
+      "type": "sovereign",
+      "parent_entity": "",
+      "continent": "africa",
+      "sub_region": "eastern-africa",
+      "capital": "Maputo",
+      "population_millions": 33.9,
+      "languages": [
+        "Portuguese"
+      ],
+      "currency": "MZN",
+      "size_class": "large",
+      "neighbors": [
+        "Tanzania",
+        "Malawi",
+        "Zambia",
+        "Zimbabwe",
+        "South Africa",
+        "Eswatini",
+        "Madagascar"
+      ],
+      "common_comparisons": [
+        "Tanzania",
+        "Angola"
+      ]
+    },
+    "myanmar": {
+      "name": "Myanmar",
+      "iso_code": "MM",
+      "type": "sovereign",
+      "parent_entity": "",
+      "continent": "asia",
+      "sub_region": "south-eastern-asia",
+      "capital": "Naypyidaw",
+      "population_millions": 54.4,
+      "languages": [
+        "Burmese"
+      ],
+      "currency": "MMK",
+      "size_class": "large",
+      "neighbors": [
+        "Bangladesh",
+        "India",
+        "China",
+        "Laos",
+        "Thailand"
+      ],
+      "common_comparisons": [
+        "Thailand",
+        "Laos"
+      ]
+    },
+    "namibia": {
+      "name": "Namibia",
+      "iso_code": "NA",
+      "type": "sovereign",
+      "parent_entity": "",
+      "continent": "africa",
+      "sub_region": "southern-africa",
+      "capital": "Windhoek",
+      "population_millions": 2.6,
+      "languages": [
+        "English"
+      ],
+      "currency": "NAD",
+      "size_class": "medium",
+      "neighbors": [
+        "Angola",
+        "Zambia",
+        "Botswana",
+        "South Africa"
+      ],
+      "common_comparisons": [
+        "Botswana",
+        "South Africa"
+      ]
+    },
+    "nauru": {
+      "name": "Nauru",
+      "iso_code": "NR",
+      "type": "sovereign",
+      "parent_entity": "",
+      "continent": "oceania",
+      "sub_region": "micronesia",
+      "capital": "Yaren",
+      "population_millions": 0.01,
+      "languages": [
+        "Nauruan",
+        "English"
+      ],
+      "currency": "AUD",
+      "size_class": "small",
+      "neighbors": [
+        "Kiribati"
+      ],
+      "common_comparisons": [
+        "Tuvalu",
+        "Kiribati"
+      ]
+    },
+    "nepal": {
+      "name": "Nepal",
+      "iso_code": "NP",
+      "type": "sovereign",
+      "parent_entity": "",
+      "continent": "asia",
+      "sub_region": "southern-asia",
+      "capital": "Kathmandu",
+      "population_millions": 30.9,
+      "languages": [
+        "Nepali"
+      ],
+      "currency": "NPR",
+      "size_class": "large",
+      "neighbors": [
+        "China",
+        "India"
+      ],
+      "common_comparisons": [
+        "Bhutan",
+        "Tibet"
+      ]
+    },
+    "netherlands": {
+      "name": "Netherlands",
+      "iso_code": "NL",
+      "type": "sovereign",
+      "parent_entity": "",
+      "continent": "europe",
+      "sub_region": "western-europe",
+      "capital": "Amsterdam",
+      "population_millions": 17.7,
+      "languages": [
+        "Dutch"
+      ],
+      "currency": "EUR",
+      "size_class": "medium",
+      "neighbors": [
+        "Belgium",
+        "Germany"
+      ],
+      "common_comparisons": [
+        "Belgium",
+        "Denmark"
+      ]
+    },
+    "new-zealand": {
+      "name": "New Zealand",
+      "iso_code": "NZ",
+      "type": "sovereign",
+      "parent_entity": "",
+      "continent": "oceania",
+      "sub_region": "australia-new-zealand",
+      "capital": "Wellington",
+      "population_millions": 5.2,
+      "languages": [
+        "English",
+        "Maori"
+      ],
+      "currency": "NZD",
+      "size_class": "medium",
+      "neighbors": [
+        "Australia"
+      ],
+      "common_comparisons": [
+        "Australia",
+        "Fiji"
+      ]
+    },
+    "nicaragua": {
+      "name": "Nicaragua",
+      "iso_code": "NI",
+      "type": "sovereign",
+      "parent_entity": "",
+      "continent": "north-america",
+      "sub_region": "central-america",
+      "capital": "Managua",
+      "population_millions": 7.0,
+      "languages": [
+        "Spanish"
+      ],
+      "currency": "NIO",
+      "size_class": "medium",
+      "neighbors": [
+        "Honduras",
+        "Costa Rica"
+      ],
+      "common_comparisons": [
+        "Honduras",
+        "Costa Rica"
+      ]
+    },
+    "niger": {
+      "name": "Niger",
+      "iso_code": "NE",
+      "type": "sovereign",
+      "parent_entity": "",
+      "continent": "africa",
+      "sub_region": "western-africa",
+      "capital": "Niamey",
+      "population_millions": 27.2,
+      "languages": [
+        "French"
+      ],
+      "currency": "XOF",
+      "size_class": "large",
+      "neighbors": [
+        "Algeria",
+        "Libya",
+        "Chad",
+        "Nigeria",
+        "Benin",
+        "Burkina Faso",
+        "Mali"
+      ],
+      "common_comparisons": [
+        "Chad",
+        "Mali"
+      ]
+    },
+    "nigeria": {
+      "name": "Nigeria",
+      "iso_code": "NG",
+      "type": "sovereign",
+      "parent_entity": "",
+      "continent": "africa",
+      "sub_region": "western-africa",
+      "capital": "Abuja",
+      "population_millions": 224.0,
+      "languages": [
+        "English"
+      ],
+      "currency": "NGN",
+      "size_class": "large",
+      "neighbors": [
+        "Benin",
+        "Niger",
+        "Chad",
+        "Cameroon"
+      ],
+      "common_comparisons": [
+        "Ghana",
+        "South Africa"
+      ]
+    },
+    "north-macedonia": {
+      "name": "North Macedonia",
+      "iso_code": "MK",
+      "type": "sovereign",
+      "parent_entity": "",
+      "continent": "europe",
+      "sub_region": "southern-europe",
+      "capital": "Skopje",
+      "population_millions": 1.8,
+      "languages": [
+        "Macedonian",
+        "Albanian"
+      ],
+      "currency": "MKD",
+      "size_class": "medium",
+      "neighbors": [
+        "Kosovo",
+        "Serbia",
+        "Bulgaria",
+        "Greece",
+        "Albania"
+      ],
+      "common_comparisons": [
+        "Greece",
+        "Bulgaria"
+      ]
+    },
+    "norway": {
+      "name": "Norway",
+      "iso_code": "NO",
+      "type": "sovereign",
+      "parent_entity": "",
+      "continent": "europe",
+      "sub_region": "northern-europe",
+      "capital": "Oslo",
+      "population_millions": 5.5,
+      "languages": [
+        "Norwegian"
+      ],
+      "currency": "NOK",
+      "size_class": "medium",
+      "neighbors": [
+        "Sweden",
+        "Finland",
+        "Russia"
+      ],
+      "common_comparisons": [
+        "Sweden",
+        "Denmark"
+      ]
+    },
+    "oman": {
+      "name": "Oman",
+      "iso_code": "OM",
+      "type": "sovereign",
+      "parent_entity": "",
+      "continent": "asia",
+      "sub_region": "western-asia",
+      "capital": "Muscat",
+      "population_millions": 4.6,
+      "languages": [
+        "Arabic"
+      ],
+      "currency": "OMR",
+      "size_class": "medium",
+      "neighbors": [
+        "UAE",
+        "Saudi Arabia",
+        "Yemen"
+      ],
+      "common_comparisons": [
+        "UAE",
+        "Yemen"
+      ]
+    },
+    "pakistan": {
+      "name": "Pakistan",
+      "iso_code": "PK",
+      "type": "sovereign",
+      "parent_entity": "",
+      "continent": "asia",
+      "sub_region": "southern-asia",
+      "capital": "Islamabad",
+      "population_millions": 231.0,
+      "languages": [
+        "Urdu",
+        "English"
+      ],
+      "currency": "PKR",
+      "size_class": "large",
+      "neighbors": [
+        "India",
+        "China",
+        "Afghanistan",
+        "Iran"
+      ],
+      "common_comparisons": [
+        "India",
+        "Bangladesh"
+      ]
+    },
+    "palau": {
+      "name": "Palau",
+      "iso_code": "PW",
+      "type": "sovereign",
+      "parent_entity": "",
+      "continent": "oceania",
+      "sub_region": "micronesia",
+      "capital": "Ngerulmud",
+      "population_millions": 0.02,
+      "languages": [
+        "Palauan",
+        "English"
+      ],
+      "currency": "USD",
+      "size_class": "small",
+      "neighbors": [
+        "Micronesia",
+        "Philippines"
+      ],
+      "common_comparisons": [
+        "Micronesia",
+        "Marshall Islands"
+      ]
+    },
+    "palestine": {
+      "name": "Palestine",
+      "iso_code": "PS",
+      "type": "disputed",
+      "parent_entity": "",
+      "continent": "asia",
+      "sub_region": "western-asia",
+      "capital": "Ramallah",
+      "population_millions": 5.4,
+      "languages": [
+        "Arabic"
+      ],
+      "currency": "ILS",
+      "size_class": "medium",
+      "neighbors": [
+        "Israel",
+        "Egypt",
+        "Jordan"
+      ],
+      "common_comparisons": [
+        "Israel",
+        "Jordan"
+      ]
+    },
+    "panama": {
+      "name": "Panama",
+      "iso_code": "PA",
+      "type": "sovereign",
+      "parent_entity": "",
+      "continent": "north-america",
+      "sub_region": "central-america",
+      "capital": "Panama City",
+      "population_millions": 4.4,
+      "languages": [
+        "Spanish"
+      ],
+      "currency": "PAB",
+      "size_class": "medium",
+      "neighbors": [
+        "Costa Rica",
+        "Colombia"
+      ],
+      "common_comparisons": [
+        "Costa Rica",
+        "Colombia"
+      ]
+    },
+    "papua-new-guinea": {
+      "name": "Papua New Guinea",
+      "iso_code": "PG",
+      "type": "sovereign",
+      "parent_entity": "",
+      "continent": "oceania",
+      "sub_region": "melanesia",
+      "capital": "Port Moresby",
+      "population_millions": 10.1,
+      "languages": [
+        "English",
+        "Tok Pisin",
+        "Hiri Motu"
+      ],
+      "currency": "PGK",
+      "size_class": "medium",
+      "neighbors": [
+        "Indonesia",
+        "Australia"
+      ],
+      "common_comparisons": [
+        "Indonesia",
+        "Solomon Islands"
+      ]
+    },
+    "paraguay": {
+      "name": "Paraguay",
+      "iso_code": "PY",
+      "type": "sovereign",
+      "parent_entity": "",
+      "continent": "south-america",
+      "sub_region": "south-america",
+      "capital": "Asuncion",
+      "population_millions": 7.4,
+      "languages": [
+        "Spanish",
+        "Guarani"
+      ],
+      "currency": "PYG",
+      "size_class": "medium",
+      "neighbors": [
+        "Argentina",
+        "Bolivia",
+        "Brazil"
+      ],
+      "common_comparisons": [
+        "Uruguay",
+        "Bolivia"
+      ]
+    },
+    "peru": {
+      "name": "Peru",
+      "iso_code": "PE",
+      "type": "sovereign",
+      "parent_entity": "",
+      "continent": "south-america",
+      "sub_region": "south-america",
+      "capital": "Lima",
+      "population_millions": 34.0,
+      "languages": [
+        "Spanish"
+      ],
+      "currency": "PEN",
+      "size_class": "large",
+      "neighbors": [
+        "Ecuador",
+        "Colombia",
+        "Brazil",
+        "Bolivia",
+        "Chile"
+      ],
+      "common_comparisons": [
+        "Bolivia",
+        "Ecuador"
+      ]
+    },
+    "philippines": {
+      "name": "Philippines",
+      "iso_code": "PH",
+      "type": "sovereign",
+      "parent_entity": "",
+      "continent": "asia",
+      "sub_region": "south-eastern-asia",
+      "capital": "Manila",
+      "population_millions": 117.0,
+      "languages": [
+        "Filipino",
+        "English"
+      ],
+      "currency": "PHP",
+      "size_class": "large",
+      "neighbors": [
+        "Taiwan",
+        "Malaysia",
+        "Indonesia",
+        "Vietnam"
+      ],
+      "common_comparisons": [
+        "Indonesia",
+        "Malaysia"
+      ]
+    },
+    "poland": {
+      "name": "Poland",
+      "iso_code": "PL",
+      "type": "sovereign",
+      "parent_entity": "",
+      "continent": "europe",
+      "sub_region": "eastern-europe",
+      "capital": "Warsaw",
+      "population_millions": 37.7,
+      "languages": [
+        "Polish"
+      ],
+      "currency": "PLN",
+      "size_class": "large",
+      "neighbors": [
+        "Germany",
+        "Czech Republic",
+        "Slovakia",
+        "Ukraine",
+        "Belarus",
+        "Lithuania",
+        "Russia"
+      ],
+      "common_comparisons": [
+        "Czech Republic",
+        "Germany"
+      ]
+    },
+    "portugal": {
+      "name": "Portugal",
+      "iso_code": "PT",
+      "type": "sovereign",
+      "parent_entity": "",
+      "continent": "europe",
+      "sub_region": "southern-europe",
+      "capital": "Lisbon",
+      "population_millions": 10.3,
+      "languages": [
+        "Portuguese"
+      ],
+      "currency": "EUR",
+      "size_class": "medium",
+      "neighbors": [
+        "Spain"
+      ],
+      "common_comparisons": [
+        "Spain",
+        "Brazil"
+      ]
+    },
+    "qatar": {
+      "name": "Qatar",
+      "iso_code": "QA",
+      "type": "sovereign",
+      "parent_entity": "",
+      "continent": "asia",
+      "sub_region": "western-asia",
+      "capital": "Doha",
+      "population_millions": 2.9,
+      "languages": [
+        "Arabic"
+      ],
+      "currency": "QAR",
+      "size_class": "medium",
+      "neighbors": [
+        "Saudi Arabia",
+        "Bahrain",
+        "UAE"
+      ],
+      "common_comparisons": [
+        "UAE",
+        "Bahrain"
+      ]
+    },
+    "romania": {
+      "name": "Romania",
+      "iso_code": "RO",
+      "type": "sovereign",
+      "parent_entity": "",
+      "continent": "europe",
+      "sub_region": "eastern-europe",
+      "capital": "Bucharest",
+      "population_millions": 19.0,
+      "languages": [
+        "Romanian"
+      ],
+      "currency": "RON",
+      "size_class": "medium",
+      "neighbors": [
+        "Ukraine",
+        "Moldova",
+        "Hungary",
+        "Serbia",
+        "Bulgaria"
+      ],
+      "common_comparisons": [
+        "Bulgaria",
+        "Moldova"
+      ]
+    },
+    "russia": {
+      "name": "Russia",
+      "iso_code": "RU",
+      "type": "sovereign",
+      "parent_entity": "",
+      "continent": "europe",
+      "sub_region": "eastern-europe",
+      "capital": "Moscow",
+      "population_millions": 144.0,
+      "languages": [
+        "Russian"
+      ],
+      "currency": "RUB",
+      "size_class": "large",
+      "neighbors": [
+        "Norway",
+        "Finland",
+        "Estonia",
+        "Latvia",
+        "Lithuania",
+        "Poland",
+        "Belarus",
+        "Ukraine",
+        "Georgia",
+        "Azerbaijan",
+        "Kazakhstan",
+        "China",
+        "Mongolia",
+        "North Korea"
+      ],
+      "common_comparisons": [
+        "China",
+        "United States"
+      ]
+    },
+    "rwanda": {
+      "name": "Rwanda",
+      "iso_code": "RW",
+      "type": "sovereign",
+      "parent_entity": "",
+      "continent": "africa",
+      "sub_region": "eastern-africa",
+      "capital": "Kigali",
+      "population_millions": 14.1,
+      "languages": [
+        "Kinyarwanda",
+        "English",
+        "French"
+      ],
+      "currency": "RWF",
+      "size_class": "medium",
+      "neighbors": [
+        "Uganda",
+        "Tanzania",
+        "Burundi",
+        "DR Congo"
+      ],
+      "common_comparisons": [
+        "Burundi",
+        "Uganda"
+      ]
+    },
+    "saint-kitts-and-nevis": {
+      "name": "Saint Kitts and Nevis",
+      "iso_code": "KN",
+      "type": "sovereign",
+      "parent_entity": "",
+      "continent": "north-america",
+      "sub_region": "caribbean",
+      "capital": "Basseterre",
+      "population_millions": 0.05,
+      "languages": [
+        "English"
+      ],
+      "currency": "XCD",
+      "size_class": "small",
+      "neighbors": [
+        "Antigua and Barbuda"
+      ],
+      "common_comparisons": [
+        "Antigua and Barbuda",
+        "Saint Lucia"
+      ]
+    },
+    "saint-lucia": {
+      "name": "Saint Lucia",
+      "iso_code": "LC",
+      "type": "sovereign",
+      "parent_entity": "",
+      "continent": "north-america",
+      "sub_region": "caribbean",
+      "capital": "Castries",
+      "population_millions": 0.18,
+      "languages": [
+        "English"
+      ],
+      "currency": "XCD",
+      "size_class": "small",
+      "neighbors": [
+        "Martinique",
+        "Saint Vincent and the Grenadines"
+      ],
+      "common_comparisons": [
+        "Saint Vincent and the Grenadines",
+        "Barbados"
+      ]
+    },
+    "saint-vincent-and-the-grenadines": {
+      "name": "Saint Vincent and the Grenadines",
+      "iso_code": "VC",
+      "type": "sovereign",
+      "parent_entity": "",
+      "continent": "north-america",
+      "sub_region": "caribbean",
+      "capital": "Kingstown",
+      "population_millions": 0.11,
+      "languages": [
+        "English"
+      ],
+      "currency": "XCD",
+      "size_class": "small",
+      "neighbors": [
+        "Saint Lucia",
+        "Grenada",
+        "Barbados"
+      ],
+      "common_comparisons": [
+        "Grenada",
+        "Saint Lucia"
+      ]
+    },
+    "samoa": {
+      "name": "Samoa",
+      "iso_code": "WS",
+      "type": "sovereign",
+      "parent_entity": "",
+      "continent": "oceania",
+      "sub_region": "polynesia",
+      "capital": "Apia",
+      "population_millions": 0.22,
+      "languages": [
+        "Samoan",
+        "English"
+      ],
+      "currency": "WST",
+      "size_class": "small",
+      "neighbors": [
+        "American Samoa",
+        "Tonga"
+      ],
+      "common_comparisons": [
+        "American Samoa",
+        "Tonga"
+      ]
+    },
+    "san-marino": {
+      "name": "San Marino",
+      "iso_code": "SM",
+      "type": "sovereign",
+      "parent_entity": "",
+      "continent": "europe",
+      "sub_region": "southern-europe",
+      "capital": "San Marino",
+      "population_millions": 0.03,
+      "languages": [
+        "Italian"
+      ],
+      "currency": "EUR",
+      "size_class": "small",
+      "neighbors": [
+        "Italy"
+      ],
+      "common_comparisons": [
+        "Vatican City",
+        "Liechtenstein"
+      ]
+    },
+    "sao-tome-and-principe": {
+      "name": "Sao Tome and Principe",
+      "iso_code": "ST",
+      "type": "sovereign",
+      "parent_entity": "",
+      "continent": "africa",
+      "sub_region": "middle-africa",
+      "capital": "Sao Tome",
+      "population_millions": 0.23,
+      "languages": [
+        "Portuguese"
+      ],
+      "currency": "STN",
+      "size_class": "small",
+      "neighbors": [
+        "Gabon",
+        "Equatorial Guinea"
+      ],
+      "common_comparisons": [
+        "Cabo Verde",
+        "Comoros"
+      ]
+    },
+    "saudi-arabia": {
+      "name": "Saudi Arabia",
+      "iso_code": "SA",
+      "type": "sovereign",
+      "parent_entity": "",
+      "continent": "asia",
+      "sub_region": "western-asia",
+      "capital": "Riyadh",
+      "population_millions": 36.9,
+      "languages": [
+        "Arabic"
+      ],
+      "currency": "SAR",
+      "size_class": "large",
+      "neighbors": [
+        "Jordan",
+        "Iraq",
+        "Kuwait",
+        "Bahrain",
+        "Qatar",
+        "UAE",
+        "Oman",
+        "Yemen"
+      ],
+      "common_comparisons": [
+        "UAE",
+        "Iran"
+      ]
+    },
+    "senegal": {
+      "name": "Senegal",
+      "iso_code": "SN",
+      "type": "sovereign",
+      "parent_entity": "",
+      "continent": "africa",
+      "sub_region": "western-africa",
+      "capital": "Dakar",
+      "population_millions": 17.7,
+      "languages": [
+        "French"
+      ],
+      "currency": "XOF",
+      "size_class": "medium",
+      "neighbors": [
+        "Mauritania",
+        "Mali",
+        "Guinea",
+        "Guinea-Bissau",
+        "Gambia"
+      ],
+      "common_comparisons": [
+        "Gambia",
+        "Mali"
+      ]
+    },
+    "serbia": {
+      "name": "Serbia",
+      "iso_code": "RS",
+      "type": "sovereign",
+      "parent_entity": "",
+      "continent": "europe",
+      "sub_region": "southern-europe",
+      "capital": "Belgrade",
+      "population_millions": 6.6,
+      "languages": [
+        "Serbian"
+      ],
+      "currency": "RSD",
+      "size_class": "medium",
+      "neighbors": [
+        "Hungary",
+        "Romania",
+        "Bulgaria",
+        "North Macedonia",
+        "Kosovo",
+        "Montenegro",
+        "Bosnia and Herzegovina",
+        "Croatia"
+      ],
+      "common_comparisons": [
+        "Croatia",
+        "Bosnia and Herzegovina"
+      ]
+    },
+    "seychelles": {
+      "name": "Seychelles",
+      "iso_code": "SC",
+      "type": "sovereign",
+      "parent_entity": "",
+      "continent": "africa",
+      "sub_region": "eastern-africa",
+      "capital": "Victoria",
+      "population_millions": 0.1,
+      "languages": [
+        "Seychellois Creole",
+        "English",
+        "French"
+      ],
+      "currency": "SCR",
+      "size_class": "small",
+      "neighbors": [
+        "Madagascar",
+        "Mauritius"
+      ],
+      "common_comparisons": [
+        "Maldives",
+        "Mauritius"
+      ]
+    },
+    "sierra-leone": {
+      "name": "Sierra Leone",
+      "iso_code": "SL",
+      "type": "sovereign",
+      "parent_entity": "",
+      "continent": "africa",
+      "sub_region": "western-africa",
+      "capital": "Freetown",
+      "population_millions": 8.6,
+      "languages": [
+        "English"
+      ],
+      "currency": "SLE",
+      "size_class": "medium",
+      "neighbors": [
+        "Guinea",
+        "Liberia"
+      ],
+      "common_comparisons": [
+        "Liberia",
+        "Guinea"
+      ]
+    },
+    "singapore": {
+      "name": "Singapore",
+      "iso_code": "SG",
+      "type": "sovereign",
+      "parent_entity": "",
+      "continent": "asia",
+      "sub_region": "south-eastern-asia",
+      "capital": "Singapore",
+      "population_millions": 6.0,
+      "languages": [
+        "English",
+        "Malay",
+        "Mandarin",
+        "Tamil"
+      ],
+      "currency": "SGD",
+      "size_class": "medium",
+      "neighbors": [
+        "Malaysia",
+        "Indonesia"
+      ],
+      "common_comparisons": [
+        "Hong Kong",
+        "Malaysia"
+      ]
+    },
+    "slovakia": {
+      "name": "Slovakia",
+      "iso_code": "SK",
+      "type": "sovereign",
+      "parent_entity": "",
+      "continent": "europe",
+      "sub_region": "eastern-europe",
+      "capital": "Bratislava",
+      "population_millions": 5.4,
+      "languages": [
+        "Slovak"
+      ],
+      "currency": "EUR",
+      "size_class": "medium",
+      "neighbors": [
+        "Czech Republic",
+        "Poland",
+        "Ukraine",
+        "Hungary",
+        "Austria"
+      ],
+      "common_comparisons": [
+        "Czech Republic",
+        "Slovenia"
+      ]
+    },
+    "slovenia": {
+      "name": "Slovenia",
+      "iso_code": "SI",
+      "type": "sovereign",
+      "parent_entity": "",
+      "continent": "europe",
+      "sub_region": "southern-europe",
+      "capital": "Ljubljana",
+      "population_millions": 2.1,
+      "languages": [
+        "Slovenian"
+      ],
+      "currency": "EUR",
+      "size_class": "medium",
+      "neighbors": [
+        "Italy",
+        "Austria",
+        "Hungary",
+        "Croatia"
+      ],
+      "common_comparisons": [
+        "Slovakia",
+        "Croatia"
+      ]
+    },
+    "solomon-islands": {
+      "name": "Solomon Islands",
+      "iso_code": "SB",
+      "type": "sovereign",
+      "parent_entity": "",
+      "continent": "oceania",
+      "sub_region": "melanesia",
+      "capital": "Honiara",
+      "population_millions": 0.72,
+      "languages": [
+        "English"
+      ],
+      "currency": "SBD",
+      "size_class": "small",
+      "neighbors": [
+        "Papua New Guinea",
+        "Vanuatu"
+      ],
+      "common_comparisons": [
+        "Papua New Guinea",
+        "Vanuatu"
+      ]
+    },
+    "somalia": {
+      "name": "Somalia",
+      "iso_code": "SO",
+      "type": "sovereign",
+      "parent_entity": "",
+      "continent": "africa",
+      "sub_region": "eastern-africa",
+      "capital": "Mogadishu",
+      "population_millions": 18.1,
+      "languages": [
+        "Somali",
+        "Arabic"
+      ],
+      "currency": "SOS",
+      "size_class": "medium",
+      "neighbors": [
+        "Djibouti",
+        "Ethiopia",
+        "Kenya"
+      ],
+      "common_comparisons": [
+        "Ethiopia",
+        "Djibouti"
+      ]
+    },
+    "south-africa": {
+      "name": "South Africa",
+      "iso_code": "ZA",
+      "type": "sovereign",
+      "parent_entity": "",
+      "continent": "africa",
+      "sub_region": "southern-africa",
+      "capital": "Pretoria",
+      "population_millions": 60.4,
+      "languages": [
+        "Zulu",
+        "Xhosa",
+        "Afrikaans",
+        "English"
+      ],
+      "currency": "ZAR",
+      "size_class": "large",
+      "neighbors": [
+        "Namibia",
+        "Botswana",
+        "Zimbabwe",
+        "Mozambique",
+        "Eswatini",
+        "Lesotho"
+      ],
+      "common_comparisons": [
+        "Nigeria",
+        "Kenya"
+      ]
+    },
+    "south-sudan": {
+      "name": "South Sudan",
+      "iso_code": "SS",
+      "type": "sovereign",
+      "parent_entity": "",
+      "continent": "africa",
+      "sub_region": "eastern-africa",
+      "capital": "Juba",
+      "population_millions": 11.1,
+      "languages": [
+        "English"
+      ],
+      "currency": "SSP",
+      "size_class": "medium",
+      "neighbors": [
+        "Sudan",
+        "Ethiopia",
+        "Kenya",
+        "Uganda",
+        "DR Congo",
+        "Central African Republic"
+      ],
+      "common_comparisons": [
+        "Sudan",
+        "Uganda"
+      ]
+    },
+    "spain": {
+      "name": "Spain",
+      "iso_code": "ES",
+      "type": "sovereign",
+      "parent_entity": "",
+      "continent": "europe",
+      "sub_region": "southern-europe",
+      "capital": "Madrid",
+      "population_millions": 47.8,
+      "languages": [
+        "Spanish"
+      ],
+      "currency": "EUR",
+      "size_class": "large",
+      "neighbors": [
+        "France",
+        "Portugal",
+        "Andorra",
+        "Morocco",
+        "Gibraltar"
+      ],
+      "common_comparisons": [
+        "Portugal",
+        "Italy"
+      ]
+    },
+    "sri-lanka": {
+      "name": "Sri Lanka",
+      "iso_code": "LK",
+      "type": "sovereign",
+      "parent_entity": "",
+      "continent": "asia",
+      "sub_region": "southern-asia",
+      "capital": "Colombo",
+      "population_millions": 22.2,
+      "languages": [
+        "Sinhala",
+        "Tamil"
+      ],
+      "currency": "LKR",
+      "size_class": "large",
+      "neighbors": [
+        "India",
+        "Maldives"
+      ],
+      "common_comparisons": [
+        "Maldives",
+        "India"
+      ]
+    },
+    "sudan": {
+      "name": "Sudan",
+      "iso_code": "SD",
+      "type": "sovereign",
+      "parent_entity": "",
+      "continent": "africa",
+      "sub_region": "northern-africa",
+      "capital": "Khartoum",
+      "population_millions": 47.9,
+      "languages": [
+        "Arabic",
+        "English"
+      ],
+      "currency": "SDG",
+      "size_class": "large",
+      "neighbors": [
+        "Egypt",
+        "Libya",
+        "Chad",
+        "Central African Republic",
+        "South Sudan",
+        "Ethiopia",
+        "Eritrea"
+      ],
+      "common_comparisons": [
+        "South Sudan",
+        "Egypt"
+      ]
+    },
+    "suriname": {
+      "name": "Suriname",
+      "iso_code": "SR",
+      "type": "sovereign",
+      "parent_entity": "",
+      "continent": "south-america",
+      "sub_region": "south-america",
+      "capital": "Paramaribo",
+      "population_millions": 0.62,
+      "languages": [
+        "Dutch"
+      ],
+      "currency": "SRD",
+      "size_class": "small",
+      "neighbors": [
+        "Guyana",
+        "Brazil",
+        "French Guiana"
+      ],
+      "common_comparisons": [
+        "Guyana",
+        "French Guiana"
+      ]
+    },
+    "sweden": {
+      "name": "Sweden",
+      "iso_code": "SE",
+      "type": "sovereign",
+      "parent_entity": "",
+      "continent": "europe",
+      "sub_region": "northern-europe",
+      "capital": "Stockholm",
+      "population_millions": 10.5,
+      "languages": [
+        "Swedish"
+      ],
+      "currency": "SEK",
+      "size_class": "medium",
+      "neighbors": [
+        "Norway",
+        "Finland",
+        "Denmark"
+      ],
+      "common_comparisons": [
+        "Norway",
+        "Finland"
+      ]
+    },
+    "switzerland": {
+      "name": "Switzerland",
+      "iso_code": "CH",
+      "type": "sovereign",
+      "parent_entity": "",
+      "continent": "europe",
+      "sub_region": "western-europe",
+      "capital": "Bern",
+      "population_millions": 8.8,
+      "languages": [
+        "German",
+        "French",
+        "Italian",
+        "Romansh"
+      ],
+      "currency": "CHF",
+      "size_class": "medium",
+      "neighbors": [
+        "Germany",
+        "France",
+        "Italy",
+        "Austria",
+        "Liechtenstein"
+      ],
+      "common_comparisons": [
+        "Austria",
+        "Sweden"
+      ]
+    },
+    "syria": {
+      "name": "Syria",
+      "iso_code": "SY",
+      "type": "sovereign",
+      "parent_entity": "",
+      "continent": "asia",
+      "sub_region": "western-asia",
+      "capital": "Damascus",
+      "population_millions": 22.1,
+      "languages": [
+        "Arabic"
+      ],
+      "currency": "SYP",
+      "size_class": "large",
+      "neighbors": [
+        "Turkey",
+        "Iraq",
+        "Jordan",
+        "Israel",
+        "Lebanon"
+      ],
+      "common_comparisons": [
+        "Iraq",
+        "Lebanon"
+      ]
+    },
+    "taiwan": {
+      "name": "Taiwan",
+      "iso_code": "TW",
+      "type": "disputed",
+      "parent_entity": "",
+      "continent": "asia",
+      "sub_region": "eastern-asia",
+      "capital": "Taipei",
+      "population_millions": 23.9,
+      "languages": [
+        "Mandarin"
+      ],
+      "currency": "TWD",
+      "size_class": "large",
+      "neighbors": [
+        "China",
+        "Japan",
+        "Philippines"
+      ],
+      "common_comparisons": [
+        "China",
+        "Hong Kong"
+      ]
+    },
+    "tajikistan": {
+      "name": "Tajikistan",
+      "iso_code": "TJ",
+      "type": "sovereign",
+      "parent_entity": "",
+      "continent": "asia",
+      "sub_region": "central-asia",
+      "capital": "Dushanbe",
+      "population_millions": 10.1,
+      "languages": [
+        "Tajik"
+      ],
+      "currency": "TJS",
+      "size_class": "medium",
+      "neighbors": [
+        "China",
+        "Kyrgyzstan",
+        "Uzbekistan",
+        "Afghanistan"
+      ],
+      "common_comparisons": [
+        "Kyrgyzstan",
+        "Afghanistan"
+      ]
+    },
+    "tanzania": {
+      "name": "Tanzania",
+      "iso_code": "TZ",
+      "type": "sovereign",
+      "parent_entity": "",
+      "continent": "africa",
+      "sub_region": "eastern-africa",
+      "capital": "Dodoma",
+      "population_millions": 65.5,
+      "languages": [
+        "Swahili",
+        "English"
+      ],
+      "currency": "TZS",
+      "size_class": "large",
+      "neighbors": [
+        "Kenya",
+        "Uganda",
+        "Rwanda",
+        "Burundi",
+        "DR Congo",
+        "Zambia",
+        "Malawi",
+        "Mozambique"
+      ],
+      "common_comparisons": [
+        "Kenya",
+        "Uganda"
+      ]
+    },
+    "thailand": {
+      "name": "Thailand",
+      "iso_code": "TH",
+      "type": "sovereign",
+      "parent_entity": "",
+      "continent": "asia",
+      "sub_region": "south-eastern-asia",
+      "capital": "Bangkok",
+      "population_millions": 71.8,
+      "languages": [
+        "Thai"
+      ],
+      "currency": "THB",
+      "size_class": "large",
+      "neighbors": [
+        "Myanmar",
+        "Laos",
+        "Cambodia",
+        "Malaysia"
+      ],
+      "common_comparisons": [
+        "Vietnam",
+        "Indonesia"
+      ]
+    },
+    "east-timor": {
+      "name": "East Timor",
+      "iso_code": "TL",
+      "type": "sovereign",
+      "parent_entity": "",
+      "continent": "asia",
+      "sub_region": "south-eastern-asia",
+      "capital": "Dili",
+      "population_millions": 1.3,
+      "languages": [
+        "Portuguese",
+        "Tetum"
+      ],
+      "currency": "USD",
+      "size_class": "medium",
+      "neighbors": [
+        "Indonesia"
+      ],
+      "common_comparisons": [
+        "Indonesia",
+        "Papua New Guinea"
+      ]
+    },
+    "togo": {
+      "name": "Togo",
+      "iso_code": "TG",
+      "type": "sovereign",
+      "parent_entity": "",
+      "continent": "africa",
+      "sub_region": "western-africa",
+      "capital": "Lome",
+      "population_millions": 8.8,
+      "languages": [
+        "French"
+      ],
+      "currency": "XOF",
+      "size_class": "medium",
+      "neighbors": [
+        "Ghana",
+        "Burkina Faso",
+        "Benin"
+      ],
+      "common_comparisons": [
+        "Benin",
+        "Ghana"
+      ]
+    },
+    "tonga": {
+      "name": "Tonga",
+      "iso_code": "TO",
+      "type": "sovereign",
+      "parent_entity": "",
+      "continent": "oceania",
+      "sub_region": "polynesia",
+      "capital": "Nukualofa",
+      "population_millions": 0.11,
+      "languages": [
+        "Tongan",
+        "English"
+      ],
+      "currency": "TOP",
+      "size_class": "small",
+      "neighbors": [
+        "Fiji",
+        "Samoa"
+      ],
+      "common_comparisons": [
+        "Samoa",
+        "Fiji"
+      ]
+    },
+    "trinidad-and-tobago": {
+      "name": "Trinidad and Tobago",
+      "iso_code": "TT",
+      "type": "sovereign",
+      "parent_entity": "",
+      "continent": "north-america",
+      "sub_region": "caribbean",
+      "capital": "Port of Spain",
+      "population_millions": 1.5,
+      "languages": [
+        "English"
+      ],
+      "currency": "TTD",
+      "size_class": "medium",
+      "neighbors": [
+        "Venezuela",
+        "Grenada",
+        "Barbados"
+      ],
+      "common_comparisons": [
+        "Jamaica",
+        "Barbados"
+      ]
+    },
+    "tunisia": {
+      "name": "Tunisia",
+      "iso_code": "TN",
+      "type": "sovereign",
+      "parent_entity": "",
+      "continent": "africa",
+      "sub_region": "northern-africa",
+      "capital": "Tunis",
+      "population_millions": 12.5,
+      "languages": [
+        "Arabic"
+      ],
+      "currency": "TND",
+      "size_class": "medium",
+      "neighbors": [
+        "Algeria",
+        "Libya"
+      ],
+      "common_comparisons": [
+        "Morocco",
+        "Algeria"
+      ]
+    },
+    "turkey": {
+      "name": "Turkey",
+      "iso_code": "TR",
+      "type": "sovereign",
+      "parent_entity": "",
+      "continent": "asia",
+      "sub_region": "western-asia",
+      "capital": "Ankara",
+      "population_millions": 85.8,
+      "languages": [
+        "Turkish"
+      ],
+      "currency": "TRY",
+      "size_class": "large",
+      "neighbors": [
+        "Greece",
+        "Bulgaria",
+        "Georgia",
+        "Armenia",
+        "Azerbaijan",
+        "Iran",
+        "Iraq",
+        "Syria"
+      ],
+      "common_comparisons": [
+        "Greece",
+        "Iran"
+      ]
+    },
+    "turkmenistan": {
+      "name": "Turkmenistan",
+      "iso_code": "TM",
+      "type": "sovereign",
+      "parent_entity": "",
+      "continent": "asia",
+      "sub_region": "central-asia",
+      "capital": "Ashgabat",
+      "population_millions": 6.5,
+      "languages": [
+        "Turkmen"
+      ],
+      "currency": "TMT",
+      "size_class": "medium",
+      "neighbors": [
+        "Kazakhstan",
+        "Uzbekistan",
+        "Afghanistan",
+        "Iran"
+      ],
+      "common_comparisons": [
+        "Uzbekistan",
+        "Kazakhstan"
+      ]
+    },
+    "tuvalu": {
+      "name": "Tuvalu",
+      "iso_code": "TV",
+      "type": "sovereign",
+      "parent_entity": "",
+      "continent": "oceania",
+      "sub_region": "polynesia",
+      "capital": "Funafuti",
+      "population_millions": 0.01,
+      "languages": [
+        "Tuvaluan",
+        "English"
+      ],
+      "currency": "AUD",
+      "size_class": "small",
+      "neighbors": [
+        "Fiji",
+        "Kiribati"
+      ],
+      "common_comparisons": [
+        "Nauru",
+        "Kiribati"
+      ]
+    },
+    "uganda": {
+      "name": "Uganda",
+      "iso_code": "UG",
+      "type": "sovereign",
+      "parent_entity": "",
+      "continent": "africa",
+      "sub_region": "eastern-africa",
+      "capital": "Kampala",
+      "population_millions": 48.6,
+      "languages": [
+        "English",
+        "Swahili"
+      ],
+      "currency": "UGX",
+      "size_class": "large",
+      "neighbors": [
+        "South Sudan",
+        "Kenya",
+        "Tanzania",
+        "Rwanda",
+        "DR Congo"
+      ],
+      "common_comparisons": [
+        "Kenya",
+        "Rwanda"
+      ]
+    },
+    "ukraine": {
+      "name": "Ukraine",
+      "iso_code": "UA",
+      "type": "sovereign",
+      "parent_entity": "",
+      "continent": "europe",
+      "sub_region": "eastern-europe",
+      "capital": "Kyiv",
+      "population_millions": 37.0,
+      "languages": [
+        "Ukrainian"
+      ],
+      "currency": "UAH",
+      "size_class": "large",
+      "neighbors": [
+        "Russia",
+        "Belarus",
+        "Poland",
+        "Slovakia",
+        "Hungary",
+        "Romania",
+        "Moldova"
+      ],
+      "common_comparisons": [
+        "Russia",
+        "Poland"
+      ]
+    },
+    "uae": {
+      "name": "UAE",
+      "iso_code": "AE",
+      "type": "sovereign",
+      "parent_entity": "",
+      "continent": "asia",
+      "sub_region": "western-asia",
+      "capital": "Abu Dhabi",
+      "population_millions": 10.0,
+      "languages": [
+        "Arabic"
+      ],
+      "currency": "AED",
+      "size_class": "medium",
+      "neighbors": [
+        "Saudi Arabia",
+        "Oman"
+      ],
+      "common_comparisons": [
+        "Qatar",
+        "Saudi Arabia"
+      ]
+    },
+    "united-kingdom": {
+      "name": "United Kingdom",
+      "iso_code": "GB",
+      "type": "sovereign",
+      "parent_entity": "",
+      "continent": "europe",
+      "sub_region": "northern-europe",
+      "capital": "London",
+      "population_millions": 67.7,
+      "languages": [
+        "English"
+      ],
+      "currency": "GBP",
+      "size_class": "large",
+      "neighbors": [
+        "Ireland",
+        "France"
+      ],
+      "common_comparisons": [
+        "France",
+        "United States"
+      ]
+    },
+    "united-states": {
+      "name": "United States",
+      "iso_code": "US",
+      "type": "sovereign",
+      "parent_entity": "",
+      "continent": "north-america",
+      "sub_region": "northern-america",
+      "capital": "Washington D.C.",
+      "population_millions": 335.0,
+      "languages": [
+        "English"
+      ],
+      "currency": "USD",
+      "size_class": "large",
+      "neighbors": [
+        "Canada",
+        "Mexico"
+      ],
+      "common_comparisons": [
+        "Canada",
+        "United Kingdom"
+      ]
+    },
+    "uruguay": {
+      "name": "Uruguay",
+      "iso_code": "UY",
+      "type": "sovereign",
+      "parent_entity": "",
+      "continent": "south-america",
+      "sub_region": "south-america",
+      "capital": "Montevideo",
+      "population_millions": 3.4,
+      "languages": [
+        "Spanish"
+      ],
+      "currency": "UYU",
+      "size_class": "medium",
+      "neighbors": [
+        "Argentina",
+        "Brazil"
+      ],
+      "common_comparisons": [
+        "Argentina",
+        "Paraguay"
+      ]
+    },
+    "uzbekistan": {
+      "name": "Uzbekistan",
+      "iso_code": "UZ",
+      "type": "sovereign",
+      "parent_entity": "",
+      "continent": "asia",
+      "sub_region": "central-asia",
+      "capital": "Tashkent",
+      "population_millions": 35.6,
+      "languages": [
+        "Uzbek"
+      ],
+      "currency": "UZS",
+      "size_class": "large",
+      "neighbors": [
+        "Kazakhstan",
+        "Kyrgyzstan",
+        "Tajikistan",
+        "Afghanistan",
+        "Turkmenistan"
+      ],
+      "common_comparisons": [
+        "Kazakhstan",
+        "Tajikistan"
+      ]
+    },
+    "vanuatu": {
+      "name": "Vanuatu",
+      "iso_code": "VU",
+      "type": "sovereign",
+      "parent_entity": "",
+      "continent": "oceania",
+      "sub_region": "melanesia",
+      "capital": "Port Vila",
+      "population_millions": 0.33,
+      "languages": [
+        "Bislama",
+        "English",
+        "French"
+      ],
+      "currency": "VUV",
+      "size_class": "small",
+      "neighbors": [
+        "Fiji",
+        "New Caledonia",
+        "Solomon Islands"
+      ],
+      "common_comparisons": [
+        "Fiji",
+        "New Caledonia"
+      ]
+    },
+    "vatican-city": {
+      "name": "Vatican City",
+      "iso_code": "VA",
+      "type": "sovereign",
+      "parent_entity": "",
+      "continent": "europe",
+      "sub_region": "southern-europe",
+      "capital": "Vatican City",
+      "population_millions": 0.0008,
+      "languages": [
+        "Italian",
+        "Latin"
+      ],
+      "currency": "EUR",
+      "size_class": "small",
+      "neighbors": [
+        "Italy"
+      ],
+      "common_comparisons": [
+        "San Marino",
+        "Monaco"
+      ]
+    },
+    "venezuela": {
+      "name": "Venezuela",
+      "iso_code": "VE",
+      "type": "sovereign",
+      "parent_entity": "",
+      "continent": "south-america",
+      "sub_region": "south-america",
+      "capital": "Caracas",
+      "population_millions": 28.4,
+      "languages": [
+        "Spanish"
+      ],
+      "currency": "VES",
+      "size_class": "large",
+      "neighbors": [
+        "Colombia",
+        "Brazil",
+        "Guyana",
+        "Trinidad and Tobago"
+      ],
+      "common_comparisons": [
+        "Colombia",
+        "Cuba"
+      ]
+    },
+    "vietnam": {
+      "name": "Vietnam",
+      "iso_code": "VN",
+      "type": "sovereign",
+      "parent_entity": "",
+      "continent": "asia",
+      "sub_region": "south-eastern-asia",
+      "capital": "Hanoi",
+      "population_millions": 99.5,
+      "languages": [
+        "Vietnamese"
+      ],
+      "currency": "VND",
+      "size_class": "large",
+      "neighbors": [
+        "China",
+        "Laos",
+        "Cambodia"
+      ],
+      "common_comparisons": [
+        "Thailand",
+        "Cambodia"
+      ]
+    },
+    "yemen": {
+      "name": "Yemen",
+      "iso_code": "YE",
+      "type": "sovereign",
+      "parent_entity": "",
+      "continent": "asia",
+      "sub_region": "western-asia",
+      "capital": "Sanaa",
+      "population_millions": 34.4,
+      "languages": [
+        "Arabic"
+      ],
+      "currency": "YER",
+      "size_class": "large",
+      "neighbors": [
+        "Saudi Arabia",
+        "Oman"
+      ],
+      "common_comparisons": [
+        "Oman",
+        "Somalia"
+      ]
+    },
+    "zambia": {
+      "name": "Zambia",
+      "iso_code": "ZM",
+      "type": "sovereign",
+      "parent_entity": "",
+      "continent": "africa",
+      "sub_region": "eastern-africa",
+      "capital": "Lusaka",
+      "population_millions": 20.6,
+      "languages": [
+        "English"
+      ],
+      "currency": "ZMW",
+      "size_class": "large",
+      "neighbors": [
+        "DR Congo",
+        "Tanzania",
+        "Malawi",
+        "Mozambique",
+        "Zimbabwe",
+        "Botswana",
+        "Namibia",
+        "Angola"
+      ],
+      "common_comparisons": [
+        "Zimbabwe",
+        "Malawi"
+      ]
+    },
+    "zimbabwe": {
+      "name": "Zimbabwe",
+      "iso_code": "ZW",
+      "type": "sovereign",
+      "parent_entity": "",
+      "continent": "africa",
+      "sub_region": "eastern-africa",
+      "capital": "Harare",
+      "population_millions": 16.7,
+      "languages": [
+        "English",
+        "Shona",
+        "Ndebele"
+      ],
+      "currency": "ZWL",
+      "size_class": "medium",
+      "neighbors": [
+        "Zambia",
+        "Mozambique",
+        "South Africa",
+        "Botswana"
+      ],
+      "common_comparisons": [
+        "Zambia",
+        "South Africa"
+      ]
+    },
+    "puerto-rico": {
+      "name": "Puerto Rico",
+      "iso_code": "PR",
+      "type": "territory",
+      "parent_entity": "United States",
+      "continent": "north-america",
+      "sub_region": "caribbean",
+      "capital": "San Juan",
+      "population_millions": 3.2,
+      "languages": [
+        "Spanish",
+        "English"
+      ],
+      "currency": "USD",
+      "size_class": "medium",
+      "neighbors": [
+        "Dominican Republic",
+        "US Virgin Islands"
+      ],
+      "common_comparisons": [
+        "Dominican Republic",
+        "Cuba"
+      ]
+    },
+    "hong-kong": {
+      "name": "Hong Kong",
+      "iso_code": "HK",
+      "type": "special-admin-region",
+      "parent_entity": "China",
+      "continent": "asia",
+      "sub_region": "eastern-asia",
+      "capital": "Hong Kong",
+      "population_millions": 7.5,
+      "languages": [
+        "Cantonese",
+        "English"
+      ],
+      "currency": "HKD",
+      "size_class": "medium",
+      "neighbors": [
+        "China",
+        "Macau"
+      ],
+      "common_comparisons": [
+        "Singapore",
+        "Macau"
+      ]
+    },
+    "macau": {
+      "name": "Macau",
+      "iso_code": "MO",
+      "type": "special-admin-region",
+      "parent_entity": "China",
+      "continent": "asia",
+      "sub_region": "eastern-asia",
+      "capital": "Macau",
+      "population_millions": 0.69,
+      "languages": [
+        "Cantonese",
+        "Portuguese"
+      ],
+      "currency": "MOP",
+      "size_class": "small",
+      "neighbors": [
+        "China",
+        "Hong Kong"
+      ],
+      "common_comparisons": [
+        "Hong Kong",
+        "Las Vegas"
+      ]
+    },
+    "greenland": {
+      "name": "Greenland",
+      "iso_code": "GL",
+      "type": "territory",
+      "parent_entity": "Denmark",
+      "continent": "north-america",
+      "sub_region": "northern-america",
+      "capital": "Nuuk",
+      "population_millions": 0.06,
+      "languages": [
+        "Greenlandic",
+        "Danish"
+      ],
+      "currency": "DKK",
+      "size_class": "small",
+      "neighbors": [
+        "Canada",
+        "Iceland"
+      ],
+      "common_comparisons": [
+        "Iceland",
+        "Faroe Islands"
+      ]
+    },
+    "faroe-islands": {
+      "name": "Faroe Islands",
+      "iso_code": "FO",
+      "type": "territory",
+      "parent_entity": "Denmark",
+      "continent": "europe",
+      "sub_region": "northern-europe",
+      "capital": "Torshavn",
+      "population_millions": 0.05,
+      "languages": [
+        "Faroese",
+        "Danish"
+      ],
+      "currency": "DKK",
+      "size_class": "small",
+      "neighbors": [
+        "Iceland",
+        "Norway"
+      ],
+      "common_comparisons": [
+        "Iceland",
+        "Greenland"
+      ]
+    },
+    "french-guiana": {
+      "name": "French Guiana",
+      "iso_code": "GF",
+      "type": "territory",
+      "parent_entity": "France",
+      "continent": "south-america",
+      "sub_region": "south-america",
+      "capital": "Cayenne",
+      "population_millions": 0.31,
+      "languages": [
+        "French"
+      ],
+      "currency": "EUR",
+      "size_class": "small",
+      "neighbors": [
+        "Brazil",
+        "Suriname"
+      ],
+      "common_comparisons": [
+        "Suriname",
+        "Guyana"
+      ]
+    },
+    "guadeloupe": {
+      "name": "Guadeloupe",
+      "iso_code": "GP",
+      "type": "territory",
+      "parent_entity": "France",
+      "continent": "north-america",
+      "sub_region": "caribbean",
+      "capital": "Basse-Terre",
+      "population_millions": 0.4,
+      "languages": [
+        "French"
+      ],
+      "currency": "EUR",
+      "size_class": "small",
+      "neighbors": [
+        "Dominica",
+        "Antigua and Barbuda",
+        "Montserrat"
+      ],
+      "common_comparisons": [
+        "Martinique",
+        "Reunion"
+      ]
+    },
+    "martinique": {
+      "name": "Martinique",
+      "iso_code": "MQ",
+      "type": "territory",
+      "parent_entity": "France",
+      "continent": "north-america",
+      "sub_region": "caribbean",
+      "capital": "Fort-de-France",
+      "population_millions": 0.37,
+      "languages": [
+        "French"
+      ],
+      "currency": "EUR",
+      "size_class": "small",
+      "neighbors": [
+        "Dominica",
+        "Saint Lucia"
+      ],
+      "common_comparisons": [
+        "Guadeloupe",
+        "Reunion"
+      ]
+    },
+    "reunion": {
+      "name": "Reunion",
+      "iso_code": "RE",
+      "type": "territory",
+      "parent_entity": "France",
+      "continent": "africa",
+      "sub_region": "eastern-africa",
+      "capital": "Saint-Denis",
+      "population_millions": 0.9,
+      "languages": [
+        "French"
+      ],
+      "currency": "EUR",
+      "size_class": "small",
+      "neighbors": [
+        "Madagascar",
+        "Mauritius"
+      ],
+      "common_comparisons": [
+        "Mauritius",
+        "Martinique"
+      ]
+    },
+    "mayotte": {
+      "name": "Mayotte",
+      "iso_code": "YT",
+      "type": "territory",
+      "parent_entity": "France",
+      "continent": "africa",
+      "sub_region": "eastern-africa",
+      "capital": "Mamoudzou",
+      "population_millions": 0.33,
+      "languages": [
+        "French"
+      ],
+      "currency": "EUR",
+      "size_class": "small",
+      "neighbors": [
+        "Comoros",
+        "Madagascar"
+      ],
+      "common_comparisons": [
+        "Comoros",
+        "Reunion"
+      ]
+    },
+    "french-polynesia": {
+      "name": "French Polynesia",
+      "iso_code": "PF",
+      "type": "territory",
+      "parent_entity": "France",
+      "continent": "oceania",
+      "sub_region": "polynesia",
+      "capital": "Papeete",
+      "population_millions": 0.28,
+      "languages": [
+        "French",
+        "Tahitian"
+      ],
+      "currency": "XPF",
+      "size_class": "small",
+      "neighbors": [
+        "Cook Islands"
+      ],
+      "common_comparisons": [
+        "Hawaii",
+        "New Caledonia"
+      ]
+    },
+    "new-caledonia": {
+      "name": "New Caledonia",
+      "iso_code": "NC",
+      "type": "territory",
+      "parent_entity": "France",
+      "continent": "oceania",
+      "sub_region": "melanesia",
+      "capital": "Noumea",
+      "population_millions": 0.27,
+      "languages": [
+        "French"
+      ],
+      "currency": "XPF",
+      "size_class": "small",
+      "neighbors": [
+        "Vanuatu",
+        "Fiji"
+      ],
+      "common_comparisons": [
+        "Vanuatu",
+        "French Polynesia"
+      ]
+    },
+    "saint-martin": {
+      "name": "Saint Martin",
+      "iso_code": "MF",
+      "type": "territory",
+      "parent_entity": "France",
+      "continent": "north-america",
+      "sub_region": "caribbean",
+      "capital": "Marigot",
+      "population_millions": 0.04,
+      "languages": [
+        "French"
+      ],
+      "currency": "EUR",
+      "size_class": "small",
+      "neighbors": [
+        "Sint Maarten",
+        "Anguilla"
+      ],
+      "common_comparisons": [
+        "Sint Maarten",
+        "Saint Barthelemy"
+      ]
+    },
+    "saint-barthelemy": {
+      "name": "Saint Barthelemy",
+      "iso_code": "BL",
+      "type": "territory",
+      "parent_entity": "France",
+      "continent": "north-america",
+      "sub_region": "caribbean",
+      "capital": "Gustavia",
+      "population_millions": 0.01,
+      "languages": [
+        "French"
+      ],
+      "currency": "EUR",
+      "size_class": "small",
+      "neighbors": [
+        "Saint Martin",
+        "Anguilla"
+      ],
+      "common_comparisons": [
+        "Saint Martin",
+        "Guadeloupe"
+      ]
+    },
+    "wallis-and-futuna": {
+      "name": "Wallis and Futuna",
+      "iso_code": "WF",
+      "type": "territory",
+      "parent_entity": "France",
+      "continent": "oceania",
+      "sub_region": "polynesia",
+      "capital": "Mata-Utu",
+      "population_millions": 0.01,
+      "languages": [
+        "French",
+        "Wallisian"
+      ],
+      "currency": "XPF",
+      "size_class": "small",
+      "neighbors": [
+        "Samoa",
+        "Fiji"
+      ],
+      "common_comparisons": [
+        "Samoa",
+        "French Polynesia"
+      ]
+    },
+    "saint-pierre-and-miquelon": {
+      "name": "Saint Pierre and Miquelon",
+      "iso_code": "PM",
+      "type": "territory",
+      "parent_entity": "France",
+      "continent": "north-america",
+      "sub_region": "northern-america",
+      "capital": "Saint-Pierre",
+      "population_millions": 0.006,
+      "languages": [
+        "French"
+      ],
+      "currency": "EUR",
+      "size_class": "small",
+      "neighbors": [
+        "Canada"
+      ],
+      "common_comparisons": [
+        "Greenland",
+        "Faroe Islands"
+      ]
+    },
+    "us-virgin-islands": {
+      "name": "US Virgin Islands",
+      "iso_code": "VI",
+      "type": "territory",
+      "parent_entity": "United States",
+      "continent": "north-america",
+      "sub_region": "caribbean",
+      "capital": "Charlotte Amalie",
+      "population_millions": 0.1,
+      "languages": [
+        "English"
+      ],
+      "currency": "USD",
+      "size_class": "small",
+      "neighbors": [
+        "Puerto Rico",
+        "British Virgin Islands"
+      ],
+      "common_comparisons": [
+        "British Virgin Islands",
+        "Puerto Rico"
+      ]
+    },
+    "guam": {
+      "name": "Guam",
+      "iso_code": "GU",
+      "type": "territory",
+      "parent_entity": "United States",
+      "continent": "oceania",
+      "sub_region": "micronesia",
+      "capital": "Hagatna",
+      "population_millions": 0.17,
+      "languages": [
+        "English",
+        "Chamorro"
+      ],
+      "currency": "USD",
+      "size_class": "small",
+      "neighbors": [
+        "Northern Mariana Islands",
+        "Micronesia"
+      ],
+      "common_comparisons": [
+        "Northern Mariana Islands",
+        "Hawaii"
+      ]
+    },
+    "american-samoa": {
+      "name": "American Samoa",
+      "iso_code": "AS",
+      "type": "territory",
+      "parent_entity": "United States",
+      "continent": "oceania",
+      "sub_region": "polynesia",
+      "capital": "Pago Pago",
+      "population_millions": 0.05,
+      "languages": [
+        "Samoan",
+        "English"
+      ],
+      "currency": "USD",
+      "size_class": "small",
+      "neighbors": [
+        "Samoa",
+        "Tonga"
+      ],
+      "common_comparisons": [
+        "Samoa",
+        "Tonga"
+      ]
+    },
+    "northern-mariana-islands": {
+      "name": "Northern Mariana Islands",
+      "iso_code": "MP",
+      "type": "territory",
+      "parent_entity": "United States",
+      "continent": "oceania",
+      "sub_region": "micronesia",
+      "capital": "Saipan",
+      "population_millions": 0.05,
+      "languages": [
+        "English",
+        "Chamorro",
+        "Carolinian"
+      ],
+      "currency": "USD",
+      "size_class": "small",
+      "neighbors": [
+        "Guam"
+      ],
+      "common_comparisons": [
+        "Guam",
+        "Palau"
+      ]
+    },
+    "british-virgin-islands": {
+      "name": "British Virgin Islands",
+      "iso_code": "VG",
+      "type": "territory",
+      "parent_entity": "United Kingdom",
+      "continent": "north-america",
+      "sub_region": "caribbean",
+      "capital": "Road Town",
+      "population_millions": 0.03,
+      "languages": [
+        "English"
+      ],
+      "currency": "USD",
+      "size_class": "small",
+      "neighbors": [
+        "US Virgin Islands",
+        "Anguilla"
+      ],
+      "common_comparisons": [
+        "US Virgin Islands",
+        "Cayman Islands"
+      ]
+    },
+    "cayman-islands": {
+      "name": "Cayman Islands",
+      "iso_code": "KY",
+      "type": "territory",
+      "parent_entity": "United Kingdom",
+      "continent": "north-america",
+      "sub_region": "caribbean",
+      "capital": "George Town",
+      "population_millions": 0.07,
+      "languages": [
+        "English"
+      ],
+      "currency": "KYD",
+      "size_class": "small",
+      "neighbors": [
+        "Cuba",
+        "Jamaica"
+      ],
+      "common_comparisons": [
+        "British Virgin Islands",
+        "Bermuda"
+      ]
+    },
+    "bermuda": {
+      "name": "Bermuda",
+      "iso_code": "BM",
+      "type": "territory",
+      "parent_entity": "United Kingdom",
+      "continent": "north-america",
+      "sub_region": "northern-america",
+      "capital": "Hamilton",
+      "population_millions": 0.06,
+      "languages": [
+        "English"
+      ],
+      "currency": "BMD",
+      "size_class": "small",
+      "neighbors": [
+        "United States"
+      ],
+      "common_comparisons": [
+        "Bahamas",
+        "Cayman Islands"
+      ]
+    },
+    "turks-and-caicos": {
+      "name": "Turks and Caicos",
+      "iso_code": "TC",
+      "type": "territory",
+      "parent_entity": "United Kingdom",
+      "continent": "north-america",
+      "sub_region": "caribbean",
+      "capital": "Cockburn Town",
+      "population_millions": 0.04,
+      "languages": [
+        "English"
+      ],
+      "currency": "USD",
+      "size_class": "small",
+      "neighbors": [
+        "Bahamas",
+        "Haiti"
+      ],
+      "common_comparisons": [
+        "Bahamas",
+        "Cayman Islands"
+      ]
+    },
+    "anguilla": {
+      "name": "Anguilla",
+      "iso_code": "AI",
+      "type": "territory",
+      "parent_entity": "United Kingdom",
+      "continent": "north-america",
+      "sub_region": "caribbean",
+      "capital": "The Valley",
+      "population_millions": 0.02,
+      "languages": [
+        "English"
+      ],
+      "currency": "XCD",
+      "size_class": "small",
+      "neighbors": [
+        "Saint Martin",
+        "British Virgin Islands"
+      ],
+      "common_comparisons": [
+        "British Virgin Islands",
+        "Sint Maarten"
+      ]
+    },
+    "montserrat": {
+      "name": "Montserrat",
+      "iso_code": "MS",
+      "type": "territory",
+      "parent_entity": "United Kingdom",
+      "continent": "north-america",
+      "sub_region": "caribbean",
+      "capital": "Plymouth",
+      "population_millions": 0.005,
+      "languages": [
+        "English"
+      ],
+      "currency": "XCD",
+      "size_class": "small",
+      "neighbors": [
+        "Antigua and Barbuda",
+        "Guadeloupe"
+      ],
+      "common_comparisons": [
+        "Antigua and Barbuda",
+        "Dominica"
+      ]
+    },
+    "gibraltar": {
+      "name": "Gibraltar",
+      "iso_code": "GI",
+      "type": "territory",
+      "parent_entity": "United Kingdom",
+      "continent": "europe",
+      "sub_region": "southern-europe",
+      "capital": "Gibraltar",
+      "population_millions": 0.03,
+      "languages": [
+        "English"
+      ],
+      "currency": "GIP",
+      "size_class": "small",
+      "neighbors": [
+        "Spain"
+      ],
+      "common_comparisons": [
+        "Malta",
+        "Ceuta"
+      ]
+    },
+    "falkland-islands": {
+      "name": "Falkland Islands",
+      "iso_code": "FK",
+      "type": "territory",
+      "parent_entity": "United Kingdom",
+      "continent": "south-america",
+      "sub_region": "south-america",
+      "capital": "Stanley",
+      "population_millions": 0.004,
+      "languages": [
+        "English"
+      ],
+      "currency": "FKP",
+      "size_class": "small",
+      "neighbors": [
+        "Argentina"
+      ],
+      "common_comparisons": [
+        "South Georgia",
+        "Argentina"
+      ]
+    },
+    "saint-helena": {
+      "name": "Saint Helena",
+      "iso_code": "SH",
+      "type": "territory",
+      "parent_entity": "United Kingdom",
+      "continent": "africa",
+      "sub_region": "western-africa",
+      "capital": "Jamestown",
+      "population_millions": 0.005,
+      "languages": [
+        "English"
+      ],
+      "currency": "SHP",
+      "size_class": "small",
+      "neighbors": [],
+      "common_comparisons": [
+        "Ascension Island",
+        "Tristan da Cunha"
+      ]
+    },
+    "pitcairn-islands": {
+      "name": "Pitcairn Islands",
+      "iso_code": "PN",
+      "type": "territory",
+      "parent_entity": "United Kingdom",
+      "continent": "oceania",
+      "sub_region": "polynesia",
+      "capital": "Adamstown",
+      "population_millions": 5e-05,
+      "languages": [
+        "English"
+      ],
+      "currency": "NZD",
+      "size_class": "small",
+      "neighbors": [],
+      "common_comparisons": [
+        "Easter Island",
+        "Norfolk Island"
+      ]
+    },
+    "isle-of-man": {
+      "name": "Isle of Man",
+      "iso_code": "IM",
+      "type": "dependency",
+      "parent_entity": "United Kingdom",
+      "continent": "europe",
+      "sub_region": "northern-europe",
+      "capital": "Douglas",
+      "population_millions": 0.08,
+      "languages": [
+        "English",
+        "Manx"
+      ],
+      "currency": "GBP",
+      "size_class": "small",
+      "neighbors": [
+        "United Kingdom",
+        "Ireland"
+      ],
+      "common_comparisons": [
+        "Jersey",
+        "Guernsey"
+      ]
+    },
+    "jersey": {
+      "name": "Jersey",
+      "iso_code": "JE",
+      "type": "dependency",
+      "parent_entity": "United Kingdom",
+      "continent": "europe",
+      "sub_region": "northern-europe",
+      "capital": "Saint Helier",
+      "population_millions": 0.11,
+      "languages": [
+        "English",
+        "French"
+      ],
+      "currency": "GBP",
+      "size_class": "small",
+      "neighbors": [
+        "France",
+        "Guernsey"
+      ],
+      "common_comparisons": [
+        "Guernsey",
+        "Isle of Man"
+      ]
+    },
+    "guernsey": {
+      "name": "Guernsey",
+      "iso_code": "GG",
+      "type": "dependency",
+      "parent_entity": "United Kingdom",
+      "continent": "europe",
+      "sub_region": "northern-europe",
+      "capital": "Saint Peter Port",
+      "population_millions": 0.06,
+      "languages": [
+        "English",
+        "French"
+      ],
+      "currency": "GBP",
+      "size_class": "small",
+      "neighbors": [
+        "France",
+        "Jersey"
+      ],
+      "common_comparisons": [
+        "Jersey",
+        "Isle of Man"
+      ]
+    },
+    "aruba": {
+      "name": "Aruba",
+      "iso_code": "AW",
+      "type": "territory",
+      "parent_entity": "Netherlands",
+      "continent": "north-america",
+      "sub_region": "caribbean",
+      "capital": "Oranjestad",
+      "population_millions": 0.11,
+      "languages": [
+        "Papiamento",
+        "Dutch"
+      ],
+      "currency": "AWG",
+      "size_class": "small",
+      "neighbors": [
+        "Curacao",
+        "Venezuela"
+      ],
+      "common_comparisons": [
+        "Curacao",
+        "Bonaire"
+      ]
+    },
+    "curacao": {
+      "name": "Curacao",
+      "iso_code": "CW",
+      "type": "territory",
+      "parent_entity": "Netherlands",
+      "continent": "north-america",
+      "sub_region": "caribbean",
+      "capital": "Willemstad",
+      "population_millions": 0.15,
+      "languages": [
+        "Papiamento",
+        "Dutch"
+      ],
+      "currency": "ANG",
+      "size_class": "small",
+      "neighbors": [
+        "Aruba",
+        "Bonaire",
+        "Venezuela"
+      ],
+      "common_comparisons": [
+        "Aruba",
+        "Bonaire"
+      ]
+    },
+    "sint-maarten": {
+      "name": "Sint Maarten",
+      "iso_code": "SX",
+      "type": "territory",
+      "parent_entity": "Netherlands",
+      "continent": "north-america",
+      "sub_region": "caribbean",
+      "capital": "Philipsburg",
+      "population_millions": 0.04,
+      "languages": [
+        "Dutch",
+        "English"
+      ],
+      "currency": "ANG",
+      "size_class": "small",
+      "neighbors": [
+        "Saint Martin",
+        "Anguilla"
+      ],
+      "common_comparisons": [
+        "Saint Martin",
+        "Aruba"
+      ]
+    },
+    "bonaire": {
+      "name": "Bonaire",
+      "iso_code": "BQ",
+      "type": "territory",
+      "parent_entity": "Netherlands",
+      "continent": "north-america",
+      "sub_region": "caribbean",
+      "capital": "Kralendijk",
+      "population_millions": 0.02,
+      "languages": [
+        "Papiamento",
+        "Dutch"
+      ],
+      "currency": "USD",
+      "size_class": "small",
+      "neighbors": [
+        "Curacao",
+        "Venezuela"
+      ],
+      "common_comparisons": [
+        "Curacao",
+        "Aruba"
+      ]
+    },
+    "cook-islands": {
+      "name": "Cook Islands",
+      "iso_code": "CK",
+      "type": "territory",
+      "parent_entity": "New Zealand",
+      "continent": "oceania",
+      "sub_region": "polynesia",
+      "capital": "Avarua",
+      "population_millions": 0.02,
+      "languages": [
+        "English",
+        "Cook Islands Maori"
+      ],
+      "currency": "NZD",
+      "size_class": "small",
+      "neighbors": [
+        "French Polynesia",
+        "Samoa"
+      ],
+      "common_comparisons": [
+        "Niue",
+        "Samoa"
+      ]
+    },
+    "niue": {
+      "name": "Niue",
+      "iso_code": "NU",
+      "type": "territory",
+      "parent_entity": "New Zealand",
+      "continent": "oceania",
+      "sub_region": "polynesia",
+      "capital": "Alofi",
+      "population_millions": 0.002,
+      "languages": [
+        "Niuean",
+        "English"
+      ],
+      "currency": "NZD",
+      "size_class": "small",
+      "neighbors": [
+        "Tonga",
+        "Cook Islands"
+      ],
+      "common_comparisons": [
+        "Cook Islands",
+        "Tonga"
+      ]
+    },
+    "tokelau": {
+      "name": "Tokelau",
+      "iso_code": "TK",
+      "type": "territory",
+      "parent_entity": "New Zealand",
+      "continent": "oceania",
+      "sub_region": "polynesia",
+      "capital": "Atafu",
+      "population_millions": 0.002,
+      "languages": [
+        "Tokelauan",
+        "English"
+      ],
+      "currency": "NZD",
+      "size_class": "small",
+      "neighbors": [
+        "Samoa"
+      ],
+      "common_comparisons": [
+        "Tuvalu",
+        "Wallis and Futuna"
+      ]
+    },
+    "christmas-island": {
+      "name": "Christmas Island",
+      "iso_code": "CX",
+      "type": "territory",
+      "parent_entity": "Australia",
+      "continent": "asia",
+      "sub_region": "south-eastern-asia",
+      "capital": "Flying Fish Cove",
+      "population_millions": 0.002,
+      "languages": [
+        "English"
+      ],
+      "currency": "AUD",
+      "size_class": "small",
+      "neighbors": [
+        "Indonesia"
+      ],
+      "common_comparisons": [
+        "Cocos Islands",
+        "Norfolk Island"
+      ]
+    },
+    "cocos-islands": {
+      "name": "Cocos Islands",
+      "iso_code": "CC",
+      "type": "territory",
+      "parent_entity": "Australia",
+      "continent": "asia",
+      "sub_region": "south-eastern-asia",
+      "capital": "West Island",
+      "population_millions": 0.0006,
+      "languages": [
+        "English",
+        "Malay"
+      ],
+      "currency": "AUD",
+      "size_class": "small",
+      "neighbors": [
+        "Christmas Island"
+      ],
+      "common_comparisons": [
+        "Christmas Island",
+        "Maldives"
+      ]
+    },
+    "norfolk-island": {
+      "name": "Norfolk Island",
+      "iso_code": "NF",
+      "type": "territory",
+      "parent_entity": "Australia",
+      "continent": "oceania",
+      "sub_region": "australia-new-zealand",
+      "capital": "Kingston",
+      "population_millions": 0.002,
+      "languages": [
+        "English",
+        "Norfuk"
+      ],
+      "currency": "AUD",
+      "size_class": "small",
+      "neighbors": [
+        "New Zealand",
+        "New Caledonia"
+      ],
+      "common_comparisons": [
+        "Lord Howe Island",
+        "Pitcairn Islands"
+      ]
+    },
+    "western-sahara": {
+      "name": "Western Sahara",
+      "iso_code": "EH",
+      "type": "disputed",
+      "parent_entity": "",
+      "continent": "africa",
+      "sub_region": "northern-africa",
+      "capital": "Laayoune",
+      "population_millions": 0.6,
+      "languages": [
+        "Arabic",
+        "Berber"
+      ],
+      "currency": "MAD",
+      "size_class": "small",
+      "neighbors": [
+        "Morocco",
+        "Algeria",
+        "Mauritania"
+      ],
+      "common_comparisons": [
+        "Morocco",
+        "Palestine"
+      ]
+    },
+    "kosovo": {
+      "name": "Kosovo",
+      "iso_code": "XK",
+      "type": "disputed",
+      "parent_entity": "",
+      "continent": "europe",
+      "sub_region": "southern-europe",
+      "capital": "Pristina",
+      "population_millions": 1.8,
+      "languages": [
+        "Albanian",
+        "Serbian"
+      ],
+      "currency": "EUR",
+      "size_class": "medium",
+      "neighbors": [
+        "Serbia",
+        "North Macedonia",
+        "Albania",
+        "Montenegro"
+      ],
+      "common_comparisons": [
+        "Albania",
+        "North Macedonia"
+      ]
+    },
+    "svalbard": {
+      "name": "Svalbard",
+      "iso_code": "SJ",
+      "type": "territory",
+      "parent_entity": "Norway",
+      "continent": "europe",
+      "sub_region": "northern-europe",
+      "capital": "Longyearbyen",
+      "population_millions": 0.003,
+      "languages": [
+        "Norwegian"
+      ],
+      "currency": "NOK",
+      "size_class": "small",
+      "neighbors": [
+        "Norway"
+      ],
+      "common_comparisons": [
+        "Greenland",
+        "Iceland"
+      ]
+    },
+    "aland-islands": {
+      "name": "Aland Islands",
+      "iso_code": "AX",
+      "type": "territory",
+      "parent_entity": "Finland",
+      "continent": "europe",
+      "sub_region": "northern-europe",
+      "capital": "Mariehamn",
+      "population_millions": 0.03,
+      "languages": [
+        "Swedish"
+      ],
+      "currency": "EUR",
+      "size_class": "small",
+      "neighbors": [
+        "Finland",
+        "Sweden"
+      ],
+      "common_comparisons": [
+        "Faroe Islands",
+        "Gotland"
+      ]
+    },
+    "south-georgia": {
+      "name": "South Georgia",
+      "iso_code": "GS",
+      "type": "territory",
+      "parent_entity": "United Kingdom",
+      "continent": "south-america",
+      "sub_region": "south-america",
+      "capital": "King Edward Point",
+      "population_millions": 3e-05,
+      "languages": [
+        "English"
+      ],
+      "currency": "GBP",
+      "size_class": "small",
+      "neighbors": [
+        "Falkland Islands"
+      ],
+      "common_comparisons": [
+        "Falkland Islands",
+        "Antarctica"
+      ]
+    }
+  }
+}

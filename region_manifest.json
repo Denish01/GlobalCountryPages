@@ -1,0 +1,18 @@
+{
+  "version": "1.0",
+  "last_updated": null,
+  "continents": {
+    "africa": {"status": "pending", "entities": 0, "pages_generated": 0, "pages_total": 0},
+    "asia": {"status": "pending", "entities": 0, "pages_generated": 0, "pages_total": 0},
+    "europe": {"status": "pending", "entities": 0, "pages_generated": 0, "pages_total": 0},
+    "north-america": {"status": "pending", "entities": 0, "pages_generated": 0, "pages_total": 0},
+    "south-america": {"status": "pending", "entities": 0, "pages_generated": 0, "pages_total": 0},
+    "oceania": {"status": "pending", "entities": 0, "pages_generated": 0, "pages_total": 0}
+  },
+  "totals": {
+    "entities_complete": 0,
+    "entities_total": 244,
+    "pages_generated": 0,
+    "pages_estimated": 18000
+  }
+}

@@ -1,0 +1,130 @@
+{
+  "version": "1.0",
+  "description": "Frozen angle registry for GlobalCountryPages - 11 angles per entity",
+
+  "angles": {
+    "overview": {
+      "slug": "overview",
+      "title_pattern": "{Entity} - Overview & Essential Facts",
+      "description": "Identity, sovereignty, basic facts",
+      "prompt_key": "overview",
+      "required": true,
+      "priority": 1,
+      "level": [2, 3],
+      "word_target": 800
+    },
+    "geography": {
+      "slug": "geography",
+      "title_pattern": "{Entity} Geography - Location, Terrain & Climate",
+      "description": "Location, terrain, climate, best time to visit",
+      "prompt_key": "geography",
+      "required": true,
+      "priority": 2,
+      "level": [2, 3],
+      "word_target": 700
+    },
+    "must-know-truth": {
+      "slug": "must-know-truth",
+      "title_pattern": "The Truth About {Entity} - History & Real Facts",
+      "description": "Colonial history, independence, real facts",
+      "prompt_key": "must_know_truth",
+      "required": true,
+      "priority": 3,
+      "level": [2],
+      "word_target": 800
+    },
+    "positive-things": {
+      "slug": "positive-things",
+      "title_pattern": "Positive Things About {Entity} - Achievements & Culture",
+      "description": "Achievements, culture highlights, what makes it great",
+      "prompt_key": "positive_things",
+      "required": true,
+      "priority": 4,
+      "level": [2],
+      "word_target": 700
+    },
+    "cities-and-regions": {
+      "slug": "cities-and-regions",
+      "title_pattern": "{Entity} Cities & Regions Guide",
+      "description": "Major cities, admin divisions",
+      "prompt_key": "cities_and_regions",
+      "required": true,
+      "priority": 5,
+      "level": [2],
+      "word_target": 900
+    },
+    "visa-and-entry": {
+      "slug": "visa-and-entry",
+      "title_pattern": "{Entity} Visa & Entry Requirements",
+      "description": "Visa requirements by visitor category",
+      "prompt_key": "visa_and_entry",
+      "required": true,
+      "priority": 6,
+      "level": [2],
+      "word_target": 700
+    },
+    "cost-of-living": {
+      "slug": "cost-of-living",
+      "title_pattern": "Cost of Living in {Entity} - Prices & Budget Guide",
+      "description": "Prices, affordability, budget breakdowns",
+      "prompt_key": "cost_of_living",
+      "required": true,
+      "priority": 7,
+      "level": [2, 3],
+      "word_target": 700
+    },
+    "economy": {
+      "slug": "economy",
+      "title_pattern": "{Entity} Economy - GDP, Industries & Trade",
+      "description": "GDP, industries, infrastructure, trade",
+      "prompt_key": "economy",
+      "required": true,
+      "priority": 8,
+      "level": [2],
+      "word_target": 700
+    },
+    "culture": {
+      "slug": "culture",
+      "title_pattern": "{Entity} Culture - Food, Traditions & Etiquette",
+      "description": "Food, traditions, etiquette, languages",
+      "prompt_key": "culture",
+      "required": true,
+      "priority": 9,
+      "level": [2, 3],
+      "word_target": 800
+    },
+    "travel-safety": {
+      "slug": "travel-safety",
+      "title_pattern": "{Entity} Travel Safety - Advisories & Tips",
+      "description": "Safety advisories, health, tips",
+      "prompt_key": "travel_safety",
+      "required": true,
+      "priority": 10,
+      "level": [2],
+      "word_target": 600
+    },
+    "vs": {
+      "slug": "vs",
+      "title_pattern": "{Entity} vs {Comparison} - Key Differences",
+      "description": "Comparisons with neighbors or commonly confused countries",
+      "prompt_key": "vs",
+      "required": false,
+      "priority": 11,
+      "level": [2],
+      "word_target": 800
+    }
+  },
+
+  "level3_angles": {
+    "regions": ["overview", "geography", "culture", "cost-of-living", "cities-and-regions", "travel-safety", "positive-things"],
+    "cities": ["overview", "geography", "culture", "cost-of-living", "travel-safety"]
+  },
+
+  "rules": {
+    "total_angles": 11,
+    "required_for_closure": 10,
+    "optional_angles": ["vs"],
+    "file_structure": "continent/country/angle",
+    "level3_structure": "continent/country/regions|cities/subentity/angle"
+  }
+}

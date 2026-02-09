@@ -1,0 +1,247 @@
+{
+  "version": "1.0",
+  "description": "Sub-regions and cities for large countries (Level 3 entities)",
+  "countries": {
+    "united-states": {
+      "regions": [
+        {"name": "California", "slug": "california", "type": "state"},
+        {"name": "Texas", "slug": "texas", "type": "state"},
+        {"name": "Florida", "slug": "florida", "type": "state"},
+        {"name": "New York State", "slug": "new-york-state", "type": "state"},
+        {"name": "Illinois", "slug": "illinois", "type": "state"},
+        {"name": "Pennsylvania", "slug": "pennsylvania", "type": "state"},
+        {"name": "Ohio", "slug": "ohio", "type": "state"},
+        {"name": "Georgia", "slug": "georgia-us", "type": "state"},
+        {"name": "North Carolina", "slug": "north-carolina", "type": "state"},
+        {"name": "Michigan", "slug": "michigan", "type": "state"},
+        {"name": "Arizona", "slug": "arizona", "type": "state"},
+        {"name": "Washington", "slug": "washington-state", "type": "state"},
+        {"name": "Colorado", "slug": "colorado", "type": "state"},
+        {"name": "Massachusetts", "slug": "massachusetts", "type": "state"},
+        {"name": "Virginia", "slug": "virginia", "type": "state"},
+        {"name": "Hawaii", "slug": "hawaii", "type": "state"}
+      ],
+      "cities": [
+        "New York City", "Los Angeles", "Chicago", "Houston", "Phoenix",
+        "Philadelphia", "San Antonio", "San Diego", "Dallas", "Austin",
+        "San Francisco", "Seattle", "Denver", "Boston", "Miami",
+        "Atlanta", "Las Vegas", "Nashville", "Portland", "Detroit",
+        "Minneapolis", "Orlando", "New Orleans", "Honolulu", "Washington D.C."
+      ]
+    },
+    "china": {
+      "regions": [
+        {"name": "Guangdong", "slug": "guangdong", "type": "province"},
+        {"name": "Shandong", "slug": "shandong", "type": "province"},
+        {"name": "Henan", "slug": "henan", "type": "province"},
+        {"name": "Sichuan", "slug": "sichuan", "type": "province"},
+        {"name": "Jiangsu", "slug": "jiangsu", "type": "province"},
+        {"name": "Zhejiang", "slug": "zhejiang", "type": "province"},
+        {"name": "Yunnan", "slug": "yunnan", "type": "province"},
+        {"name": "Fujian", "slug": "fujian", "type": "province"},
+        {"name": "Xinjiang", "slug": "xinjiang", "type": "region"},
+        {"name": "Tibet", "slug": "tibet", "type": "region"}
+      ],
+      "cities": [
+        "Beijing", "Shanghai", "Guangzhou", "Shenzhen", "Chengdu",
+        "Hangzhou", "Wuhan", "Nanjing", "Xi'an", "Chongqing",
+        "Suzhou", "Tianjin", "Kunming", "Qingdao", "Harbin"
+      ]
+    },
+    "india": {
+      "regions": [
+        {"name": "Maharashtra", "slug": "maharashtra", "type": "state"},
+        {"name": "Uttar Pradesh", "slug": "uttar-pradesh", "type": "state"},
+        {"name": "Tamil Nadu", "slug": "tamil-nadu", "type": "state"},
+        {"name": "Karnataka", "slug": "karnataka", "type": "state"},
+        {"name": "Kerala", "slug": "kerala", "type": "state"},
+        {"name": "Rajasthan", "slug": "rajasthan", "type": "state"},
+        {"name": "West Bengal", "slug": "west-bengal", "type": "state"},
+        {"name": "Gujarat", "slug": "gujarat", "type": "state"},
+        {"name": "Goa", "slug": "goa", "type": "state"},
+        {"name": "Punjab", "slug": "punjab-india", "type": "state"}
+      ],
+      "cities": [
+        "Mumbai", "Delhi", "Bangalore", "Hyderabad", "Chennai",
+        "Kolkata", "Ahmedabad", "Pune", "Jaipur", "Lucknow",
+        "Kochi", "Varanasi", "Agra", "Udaipur", "Goa City"
+      ]
+    },
+    "brazil": {
+      "regions": [
+        {"name": "Sao Paulo State", "slug": "sao-paulo-state", "type": "state"},
+        {"name": "Rio de Janeiro State", "slug": "rio-de-janeiro-state", "type": "state"},
+        {"name": "Minas Gerais", "slug": "minas-gerais", "type": "state"},
+        {"name": "Bahia", "slug": "bahia", "type": "state"},
+        {"name": "Parana", "slug": "parana", "type": "state"},
+        {"name": "Amazonas", "slug": "amazonas", "type": "state"},
+        {"name": "Rio Grande do Sul", "slug": "rio-grande-do-sul", "type": "state"},
+        {"name": "Pernambuco", "slug": "pernambuco", "type": "state"}
+      ],
+      "cities": [
+        "Sao Paulo", "Rio de Janeiro", "Brasilia", "Salvador", "Fortaleza",
+        "Belo Horizonte", "Manaus", "Curitiba", "Recife", "Porto Alegre",
+        "Florianopolis", "Natal"
+      ]
+    },
+    "united-kingdom": {
+      "regions": [
+        {"name": "England", "slug": "england", "type": "country"},
+        {"name": "Scotland", "slug": "scotland", "type": "country"},
+        {"name": "Wales", "slug": "wales", "type": "country"},
+        {"name": "Northern Ireland", "slug": "northern-ireland", "type": "country"}
+      ],
+      "cities": [
+        "London", "Edinburgh", "Manchester", "Birmingham", "Glasgow",
+        "Liverpool", "Bristol", "Leeds", "Cardiff", "Belfast",
+        "Oxford", "Cambridge", "Bath", "York", "Brighton"
+      ]
+    },
+    "france": {
+      "regions": [
+        {"name": "Ile-de-France", "slug": "ile-de-france", "type": "region"},
+        {"name": "Provence-Alpes-Cote d'Azur", "slug": "provence-alpes-cote-dazur", "type": "region"},
+        {"name": "Occitanie", "slug": "occitanie", "type": "region"},
+        {"name": "Nouvelle-Aquitaine", "slug": "nouvelle-aquitaine", "type": "region"},
+        {"name": "Auvergne-Rhone-Alpes", "slug": "auvergne-rhone-alpes", "type": "region"},
+        {"name": "Brittany", "slug": "brittany", "type": "region"},
+        {"name": "Normandy", "slug": "normandy", "type": "region"},
+        {"name": "Corsica", "slug": "corsica", "type": "region"}
+      ],
+      "cities": [
+        "Paris", "Marseille", "Lyon", "Toulouse", "Nice",
+        "Nantes", "Strasbourg", "Bordeaux", "Lille", "Montpellier"
+      ]
+    },
+    "germany": {
+      "regions": [
+        {"name": "Bavaria", "slug": "bavaria", "type": "state"},
+        {"name": "North Rhine-Westphalia", "slug": "north-rhine-westphalia", "type": "state"},
+        {"name": "Baden-Wurttemberg", "slug": "baden-wurttemberg", "type": "state"},
+        {"name": "Lower Saxony", "slug": "lower-saxony", "type": "state"},
+        {"name": "Hesse", "slug": "hesse", "type": "state"},
+        {"name": "Saxony", "slug": "saxony", "type": "state"},
+        {"name": "Berlin", "slug": "berlin-state", "type": "city-state"}
+      ],
+      "cities": [
+        "Berlin", "Munich", "Hamburg", "Frankfurt", "Cologne",
+        "Stuttgart", "Dusseldorf", "Dresden", "Leipzig", "Heidelberg"
+      ]
+    },
+    "japan": {
+      "regions": [
+        {"name": "Kanto", "slug": "kanto", "type": "region"},
+        {"name": "Kansai", "slug": "kansai", "type": "region"},
+        {"name": "Hokkaido", "slug": "hokkaido", "type": "prefecture"},
+        {"name": "Chubu", "slug": "chubu", "type": "region"},
+        {"name": "Kyushu", "slug": "kyushu", "type": "region"},
+        {"name": "Tohoku", "slug": "tohoku", "type": "region"},
+        {"name": "Okinawa", "slug": "okinawa", "type": "prefecture"}
+      ],
+      "cities": [
+        "Tokyo", "Osaka", "Kyoto", "Yokohama", "Nagoya",
+        "Sapporo", "Fukuoka", "Kobe", "Hiroshima", "Nara"
+      ]
+    },
+    "italy": {
+      "regions": [
+        {"name": "Lombardy", "slug": "lombardy", "type": "region"},
+        {"name": "Lazio", "slug": "lazio", "type": "region"},
+        {"name": "Campania", "slug": "campania", "type": "region"},
+        {"name": "Sicily", "slug": "sicily", "type": "region"},
+        {"name": "Veneto", "slug": "veneto", "type": "region"},
+        {"name": "Tuscany", "slug": "tuscany", "type": "region"},
+        {"name": "Sardinia", "slug": "sardinia", "type": "region"}
+      ],
+      "cities": [
+        "Rome", "Milan", "Naples", "Florence", "Venice",
+        "Turin", "Bologna", "Palermo", "Genoa", "Amalfi"
+      ]
+    },
+    "spain": {
+      "regions": [
+        {"name": "Catalonia", "slug": "catalonia", "type": "community"},
+        {"name": "Andalusia", "slug": "andalusia", "type": "community"},
+        {"name": "Community of Madrid", "slug": "community-of-madrid", "type": "community"},
+        {"name": "Valencian Community", "slug": "valencian-community", "type": "community"},
+        {"name": "Basque Country", "slug": "basque-country", "type": "community"},
+        {"name": "Galicia", "slug": "galicia", "type": "community"},
+        {"name": "Canary Islands", "slug": "canary-islands", "type": "community"},
+        {"name": "Balearic Islands", "slug": "balearic-islands", "type": "community"}
+      ],
+      "cities": [
+        "Madrid", "Barcelona", "Seville", "Valencia", "Bilbao",
+        "Malaga", "Granada", "San Sebastian", "Toledo", "Salamanca"
+      ]
+    },
+    "nigeria": {
+      "regions": [
+        {"name": "Lagos State", "slug": "lagos-state", "type": "state"},
+        {"name": "Kano State", "slug": "kano-state", "type": "state"},
+        {"name": "Rivers State", "slug": "rivers-state", "type": "state"},
+        {"name": "Oyo State", "slug": "oyo-state", "type": "state"},
+        {"name": "FCT Abuja", "slug": "fct-abuja", "type": "territory"},
+        {"name": "Kaduna State", "slug": "kaduna-state", "type": "state"}
+      ],
+      "cities": [
+        "Lagos", "Abuja", "Kano", "Ibadan", "Port Harcourt",
+        "Benin City", "Kaduna", "Enugu", "Calabar", "Warri"
+      ]
+    },
+    "mexico": {
+      "regions": [
+        {"name": "Mexico City", "slug": "mexico-city-state", "type": "federal-district"},
+        {"name": "Jalisco", "slug": "jalisco", "type": "state"},
+        {"name": "Quintana Roo", "slug": "quintana-roo", "type": "state"},
+        {"name": "Oaxaca", "slug": "oaxaca-state", "type": "state"},
+        {"name": "Yucatan", "slug": "yucatan", "type": "state"},
+        {"name": "Baja California", "slug": "baja-california", "type": "state"}
+      ],
+      "cities": [
+        "Mexico City", "Guadalajara", "Monterrey", "Cancun", "Oaxaca",
+        "Merida", "Puebla", "Playa del Carmen", "San Miguel de Allende", "Tijuana"
+      ]
+    },
+    "australia": {
+      "regions": [
+        {"name": "New South Wales", "slug": "new-south-wales", "type": "state"},
+        {"name": "Victoria", "slug": "victoria-au", "type": "state"},
+        {"name": "Queensland", "slug": "queensland", "type": "state"},
+        {"name": "Western Australia", "slug": "western-australia", "type": "state"},
+        {"name": "South Australia", "slug": "south-australia", "type": "state"},
+        {"name": "Tasmania", "slug": "tasmania", "type": "state"},
+        {"name": "Northern Territory", "slug": "northern-territory", "type": "territory"}
+      ],
+      "cities": [
+        "Sydney", "Melbourne", "Brisbane", "Perth", "Adelaide",
+        "Gold Coast", "Canberra", "Hobart", "Darwin", "Cairns"
+      ]
+    },
+    "canada": {
+      "regions": [
+        {"name": "Ontario", "slug": "ontario", "type": "province"},
+        {"name": "Quebec", "slug": "quebec", "type": "province"},
+        {"name": "British Columbia", "slug": "british-columbia", "type": "province"},
+        {"name": "Alberta", "slug": "alberta", "type": "province"},
+        {"name": "Nova Scotia", "slug": "nova-scotia", "type": "province"},
+        {"name": "Manitoba", "slug": "manitoba", "type": "province"}
+      ],
+      "cities": [
+        "Toronto", "Montreal", "Vancouver", "Ottawa", "Calgary",
+        "Edmonton", "Quebec City", "Winnipeg", "Halifax", "Victoria"
+      ]
+    },
+    "south-africa": {
+      "regions": [
+        {"name": "Gauteng", "slug": "gauteng", "type": "province"},
+        {"name": "Western Cape", "slug": "western-cape", "type": "province"},
+        {"name": "KwaZulu-Natal", "slug": "kwazulu-natal", "type": "province"},
+        {"name": "Eastern Cape", "slug": "eastern-cape", "type": "province"}
+      ],
+      "cities": [
+        "Johannesburg", "Cape Town", "Durban", "Pretoria", "Port Elizabeth",
+        "Stellenbosch", "Bloemfontein", "Soweto"
+      ]
+    }
+  }
+}
