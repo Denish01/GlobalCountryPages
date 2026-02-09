@@ -1248,14 +1248,26 @@ def generate_page(entity_slug, angle_id, comparison_entity=None):
 
 def generate_batch(entity_slugs=None, angle_id=None, count=200, phase=None):
     """
-    Generate multiple pages in batch.
+    Generate multiple pages in batch. Handles all 5 phases automatically.
 
     Args:
         entity_slugs: List of entity slugs, or None for all
         angle_id: Single angle, or None for phase-appropriate angles
         count: Max pages to generate this run
-        phase: Processing phase (1-5)
+        phase: Processing phase (1-5), or None for auto-detect
     """
+    # Auto-detect phase if not specified
+    if phase is None:
+        from entity_discovery import detect_current_phase
+        phase = detect_current_phase()
+        log(f"Auto-detected phase: {phase}", "INFO")
+
+    # ── Phase 4 & 5: delegate to Level 3 batch generator ──
+    if phase in (4, 5):
+        sub_type = "regions" if phase == 4 else "cities"
+        return _generate_level3_auto(sub_type=sub_type, count=count)
+
+    # ── Phase 1-3: Level 2 entity pages ──
     angle_registry = load_angle_registry()
     all_angles = angle_registry.get("angles", {})
 
@@ -1277,7 +1289,7 @@ def generate_batch(entity_slugs=None, angle_id=None, count=200, phase=None):
     else:
         slugs = get_all_entity_slugs()
 
-    # Build work queue: (entity_slug, angle)
+    # Build work queue: (entity_slug, angle, comparison)
     work = []
     for slug in slugs:
         entity = get_entity(slug)
@@ -1304,7 +1316,7 @@ def generate_batch(entity_slugs=None, angle_id=None, count=200, phase=None):
     # Limit to count
     work = work[:count]
 
-    log(f"Generating {len(work)} pages...")
+    log(f"Generating {len(work)} pages (Phase {phase})...")
     print("=" * 60)
 
     results = []
@@ -1330,6 +1342,84 @@ def generate_batch(entity_slugs=None, angle_id=None, count=200, phase=None):
     # Update manifest
     update_manifest()
 
+    return results
+
+
+def _generate_level3_auto(sub_type="regions", count=200):
+    """Automatically generate Level 3 pages across all large countries."""
+    l3_registry = load_level3_registry()
+    angle_registry = load_angle_registry()
+    l3_angles = angle_registry.get("level3_angles", {}).get(sub_type, ["overview"])
+    countries = l3_registry.get("countries", {})
+
+    # Build global work queue across all countries
+    work = []
+    for country_slug, data in countries.items():
+        entity = get_entity(country_slug)
+        if not entity:
+            continue
+        continent = entity.get("continent", "general")
+
+        if sub_type == "cities":
+            sub_entities = data.get("cities", [])
+            sub_entities = [{"name": c, "slug": slugify(c)} if isinstance(c, str) else c for c in sub_entities]
+        else:
+            sub_entities = data.get("regions", [])
+
+        for sub in sub_entities:
+            sub_name = sub if isinstance(sub, str) else sub.get("name", "")
+            sub_slug = slugify(sub_name)
+            for aid in l3_angles:
+                existing = OUTPUT_DIR / continent / country_slug / sub_type / sub_slug / f"{aid}.html"
+                if not existing.exists():
+                    work.append((country_slug, sub_name, aid))
+
+    if not work:
+        log(f"No Level 3 {sub_type} pages to generate (all done)", "WARN")
+        return []
+
+    work = work[:count]
+    phase_num = 4 if sub_type == "regions" else 5
+    log(f"Generating {len(work)} Level 3 {sub_type} pages (Phase {phase_num})...")
+    print("=" * 60)
+
+    results = []
+    for i, (country_slug, sub_name, aid) in enumerate(work, 1):
+        entity = get_entity(country_slug)
+        print(f"\n[{i}/{len(work)}] {entity['name']} > {sub_name} / {aid}")
+
+        sub_entity = {
+            "name": sub_name,
+            "capital": "",
+            "continent": entity["continent"],
+            "population_millions": 0,
+            "languages": entity.get("languages", []),
+            "currency": entity.get("currency", ""),
+            "type": sub_type.rstrip("s"),
+            "parent_entity": entity["name"],
+            "neighbors": [],
+            "iso_code": entity.get("iso_code", ""),
+            "common_comparisons": [],
+        }
+
+        angle_config = angle_registry.get("angles", {}).get(aid, {})
+        prompt_key = angle_config.get("prompt_key", aid)
+        prompt = get_prompt_for_angle(sub_entity, prompt_key)
+        title = angle_config.get("title_pattern", "{Entity}").replace("{Entity}", sub_name)
+
+        try:
+            content = generate_with_groq(prompt, max_tokens=2000)
+            result = save_level3_page(entity, sub_name, sub_type, aid, title, content)
+            results.append(result)
+        except Exception as e:
+            log(f"Failed: {e}", "ERROR")
+
+        if i < len(work):
+            time.sleep(2)
+
+    print("\n" + "=" * 60)
+    log(f"Generated {len(results)}/{len(work)} Level 3 pages", "SUCCESS")
+    update_manifest()
     return results
 
 
