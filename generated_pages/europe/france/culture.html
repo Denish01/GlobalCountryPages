@@ -1,0 +1,256 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="France Culture - Food, Traditions & Etiquette - Comprehensive guide to France. Global Country Guide.">
+    <title>France Culture - Food, Traditions & Etiquette | Global Country Guide</title>
+    <style>
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+            line-height: 1.7;
+            color: #2d3436;
+            background: #fafafa;
+        }
+        header {
+            background: linear-gradient(135deg, #3498DB, #2980B9);
+            color: white;
+            padding: 24px 0;
+        }
+        header .container {
+            max-width: 900px;
+            margin: 0 auto;
+            padding: 0 20px;
+        }
+        header h1 {
+            font-size: 1.8em;
+            font-weight: 700;
+        }
+        .flag { font-size: 1.4em; margin-right: 8px; }
+        .breadcrumb {
+            max-width: 900px;
+            margin: 0 auto;
+            padding: 12px 20px;
+            font-size: 0.85em;
+            color: #636e72;
+        }
+        .breadcrumb a { color: #3498DB; text-decoration: none; }
+        .breadcrumb a:hover { text-decoration: underline; }
+        .angle-nav {
+            max-width: 900px;
+            margin: 0 auto;
+            padding: 0 20px 16px;
+            display: flex;
+            flex-wrap: wrap;
+            gap: 6px;
+        }
+        .angle-link {
+            display: inline-block;
+            padding: 6px 14px;
+            border-radius: 20px;
+            font-size: 0.82em;
+            text-decoration: none;
+            color: #636e72;
+            background: #f1f2f6;
+            transition: all 0.2s;
+        }
+        .angle-link:hover { background: #dfe6e9; }
+        .angle-link.active {
+            background: #3498DB;
+            color: white;
+        }
+        article {
+            max-width: 900px;
+            margin: 0 auto;
+            padding: 20px;
+            background: white;
+            border-radius: 8px;
+            box-shadow: 0 1px 3px rgba(0,0,0,0.08);
+            margin-bottom: 40px;
+        }
+        article h2 {
+            color: #3498DB;
+            margin: 28px 0 12px;
+            padding-bottom: 6px;
+            border-bottom: 2px solid #3498DB22;
+        }
+        article h3 { color: #2d3436; margin: 20px 0 8px; }
+        article p { margin-bottom: 14px; }
+        article ul, article ol { padding-left: 24px; margin-bottom: 14px; }
+        article li { margin-bottom: 6px; }
+        /* Factbox */
+        .factbox {
+            background: linear-gradient(135deg, #3498DB08, #3498DB15);
+            border: 1px solid #3498DB30;
+            border-radius: 10px;
+            padding: 20px 24px;
+            margin: 20px 0;
+        }
+        .factbox h3 {
+            color: #3498DB;
+            margin: 0 0 12px;
+            font-size: 1.05em;
+        }
+        .fact-row {
+            display: flex;
+            justify-content: space-between;
+            padding: 6px 0;
+            border-bottom: 1px solid #3498DB15;
+        }
+        .fact-row:last-child { border-bottom: none; }
+        .fact-key { font-weight: 600; color: #2d3436; flex: 0 0 45%; }
+        .fact-val { color: #636e72; text-align: right; flex: 0 0 50%; }
+        /* Tables */
+        .table-wrapper { overflow-x: auto; margin: 16px 0; }
+        table { border-collapse: collapse; width: 100%; font-size: 0.92em; }
+        th {
+            background: #3498DB;
+            color: white;
+            padding: 10px 14px;
+            text-align: left;
+            font-weight: 600;
+        }
+        td { padding: 10px 14px; border-bottom: 1px solid #eee; }
+        tr:nth-child(even) { background: #f8f9fa; }
+        tr:hover { background: #3498DB08; }
+        /* Callout */
+        .callout {
+            background: #fff3cd;
+            border-left: 4px solid #ffc107;
+            padding: 14px 18px;
+            border-radius: 0 8px 8px 0;
+            margin: 16px 0;
+            font-size: 0.93em;
+        }
+        .callout .misconception {
+            color: #856404;
+            margin-bottom: 4px;
+        }
+        .callout .reality {
+            color: #155724;
+            background: #d4edda;
+            padding: 8px 12px;
+            border-radius: 4px;
+            margin-bottom: 12px;
+        }
+        /* Rating */
+        .rating {
+            display: flex;
+            align-items: center;
+            gap: 10px;
+            padding: 6px 0;
+        }
+        .rating-label { font-weight: 600; min-width: 160px; }
+        .rating-dots { font-size: 1.2em; color: #3498DB; letter-spacing: 2px; }
+        .rating-score { color: #636e72; font-size: 0.85em; }
+        footer {
+            text-align: center;
+            padding: 30px 20px;
+            color: #b2bec3;
+            font-size: 0.8em;
+        }
+        footer a { color: #636e72; }
+        @media (max-width: 600px) {
+            header h1 { font-size: 1.3em; }
+            .angle-nav { gap: 4px; }
+            .angle-link { padding: 4px 10px; font-size: 0.75em; }
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <div class="container">
+            <h1><span class="flag">🇫🇷</span> France Culture - Food, Traditions & Etiquette</h1>
+        </div>
+    </header>
+
+    <nav class="breadcrumb"><a href="/">Home</a> &raquo; <a href="/europe/">Europe</a> &raquo; <a href="/europe/france/">France</a> &raquo; <span>Culture</span></nav>
+
+    <nav class="angle-nav">
+        <a href="/europe/france/overview.html" class="angle-link ">Overview</a>
+        <a href="/europe/france/geography.html" class="angle-link ">Geography</a>
+        <a href="/europe/france/must-know-truth.html" class="angle-link ">Must Know Truth</a>
+        <a href="/europe/france/positive-things.html" class="angle-link ">Positive Things</a>
+        <a href="/europe/france/cities-and-regions.html" class="angle-link ">Cities And Regions</a>
+        <a href="/europe/france/visa-and-entry.html" class="angle-link ">Visa And Entry</a>
+        <a href="/europe/france/cost-of-living.html" class="angle-link ">Cost Of Living</a>
+        <a href="/europe/france/economy.html" class="angle-link ">Economy</a>
+        <a href="/europe/france/culture.html" class="angle-link active">Culture</a>
+        <a href="/europe/france/travel-safety.html" class="angle-link ">Travel Safety</a>
+    </nav>
+
+    <article>
+        <h2>Cultural Identity</h2>
+        <p>France, known for its rich history, art, and architecture, has a unique cultural identity that is shaped by its strategic location in Western Europe. The country's culture is defined by its <strong>Roman</strong> and <strong>Catholic</strong> heritage, as well as its history of <strong>monarchy</strong> and <strong>revolution</strong>. The French people, with a population of 68 million, are predominantly <strong>ethnic French</strong>, with a significant number of <strong>immigrant communities</strong> from North Africa, sub-Saharan Africa, and Asia. The official language is <strong>French</strong>, which is spoken by the vast majority of the population.</p>
+        <p>The French culture is known for its emphasis on <strong>liberty</strong>, <strong>equality</strong>, and <strong>fraternity</strong>, which are the core values of the French Revolution. The country has a long tradition of <strong>intellectual and artistic</strong> pursuits, with famous philosophers like <strong>Voltaire</strong>, <strong>Rousseau</strong>, and <strong>Diderot</strong>, and artists like <strong>Monet</strong>, <strong> Renoir</strong>, and <strong>Picasso</strong>. The French people take great pride in their cultural heritage, which is reflected in their <strong>museums</strong>, <strong>theaters</strong>, and <strong>festivals</strong>.</p>
+        <p>France's cultural identity is also shaped by its <strong>regional diversity</strong>, with different regions having their own unique <strong>cuisine</strong>, <strong>language</strong>, and <strong>traditions</strong>. The country has a strong sense of <strong>national identity</strong>, which is reflected in its <strong>flag</strong>, <strong>national anthem</strong>, and <strong>public holidays</strong>. The French people are known for their <strong>love of life</strong>, <strong>good food</strong>, and <strong>fine wine</strong>, which are an integral part of their culture.</p>
+        <h2>Food & Cuisine</h2>
+        <p>| Dish | Type | Description | Must-Try? |</p>
+        <p>| --- | --- | --- | --- |</p>
+        <p>| Coq au Vin | Stew | Chicken cooked in red wine with mushrooms, onions, and bacon | Yes |</p>
+        <p>| Bouillabaisse | Soup | Fish soup originating from Marseille, made with a variety of fish and shellfish | Yes |</p>
+        <p>| Escargots | Appetizer | Snails cooked in garlic butter | Yes |</p>
+        <p>| Ratatouille | Vegetable dish | Stew from Nice, made with eggplant, zucchini, bell peppers, and tomatoes | Yes |</p>
+        <p>| Crème Brûlée | Dessert | Rich custard base topped with a layer of caramelized sugar | Yes |</p>
+        <p>| Macarons | Dessert | Meringue-based cookie sandwich filled with ganache or buttercream | Yes |</p>
+        <p>| Cassoulet | Stew | Slow-cooked casserole made with white beans, meat, and sometimes pork skin | Yes |</p>
+        <p>| Tarte Tatin | Dessert | Caramelized apple tart made by cooking the apples in butter and sugar | Yes |</p>
+        <p>French cuisine is known for its emphasis on <strong>fresh ingredients</strong>, <strong>simple preparations</strong>, and <strong>rich flavors</strong>. Mealtimes are sacred in France, and <strong>eating customs</strong> are an important part of the culture. Meals are typically <strong>long and leisurely</strong>, with an emphasis on <strong>conversation</strong> and <strong>enjoying good company</strong>. The French people take great pride in their <strong>food culture</strong>, which is reflected in their <strong>markets</strong>, <strong>restaurants</strong>, and <strong>cooking schools</strong>.</p>
+        <h2>Traditions & Festivals</h2>
+        <p>| Festival/Tradition | When | What It Is |</p>
+        <p>| --- | --- | --- |</p>
+        <p>| Bastille Day | July 14th | National holiday commemorating the French Revolution |</p>
+        <p>| Cannes Film Festival | May | International film festival held in Cannes, showcasing new releases and awarding prizes |</p>
+        <p>| Tour de France | July | Annual cycling competition that takes place throughout France |</p>
+        <p>| Christmas Markets | December | Festive markets selling holiday goods, food, and drinks, typically held in larger cities |</p>
+        <p>| Fête de la Musique | June 21st | Annual music festival held on the summer solstice, featuring free concerts and performances |</p>
+        <p>| Carnaval de Nice | February/March | Colorful carnival held in Nice, featuring parades, floats, and costumes |</p>
+        <h2>Etiquette: Do's and Don'ts</h2>
+        <h3>Do:</h3>
+        <ul>
+        <li>Greet people with a <strong>bonjour</strong> or <strong>bonsoir</strong>, depending on the time of day</li>
+        <li>Use <strong>formal titles</strong> such as Monsieur or Madame when addressing older individuals or those in positions of authority</li>
+        <li><strong>Respect</strong> personal space and physical boundaries</li>
+        <li><strong>Learn</strong> a few basic French phrases, such as <strong>merci</strong> and <strong>au revoir</strong></li>
+        <li><strong>Dress</strong> modestly and avoid revealing clothing, especially in churches or formal settings</li>
+        <li><strong>Enjoy</strong> the local cuisine and <strong>try new foods</strong>, but avoid eating on the go or in public transportation</li>
+        </ul>
+        <h3>Don't:</h3>
+        <ul>
+        <li><strong>Don't</strong> assume that everyone speaks English, and be prepared to <strong>communicate</strong> in French</li>
+        <li><strong>Avoid</strong> talking loudly or using <strong>harsh language</strong> in public</li>
+        <li><strong>Don't</strong> tip excessively, as <strong>tipping customs</strong> in France are generally more modest than in the US</li>
+        <li><strong>Avoid</strong> eating <strong>on the go</strong> or in <strong>public transportation</strong>, as this is considered impolite</li>
+        <li><strong>Don't</strong> <strong>litter</strong> or <strong>vandalize</strong> public spaces, as the French take great pride in their <strong>environment</strong></li>
+        <li><strong>Don't</strong> <strong>ignore</strong> local <strong>customs</strong> and <strong>traditions</strong>, and be <strong>respectful</strong> of cultural differences</li>
+        </ul>
+        <h2>Arts & Music</h2>
+        <ul>
+        <li><strong>Impressionism</strong>, a art movement that originated in France, is characterized by its emphasis on <strong>light</strong> and <strong>color</strong>, with famous artists like <strong>Monet</strong> and <strong>Renoir</strong></li>
+        <li><strong>French New Wave</strong>, a film movement that emerged in the 1960s, is known for its <strong>innovative storytelling</strong> and <strong>cinematography</strong>, with directors like <strong>Truffaut</strong> and <strong>Godard</strong></li>
+        <li><strong>Jazz</strong>, a music genre that has a long history in France, is popular in <strong>Parisian clubs</strong> and <strong>festivals</strong>, with famous musicians like <strong>Django Reinhardt</strong> and <strong>Stéphane Grappelli</strong></li>
+        <li><strong>Literature</strong>, with famous authors like <strong>Victor Hugo</strong>, <strong>Gustave Flaubert</strong>, and <strong>Simone de Beauvoir</strong>, is an integral part of French culture</li>
+        <li><strong>Fashion</strong>, with famous designers like <strong>Coco Chanel</strong> and <strong>Yves Saint Laurent</strong>, is a significant part of French culture and <strong>industry</strong></li>
+        </ul>
+        <h2>Useful Phrases</h2>
+        <p>| English | Local Language | Pronunciation |</p>
+        <p>| --- | --- | --- |</p>
+        <p>| Hello | Bonjour | bone-JOOR |</p>
+        <p>| Thank you | Merci | mur-SEE |</p>
+        <p>| Please | S'il vous plaît | see voo play |</p>
+        <p>| Yes / No | Oui / Non | wee / nohn |</p>
+        <p>| How much? | Combien ça coûte? | kohm-byeen sah koo-TAY |</p>
+        <p>| Goodbye | Au revoir | oh reh-VWAHR |</p>
+        <p>| Where is...? | Où est...? | oo eh |</p>
+        <p>| I don't understand | Je ne comprends pas | zhuh nuh kohm-pruh pah |</p>
+        <p>| Do you speak English? | Parlez-vous anglais? | pah-rlay voo ahng-lee |</p>
+        <p>| I'd like... | Je voudrais... | zhuh voo-DREH |</p>
+    </article>
+
+    <footer>
+        <p>&copy; 2026 Global Country Guide. Evergreen reference content.</p>
+        <p>This page contains factual, timeless information. Always verify visa and safety details with official sources.</p>
+    </footer>
+</body>
+</html>

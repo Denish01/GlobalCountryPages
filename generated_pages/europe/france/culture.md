@@ -1,0 +1,83 @@
+---
+title: "France Culture - Food, Traditions & Etiquette"
+entity: "France"
+iso_code: "FR"
+continent: "europe"
+angle: "culture"
+date: "2026-02-08"
+---
+
+# France Culture - Food, Traditions & Etiquette
+
+[SECTION] Cultural Identity [/SECTION]
+France, known for its rich history, art, and architecture, has a unique cultural identity that is shaped by its strategic location in Western Europe. The country's culture is defined by its **Roman** and **Catholic** heritage, as well as its history of **monarchy** and **revolution**. The French people, with a population of 68 million, are predominantly **ethnic French**, with a significant number of **immigrant communities** from North Africa, sub-Saharan Africa, and Asia. The official language is **French**, which is spoken by the vast majority of the population.
+
+The French culture is known for its emphasis on **liberty**, **equality**, and **fraternity**, which are the core values of the French Revolution. The country has a long tradition of **intellectual and artistic** pursuits, with famous philosophers like **Voltaire**, **Rousseau**, and **Diderot**, and artists like **Monet**, ** Renoir**, and **Picasso**. The French people take great pride in their cultural heritage, which is reflected in their **museums**, **theaters**, and **festivals**.
+
+France's cultural identity is also shaped by its **regional diversity**, with different regions having their own unique **cuisine**, **language**, and **traditions**. The country has a strong sense of **national identity**, which is reflected in its **flag**, **national anthem**, and **public holidays**. The French people are known for their **love of life**, **good food**, and **fine wine**, which are an integral part of their culture.
+
+[SECTION] Food & Cuisine [/SECTION]
+| Dish | Type | Description | Must-Try? |
+| --- | --- | --- | --- |
+| Coq au Vin | Stew | Chicken cooked in red wine with mushrooms, onions, and bacon | Yes |
+| Bouillabaisse | Soup | Fish soup originating from Marseille, made with a variety of fish and shellfish | Yes |
+| Escargots | Appetizer | Snails cooked in garlic butter | Yes |
+| Ratatouille | Vegetable dish | Stew from Nice, made with eggplant, zucchini, bell peppers, and tomatoes | Yes |
+| Crème Brûlée | Dessert | Rich custard base topped with a layer of caramelized sugar | Yes |
+| Macarons | Dessert | Meringue-based cookie sandwich filled with ganache or buttercream | Yes |
+| Cassoulet | Stew | Slow-cooked casserole made with white beans, meat, and sometimes pork skin | Yes |
+| Tarte Tatin | Dessert | Caramelized apple tart made by cooking the apples in butter and sugar | Yes |
+
+French cuisine is known for its emphasis on **fresh ingredients**, **simple preparations**, and **rich flavors**. Mealtimes are sacred in France, and **eating customs** are an important part of the culture. Meals are typically **long and leisurely**, with an emphasis on **conversation** and **enjoying good company**. The French people take great pride in their **food culture**, which is reflected in their **markets**, **restaurants**, and **cooking schools**.
+
+[SECTION] Traditions & Festivals [/SECTION]
+| Festival/Tradition | When | What It Is |
+| --- | --- | --- |
+| Bastille Day | July 14th | National holiday commemorating the French Revolution |
+| Cannes Film Festival | May | International film festival held in Cannes, showcasing new releases and awarding prizes |
+| Tour de France | July | Annual cycling competition that takes place throughout France |
+| Christmas Markets | December | Festive markets selling holiday goods, food, and drinks, typically held in larger cities |
+| Fête de la Musique | June 21st | Annual music festival held on the summer solstice, featuring free concerts and performances |
+| Carnaval de Nice | February/March | Colorful carnival held in Nice, featuring parades, floats, and costumes |
+
+[SECTION] Etiquette: Do's and Don'ts [/SECTION]
+**Do:**
+- Greet people with a **bonjour** or **bonsoir**, depending on the time of day
+- Use **formal titles** such as Monsieur or Madame when addressing older individuals or those in positions of authority
+- **Respect** personal space and physical boundaries
+- **Learn** a few basic French phrases, such as **merci** and **au revoir**
+- **Dress** modestly and avoid revealing clothing, especially in churches or formal settings
+- **Enjoy** the local cuisine and **try new foods**, but avoid eating on the go or in public transportation
+
+**Don't:**
+- **Don't** assume that everyone speaks English, and be prepared to **communicate** in French
+- **Avoid** talking loudly or using **harsh language** in public
+- **Don't** tip excessively, as **tipping customs** in France are generally more modest than in the US
+- **Avoid** eating **on the go** or in **public transportation**, as this is considered impolite
+- **Don't** **litter** or **vandalize** public spaces, as the French take great pride in their **environment**
+- **Don't** **ignore** local **customs** and **traditions**, and be **respectful** of cultural differences
+
+[SECTION] Arts & Music [/SECTION]
+- **Impressionism**, a art movement that originated in France, is characterized by its emphasis on **light** and **color**, with famous artists like **Monet** and **Renoir**
+- **French New Wave**, a film movement that emerged in the 1960s, is known for its **innovative storytelling** and **cinematography**, with directors like **Truffaut** and **Godard**
+- **Jazz**, a music genre that has a long history in France, is popular in **Parisian clubs** and **festivals**, with famous musicians like **Django Reinhardt** and **Stéphane Grappelli**
+- **Literature**, with famous authors like **Victor Hugo**, **Gustave Flaubert**, and **Simone de Beauvoir**, is an integral part of French culture
+- **Fashion**, with famous designers like **Coco Chanel** and **Yves Saint Laurent**, is a significant part of French culture and **industry**
+
+[SECTION] Useful Phrases [/SECTION]
+| English | Local Language | Pronunciation |
+| --- | --- | --- |
+| Hello | Bonjour | bone-JOOR |
+| Thank you | Merci | mur-SEE |
+| Please | S'il vous plaît | see voo play |
+| Yes / No | Oui / Non | wee / nohn |
+| How much? | Combien ça coûte? | kohm-byeen sah koo-TAY |
+| Goodbye | Au revoir | oh reh-VWAHR |
+| Where is...? | Où est...? | oo eh |
+| I don't understand | Je ne comprends pas | zhuh nuh kohm-pruh pah |
+| Do you speak English? | Parlez-vous anglais? | pah-rlay voo ahng-lee |
+| I'd like... | Je voudrais... | zhuh voo-DREH |
+
+---
+
+*Evergreen reference content. Verify time-sensitive details with official sources.*

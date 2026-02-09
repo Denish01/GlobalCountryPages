@@ -1,0 +1,255 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Mexico Cities & Regions Guide - Comprehensive guide to Mexico. Global Country Guide.">
+    <title>Mexico Cities & Regions Guide | Global Country Guide</title>
+    <style>
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+            line-height: 1.7;
+            color: #2d3436;
+            background: #fafafa;
+        }
+        header {
+            background: linear-gradient(135deg, #27AE60, #229954);
+            color: white;
+            padding: 24px 0;
+        }
+        header .container {
+            max-width: 900px;
+            margin: 0 auto;
+            padding: 0 20px;
+        }
+        header h1 {
+            font-size: 1.8em;
+            font-weight: 700;
+        }
+        .flag { font-size: 1.4em; margin-right: 8px; }
+        .breadcrumb {
+            max-width: 900px;
+            margin: 0 auto;
+            padding: 12px 20px;
+            font-size: 0.85em;
+            color: #636e72;
+        }
+        .breadcrumb a { color: #27AE60; text-decoration: none; }
+        .breadcrumb a:hover { text-decoration: underline; }
+        .angle-nav {
+            max-width: 900px;
+            margin: 0 auto;
+            padding: 0 20px 16px;
+            display: flex;
+            flex-wrap: wrap;
+            gap: 6px;
+        }
+        .angle-link {
+            display: inline-block;
+            padding: 6px 14px;
+            border-radius: 20px;
+            font-size: 0.82em;
+            text-decoration: none;
+            color: #636e72;
+            background: #f1f2f6;
+            transition: all 0.2s;
+        }
+        .angle-link:hover { background: #dfe6e9; }
+        .angle-link.active {
+            background: #27AE60;
+            color: white;
+        }
+        article {
+            max-width: 900px;
+            margin: 0 auto;
+            padding: 20px;
+            background: white;
+            border-radius: 8px;
+            box-shadow: 0 1px 3px rgba(0,0,0,0.08);
+            margin-bottom: 40px;
+        }
+        article h2 {
+            color: #27AE60;
+            margin: 28px 0 12px;
+            padding-bottom: 6px;
+            border-bottom: 2px solid #27AE6022;
+        }
+        article h3 { color: #2d3436; margin: 20px 0 8px; }
+        article p { margin-bottom: 14px; }
+        article ul, article ol { padding-left: 24px; margin-bottom: 14px; }
+        article li { margin-bottom: 6px; }
+        /* Factbox */
+        .factbox {
+            background: linear-gradient(135deg, #27AE6008, #27AE6015);
+            border: 1px solid #27AE6030;
+            border-radius: 10px;
+            padding: 20px 24px;
+            margin: 20px 0;
+        }
+        .factbox h3 {
+            color: #27AE60;
+            margin: 0 0 12px;
+            font-size: 1.05em;
+        }
+        .fact-row {
+            display: flex;
+            justify-content: space-between;
+            padding: 6px 0;
+            border-bottom: 1px solid #27AE6015;
+        }
+        .fact-row:last-child { border-bottom: none; }
+        .fact-key { font-weight: 600; color: #2d3436; flex: 0 0 45%; }
+        .fact-val { color: #636e72; text-align: right; flex: 0 0 50%; }
+        /* Tables */
+        .table-wrapper { overflow-x: auto; margin: 16px 0; }
+        table { border-collapse: collapse; width: 100%; font-size: 0.92em; }
+        th {
+            background: #27AE60;
+            color: white;
+            padding: 10px 14px;
+            text-align: left;
+            font-weight: 600;
+        }
+        td { padding: 10px 14px; border-bottom: 1px solid #eee; }
+        tr:nth-child(even) { background: #f8f9fa; }
+        tr:hover { background: #27AE6008; }
+        /* Callout */
+        .callout {
+            background: #fff3cd;
+            border-left: 4px solid #ffc107;
+            padding: 14px 18px;
+            border-radius: 0 8px 8px 0;
+            margin: 16px 0;
+            font-size: 0.93em;
+        }
+        .callout .misconception {
+            color: #856404;
+            margin-bottom: 4px;
+        }
+        .callout .reality {
+            color: #155724;
+            background: #d4edda;
+            padding: 8px 12px;
+            border-radius: 4px;
+            margin-bottom: 12px;
+        }
+        /* Rating */
+        .rating {
+            display: flex;
+            align-items: center;
+            gap: 10px;
+            padding: 6px 0;
+        }
+        .rating-label { font-weight: 600; min-width: 160px; }
+        .rating-dots { font-size: 1.2em; color: #27AE60; letter-spacing: 2px; }
+        .rating-score { color: #636e72; font-size: 0.85em; }
+        footer {
+            text-align: center;
+            padding: 30px 20px;
+            color: #b2bec3;
+            font-size: 0.8em;
+        }
+        footer a { color: #636e72; }
+        @media (max-width: 600px) {
+            header h1 { font-size: 1.3em; }
+            .angle-nav { gap: 4px; }
+            .angle-link { padding: 4px 10px; font-size: 0.75em; }
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <div class="container">
+            <h1><span class="flag">🇲🇽</span> Mexico Cities & Regions Guide</h1>
+        </div>
+    </header>
+
+    <nav class="breadcrumb"><a href="/">Home</a> &raquo; <a href="/north-america/">North America</a> &raquo; <a href="/north-america/mexico/">Mexico</a> &raquo; <span>Cities And Regions</span></nav>
+
+    <nav class="angle-nav">
+        <a href="/north-america/mexico/overview.html" class="angle-link ">Overview</a>
+        <a href="/north-america/mexico/geography.html" class="angle-link ">Geography</a>
+        <a href="/north-america/mexico/must-know-truth.html" class="angle-link ">Must Know Truth</a>
+        <a href="/north-america/mexico/positive-things.html" class="angle-link ">Positive Things</a>
+        <a href="/north-america/mexico/cities-and-regions.html" class="angle-link active">Cities And Regions</a>
+        <a href="/north-america/mexico/visa-and-entry.html" class="angle-link ">Visa And Entry</a>
+        <a href="/north-america/mexico/cost-of-living.html" class="angle-link ">Cost Of Living</a>
+        <a href="/north-america/mexico/economy.html" class="angle-link ">Economy</a>
+        <a href="/north-america/mexico/culture.html" class="angle-link ">Culture</a>
+        <a href="/north-america/mexico/travel-safety.html" class="angle-link ">Travel Safety</a>
+    </nav>
+
+    <article>
+        <div class="factbox"><h3>Quick Facts</h3>
+        <div class="fact-row"><span class="fact-key">Administrative Divisions</span><span class="fact-val">32 states</span></div>
+        <div class="fact-row"><span class="fact-key">Largest City</span><span class="fact-val">Mexico City, population 21.8M</span></div>
+        <div class="fact-row"><span class="fact-key">Capital</span><span class="fact-val">Mexico City</span></div>
+        <div class="fact-row"><span class="fact-key">Number of Cities Over 1M</span><span class="fact-val">14</span></div>
+        </div>
+        <h2>How Mexico Is Divided</h2>
+        <p>Mexico is a federal republic divided into 32 states, each with its own capital and government. The states are further divided into municipalities, which are the second-level administrative divisions. This structure allows for a balance of power between the federal government and the individual states, giving each region a degree of autonomy to manage its own affairs. The country's administrative divisions are designed to provide effective governance and representation for its diverse population.</p>
+        <p>The 32 states in Mexico are grouped into several regions, each with its unique cultural, economic, and geographical characteristics. These regions are not strictly defined, but they are generally recognized as the North, the Pacific Coast, the Yucatan Peninsula, the Central Highlands, and the Gulf Coast. Each region has its own distinct identity, shaped by its history, climate, and geography. Understanding these regional differences is essential to appreciating the complexity and diversity of Mexico as a whole.</p>
+        <h2>Major Cities</h2>
+        <p><strong>Mexico City</strong> (21.8M)</p>
+        <p>Role: capital, economic hub, cultural center</p>
+        <p>Known For: Mexico City is a vibrant metropolis with a rich history, cultural landmarks, and a thriving arts scene. The city is home to numerous museums, historical sites, and traditional markets.</p>
+        <p>Best For: history buffs, foodies, and culture enthusiasts</p>
+        <p><strong>Guadalajara</strong> (5.3M)</p>
+        <p>Role: economic hub, cultural center</p>
+        <p>Known For: Guadalajara is a colonial city with a rich history, stunning architecture, and a vibrant cultural scene. The city is famous for its traditional cuisine, handicrafts, and historic landmarks.</p>
+        <p>Best For: families, history enthusiasts, and those interested in traditional Mexican culture</p>
+        <p><strong>Monterrey</strong> (4.5M)</p>
+        <p>Role: economic hub, industrial center</p>
+        <p>Known For: Monterrey is a modern city with a strong economy, stunning natural scenery, and a vibrant cultural scene. The city is home to numerous museums, parks, and historic sites.</p>
+        <p>Best For: business travelers, outdoor enthusiasts, and those interested in modern Mexican culture</p>
+        <p><strong>Puebla</strong> (3.2M)</p>
+        <p>Role: cultural center, historic city</p>
+        <p>Known For: Puebla is a colonial city with a rich history, stunning architecture, and a vibrant cultural scene. The city is famous for its traditional cuisine, handicrafts, and historic landmarks.</p>
+        <p>Best For: history enthusiasts, foodies, and those interested in traditional Mexican culture</p>
+        <p><strong>Tijuana</strong> (2.1M)</p>
+        <p>Role: border city, economic hub</p>
+        <p>Known For: Tijuana is a modern city with a strong economy, stunning natural scenery, and a vibrant cultural scene. The city is home to numerous restaurants, bars, and entertainment venues.</p>
+        <p>Best For: young travelers, foodies, and those interested in modern Mexican culture</p>
+        <p><strong>Cancun</strong> (1.1M)</p>
+        <p>Role: tourist hub, beach resort</p>
+        <p>Known For: Cancun is a popular tourist destination with stunning beaches, crystal-clear waters, and a vibrant nightlife. The city is home to numerous resorts, restaurants, and entertainment venues.</p>
+        <p>Best For: beachgoers, partygoers, and those looking for a relaxing vacation</p>
+        <p><strong>Merida</strong> (892,363)</p>
+        <p>Role: cultural center, historic city</p>
+        <p>Known For: Merida is a colonial city with a rich history, stunning architecture, and a vibrant cultural scene. The city is famous for its traditional cuisine, handicrafts, and historic landmarks.</p>
+        <p>Best For: history enthusiasts, foodies, and those interested in traditional Mexican culture</p>
+        <p><strong>San Luis Potosi</strong> (824,229)</p>
+        <p>Role: economic hub, industrial center</p>
+        <p>Known For: San Luis Potosi is a modern city with a strong economy, stunning natural scenery, and a vibrant cultural scene. The city is home to numerous museums, parks, and historic sites.</p>
+        <p>Best For: business travelers, outdoor enthusiasts, and those interested in modern Mexican culture</p>
+        <h2>Key Regions</h2>
+        <div class="table-wrapper"><table>
+        <thead><tr><th>Region</th><th>Character</th><th>Known For</th><th>Major City</th></tr></thead><tbody>
+        <tr><td>Yucatan Peninsula</td><td>tropical, ancient Mayan ruins</td><td>beaches, cenotes, Mayan ruins</td><td>Merida</td></tr>
+        <tr><td>Pacific Coast</td><td>coastal, tourist-friendly</td><td>beaches, resorts, water sports</td><td>Cancun</td></tr>
+        <tr><td>Central Highlands</td><td>mountainous, colonial cities</td><td>historic landmarks, traditional cuisine</td><td>Mexico City</td></tr>
+        <tr><td>Gulf Coast</td><td>coastal, industrial</td><td>oil refineries, ports, beaches</td><td>Veracruz</td></tr>
+        <tr><td>Northern Mexico</td><td>desert, industrial</td><td>mining, manufacturing, border towns</td><td>Monterrey</td></tr>
+        <tr><td>Baja California</td><td>coastal, desert</td><td>beaches, outdoor activities, border towns</td><td>Tijuana</td></tr>
+        <tr><td>Chiapas</td><td>tropical, indigenous</td><td>ancient Mayan ruins, natural scenery</td><td>San Cristobal de las Casas</td></tr>
+        <tr><td>Oaxaca</td><td>tropical, indigenous</td><td>ancient Zapotec ruins, traditional cuisine</td><td>Oaxaca City</td></tr>
+        </table></div>
+        <h2>Regional Differences</h2>
+        <ul>
+        <li>Culture: Mexico's regions have distinct cultural identities, shaped by their history, geography, and indigenous influences. The Yucatan Peninsula, for example, has a strong Mayan heritage, while the Central Highlands are known for their colonial cities and traditional cuisine.</li>
+        <li>Economy: The regions vary in their economic profiles, with some areas relying heavily on industry, tourism, or agriculture. The North, for instance, is a major industrial hub, while the Pacific Coast is driven by tourism.</li>
+        <li>Climate: Mexico's climate ranges from tropical to desert, with the Yucatan Peninsula and Chiapas being the warmest and most humid regions. The Central Highlands, on the other hand, have a milder climate, while the North can be quite cold in winter.</li>
+        <li>Language: While Spanish is the official language, many regions have their own indigenous languages and dialects. The Yucatan Peninsula, for example, is home to the Mayan language, while the Central Highlands have a distinct Mexican Spanish dialect.</li>
+        </ul>
+        <h2>Getting Around</h2>
+        <p>Mexico has a well-developed transportation network, with domestic flights, trains, buses, and highways connecting major cities and regions. The country's bus system is extensive and affordable, with many companies offering comfortable and convenient services. Driving is also a popular option, with many scenic routes and well-maintained highways. However, traffic in major cities can be chaotic, and driving at night is not recommended. Mexico's train network is limited, but the country has invested in high-speed rail projects to improve connectivity between major cities.</p>
+        <p>For international travelers, Mexico's major airports, such as Mexico City's Benito Juarez International Airport and Cancun International Airport, offer convenient connections to destinations around the world. Many airlines operate domestic flights, and it's often the fastest way to travel between cities. However, bus travel can be a more affordable and scenic option, especially for shorter distances. With its diverse regions and vibrant culture, Mexico has something to offer for every type of traveler, and getting around is relatively easy and convenient.</p>
+    </article>
+
+    <footer>
+        <p>&copy; 2026 Global Country Guide. Evergreen reference content.</p>
+        <p>This page contains factual, timeless information. Always verify visa and safety details with official sources.</p>
+    </footer>
+</body>
+</html>

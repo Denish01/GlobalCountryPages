@@ -1,0 +1,256 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Brazil Culture - Food, Traditions & Etiquette - Comprehensive guide to Brazil. Global Country Guide.">
+    <title>Brazil Culture - Food, Traditions & Etiquette | Global Country Guide</title>
+    <style>
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+            line-height: 1.7;
+            color: #2d3436;
+            background: #fafafa;
+        }
+        header {
+            background: linear-gradient(135deg, #8E44AD, #7D3C98);
+            color: white;
+            padding: 24px 0;
+        }
+        header .container {
+            max-width: 900px;
+            margin: 0 auto;
+            padding: 0 20px;
+        }
+        header h1 {
+            font-size: 1.8em;
+            font-weight: 700;
+        }
+        .flag { font-size: 1.4em; margin-right: 8px; }
+        .breadcrumb {
+            max-width: 900px;
+            margin: 0 auto;
+            padding: 12px 20px;
+            font-size: 0.85em;
+            color: #636e72;
+        }
+        .breadcrumb a { color: #8E44AD; text-decoration: none; }
+        .breadcrumb a:hover { text-decoration: underline; }
+        .angle-nav {
+            max-width: 900px;
+            margin: 0 auto;
+            padding: 0 20px 16px;
+            display: flex;
+            flex-wrap: wrap;
+            gap: 6px;
+        }
+        .angle-link {
+            display: inline-block;
+            padding: 6px 14px;
+            border-radius: 20px;
+            font-size: 0.82em;
+            text-decoration: none;
+            color: #636e72;
+            background: #f1f2f6;
+            transition: all 0.2s;
+        }
+        .angle-link:hover { background: #dfe6e9; }
+        .angle-link.active {
+            background: #8E44AD;
+            color: white;
+        }
+        article {
+            max-width: 900px;
+            margin: 0 auto;
+            padding: 20px;
+            background: white;
+            border-radius: 8px;
+            box-shadow: 0 1px 3px rgba(0,0,0,0.08);
+            margin-bottom: 40px;
+        }
+        article h2 {
+            color: #8E44AD;
+            margin: 28px 0 12px;
+            padding-bottom: 6px;
+            border-bottom: 2px solid #8E44AD22;
+        }
+        article h3 { color: #2d3436; margin: 20px 0 8px; }
+        article p { margin-bottom: 14px; }
+        article ul, article ol { padding-left: 24px; margin-bottom: 14px; }
+        article li { margin-bottom: 6px; }
+        /* Factbox */
+        .factbox {
+            background: linear-gradient(135deg, #8E44AD08, #8E44AD15);
+            border: 1px solid #8E44AD30;
+            border-radius: 10px;
+            padding: 20px 24px;
+            margin: 20px 0;
+        }
+        .factbox h3 {
+            color: #8E44AD;
+            margin: 0 0 12px;
+            font-size: 1.05em;
+        }
+        .fact-row {
+            display: flex;
+            justify-content: space-between;
+            padding: 6px 0;
+            border-bottom: 1px solid #8E44AD15;
+        }
+        .fact-row:last-child { border-bottom: none; }
+        .fact-key { font-weight: 600; color: #2d3436; flex: 0 0 45%; }
+        .fact-val { color: #636e72; text-align: right; flex: 0 0 50%; }
+        /* Tables */
+        .table-wrapper { overflow-x: auto; margin: 16px 0; }
+        table { border-collapse: collapse; width: 100%; font-size: 0.92em; }
+        th {
+            background: #8E44AD;
+            color: white;
+            padding: 10px 14px;
+            text-align: left;
+            font-weight: 600;
+        }
+        td { padding: 10px 14px; border-bottom: 1px solid #eee; }
+        tr:nth-child(even) { background: #f8f9fa; }
+        tr:hover { background: #8E44AD08; }
+        /* Callout */
+        .callout {
+            background: #fff3cd;
+            border-left: 4px solid #ffc107;
+            padding: 14px 18px;
+            border-radius: 0 8px 8px 0;
+            margin: 16px 0;
+            font-size: 0.93em;
+        }
+        .callout .misconception {
+            color: #856404;
+            margin-bottom: 4px;
+        }
+        .callout .reality {
+            color: #155724;
+            background: #d4edda;
+            padding: 8px 12px;
+            border-radius: 4px;
+            margin-bottom: 12px;
+        }
+        /* Rating */
+        .rating {
+            display: flex;
+            align-items: center;
+            gap: 10px;
+            padding: 6px 0;
+        }
+        .rating-label { font-weight: 600; min-width: 160px; }
+        .rating-dots { font-size: 1.2em; color: #8E44AD; letter-spacing: 2px; }
+        .rating-score { color: #636e72; font-size: 0.85em; }
+        footer {
+            text-align: center;
+            padding: 30px 20px;
+            color: #b2bec3;
+            font-size: 0.8em;
+        }
+        footer a { color: #636e72; }
+        @media (max-width: 600px) {
+            header h1 { font-size: 1.3em; }
+            .angle-nav { gap: 4px; }
+            .angle-link { padding: 4px 10px; font-size: 0.75em; }
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <div class="container">
+            <h1><span class="flag">🇧🇷</span> Brazil Culture - Food, Traditions & Etiquette</h1>
+        </div>
+    </header>
+
+    <nav class="breadcrumb"><a href="/">Home</a> &raquo; <a href="/south-america/">South America</a> &raquo; <a href="/south-america/brazil/">Brazil</a> &raquo; <span>Culture</span></nav>
+
+    <nav class="angle-nav">
+        <a href="/south-america/brazil/overview.html" class="angle-link ">Overview</a>
+        <a href="/south-america/brazil/geography.html" class="angle-link ">Geography</a>
+        <a href="/south-america/brazil/must-know-truth.html" class="angle-link ">Must Know Truth</a>
+        <a href="/south-america/brazil/positive-things.html" class="angle-link ">Positive Things</a>
+        <a href="/south-america/brazil/cities-and-regions.html" class="angle-link ">Cities And Regions</a>
+        <a href="/south-america/brazil/visa-and-entry.html" class="angle-link ">Visa And Entry</a>
+        <a href="/south-america/brazil/cost-of-living.html" class="angle-link ">Cost Of Living</a>
+        <a href="/south-america/brazil/economy.html" class="angle-link ">Economy</a>
+        <a href="/south-america/brazil/culture.html" class="angle-link active">Culture</a>
+        <a href="/south-america/brazil/travel-safety.html" class="angle-link ">Travel Safety</a>
+    </nav>
+
+    <article>
+        <h2>Cultural Identity</h2>
+        <p>Brazil's culture is a unique blend of indigenous, European, and African influences, shaped by its history of colonization and immigration. The country's ethnic and linguistic makeup is predominantly Portuguese, with the official language being <strong>Portuguese</strong>. However, there are also significant populations of African, Italian, German, and Japanese descent, particularly in the southern regions. This diversity has contributed to the development of a distinct Brazilian identity, characterized by a strong sense of community, warmth, and hospitality.</p>
+        <p>Brazil's cultural identity is also defined by its history, with the country having been a colony of Portugal for over three centuries. This legacy is still evident in the country's architecture, cuisine, and traditions. The African influence, brought by slaves who were forcibly taken to Brazil, has also had a profound impact on the country's music, dance, and art. The indigenous peoples, who have lived in Brazil for thousands of years, have also contributed to the country's cultural heritage, particularly in the areas of food, medicine, and spirituality.</p>
+        <p>The cultural identity of Brazil is further shaped by its regional diversity, with different parts of the country having their own unique customs, traditions, and dialects. The northeastern region, for example, is known for its rich cultural heritage, with a strong emphasis on music, dance, and folklore. The southern region, on the other hand, has a more European-influenced culture, with a strong emphasis on agriculture and livestock.</p>
+        <h2>Food & Cuisine</h2>
+        <p>| Dish | Type | Description | Must-Try? |</p>
+        <p>| --- | --- | --- | --- |</p>
+        <p>| Feijoada | Stew | A hearty stew made with black beans and various meats | Yes |</p>
+        <p>| Churrasco | Grill | A popular style of barbecue, featuring grilled meats | Yes |</p>
+        <p>| Açaí | Fruit | A small, dark purple fruit that is often eaten as a fruit or used in smoothies | Yes |</p>
+        <p>| Moqueca | Stew | A seafood stew made with coconut milk and spices | Yes |</p>
+        <p>| Pão de Queijo | Bread | A type of cheese bread that is crispy on the outside and soft on the inside | Yes |</p>
+        <p>| Tapioca | Crepe | A type of crepe made with tapioca flour and filled with cheese, meat, or vegetables | Yes |</p>
+        <p>| Caipirinha | Cocktail | A popular cocktail made with cachaça, lime, and sugar | Yes |</p>
+        <p>| Brigadeiro | Dessert | A rich, chocolatey dessert made with sweetened condensed milk and butter | Yes |</p>
+        <p>Eating is a significant part of Brazilian culture, with mealtimes often being seen as opportunities to socialize and bond with family and friends. Brazilians tend to eat a lot of meat, particularly beef and chicken, and meals are often centered around large quantities of food. The country is also known for its street food, with popular snacks like <strong>coxinha</strong> (deep-fried dough filled with chicken) and <strong>pastel</strong> (deep-fried pastry filled with meat or cheese) being widely available.</p>
+        <h2>Traditions & Festivals</h2>
+        <p>| Festival/Tradition | When | What It Is |</p>
+        <p>| --- | --- | --- |</p>
+        <p>| Carnaval | February/March | A vibrant and colorful festival that takes place before Lent, featuring parades, music, and dancing |</p>
+        <p>| Festa do Divino | May/June | A religious festival that celebrates the Holy Spirit, featuring processions, music, and food |</p>
+        <p>| Festa de Iemanjá | February | A festival that honors the Afro-Brazilian goddess of the sea, featuring music, dance, and offerings to the sea |</p>
+        <p>| Dia das Mães | Second Sunday in May | A day to celebrate mothers, with families often gathering for meals and gift-giving |</p>
+        <p>| Festa de São João | June | A festival that celebrates the patron saint of Brazil, featuring music, dance, and traditional foods |</p>
+        <p>| Natal | December | A celebration of Christmas, with families often gathering for meals and gift-giving |</p>
+        <h2>Etiquette: Do's and Don'ts</h2>
+        <h3>Do:</h3>
+        <ul>
+        <li>Greet people with a handshake or a kiss on the cheek, depending on the level of formality</li>
+        <li>Use formal titles such as <strong>Senhor</strong> or <strong>Senhora</strong> when addressing older people or those in positions of authority</li>
+        <li>Respect people's personal space and physical touch, as Brazilians tend to be very affectionate</li>
+        <li>Learn some basic <strong>Portuguese</strong> phrases, such as <strong>obrigado</strong> (thank you) and <strong>por favor</strong> (please)</li>
+        <li>Be prepared to engage in conversation and small talk, as Brazilians value social interaction</li>
+        <li>Respect the country's cultural heritage and traditions, particularly when attending festivals or visiting historical sites</li>
+        </ul>
+        <h3>Don't:</h3>
+        <ul>
+        <li>Don't be afraid to show affection and warmth, as Brazilians value physical touch and social interaction</li>
+        <li>Don't tip excessively, as this can be seen as insulting or condescending</li>
+        <li>Don't ignore or dismiss someone's attempts to engage in conversation, as this can be seen as rude</li>
+        <li>Don't assume that everyone speaks English, as many Brazilians may not speak the language fluently</li>
+        <li>Don't touch or handle someone's belongings without permission, as this can be seen as invasive or disrespectful</li>
+        <li>Don't underestimate the importance of punctuality, as Brazilians tend to value time and schedules</li>
+        </ul>
+        <h2>Arts & Music</h2>
+        <ul>
+        <li><strong>Samba</strong> is a popular style of music and dance that originated in Brazil, characterized by its fast-paced rhythms and energetic performances</li>
+        <li><strong>Bossa Nova</strong> is a style of music that emerged in the 1950s, characterized by its smooth, melodic sound and poetic lyrics</li>
+        <li><strong>Capoeira</strong> is a martial art that combines elements of dance, acrobatics, and music, originating in Africa and developed in Brazil</li>
+        <li><strong>Tropicalia</strong> is a cultural movement that emerged in the 1960s, characterized by its eclectic and experimental approach to music, art, and literature</li>
+        <li><strong>Cinema Novo</strong> is a film movement that emerged in the 1960s, characterized by its focus on social realism and political commentary</li>
+        </ul>
+        <h2>Useful Phrases</h2>
+        <p>| English | Local Language | Pronunciation |</p>
+        <p>| --- | --- | --- |</p>
+        <p>| Hello | Olá | Oh-lah |</p>
+        <p>| Thank you | Obrigado/Obrigada | Oh-bree-gah-doo/Oh-bree-gah-dah |</p>
+        <p>| Please | Por favor | Pore fah-vor |</p>
+        <p>| Yes / No | Sim/Não | Seem/Now |</p>
+        <p>| How much? | Quanto custa? | Kwan-toh koo-stah |</p>
+        <p>| Goodbye | Tchau | Chow |</p>
+        <p>| Excuse me | Com licença | Koom lee-seh-nah |</p>
+        <p>| Where is...? | Onde está...? | Ohn-deh eh-stah |</p>
+        <p>| I don't understand | Não entendi | Now eh-tee-eh-nee |</p>
+        <p>| Do you speak English? | Você fala inglês? | Voh-cheh fah-lah eeng-lee-ehz |</p>
+    </article>
+
+    <footer>
+        <p>&copy; 2026 Global Country Guide. Evergreen reference content.</p>
+        <p>This page contains factual, timeless information. Always verify visa and safety details with official sources.</p>
+    </footer>
+</body>
+</html>

@@ -1,0 +1,243 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Brazil Cities & Regions Guide - Comprehensive guide to Brazil. Global Country Guide.">
+    <title>Brazil Cities & Regions Guide | Global Country Guide</title>
+    <style>
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+            line-height: 1.7;
+            color: #2d3436;
+            background: #fafafa;
+        }
+        header {
+            background: linear-gradient(135deg, #8E44AD, #7D3C98);
+            color: white;
+            padding: 24px 0;
+        }
+        header .container {
+            max-width: 900px;
+            margin: 0 auto;
+            padding: 0 20px;
+        }
+        header h1 {
+            font-size: 1.8em;
+            font-weight: 700;
+        }
+        .flag { font-size: 1.4em; margin-right: 8px; }
+        .breadcrumb {
+            max-width: 900px;
+            margin: 0 auto;
+            padding: 12px 20px;
+            font-size: 0.85em;
+            color: #636e72;
+        }
+        .breadcrumb a { color: #8E44AD; text-decoration: none; }
+        .breadcrumb a:hover { text-decoration: underline; }
+        .angle-nav {
+            max-width: 900px;
+            margin: 0 auto;
+            padding: 0 20px 16px;
+            display: flex;
+            flex-wrap: wrap;
+            gap: 6px;
+        }
+        .angle-link {
+            display: inline-block;
+            padding: 6px 14px;
+            border-radius: 20px;
+            font-size: 0.82em;
+            text-decoration: none;
+            color: #636e72;
+            background: #f1f2f6;
+            transition: all 0.2s;
+        }
+        .angle-link:hover { background: #dfe6e9; }
+        .angle-link.active {
+            background: #8E44AD;
+            color: white;
+        }
+        article {
+            max-width: 900px;
+            margin: 0 auto;
+            padding: 20px;
+            background: white;
+            border-radius: 8px;
+            box-shadow: 0 1px 3px rgba(0,0,0,0.08);
+            margin-bottom: 40px;
+        }
+        article h2 {
+            color: #8E44AD;
+            margin: 28px 0 12px;
+            padding-bottom: 6px;
+            border-bottom: 2px solid #8E44AD22;
+        }
+        article h3 { color: #2d3436; margin: 20px 0 8px; }
+        article p { margin-bottom: 14px; }
+        article ul, article ol { padding-left: 24px; margin-bottom: 14px; }
+        article li { margin-bottom: 6px; }
+        /* Factbox */
+        .factbox {
+            background: linear-gradient(135deg, #8E44AD08, #8E44AD15);
+            border: 1px solid #8E44AD30;
+            border-radius: 10px;
+            padding: 20px 24px;
+            margin: 20px 0;
+        }
+        .factbox h3 {
+            color: #8E44AD;
+            margin: 0 0 12px;
+            font-size: 1.05em;
+        }
+        .fact-row {
+            display: flex;
+            justify-content: space-between;
+            padding: 6px 0;
+            border-bottom: 1px solid #8E44AD15;
+        }
+        .fact-row:last-child { border-bottom: none; }
+        .fact-key { font-weight: 600; color: #2d3436; flex: 0 0 45%; }
+        .fact-val { color: #636e72; text-align: right; flex: 0 0 50%; }
+        /* Tables */
+        .table-wrapper { overflow-x: auto; margin: 16px 0; }
+        table { border-collapse: collapse; width: 100%; font-size: 0.92em; }
+        th {
+            background: #8E44AD;
+            color: white;
+            padding: 10px 14px;
+            text-align: left;
+            font-weight: 600;
+        }
+        td { padding: 10px 14px; border-bottom: 1px solid #eee; }
+        tr:nth-child(even) { background: #f8f9fa; }
+        tr:hover { background: #8E44AD08; }
+        /* Callout */
+        .callout {
+            background: #fff3cd;
+            border-left: 4px solid #ffc107;
+            padding: 14px 18px;
+            border-radius: 0 8px 8px 0;
+            margin: 16px 0;
+            font-size: 0.93em;
+        }
+        .callout .misconception {
+            color: #856404;
+            margin-bottom: 4px;
+        }
+        .callout .reality {
+            color: #155724;
+            background: #d4edda;
+            padding: 8px 12px;
+            border-radius: 4px;
+            margin-bottom: 12px;
+        }
+        /* Rating */
+        .rating {
+            display: flex;
+            align-items: center;
+            gap: 10px;
+            padding: 6px 0;
+        }
+        .rating-label { font-weight: 600; min-width: 160px; }
+        .rating-dots { font-size: 1.2em; color: #8E44AD; letter-spacing: 2px; }
+        .rating-score { color: #636e72; font-size: 0.85em; }
+        footer {
+            text-align: center;
+            padding: 30px 20px;
+            color: #b2bec3;
+            font-size: 0.8em;
+        }
+        footer a { color: #636e72; }
+        @media (max-width: 600px) {
+            header h1 { font-size: 1.3em; }
+            .angle-nav { gap: 4px; }
+            .angle-link { padding: 4px 10px; font-size: 0.75em; }
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <div class="container">
+            <h1><span class="flag">🇧🇷</span> Brazil Cities & Regions Guide</h1>
+        </div>
+    </header>
+
+    <nav class="breadcrumb"><a href="/">Home</a> &raquo; <a href="/south-america/">South America</a> &raquo; <a href="/south-america/brazil/">Brazil</a> &raquo; <span>Cities And Regions</span></nav>
+
+    <nav class="angle-nav">
+        <a href="/south-america/brazil/overview.html" class="angle-link ">Overview</a>
+        <a href="/south-america/brazil/geography.html" class="angle-link ">Geography</a>
+        <a href="/south-america/brazil/must-know-truth.html" class="angle-link ">Must Know Truth</a>
+        <a href="/south-america/brazil/positive-things.html" class="angle-link ">Positive Things</a>
+        <a href="/south-america/brazil/cities-and-regions.html" class="angle-link active">Cities And Regions</a>
+        <a href="/south-america/brazil/visa-and-entry.html" class="angle-link ">Visa And Entry</a>
+        <a href="/south-america/brazil/cost-of-living.html" class="angle-link ">Cost Of Living</a>
+        <a href="/south-america/brazil/economy.html" class="angle-link ">Economy</a>
+        <a href="/south-america/brazil/culture.html" class="angle-link ">Culture</a>
+        <a href="/south-america/brazil/travel-safety.html" class="angle-link ">Travel Safety</a>
+    </nav>
+
+    <article>
+        <div class="factbox"><h3>Quick Facts</h3>
+        <div class="fact-row"><span class="fact-key">Administrative Divisions</span><span class="fact-val">26 states and over 5,500 municipalities</span></div>
+        <div class="fact-row"><span class="fact-key">Largest City</span><span class="fact-val">São Paulo, population over 22 million</span></div>
+        <div class="fact-row"><span class="fact-key">Capital</span><span class="fact-val">Brasilia</span></div>
+        <div class="fact-row"><span class="fact-key">Number of Cities Over 1M</span><span class="fact-val">15</span></div>
+        </div>
+        <h2>How Brazil Is Divided</h2>
+        <p>Brazil is divided into 26 states, each with its own government and administrative structure. These states are further divided into municipalities, which are the basic units of local government. The country is also divided into five main regions: North, Northeast, Central-West, Southeast, and South. Each region has its unique cultural, economic, and geographical characteristics. The division of Brazil into these regions is largely based on historical, economic, and geographical factors.</p>
+        <p>The administrative structure of Brazil is designed to provide a balance between the federal government and the states. The federal government is responsible for matters such as foreign policy, national defense, and economic policy, while the states have a significant degree of autonomy in areas such as education, healthcare, and public safety. This division of power allows for a degree of regional autonomy and flexibility, while also ensuring that the country is governed in a unified and cohesive manner.</p>
+        <h2>Major Cities</h2>
+        <p><strong>São Paulo</strong> (population over 22 million)</p>
+        <p>Role: economic hub, cultural center</p>
+        <p>Known For: São Paulo is a bustling metropolis with a diverse economy, rich cultural scene, and vibrant nightlife. The city is home to many museums, theaters, and restaurants, and is a major center for business and finance.</p>
+        <p>Best For: business travelers, cultural enthusiasts, foodies</p>
+        <p><strong>Rio de Janeiro</strong> (population over 6 million)</p>
+        <p>Role: port city, cultural center</p>
+        <p>Known For: Rio de Janeiro is a beautiful city with stunning beaches, lush mountains, and a vibrant cultural scene. The city is home to many famous landmarks, including the Christ the Redeemer statue and Sugarloaf Mountain.</p>
+        <p>Best For: tourists, beachgoers, partygoers</p>
+        <p><strong>Brasilia</strong> (population over 3 million)</p>
+        <p>Role: capital city, administrative center</p>
+        <p>Known For: Brasilia is a planned city that was built in the 1950s to serve as the capital of Brazil. The city is known for its modern architecture, wide streets, and efficient public transportation system.</p>
+        <p>Best For: government officials, business travelers, architecture enthusiasts</p>
+        <p><strong>Belo Horizonte</strong> (population over 2.5 million)</p>
+        <p>Role: economic hub, cultural center</p>
+        <p>Known For: Belo Horizonte is a vibrant city with a rich cultural scene, beautiful parks, and a thriving economy. The city is home to many museums, theaters, and restaurants, and is a major center for business and finance.</p>
+        <p>Best For: business travelers, cultural enthusiasts, families</p>
+        <p><strong>Porto Alegre</strong> (population over 2 million)</p>
+        <p>Role: port city, economic hub</p>
+        <p>Known For: Porto Alegre is a charming city with a rich history, beautiful architecture, and a vibrant cultural scene. The city is home to many museums, theaters, and restaurants, and is a major center for business and trade.</p>
+        <p>Best For: business travelers, cultural enthusiasts, foodies</p>
+        <h2>Key Regions</h2>
+        <div class="table-wrapper"><table>
+        <thead><tr><th>Region</th><th>Character</th><th>Known For</th><th>Major City</th></tr></thead><tbody>
+        <tr><td>North</td><td>Amazon rainforest, indigenous communities</td><td>Ecotourism, wildlife, natural beauty</td><td>Manaus</td></tr>
+        <tr><td>Northeast</td><td>Coastal cities, colonial architecture</td><td>Beaches, history, culture</td><td>Salvador</td></tr>
+        <tr><td>Central-West</td><td>Savannas, wetlands, agricultural land</td><td>Agriculture, ranching, wildlife</td><td>Brasilia</td></tr>
+        <tr><td>Southeast</td><td>Mountains, cities, industrial centers</td><td>Industry, finance, culture</td><td>São Paulo</td></tr>
+        <tr><td>South</td><td>Rolling hills, coastal cities, wine country</td><td>Wine, agriculture, tourism</td><td>Curitiba</td></tr>
+        <tr><td>Amazonas</td><td>Rainforest, rivers, wildlife</td><td>Ecotourism, adventure, natural beauty</td><td>Manaus</td></tr>
+        <tr><td>Northeast Region</td><td>Coastal cities, colonial architecture</td><td>Beaches, history, culture</td><td>Recife</td></tr>
+        <tr><td>Pantanal</td><td>Wetlands, wildlife, ranching</td><td>Ecotourism, adventure, nature</td><td>Corumbá</td></tr>
+        </table></div>
+        <h2>Regional Differences</h2>
+        <ul>
+        <li>The North region is characterized by its lush Amazon rainforest and indigenous communities, with a strong focus on ecotourism and wildlife conservation.</li>
+        <li>The Northeast region is known for its beautiful beaches, colonial architecture, and rich cultural heritage, with a strong focus on tourism and history.</li>
+        <li>The Central-West region is a major agricultural and ranching center, with a strong focus on agriculture and livestock production.</li>
+        <li>The South region is known for its rolling hills, coastal cities, and wine country, with a strong focus on tourism, agriculture, and wine production.</li>
+        </ul>
+        <h2>Getting Around</h2>
+        <p>Brazil has a well-developed transportation network, with many domestic flights, buses, and trains connecting major cities. The country has a large number of airports, with many international flights arriving in São Paulo, Rio de Janeiro, and Brasilia. The bus network is also extensive, with many companies operating routes between cities and towns. Trains are less common, but are used for freight and passenger transport in some regions. Driving conditions can be challenging, especially in rural areas, due to poor road conditions and heavy traffic. However, many cities have well-maintained roads and efficient public transportation systems, making it easy to get around without a car.</p>
+        <p>Domestic flights are a convenient way to travel long distances, with many airlines operating routes between major cities. Bus travel is also a popular option, with many companies offering comfortable and affordable services. Train travel is less common, but can be a scenic and relaxing way to see the countryside. For shorter distances, taxis and ride-hailing services are widely available, and many cities have bike-sharing programs and pedestrian-friendly areas. Overall, Brazil has a well-developed transportation network, making it easy to get around and explore the country's many regions and cities.</p>
+    </article>
+
+    <footer>
+        <p>&copy; 2026 Global Country Guide. Evergreen reference content.</p>
+        <p>This page contains factual, timeless information. Always verify visa and safety details with official sources.</p>
+    </footer>
+</body>
+</html>
