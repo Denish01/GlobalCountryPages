@@ -1,0 +1,54 @@
+---
+title: "Gabon - Overview & Essential Facts"
+entity: "Gabon"
+iso_code: "GA"
+continent: "africa"
+angle: "overview"
+date: "2026-02-10"
+---
+
+# Gabon - Overview & Essential Facts
+
+[FACTBOX]
+Official Name: Gabonese Republic
+Capital: Libreville
+Population: 2.4 million
+Languages: French
+Currency: XAF
+Government: Sovereign
+Continent: Africa
+ISO Code: GA
+Calling Code: +241
+Drives On: Right
+Time Zone: UTC+1
+[/FACTBOX]
+
+[SECTION] What Is Gabon? [/SECTION]
+Gabon is a **sovereign** country located in the central part of the African continent. It is situated on the equator and borders the Atlantic Ocean to the west, with Cameroon to the north, Equatorial Guinea to the northwest, and the Republic of Congo to the east and south. Gabon is known for its lush rainforests, vast wilderness areas, and incredible biodiversity, earning it the nickname "Africa's Last Eden." The country has a relatively small population, with the capital city Libreville being the largest urban center.
+
+Gabon has a long and complex history, with various ethnic groups inhabiting the region for thousands of years. The country was a French colony from the late 19th century until it gained independence in 1960. Today, Gabon is a **republic** with a diverse economy, rich natural resources, and a growing tourism industry. The country's strategic location and natural beauty make it an attractive destination for travelers and investors alike.
+
+Gabon's geography is characterized by a mix of coastal plains, mountains, and forests, with the **Ogooué River** being the longest and most important waterway. The country's climate is tropical, with high temperatures and humidity levels throughout the year. Gabon is also home to a wide range of flora and fauna, including **lowland gorillas**, **chimpanzees**, and **forest elephants**.
+
+[SECTION] Key History [/SECTION]
+1. 1885 - Gabon becomes a French colony, with the French establishing a series of trading posts and missions along the coast.
+2. 1910 - Gabon becomes part of French Equatorial Africa, a federation of French colonies in central Africa.
+3. 1960 - Gabon gains independence from France, with Léon M'ba becoming the country's first president.
+4. 1967 - Omar Bongo Ondimba seizes power in a coup, ruling the country for over 40 years.
+5. 2009 - Ali Bongo Ondimba, the son of Omar Bongo, becomes president after a disputed election.
+6. 2016 - Ali Bongo is re-elected in a closely contested election, with opposition candidates alleging fraud.
+7. 2019 - Gabon introduces a new constitution, aimed at reducing the president's powers and increasing parliamentary representation.
+
+[SECTION] What Makes Gabon Unique [/SECTION]
+- Gabon is home to over 11% of the world's remaining **tropical rainforests**, making it a critical location for conservation efforts.
+- The country has a relatively low population density, with an average of just 7 people per square kilometer.
+- Gabon is rich in natural resources, including **oil**, **iron**, and **manganese**, which drive the country's economy.
+- The country is home to over 600 species of **birds**, including the iconic **African grey parrot**.
+- Gabon has a unique cultural heritage, with over 40 ethnic groups and a blend of traditional and modern practices.
+
+[SECTION] Quick Summary [/SECTION]
+Gabon is a sovereign country in central Africa, known for its stunning natural beauty, rich cultural heritage, and diverse wildlife, making it a unique and fascinating destination for travelers and investors alike.
+
+---
+
+*Evergreen reference content. Verify time-sensitive details with official sources.*

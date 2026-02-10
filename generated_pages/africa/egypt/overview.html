@@ -1,0 +1,228 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Egypt - Overview & Essential Facts - Comprehensive guide to Egypt. 360 Nations.">
+    <title>Egypt - Overview & Essential Facts | 360 Nations</title>
+    <style>
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+            line-height: 1.7;
+            color: #2d3436;
+            background: #fafafa;
+        }
+        header {
+            background: linear-gradient(135deg, #E67E22, #F39C12);
+            color: white;
+            padding: 24px 0;
+        }
+        header .container {
+            max-width: 900px;
+            margin: 0 auto;
+            padding: 0 20px;
+        }
+        header h1 {
+            font-size: 1.8em;
+            font-weight: 700;
+        }
+        .flag { font-size: 1.4em; margin-right: 8px; }
+        .breadcrumb {
+            max-width: 900px;
+            margin: 0 auto;
+            padding: 12px 20px;
+            font-size: 0.85em;
+            color: #636e72;
+        }
+        .breadcrumb a { color: #E67E22; text-decoration: none; }
+        .breadcrumb a:hover { text-decoration: underline; }
+        .angle-nav {
+            max-width: 900px;
+            margin: 0 auto;
+            padding: 0 20px 16px;
+            display: flex;
+            flex-wrap: wrap;
+            gap: 6px;
+        }
+        .angle-link {
+            display: inline-block;
+            padding: 6px 14px;
+            border-radius: 20px;
+            font-size: 0.82em;
+            text-decoration: none;
+            color: #636e72;
+            background: #f1f2f6;
+            transition: all 0.2s;
+        }
+        .angle-link:hover { background: #dfe6e9; }
+        .angle-link.active {
+            background: #E67E22;
+            color: white;
+        }
+        article {
+            max-width: 900px;
+            margin: 0 auto;
+            padding: 20px;
+            background: white;
+            border-radius: 8px;
+            box-shadow: 0 1px 3px rgba(0,0,0,0.08);
+            margin-bottom: 40px;
+        }
+        article h2 {
+            color: #E67E22;
+            margin: 28px 0 12px;
+            padding-bottom: 6px;
+            border-bottom: 2px solid #E67E2222;
+        }
+        article h3 { color: #2d3436; margin: 20px 0 8px; }
+        article p { margin-bottom: 14px; }
+        article ul, article ol { padding-left: 24px; margin-bottom: 14px; }
+        article li { margin-bottom: 6px; }
+        /* Factbox */
+        .factbox {
+            background: linear-gradient(135deg, #E67E2208, #E67E2215);
+            border: 1px solid #E67E2230;
+            border-radius: 10px;
+            padding: 20px 24px;
+            margin: 20px 0;
+        }
+        .factbox h3 {
+            color: #E67E22;
+            margin: 0 0 12px;
+            font-size: 1.05em;
+        }
+        .fact-row {
+            display: flex;
+            justify-content: space-between;
+            padding: 6px 0;
+            border-bottom: 1px solid #E67E2215;
+        }
+        .fact-row:last-child { border-bottom: none; }
+        .fact-key { font-weight: 600; color: #2d3436; flex: 0 0 45%; }
+        .fact-val { color: #636e72; text-align: right; flex: 0 0 50%; }
+        /* Tables */
+        .table-wrapper { overflow-x: auto; margin: 16px 0; }
+        table { border-collapse: collapse; width: 100%; font-size: 0.92em; }
+        th {
+            background: #E67E22;
+            color: white;
+            padding: 10px 14px;
+            text-align: left;
+            font-weight: 600;
+        }
+        td { padding: 10px 14px; border-bottom: 1px solid #eee; }
+        tr:nth-child(even) { background: #f8f9fa; }
+        tr:hover { background: #E67E2208; }
+        /* Callout */
+        .callout {
+            background: #fff3cd;
+            border-left: 4px solid #ffc107;
+            padding: 14px 18px;
+            border-radius: 0 8px 8px 0;
+            margin: 16px 0;
+            font-size: 0.93em;
+        }
+        .callout .misconception {
+            color: #856404;
+            margin-bottom: 4px;
+        }
+        .callout .reality {
+            color: #155724;
+            background: #d4edda;
+            padding: 8px 12px;
+            border-radius: 4px;
+            margin-bottom: 12px;
+        }
+        /* Rating */
+        .rating {
+            display: flex;
+            align-items: center;
+            gap: 10px;
+            padding: 6px 0;
+        }
+        .rating-label { font-weight: 600; min-width: 160px; }
+        .rating-dots { font-size: 1.2em; color: #E67E22; letter-spacing: 2px; }
+        .rating-score { color: #636e72; font-size: 0.85em; }
+        footer {
+            text-align: center;
+            padding: 30px 20px;
+            color: #b2bec3;
+            font-size: 0.8em;
+        }
+        footer a { color: #636e72; }
+        @media (max-width: 600px) {
+            header h1 { font-size: 1.3em; }
+            .angle-nav { gap: 4px; }
+            .angle-link { padding: 4px 10px; font-size: 0.75em; }
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <div class="container">
+            <h1><span class="flag">🇪🇬</span> Egypt - Overview & Essential Facts</h1>
+        </div>
+    </header>
+
+    <nav class="breadcrumb"><a href="/">Home</a> &raquo; <a href="/africa/">Africa</a> &raquo; <a href="/africa/egypt/">Egypt</a> &raquo; <span>Overview</span></nav>
+
+    <nav class="angle-nav">
+        <a href="/africa/egypt/overview.html" class="angle-link active">Overview</a>
+        <a href="/africa/egypt/geography.html" class="angle-link ">Geography</a>
+        <a href="/africa/egypt/must-know-truth.html" class="angle-link ">Must Know Truth</a>
+        <a href="/africa/egypt/positive-things.html" class="angle-link ">Positive Things</a>
+        <a href="/africa/egypt/cities-and-regions.html" class="angle-link ">Cities And Regions</a>
+        <a href="/africa/egypt/visa-and-entry.html" class="angle-link ">Visa And Entry</a>
+        <a href="/africa/egypt/cost-of-living.html" class="angle-link ">Cost Of Living</a>
+        <a href="/africa/egypt/economy.html" class="angle-link ">Economy</a>
+        <a href="/africa/egypt/culture.html" class="angle-link ">Culture</a>
+        <a href="/africa/egypt/travel-safety.html" class="angle-link ">Travel Safety</a>
+    </nav>
+
+    <article>
+        <div class="factbox"><h3>Quick Facts</h3>
+        <div class="fact-row"><span class="fact-key">Official Name</span><span class="fact-val">Arab Republic of Egypt</span></div>
+        <div class="fact-row"><span class="fact-key">Capital</span><span class="fact-val">Cairo</span></div>
+        <div class="fact-row"><span class="fact-key">Population</span><span class="fact-val">110.0 million</span></div>
+        <div class="fact-row"><span class="fact-key">Languages</span><span class="fact-val">Arabic</span></div>
+        <div class="fact-row"><span class="fact-key">Currency</span><span class="fact-val">EGP</span></div>
+        <div class="fact-row"><span class="fact-key">Government</span><span class="fact-val">Sovereign</span></div>
+        <div class="fact-row"><span class="fact-key">Continent</span><span class="fact-val">Africa</span></div>
+        <div class="fact-row"><span class="fact-key">ISO Code</span><span class="fact-val">EG</span></div>
+        <div class="fact-row"><span class="fact-key">Calling Code</span><span class="fact-val">+20</span></div>
+        <div class="fact-row"><span class="fact-key">Drives On</span><span class="fact-val">right</span></div>
+        <div class="fact-row"><span class="fact-key">Time Zone</span><span class="fact-val">UTC+2</span></div>
+        </div>
+        <h2>What Is Egypt?</h2>
+        <p>Egypt is a <strong>sovereign</strong> country located in northeastern Africa, bordered by Libya to the west, Sudan to the south, and Israel and Palestine to the northeast. The country has a rich history dating back to ancient times and is known for its stunning <strong>pyramids</strong>, temples, and other archaeological sites. With a population of over 110 million people, Egypt is the most populous country in the Arab world and the third most populous in Africa.</p>
+        <p>Geographically, Egypt is characterized by its vast <strong>desert</strong> landscapes, including the Sahara Desert, which covers much of the country. The <strong>Nile River</strong>, which runs through the heart of Egypt, is the lifeblood of the country, supporting agriculture, industry, and urban centers. Egypt's strategic location at the crossroads of Africa, Asia, and Europe has made it an important center for trade and cultural exchange throughout history.</p>
+        <p>Egypt's unique blend of <strong>Islamic</strong>, <strong>Christian</strong>, and <strong>ancient Egyptian</strong> cultures has created a distinct identity that is reflected in its art, architecture, music, and cuisine. From the bustling streets of Cairo to the tranquil landscapes of the <strong>Sinai Peninsula</strong>, Egypt is a country of incredible diversity and beauty.</p>
+        <h2>Key History</h2>
+        <ol>
+        <li>3100 BCE - The <strong>unification of Upper and Lower Egypt</strong> under the first pharaoh, Narmer, marked the beginning of ancient Egyptian civilization.</li>
+        <li>2580 BCE - The <strong>construction of the Great Pyramid of Giza</strong>, one of the Seven Wonders of the Ancient World, began during the Old Kingdom period.</li>
+        <li>332 BCE - <strong>Alexander the Great</strong> conquered Egypt, introducing Greek culture and language to the region.</li>
+        <li>641 CE - <strong>Arab conquest</strong> of Egypt led to the spread of Islam and the establishment of Arabic as the official language.</li>
+        <li>1922 - Egypt gained <strong>independence</strong> from British colonial rule, becoming a sovereign state.</li>
+        <li>1952 - The <strong>Egyptian Revolution</strong> led by Gamal Abdel Nasser overthrew the monarchy and established a republic.</li>
+        <li>2011 - The <strong>Arab Spring</strong> protests in Egypt led to the resignation of President Hosni Mubarak and the transition to a new government.</li>
+        </ol>
+        <h2>What Makes Egypt Unique</h2>
+        <ul>
+        <li>Egypt is home to the <strong>oldest known university in the world</strong>, Al-Azhar University, which was founded in 970 CE.</li>
+        <li>The country has a <strong>unique writing system</strong>, known as hieroglyphics, which was used by ancient Egyptians to record their history and culture.</li>
+        <li>Egypt is the <strong>most populous Arab country</strong>, with a population of over 110 million people.</li>
+        <li>The <strong>Nile River</strong> is the longest river in the world, stretching over 6,600 kilometers from its source in Burundi to its delta in Egypt.</li>
+        <li>Egypt has a <strong>rich cultural heritage</strong>, with a blend of Islamic, Christian, and ancient Egyptian influences reflected in its art, architecture, and music.</li>
+        </ul>
+        <h2>Quick Summary</h2>
+        <p>Egypt is a sovereign country in northeastern Africa, known for its rich history, stunning archaeological sites, and unique cultural heritage, which has been shaped by its strategic location at the crossroads of Africa, Asia, and Europe.</p>
+    </article>
+
+    <footer>
+        <p>&copy; 2026 360 Nations. Evergreen reference content.</p>
+        <p>This page contains factual, timeless information. Always verify visa and safety details with official sources.</p>
+    </footer>
+</body>
+</html>

@@ -1,0 +1,228 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="China - Overview & Essential Facts - Comprehensive guide to China. 360 Nations.">
+    <title>China - Overview & Essential Facts | 360 Nations</title>
+    <style>
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+            line-height: 1.7;
+            color: #2d3436;
+            background: #fafafa;
+        }
+        header {
+            background: linear-gradient(135deg, #E74C3C, #C0392B);
+            color: white;
+            padding: 24px 0;
+        }
+        header .container {
+            max-width: 900px;
+            margin: 0 auto;
+            padding: 0 20px;
+        }
+        header h1 {
+            font-size: 1.8em;
+            font-weight: 700;
+        }
+        .flag { font-size: 1.4em; margin-right: 8px; }
+        .breadcrumb {
+            max-width: 900px;
+            margin: 0 auto;
+            padding: 12px 20px;
+            font-size: 0.85em;
+            color: #636e72;
+        }
+        .breadcrumb a { color: #E74C3C; text-decoration: none; }
+        .breadcrumb a:hover { text-decoration: underline; }
+        .angle-nav {
+            max-width: 900px;
+            margin: 0 auto;
+            padding: 0 20px 16px;
+            display: flex;
+            flex-wrap: wrap;
+            gap: 6px;
+        }
+        .angle-link {
+            display: inline-block;
+            padding: 6px 14px;
+            border-radius: 20px;
+            font-size: 0.82em;
+            text-decoration: none;
+            color: #636e72;
+            background: #f1f2f6;
+            transition: all 0.2s;
+        }
+        .angle-link:hover { background: #dfe6e9; }
+        .angle-link.active {
+            background: #E74C3C;
+            color: white;
+        }
+        article {
+            max-width: 900px;
+            margin: 0 auto;
+            padding: 20px;
+            background: white;
+            border-radius: 8px;
+            box-shadow: 0 1px 3px rgba(0,0,0,0.08);
+            margin-bottom: 40px;
+        }
+        article h2 {
+            color: #E74C3C;
+            margin: 28px 0 12px;
+            padding-bottom: 6px;
+            border-bottom: 2px solid #E74C3C22;
+        }
+        article h3 { color: #2d3436; margin: 20px 0 8px; }
+        article p { margin-bottom: 14px; }
+        article ul, article ol { padding-left: 24px; margin-bottom: 14px; }
+        article li { margin-bottom: 6px; }
+        /* Factbox */
+        .factbox {
+            background: linear-gradient(135deg, #E74C3C08, #E74C3C15);
+            border: 1px solid #E74C3C30;
+            border-radius: 10px;
+            padding: 20px 24px;
+            margin: 20px 0;
+        }
+        .factbox h3 {
+            color: #E74C3C;
+            margin: 0 0 12px;
+            font-size: 1.05em;
+        }
+        .fact-row {
+            display: flex;
+            justify-content: space-between;
+            padding: 6px 0;
+            border-bottom: 1px solid #E74C3C15;
+        }
+        .fact-row:last-child { border-bottom: none; }
+        .fact-key { font-weight: 600; color: #2d3436; flex: 0 0 45%; }
+        .fact-val { color: #636e72; text-align: right; flex: 0 0 50%; }
+        /* Tables */
+        .table-wrapper { overflow-x: auto; margin: 16px 0; }
+        table { border-collapse: collapse; width: 100%; font-size: 0.92em; }
+        th {
+            background: #E74C3C;
+            color: white;
+            padding: 10px 14px;
+            text-align: left;
+            font-weight: 600;
+        }
+        td { padding: 10px 14px; border-bottom: 1px solid #eee; }
+        tr:nth-child(even) { background: #f8f9fa; }
+        tr:hover { background: #E74C3C08; }
+        /* Callout */
+        .callout {
+            background: #fff3cd;
+            border-left: 4px solid #ffc107;
+            padding: 14px 18px;
+            border-radius: 0 8px 8px 0;
+            margin: 16px 0;
+            font-size: 0.93em;
+        }
+        .callout .misconception {
+            color: #856404;
+            margin-bottom: 4px;
+        }
+        .callout .reality {
+            color: #155724;
+            background: #d4edda;
+            padding: 8px 12px;
+            border-radius: 4px;
+            margin-bottom: 12px;
+        }
+        /* Rating */
+        .rating {
+            display: flex;
+            align-items: center;
+            gap: 10px;
+            padding: 6px 0;
+        }
+        .rating-label { font-weight: 600; min-width: 160px; }
+        .rating-dots { font-size: 1.2em; color: #E74C3C; letter-spacing: 2px; }
+        .rating-score { color: #636e72; font-size: 0.85em; }
+        footer {
+            text-align: center;
+            padding: 30px 20px;
+            color: #b2bec3;
+            font-size: 0.8em;
+        }
+        footer a { color: #636e72; }
+        @media (max-width: 600px) {
+            header h1 { font-size: 1.3em; }
+            .angle-nav { gap: 4px; }
+            .angle-link { padding: 4px 10px; font-size: 0.75em; }
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <div class="container">
+            <h1><span class="flag">🇨🇳</span> China - Overview & Essential Facts</h1>
+        </div>
+    </header>
+
+    <nav class="breadcrumb"><a href="/">Home</a> &raquo; <a href="/asia/">Asia</a> &raquo; <a href="/asia/china/">China</a> &raquo; <span>Overview</span></nav>
+
+    <nav class="angle-nav">
+        <a href="/asia/china/overview.html" class="angle-link active">Overview</a>
+        <a href="/asia/china/geography.html" class="angle-link ">Geography</a>
+        <a href="/asia/china/must-know-truth.html" class="angle-link ">Must Know Truth</a>
+        <a href="/asia/china/positive-things.html" class="angle-link ">Positive Things</a>
+        <a href="/asia/china/cities-and-regions.html" class="angle-link ">Cities And Regions</a>
+        <a href="/asia/china/visa-and-entry.html" class="angle-link ">Visa And Entry</a>
+        <a href="/asia/china/cost-of-living.html" class="angle-link ">Cost Of Living</a>
+        <a href="/asia/china/economy.html" class="angle-link ">Economy</a>
+        <a href="/asia/china/culture.html" class="angle-link ">Culture</a>
+        <a href="/asia/china/travel-safety.html" class="angle-link ">Travel Safety</a>
+    </nav>
+
+    <article>
+        <div class="factbox"><h3>Quick Facts</h3>
+        <div class="fact-row"><span class="fact-key">Official Name</span><span class="fact-val">People's Republic of China</span></div>
+        <div class="fact-row"><span class="fact-key">Capital</span><span class="fact-val">Beijing</span></div>
+        <div class="fact-row"><span class="fact-key">Population</span><span class="fact-val">1412.0 million</span></div>
+        <div class="fact-row"><span class="fact-key">Languages</span><span class="fact-val">Mandarin</span></div>
+        <div class="fact-row"><span class="fact-key">Currency</span><span class="fact-val">CNY</span></div>
+        <div class="fact-row"><span class="fact-key">Government</span><span class="fact-val">Sovereign</span></div>
+        <div class="fact-row"><span class="fact-key">Continent</span><span class="fact-val">Asia</span></div>
+        <div class="fact-row"><span class="fact-key">ISO Code</span><span class="fact-val">CN</span></div>
+        <div class="fact-row"><span class="fact-key">Calling Code</span><span class="fact-val">+86</span></div>
+        <div class="fact-row"><span class="fact-key">Drives On</span><span class="fact-val">Right</span></div>
+        <div class="fact-row"><span class="fact-key">Time Zone</span><span class="fact-val">UTC+8</span></div>
+        </div>
+        <h2>What Is China?</h2>
+        <p>China, officially known as the People's Republic of China, is a <strong>sovereign</strong> country located in East Asia. It is the world's most populous country, with a population of over 1.4 billion people, and is the third-largest country by land area. China is bordered by 14 countries, including Russia, Mongolia, North Korea, Vietnam, Laos, Myanmar, India, Bhutan, Nepal, Pakistan, Afghanistan, Tajikistan, Kyrgyzstan, and Kazakhstan. China is known for its rich history, diverse culture, and stunning natural landscapes, from the Great Wall of China to the Yangtze River.</p>
+        <p>China is a significant global player, with a rapidly growing economy and a major influence on international trade and politics. The country has a long and complex history, with evidence of human habitation dating back to the Paleolithic era. China is home to many <strong>UNESCO World Heritage Sites</strong>, including the Great Wall, the Forbidden City, and the Terracotta Warriors. The country is also known for its vibrant cities, including Beijing, Shanghai, and Guangzhou, which offer a unique blend of traditional and modern culture.</p>
+        <p>China's geography is diverse, with mountains, forests, deserts, and coastlines along the Pacific Ocean. The country is home to several major rivers, including the Yangtze, the Yellow, and the Pearl. China's climate varies from tropical in the south to temperate and continental in the north. The country is also home to a wide range of flora and fauna, including the giant panda, the snow leopard, and the golden monkey.</p>
+        <h2>Key History</h2>
+        <ol>
+        <li>221 BCE - The Qin dynasty unifies China for the first time, marking the beginning of imperial China.</li>
+        <li>1368 CE - The Ming dynasty comes to power, ruling China for nearly 300 years and establishing the Forbidden City as the imperial capital.</li>
+        <li>1912 CE - The Republic of China is established, following the fall of the Qing dynasty.</li>
+        <li>1949 CE - The Communist Party of China, led by Mao Zedong, establishes the People's Republic of China, marking the beginning of socialist China.</li>
+        <li>1978 CE - China begins to implement economic reforms, led by Deng Xiaoping, which transform the country into a major economic power.</li>
+        <li>1997 CE - The United Kingdom returns Hong Kong to China, marking the end of British colonial rule.</li>
+        <li>2008 CE - China hosts the Summer Olympics, showcasing the country's modernization and global influence.</li>
+        </ol>
+        <h2>What Makes China Unique</h2>
+        <ul>
+        <li>China is home to the <strong>Great Wall of China</strong>, one of the Seven Wonders of the Medieval World and a UNESCO World Heritage Site.</li>
+        <li>The country has a unique <strong>writing system</strong>, with characters that have been used for over 3,000 years.</li>
+        <li>China is the world's largest <strong>manufacturer</strong>, with a vast range of industries, from textiles to electronics.</li>
+        <li>The country has a rich <strong>cultural heritage</strong>, with a history of philosophy, art, literature, and music that dates back thousands of years.</li>
+        <li>China is home to several <strong>minority groups</strong>, including the Tibetans, the Uyghurs, and the Mongols, each with their own distinct culture and language.</li>
+        </ul>
+        <h2>Quick Summary</h2>
+        <p>China is a sovereign country located in East Asia, known for its rich history, diverse culture, and stunning natural landscapes, and is a significant global player with a rapidly growing economy and a major influence on international trade and politics.</p>
+    </article>
+
+    <footer>
+        <p>&copy; 2026 360 Nations. Evergreen reference content.</p>
+        <p>This page contains factual, timeless information. Always verify visa and safety details with official sources.</p>
+    </footer>
+</body>
+</html>

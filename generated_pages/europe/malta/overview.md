@@ -1,0 +1,54 @@
+---
+title: "Malta - Overview & Essential Facts"
+entity: "Malta"
+iso_code: "MT"
+continent: "europe"
+angle: "overview"
+date: "2026-02-10"
+---
+
+# Malta - Overview & Essential Facts
+
+[FACTBOX]
+Official Name: Republic of Malta
+Capital: Valletta
+Population: 0.54 million
+Languages: Maltese, English
+Currency: EUR
+Government: sovereign
+Continent: Europe
+ISO Code: MT
+Calling Code: +356
+Drives On: left
+Time Zone: UTC+1
+[/FACTBOX]
+
+[SECTION] What Is Malta? [/SECTION]
+Malta is a **sovereign** island nation located in the Mediterranean Sea, situated between the European continent and North Africa. It is an archipelago consisting of three main islands: Malta, Gozo, and Comino. With a population of approximately 0.54 million people, Malta is one of the smallest countries in the world, both in terms of population and land area. The country has a rich history dating back thousands of years, with various civilizations, including the Phoenicians, Romans, and Knights of St. John, leaving their mark on the islands.
+
+Malta is known for its stunning natural beauty, with crystal-clear waters, limestone cliffs, and golden sandy beaches. The country is also famous for its well-preserved ancient temples, historic cities, and vibrant culture. Valletta, the capital city, is a UNESCO World Heritage Site, with its narrow streets, grand palaces, and impressive fortifications. Malta's strategic location has made it an important hub for trade, tourism, and finance, with the country being a member of the European Union and the eurozone.
+
+Malta's unique blend of Mediterranean and European influences has created a distinct identity, with the country boasting a rich cultural heritage. From its delicious cuisine, which combines Maltese, Italian, and British flavors, to its vibrant festivals and traditions, Malta has something to offer for every interest and taste. With its warm climate, stunning landscapes, and welcoming people, Malta is a popular tourist destination, attracting visitors from all over the world.
+
+[SECTION] Key History [/SECTION]
+1. 3600 BC - The first inhabitants of Malta arrive on the islands, with the construction of the ancient temples of Mnajdra and Hagar Qim.
+2. 700 BC - The Phoenicians establish a colony on Malta, introducing their language, culture, and trade networks.
+3. 60 BC - Malta becomes a Roman colony, with the Romans leaving their mark on the islands' architecture, language, and governance.
+4. 1530 - The Knights of St. John arrive on Malta, ruling the islands for over 250 years and establishing the city of Valletta.
+5. 1964 - Malta gains independence from British colonial rule, becoming a sovereign nation.
+6. 2004 - Malta joins the European Union, adopting the euro as its official currency in 2008.
+7. 2017 - Malta holds the presidency of the Council of the European Union, marking an important milestone in the country's European integration.
+
+[SECTION] What Makes Malta Unique [/SECTION]
+- Malta is home to some of the oldest free-standing structures in the world, with the ancient temples of Mnajdra and Hagar Qim dating back over 5,500 years.
+- The country has a unique language, **Maltese**, which is a Semitic language closely related to Arabic and Hebrew.
+- Malta has a vibrant cultural scene, with numerous festivals and events throughout the year, including the Malta International Arts Festival and the Valletta Film Festival.
+- The country is a popular destination for **water sports**, with its crystal-clear waters and stunning coastline making it ideal for swimming, snorkeling, and diving.
+- Malta has a thriving **financial sector**, with the country being a major hub for banking, finance, and online gaming.
+
+[SECTION] Quick Summary [/SECTION]
+Malta is a small, sovereign island nation in the Mediterranean Sea, known for its rich history, stunning natural beauty, and unique cultural heritage, making it a popular destination for tourists and a thriving hub for trade, finance, and culture.
+
+---
+
+*Evergreen reference content. Verify time-sensitive details with official sources.*

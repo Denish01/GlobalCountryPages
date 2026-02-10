@@ -1,0 +1,228 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Iceland - Overview & Essential Facts - Comprehensive guide to Iceland. 360 Nations.">
+    <title>Iceland - Overview & Essential Facts | 360 Nations</title>
+    <style>
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+            line-height: 1.7;
+            color: #2d3436;
+            background: #fafafa;
+        }
+        header {
+            background: linear-gradient(135deg, #3498DB, #2980B9);
+            color: white;
+            padding: 24px 0;
+        }
+        header .container {
+            max-width: 900px;
+            margin: 0 auto;
+            padding: 0 20px;
+        }
+        header h1 {
+            font-size: 1.8em;
+            font-weight: 700;
+        }
+        .flag { font-size: 1.4em; margin-right: 8px; }
+        .breadcrumb {
+            max-width: 900px;
+            margin: 0 auto;
+            padding: 12px 20px;
+            font-size: 0.85em;
+            color: #636e72;
+        }
+        .breadcrumb a { color: #3498DB; text-decoration: none; }
+        .breadcrumb a:hover { text-decoration: underline; }
+        .angle-nav {
+            max-width: 900px;
+            margin: 0 auto;
+            padding: 0 20px 16px;
+            display: flex;
+            flex-wrap: wrap;
+            gap: 6px;
+        }
+        .angle-link {
+            display: inline-block;
+            padding: 6px 14px;
+            border-radius: 20px;
+            font-size: 0.82em;
+            text-decoration: none;
+            color: #636e72;
+            background: #f1f2f6;
+            transition: all 0.2s;
+        }
+        .angle-link:hover { background: #dfe6e9; }
+        .angle-link.active {
+            background: #3498DB;
+            color: white;
+        }
+        article {
+            max-width: 900px;
+            margin: 0 auto;
+            padding: 20px;
+            background: white;
+            border-radius: 8px;
+            box-shadow: 0 1px 3px rgba(0,0,0,0.08);
+            margin-bottom: 40px;
+        }
+        article h2 {
+            color: #3498DB;
+            margin: 28px 0 12px;
+            padding-bottom: 6px;
+            border-bottom: 2px solid #3498DB22;
+        }
+        article h3 { color: #2d3436; margin: 20px 0 8px; }
+        article p { margin-bottom: 14px; }
+        article ul, article ol { padding-left: 24px; margin-bottom: 14px; }
+        article li { margin-bottom: 6px; }
+        /* Factbox */
+        .factbox {
+            background: linear-gradient(135deg, #3498DB08, #3498DB15);
+            border: 1px solid #3498DB30;
+            border-radius: 10px;
+            padding: 20px 24px;
+            margin: 20px 0;
+        }
+        .factbox h3 {
+            color: #3498DB;
+            margin: 0 0 12px;
+            font-size: 1.05em;
+        }
+        .fact-row {
+            display: flex;
+            justify-content: space-between;
+            padding: 6px 0;
+            border-bottom: 1px solid #3498DB15;
+        }
+        .fact-row:last-child { border-bottom: none; }
+        .fact-key { font-weight: 600; color: #2d3436; flex: 0 0 45%; }
+        .fact-val { color: #636e72; text-align: right; flex: 0 0 50%; }
+        /* Tables */
+        .table-wrapper { overflow-x: auto; margin: 16px 0; }
+        table { border-collapse: collapse; width: 100%; font-size: 0.92em; }
+        th {
+            background: #3498DB;
+            color: white;
+            padding: 10px 14px;
+            text-align: left;
+            font-weight: 600;
+        }
+        td { padding: 10px 14px; border-bottom: 1px solid #eee; }
+        tr:nth-child(even) { background: #f8f9fa; }
+        tr:hover { background: #3498DB08; }
+        /* Callout */
+        .callout {
+            background: #fff3cd;
+            border-left: 4px solid #ffc107;
+            padding: 14px 18px;
+            border-radius: 0 8px 8px 0;
+            margin: 16px 0;
+            font-size: 0.93em;
+        }
+        .callout .misconception {
+            color: #856404;
+            margin-bottom: 4px;
+        }
+        .callout .reality {
+            color: #155724;
+            background: #d4edda;
+            padding: 8px 12px;
+            border-radius: 4px;
+            margin-bottom: 12px;
+        }
+        /* Rating */
+        .rating {
+            display: flex;
+            align-items: center;
+            gap: 10px;
+            padding: 6px 0;
+        }
+        .rating-label { font-weight: 600; min-width: 160px; }
+        .rating-dots { font-size: 1.2em; color: #3498DB; letter-spacing: 2px; }
+        .rating-score { color: #636e72; font-size: 0.85em; }
+        footer {
+            text-align: center;
+            padding: 30px 20px;
+            color: #b2bec3;
+            font-size: 0.8em;
+        }
+        footer a { color: #636e72; }
+        @media (max-width: 600px) {
+            header h1 { font-size: 1.3em; }
+            .angle-nav { gap: 4px; }
+            .angle-link { padding: 4px 10px; font-size: 0.75em; }
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <div class="container">
+            <h1><span class="flag">🇮🇸</span> Iceland - Overview & Essential Facts</h1>
+        </div>
+    </header>
+
+    <nav class="breadcrumb"><a href="/">Home</a> &raquo; <a href="/europe/">Europe</a> &raquo; <a href="/europe/iceland/">Iceland</a> &raquo; <span>Overview</span></nav>
+
+    <nav class="angle-nav">
+        <a href="/europe/iceland/overview.html" class="angle-link active">Overview</a>
+        <a href="/europe/iceland/geography.html" class="angle-link ">Geography</a>
+        <a href="/europe/iceland/must-know-truth.html" class="angle-link ">Must Know Truth</a>
+        <a href="/europe/iceland/positive-things.html" class="angle-link ">Positive Things</a>
+        <a href="/europe/iceland/cities-and-regions.html" class="angle-link ">Cities And Regions</a>
+        <a href="/europe/iceland/visa-and-entry.html" class="angle-link ">Visa And Entry</a>
+        <a href="/europe/iceland/cost-of-living.html" class="angle-link ">Cost Of Living</a>
+        <a href="/europe/iceland/economy.html" class="angle-link ">Economy</a>
+        <a href="/europe/iceland/culture.html" class="angle-link ">Culture</a>
+        <a href="/europe/iceland/travel-safety.html" class="angle-link ">Travel Safety</a>
+    </nav>
+
+    <article>
+        <div class="factbox"><h3>Quick Facts</h3>
+        <div class="fact-row"><span class="fact-key">Official Name</span><span class="fact-val">Republic of Iceland</span></div>
+        <div class="fact-row"><span class="fact-key">Capital</span><span class="fact-val">Reykjavik</span></div>
+        <div class="fact-row"><span class="fact-key">Population</span><span class="fact-val">0.38 million</span></div>
+        <div class="fact-row"><span class="fact-key">Languages</span><span class="fact-val">Icelandic</span></div>
+        <div class="fact-row"><span class="fact-key">Currency</span><span class="fact-val">ISK</span></div>
+        <div class="fact-row"><span class="fact-key">Government</span><span class="fact-val">sovereign</span></div>
+        <div class="fact-row"><span class="fact-key">Continent</span><span class="fact-val">Europe</span></div>
+        <div class="fact-row"><span class="fact-key">ISO Code</span><span class="fact-val">IS</span></div>
+        <div class="fact-row"><span class="fact-key">Calling Code</span><span class="fact-val">+354</span></div>
+        <div class="fact-row"><span class="fact-key">Drives On</span><span class="fact-val">right</span></div>
+        <div class="fact-row"><span class="fact-key">Time Zone</span><span class="fact-val">UTC+0</span></div>
+        </div>
+        <h2>What Is Iceland?</h2>
+        <p>Iceland is a <strong>sovereign</strong> country located in <strong>Europe</strong>, situated in the North Atlantic Ocean. It is an island nation, characterized by its unique geography, which includes <strong>volcanic</strong> landscapes, <strong>geothermal</strong> hot springs, and <strong>glaciers</strong>. Iceland is known for its stunning natural beauty, with attractions such as the <strong>Golden Circle</strong>, which includes the Thingvellir National Park, Geysir geothermal area, and Gullfoss waterfall.</p>
+        <p>Iceland's geographic position, situated near the <strong>Arctic Circle</strong>, makes it a fascinating destination for <strong>Northern Lights</strong> sightings. The country's capital, <strong>Reykjavik</strong>, is a hub for culture, entertainment, and cuisine, offering a unique blend of traditional and modern Icelandic experiences. With a population of approximately 0.38 million people, Iceland is a relatively small country, but its distinct culture, history, and natural wonders make it a popular destination for tourists and travelers.</p>
+        <p>Iceland's <strong>independent</strong> status as a sovereign nation allows it to maintain its own government, economy, and cultural identity. The country has a strong sense of national pride and a deep connection to its <strong>Viking</strong> heritage, which is reflected in its language, customs, and traditions. Iceland's unique blend of natural beauty, cultural richness, and modern sophistication makes it a fascinating country to explore and discover.</p>
+        <h2>Key History</h2>
+        <ol>
+        <li>870 - The first <strong>Viking</strong> settlers arrive in Iceland, led by Ingolfur Arnarson, who establishes the country's first permanent settlement.</li>
+        <li>930 - The <strong>Althing</strong>, Iceland's national parliament, is established, making it one of the oldest parliaments in the world.</li>
+        <li>1380 - Iceland enters into a <strong>union</strong> with Norway, which lasts for over 400 years and has a significant impact on the country's language, culture, and politics.</li>
+        <li>1918 - Iceland gains <strong>independence</strong> from Denmark, which had ruled the country since 1380, and becomes a <strong>sovereign</strong> state.</li>
+        <li>1944 - Iceland becomes a <strong>republic</strong>, with Sveinn Bjornsson as its first president.</li>
+        <li>1958 - Iceland extends its <strong>fishing limits</strong> to 12 nautical miles, leading to a dispute with the United Kingdom, known as the <strong>Cod Wars</strong>.</li>
+        <li>2008 - Iceland experiences a <strong>financial crisis</strong>, which has a significant impact on the country's economy and leads to widespread protests and reforms.</li>
+        </ol>
+        <h2>What Makes Iceland Unique</h2>
+        <ul>
+        <li>Iceland is home to the <strong>world's oldest parliament</strong>, the Althing, which was established in 930.</li>
+        <li>The country is located on the <strong>Mid-Atlantic Ridge</strong>, a <strong>divergent plate boundary</strong> where the North American and Eurasian tectonic plates meet.</li>
+        <li>Iceland is a <strong>leader in renewable energy</strong>, with over 80% of its electricity generated from <strong>geothermal</strong> and <strong>hydroelectric</strong> power.</li>
+        <li>The country has a <strong>unique language</strong>, Icelandic, which is a <strong>North Germanic language</strong> and is still spoken by the vast majority of the population.</li>
+        <li>Iceland is home to the <strong>Vatnajokull National Park</strong>, which is Europe's largest national park, covering over 14% of the country's land area.</li>
+        </ul>
+        <h2>Quick Summary</h2>
+        <p>Iceland is a sovereign country located in Europe, known for its unique natural beauty, rich cultural heritage, and strong sense of national identity, making it a fascinating destination for travelers and a distinct nation in the global community.</p>
+    </article>
+
+    <footer>
+        <p>&copy; 2026 360 Nations. Evergreen reference content.</p>
+        <p>This page contains factual, timeless information. Always verify visa and safety details with official sources.</p>
+    </footer>
+</body>
+</html>

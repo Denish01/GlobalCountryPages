@@ -1,0 +1,228 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Colombia - Overview & Essential Facts - Comprehensive guide to Colombia. 360 Nations.">
+    <title>Colombia - Overview & Essential Facts | 360 Nations</title>
+    <style>
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+            line-height: 1.7;
+            color: #2d3436;
+            background: #fafafa;
+        }
+        header {
+            background: linear-gradient(135deg, #8E44AD, #7D3C98);
+            color: white;
+            padding: 24px 0;
+        }
+        header .container {
+            max-width: 900px;
+            margin: 0 auto;
+            padding: 0 20px;
+        }
+        header h1 {
+            font-size: 1.8em;
+            font-weight: 700;
+        }
+        .flag { font-size: 1.4em; margin-right: 8px; }
+        .breadcrumb {
+            max-width: 900px;
+            margin: 0 auto;
+            padding: 12px 20px;
+            font-size: 0.85em;
+            color: #636e72;
+        }
+        .breadcrumb a { color: #8E44AD; text-decoration: none; }
+        .breadcrumb a:hover { text-decoration: underline; }
+        .angle-nav {
+            max-width: 900px;
+            margin: 0 auto;
+            padding: 0 20px 16px;
+            display: flex;
+            flex-wrap: wrap;
+            gap: 6px;
+        }
+        .angle-link {
+            display: inline-block;
+            padding: 6px 14px;
+            border-radius: 20px;
+            font-size: 0.82em;
+            text-decoration: none;
+            color: #636e72;
+            background: #f1f2f6;
+            transition: all 0.2s;
+        }
+        .angle-link:hover { background: #dfe6e9; }
+        .angle-link.active {
+            background: #8E44AD;
+            color: white;
+        }
+        article {
+            max-width: 900px;
+            margin: 0 auto;
+            padding: 20px;
+            background: white;
+            border-radius: 8px;
+            box-shadow: 0 1px 3px rgba(0,0,0,0.08);
+            margin-bottom: 40px;
+        }
+        article h2 {
+            color: #8E44AD;
+            margin: 28px 0 12px;
+            padding-bottom: 6px;
+            border-bottom: 2px solid #8E44AD22;
+        }
+        article h3 { color: #2d3436; margin: 20px 0 8px; }
+        article p { margin-bottom: 14px; }
+        article ul, article ol { padding-left: 24px; margin-bottom: 14px; }
+        article li { margin-bottom: 6px; }
+        /* Factbox */
+        .factbox {
+            background: linear-gradient(135deg, #8E44AD08, #8E44AD15);
+            border: 1px solid #8E44AD30;
+            border-radius: 10px;
+            padding: 20px 24px;
+            margin: 20px 0;
+        }
+        .factbox h3 {
+            color: #8E44AD;
+            margin: 0 0 12px;
+            font-size: 1.05em;
+        }
+        .fact-row {
+            display: flex;
+            justify-content: space-between;
+            padding: 6px 0;
+            border-bottom: 1px solid #8E44AD15;
+        }
+        .fact-row:last-child { border-bottom: none; }
+        .fact-key { font-weight: 600; color: #2d3436; flex: 0 0 45%; }
+        .fact-val { color: #636e72; text-align: right; flex: 0 0 50%; }
+        /* Tables */
+        .table-wrapper { overflow-x: auto; margin: 16px 0; }
+        table { border-collapse: collapse; width: 100%; font-size: 0.92em; }
+        th {
+            background: #8E44AD;
+            color: white;
+            padding: 10px 14px;
+            text-align: left;
+            font-weight: 600;
+        }
+        td { padding: 10px 14px; border-bottom: 1px solid #eee; }
+        tr:nth-child(even) { background: #f8f9fa; }
+        tr:hover { background: #8E44AD08; }
+        /* Callout */
+        .callout {
+            background: #fff3cd;
+            border-left: 4px solid #ffc107;
+            padding: 14px 18px;
+            border-radius: 0 8px 8px 0;
+            margin: 16px 0;
+            font-size: 0.93em;
+        }
+        .callout .misconception {
+            color: #856404;
+            margin-bottom: 4px;
+        }
+        .callout .reality {
+            color: #155724;
+            background: #d4edda;
+            padding: 8px 12px;
+            border-radius: 4px;
+            margin-bottom: 12px;
+        }
+        /* Rating */
+        .rating {
+            display: flex;
+            align-items: center;
+            gap: 10px;
+            padding: 6px 0;
+        }
+        .rating-label { font-weight: 600; min-width: 160px; }
+        .rating-dots { font-size: 1.2em; color: #8E44AD; letter-spacing: 2px; }
+        .rating-score { color: #636e72; font-size: 0.85em; }
+        footer {
+            text-align: center;
+            padding: 30px 20px;
+            color: #b2bec3;
+            font-size: 0.8em;
+        }
+        footer a { color: #636e72; }
+        @media (max-width: 600px) {
+            header h1 { font-size: 1.3em; }
+            .angle-nav { gap: 4px; }
+            .angle-link { padding: 4px 10px; font-size: 0.75em; }
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <div class="container">
+            <h1><span class="flag">🇨🇴</span> Colombia - Overview & Essential Facts</h1>
+        </div>
+    </header>
+
+    <nav class="breadcrumb"><a href="/">Home</a> &raquo; <a href="/south-america/">South America</a> &raquo; <a href="/south-america/colombia/">Colombia</a> &raquo; <span>Overview</span></nav>
+
+    <nav class="angle-nav">
+        <a href="/south-america/colombia/overview.html" class="angle-link active">Overview</a>
+        <a href="/south-america/colombia/geography.html" class="angle-link ">Geography</a>
+        <a href="/south-america/colombia/must-know-truth.html" class="angle-link ">Must Know Truth</a>
+        <a href="/south-america/colombia/positive-things.html" class="angle-link ">Positive Things</a>
+        <a href="/south-america/colombia/cities-and-regions.html" class="angle-link ">Cities And Regions</a>
+        <a href="/south-america/colombia/visa-and-entry.html" class="angle-link ">Visa And Entry</a>
+        <a href="/south-america/colombia/cost-of-living.html" class="angle-link ">Cost Of Living</a>
+        <a href="/south-america/colombia/economy.html" class="angle-link ">Economy</a>
+        <a href="/south-america/colombia/culture.html" class="angle-link ">Culture</a>
+        <a href="/south-america/colombia/travel-safety.html" class="angle-link ">Travel Safety</a>
+    </nav>
+
+    <article>
+        <div class="factbox"><h3>Quick Facts</h3>
+        <div class="fact-row"><span class="fact-key">Official Name</span><span class="fact-val">Republic of Colombia</span></div>
+        <div class="fact-row"><span class="fact-key">Capital</span><span class="fact-val">Bogota</span></div>
+        <div class="fact-row"><span class="fact-key">Population</span><span class="fact-val">52.0 million</span></div>
+        <div class="fact-row"><span class="fact-key">Languages</span><span class="fact-val">Spanish</span></div>
+        <div class="fact-row"><span class="fact-key">Currency</span><span class="fact-val">COP</span></div>
+        <div class="fact-row"><span class="fact-key">Government</span><span class="fact-val">Unitary presidential constitutional republic</span></div>
+        <div class="fact-row"><span class="fact-key">Continent</span><span class="fact-val">South America</span></div>
+        <div class="fact-row"><span class="fact-key">ISO Code</span><span class="fact-val">CO</span></div>
+        <div class="fact-row"><span class="fact-key">Calling Code</span><span class="fact-val">+57</span></div>
+        <div class="fact-row"><span class="fact-key">Drives On</span><span class="fact-val">right</span></div>
+        <div class="fact-row"><span class="fact-key">Time Zone</span><span class="fact-val">UTC-5</span></div>
+        </div>
+        <h2>What Is Colombia?</h2>
+        <p>Colombia is a <strong>sovereign</strong> country located in the northwestern part of <strong>South America</strong>. It shares borders with several countries, including Venezuela, Brazil, Peru, Ecuador, and Panama. Colombia is known for its rich cultural heritage, stunning natural beauty, and vibrant cities. The country has a diverse geography, ranging from tropical rainforests to snow-capped mountains, and from beautiful beaches to vast deserts. Colombia is also home to a wide range of flora and fauna, including many <strong>endemic species</strong> that can be found nowhere else in the world.</p>
+        <p>Colombia has a long and complex history, with evidence of human habitation dating back to the <strong>Pre-Columbian era</strong>. The country was colonized by Spain in the 16th century, and it gained independence in 1810. Today, Colombia is a <strong>unitary presidential constitutional republic</strong>, with a democratically elected government and a diverse economy. The country is a major producer of <strong>coffee</strong>, <strong>coal</strong>, and <strong>oil</strong>, and it has a growing tourism industry.</p>
+        <p>Despite its many challenges, including a history of conflict and violence, Colombia is a country with a strong sense of resilience and hope. The country has made significant progress in recent years, with a growing economy, improved security, and a renewed focus on <strong>sustainable development</strong>. Visitors to Colombia can experience the country's vibrant culture, stunning natural beauty, and warm hospitality, making it a popular destination for travelers from around the world.</p>
+        <h2>Key History</h2>
+        <ol>
+        <li>1810 - Colombia gains independence from Spain, with Simón Bolívar as one of the key leaders of the independence movement.</li>
+        <li>1830 - The <strong>Gran Colombia</strong> republic is dissolved, and Colombia becomes a separate country.</li>
+        <li>1948 - The <strong>Bogotazo</strong> riots take place, marking the beginning of a period of violence and instability in the country.</li>
+        <li>1964 - The <strong>FARC</strong> guerrilla group is founded, starting a long and complex conflict that would last for decades.</li>
+        <li>2016 - The Colombian government and the FARC sign a <strong>peace agreement</strong>, marking a major milestone in the country's journey towards peace and reconciliation.</li>
+        <li>2019 - Colombia experiences a wave of <strong>protests and demonstrations</strong>, as citizens demand reforms and improvements in areas such as education, healthcare, and the economy.</li>
+        <li>2020 - Colombia is affected by the <strong>COVID-19 pandemic</strong>, with significant economic and social impacts on the country.</li>
+        </ol>
+        <h2>What Makes Colombia Unique</h2>
+        <ul>
+        <li>Colombia is home to a wide range of <strong>biodiversity</strong>, with many unique and endemic species that can be found nowhere else in the world.</li>
+        <li>The country has a rich cultural heritage, with a blend of <strong>indigenous</strong>, <strong>Spanish</strong>, and <strong>African</strong> influences.</li>
+        <li>Colombia is the world's largest producer of <strong>emeralds</strong>, and it has a significant <strong>mining industry</strong>.</li>
+        <li>The country is home to the <strong>Lost City of Teyuna</strong>, an ancient city that was hidden deep in the jungle for centuries.</li>
+        <li>Colombia has a vibrant <strong>music and arts scene</strong>, with a wide range of traditional and contemporary styles, including <strong>vallenato</strong>, <strong>salsa</strong>, and <strong>reggaeton</strong>.</li>
+        </ul>
+        <h2>Quick Summary</h2>
+        <p>Colombia is a sovereign country in South America, known for its rich cultural heritage, stunning natural beauty, and vibrant cities, with a complex history and a growing economy, making it a unique and fascinating destination for travelers and investors alike.</p>
+    </article>
+
+    <footer>
+        <p>&copy; 2026 360 Nations. Evergreen reference content.</p>
+        <p>This page contains factual, timeless information. Always verify visa and safety details with official sources.</p>
+    </footer>
+</body>
+</html>

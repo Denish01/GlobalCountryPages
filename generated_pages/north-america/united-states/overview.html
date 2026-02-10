@@ -1,0 +1,228 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="United States - Overview & Essential Facts - Comprehensive guide to United States. 360 Nations.">
+    <title>United States - Overview & Essential Facts | 360 Nations</title>
+    <style>
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+            line-height: 1.7;
+            color: #2d3436;
+            background: #fafafa;
+        }
+        header {
+            background: linear-gradient(135deg, #27AE60, #229954);
+            color: white;
+            padding: 24px 0;
+        }
+        header .container {
+            max-width: 900px;
+            margin: 0 auto;
+            padding: 0 20px;
+        }
+        header h1 {
+            font-size: 1.8em;
+            font-weight: 700;
+        }
+        .flag { font-size: 1.4em; margin-right: 8px; }
+        .breadcrumb {
+            max-width: 900px;
+            margin: 0 auto;
+            padding: 12px 20px;
+            font-size: 0.85em;
+            color: #636e72;
+        }
+        .breadcrumb a { color: #27AE60; text-decoration: none; }
+        .breadcrumb a:hover { text-decoration: underline; }
+        .angle-nav {
+            max-width: 900px;
+            margin: 0 auto;
+            padding: 0 20px 16px;
+            display: flex;
+            flex-wrap: wrap;
+            gap: 6px;
+        }
+        .angle-link {
+            display: inline-block;
+            padding: 6px 14px;
+            border-radius: 20px;
+            font-size: 0.82em;
+            text-decoration: none;
+            color: #636e72;
+            background: #f1f2f6;
+            transition: all 0.2s;
+        }
+        .angle-link:hover { background: #dfe6e9; }
+        .angle-link.active {
+            background: #27AE60;
+            color: white;
+        }
+        article {
+            max-width: 900px;
+            margin: 0 auto;
+            padding: 20px;
+            background: white;
+            border-radius: 8px;
+            box-shadow: 0 1px 3px rgba(0,0,0,0.08);
+            margin-bottom: 40px;
+        }
+        article h2 {
+            color: #27AE60;
+            margin: 28px 0 12px;
+            padding-bottom: 6px;
+            border-bottom: 2px solid #27AE6022;
+        }
+        article h3 { color: #2d3436; margin: 20px 0 8px; }
+        article p { margin-bottom: 14px; }
+        article ul, article ol { padding-left: 24px; margin-bottom: 14px; }
+        article li { margin-bottom: 6px; }
+        /* Factbox */
+        .factbox {
+            background: linear-gradient(135deg, #27AE6008, #27AE6015);
+            border: 1px solid #27AE6030;
+            border-radius: 10px;
+            padding: 20px 24px;
+            margin: 20px 0;
+        }
+        .factbox h3 {
+            color: #27AE60;
+            margin: 0 0 12px;
+            font-size: 1.05em;
+        }
+        .fact-row {
+            display: flex;
+            justify-content: space-between;
+            padding: 6px 0;
+            border-bottom: 1px solid #27AE6015;
+        }
+        .fact-row:last-child { border-bottom: none; }
+        .fact-key { font-weight: 600; color: #2d3436; flex: 0 0 45%; }
+        .fact-val { color: #636e72; text-align: right; flex: 0 0 50%; }
+        /* Tables */
+        .table-wrapper { overflow-x: auto; margin: 16px 0; }
+        table { border-collapse: collapse; width: 100%; font-size: 0.92em; }
+        th {
+            background: #27AE60;
+            color: white;
+            padding: 10px 14px;
+            text-align: left;
+            font-weight: 600;
+        }
+        td { padding: 10px 14px; border-bottom: 1px solid #eee; }
+        tr:nth-child(even) { background: #f8f9fa; }
+        tr:hover { background: #27AE6008; }
+        /* Callout */
+        .callout {
+            background: #fff3cd;
+            border-left: 4px solid #ffc107;
+            padding: 14px 18px;
+            border-radius: 0 8px 8px 0;
+            margin: 16px 0;
+            font-size: 0.93em;
+        }
+        .callout .misconception {
+            color: #856404;
+            margin-bottom: 4px;
+        }
+        .callout .reality {
+            color: #155724;
+            background: #d4edda;
+            padding: 8px 12px;
+            border-radius: 4px;
+            margin-bottom: 12px;
+        }
+        /* Rating */
+        .rating {
+            display: flex;
+            align-items: center;
+            gap: 10px;
+            padding: 6px 0;
+        }
+        .rating-label { font-weight: 600; min-width: 160px; }
+        .rating-dots { font-size: 1.2em; color: #27AE60; letter-spacing: 2px; }
+        .rating-score { color: #636e72; font-size: 0.85em; }
+        footer {
+            text-align: center;
+            padding: 30px 20px;
+            color: #b2bec3;
+            font-size: 0.8em;
+        }
+        footer a { color: #636e72; }
+        @media (max-width: 600px) {
+            header h1 { font-size: 1.3em; }
+            .angle-nav { gap: 4px; }
+            .angle-link { padding: 4px 10px; font-size: 0.75em; }
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <div class="container">
+            <h1><span class="flag">🇺🇸</span> United States - Overview & Essential Facts</h1>
+        </div>
+    </header>
+
+    <nav class="breadcrumb"><a href="/">Home</a> &raquo; <a href="/north-america/">North America</a> &raquo; <a href="/north-america/united-states/">United States</a> &raquo; <span>Overview</span></nav>
+
+    <nav class="angle-nav">
+        <a href="/north-america/united-states/overview.html" class="angle-link active">Overview</a>
+        <a href="/north-america/united-states/geography.html" class="angle-link ">Geography</a>
+        <a href="/north-america/united-states/must-know-truth.html" class="angle-link ">Must Know Truth</a>
+        <a href="/north-america/united-states/positive-things.html" class="angle-link ">Positive Things</a>
+        <a href="/north-america/united-states/cities-and-regions.html" class="angle-link ">Cities And Regions</a>
+        <a href="/north-america/united-states/visa-and-entry.html" class="angle-link ">Visa And Entry</a>
+        <a href="/north-america/united-states/cost-of-living.html" class="angle-link ">Cost Of Living</a>
+        <a href="/north-america/united-states/economy.html" class="angle-link ">Economy</a>
+        <a href="/north-america/united-states/culture.html" class="angle-link ">Culture</a>
+        <a href="/north-america/united-states/travel-safety.html" class="angle-link ">Travel Safety</a>
+    </nav>
+
+    <article>
+        <div class="factbox"><h3>Quick Facts</h3>
+        <div class="fact-row"><span class="fact-key">Official Name</span><span class="fact-val">United States of America</span></div>
+        <div class="fact-row"><span class="fact-key">Capital</span><span class="fact-val">Washington D.C.</span></div>
+        <div class="fact-row"><span class="fact-key">Population</span><span class="fact-val">335.0 million</span></div>
+        <div class="fact-row"><span class="fact-key">Languages</span><span class="fact-val">English</span></div>
+        <div class="fact-row"><span class="fact-key">Currency</span><span class="fact-val">USD</span></div>
+        <div class="fact-row"><span class="fact-key">Government</span><span class="fact-val">Federal republic</span></div>
+        <div class="fact-row"><span class="fact-key">Continent</span><span class="fact-val">North America</span></div>
+        <div class="fact-row"><span class="fact-key">ISO Code</span><span class="fact-val">US</span></div>
+        <div class="fact-row"><span class="fact-key">Calling Code</span><span class="fact-val">+1</span></div>
+        <div class="fact-row"><span class="fact-key">Drives On</span><span class="fact-val">Right</span></div>
+        <div class="fact-row"><span class="fact-key">Time Zone</span><span class="fact-val">UTC-5 to UTC-10</span></div>
+        </div>
+        <h2>What Is United States?</h2>
+        <p>The United States, also known as America, is a <strong>sovereign</strong> country located in <strong>North America</strong>. It is situated between <strong>Canada</strong> to the north and <strong>Mexico</strong> to the south, with the <strong>Atlantic Ocean</strong> to the east and the <strong>Pacific Ocean</strong> to the west. The country is known for its diverse geography, which includes mountains, forests, deserts, and coastlines along the oceans. The United States is a federal republic, consisting of 50 states, a federal district, and several territories. It is a global leader in terms of economy, politics, culture, and technology.</p>
+        <p>The United States is a melting pot of cultures, with people from different ethnic and racial backgrounds living together. The country has a long history of immigration, which has shaped its culture, cuisine, and way of life. From the bustling cities of <strong>New York</strong> and <strong>Los Angeles</strong> to the scenic landscapes of <strong>Yellowstone</strong> and <strong>Yosemite</strong>, the United States has a lot to offer to its citizens and visitors. The country is also known for its vibrant cities, world-class universities, and innovative industries.</p>
+        <p>The United States is a <strong>federal republic</strong> with a democratic system of government, where the president serves as the head of state and government. The country has a strong economy, driven by industries such as technology, finance, healthcare, and entertainment. The United States is also a global leader in terms of military power, with a strong defense system and a network of alliances with other countries.</p>
+        <h2>Key History</h2>
+        <ol>
+        <li>1776 - The <strong>Declaration of Independence</strong> was signed, marking the beginning of the United States as a sovereign nation.</li>
+        <li>1787 - The <strong>Constitution</strong> was written, establishing the framework of the federal government.</li>
+        <li>1861-1865 - The <strong>American Civil War</strong> was fought, resulting in the abolition of slavery and a more unified federal government.</li>
+        <li>1929-1939 - The <strong>Great Depression</strong> occurred, leading to a period of economic downturn and social change.</li>
+        <li>1945 - The United States emerged as a global superpower after <strong>World War II</strong>, playing a leading role in international affairs.</li>
+        <li>1969 - The <strong>first moon landing</strong> took place, marking a major achievement in space exploration.</li>
+        <li>2001 - The <strong>September 11 attacks</strong> occurred, leading to a global war on terrorism and a significant shift in international relations.</li>
+        </ol>
+        <h2>What Makes United States Unique</h2>
+        <ul>
+        <li>The United States is home to some of the world's most prestigious universities, including <strong>Harvard</strong> and <strong>Stanford</strong>.</li>
+        <li>The country has a diverse geography, with a wide range of climates and landscapes, from the <strong>Grand Canyon</strong> to the <strong>Florida Keys</strong>.</li>
+        <li>The United States is a global leader in terms of innovation, with many <strong>Silicon Valley</strong> companies driving technological advancements.</li>
+        <li>The country has a rich cultural heritage, with a blend of <strong>European</strong>, <strong>African</strong>, <strong>Asian</strong>, and <strong>Latin American</strong> influences.</li>
+        <li>The United States is a major player in global affairs, with a strong military and a network of international alliances.</li>
+        </ul>
+        <h2>Quick Summary</h2>
+        <p>The United States is a sovereign country located in North America, known for its diverse geography, vibrant culture, and global leadership in economy, politics, and technology, with a rich history and a strong democratic system of government.</p>
+    </article>
+
+    <footer>
+        <p>&copy; 2026 360 Nations. Evergreen reference content.</p>
+        <p>This page contains factual, timeless information. Always verify visa and safety details with official sources.</p>
+    </footer>
+</body>
+</html>

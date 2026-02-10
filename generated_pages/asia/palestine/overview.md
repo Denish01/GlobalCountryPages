@@ -1,0 +1,54 @@
+---
+title: "Palestine - Overview & Essential Facts"
+entity: "Palestine"
+iso_code: "PS"
+continent: "asia"
+angle: "overview"
+date: "2026-02-10"
+---
+
+# Palestine - Overview & Essential Facts
+
+[FACTBOX]
+Official Name: State of Palestine
+Capital: Ramallah
+Population: 5.4 million
+Languages: Arabic
+Currency: ILS
+Government: Semi-presidential
+Continent: Asia
+ISO Code: PS
+Calling Code: +970
+Drives On: right
+Time Zone: UTC+2
+[/FACTBOX]
+
+[SECTION] What Is Palestine? [/SECTION]
+Palestine is a **disputed territory** located in Western Asia, with a long and complex history. It is situated on the eastern coast of the Mediterranean Sea, bordered by Israel to the north, east, and south, Egypt to the southwest, and Jordan to the east. The territory is divided into two main areas: the West Bank and the Gaza Strip. Palestine is known for its rich cultural heritage, including its historic cities, such as Jerusalem, Hebron, and Nablus, and its significant religious sites, including the **Al-Aqsa Mosque** and the **Church of the Nativity**.
+
+The sovereignty status of Palestine is a subject of ongoing debate and negotiation. The Palestinian National Authority, established in 1994, has been recognized by the international community as the representative of the Palestinian people, but its authority is limited to specific areas within the territory. The **Israeli-Palestinian conflict** has been a major obstacle to resolving the sovereignty issue, with both sides claiming rights to the land. Despite these challenges, Palestine has made significant progress in recent years, with the development of its economy, education system, and infrastructure.
+
+Palestine is also known for its natural beauty, with a diverse landscape that includes mountains, valleys, and coastal areas. The territory is home to several **UNESCO World Heritage Sites**, including the old city of Jerusalem and the birthplace of Jesus in Bethlehem. The Palestinian people are known for their hospitality and warm welcome to visitors, and the territory has a growing tourism industry, with many attractions and activities available, including hiking, biking, and cultural tours.
+
+[SECTION] Key History [/SECTION]
+1. 1917 - The British Empire captures Palestine from the Ottoman Empire during World War I, and the territory is placed under British rule.
+2. 1948 - The State of Israel is established, leading to the displacement of hundreds of thousands of Palestinians, known as the **Nakba** or "catastrophe" in Arabic.
+3. 1967 - Israel captures the West Bank and Gaza Strip from Jordan and Egypt, respectively, during the Six-Day War, and has occupied the territories ever since.
+4. 1993 - The Oslo Accords are signed, establishing the Palestinian National Authority and outlining a framework for peace negotiations between Israel and the Palestinians.
+5. 2005 - Israel unilaterally withdraws from the Gaza Strip, but maintains control over the territory's borders and airspace.
+6. 2012 - The United Nations General Assembly recognizes Palestine as a **non-member observer state**, with 138 countries voting in favor of the resolution.
+7. 2020 - The United States releases its **Middle East peace plan**, which is rejected by the Palestinian leadership and widely criticized by the international community.
+
+[SECTION] What Makes Palestine Unique [/SECTION]
+- Palestine is home to some of the oldest and most significant **Christian** and **Islamic** sites in the world, including the Church of the Nativity and the Al-Aqsa Mosque.
+- The territory has a unique and diverse **cuisine**, with popular dishes such as maqluba, musakhan, and knafeh.
+- Palestine is known for its **olive oil** production, with many olive trees planted throughout the territory.
+- The territory has a growing **tech industry**, with several startups and innovation hubs established in recent years.
+- Palestine is home to several **ancient cities**, including Jericho, which is considered one of the oldest continuously occupied cities in the world.
+
+[SECTION] Quick Summary [/SECTION]
+Palestine is a disputed territory in Western Asia, known for its rich cultural heritage, significant religious sites, and complex sovereignty status, with a long and ongoing history of conflict and negotiation with Israel.
+
+---
+
+*Evergreen reference content. Verify time-sensitive details with official sources.*

@@ -1,0 +1,228 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Puerto Rico - Overview & Essential Facts - Comprehensive guide to Puerto Rico. 360 Nations.">
+    <title>Puerto Rico - Overview & Essential Facts | 360 Nations</title>
+    <style>
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+            line-height: 1.7;
+            color: #2d3436;
+            background: #fafafa;
+        }
+        header {
+            background: linear-gradient(135deg, #27AE60, #229954);
+            color: white;
+            padding: 24px 0;
+        }
+        header .container {
+            max-width: 900px;
+            margin: 0 auto;
+            padding: 0 20px;
+        }
+        header h1 {
+            font-size: 1.8em;
+            font-weight: 700;
+        }
+        .flag { font-size: 1.4em; margin-right: 8px; }
+        .breadcrumb {
+            max-width: 900px;
+            margin: 0 auto;
+            padding: 12px 20px;
+            font-size: 0.85em;
+            color: #636e72;
+        }
+        .breadcrumb a { color: #27AE60; text-decoration: none; }
+        .breadcrumb a:hover { text-decoration: underline; }
+        .angle-nav {
+            max-width: 900px;
+            margin: 0 auto;
+            padding: 0 20px 16px;
+            display: flex;
+            flex-wrap: wrap;
+            gap: 6px;
+        }
+        .angle-link {
+            display: inline-block;
+            padding: 6px 14px;
+            border-radius: 20px;
+            font-size: 0.82em;
+            text-decoration: none;
+            color: #636e72;
+            background: #f1f2f6;
+            transition: all 0.2s;
+        }
+        .angle-link:hover { background: #dfe6e9; }
+        .angle-link.active {
+            background: #27AE60;
+            color: white;
+        }
+        article {
+            max-width: 900px;
+            margin: 0 auto;
+            padding: 20px;
+            background: white;
+            border-radius: 8px;
+            box-shadow: 0 1px 3px rgba(0,0,0,0.08);
+            margin-bottom: 40px;
+        }
+        article h2 {
+            color: #27AE60;
+            margin: 28px 0 12px;
+            padding-bottom: 6px;
+            border-bottom: 2px solid #27AE6022;
+        }
+        article h3 { color: #2d3436; margin: 20px 0 8px; }
+        article p { margin-bottom: 14px; }
+        article ul, article ol { padding-left: 24px; margin-bottom: 14px; }
+        article li { margin-bottom: 6px; }
+        /* Factbox */
+        .factbox {
+            background: linear-gradient(135deg, #27AE6008, #27AE6015);
+            border: 1px solid #27AE6030;
+            border-radius: 10px;
+            padding: 20px 24px;
+            margin: 20px 0;
+        }
+        .factbox h3 {
+            color: #27AE60;
+            margin: 0 0 12px;
+            font-size: 1.05em;
+        }
+        .fact-row {
+            display: flex;
+            justify-content: space-between;
+            padding: 6px 0;
+            border-bottom: 1px solid #27AE6015;
+        }
+        .fact-row:last-child { border-bottom: none; }
+        .fact-key { font-weight: 600; color: #2d3436; flex: 0 0 45%; }
+        .fact-val { color: #636e72; text-align: right; flex: 0 0 50%; }
+        /* Tables */
+        .table-wrapper { overflow-x: auto; margin: 16px 0; }
+        table { border-collapse: collapse; width: 100%; font-size: 0.92em; }
+        th {
+            background: #27AE60;
+            color: white;
+            padding: 10px 14px;
+            text-align: left;
+            font-weight: 600;
+        }
+        td { padding: 10px 14px; border-bottom: 1px solid #eee; }
+        tr:nth-child(even) { background: #f8f9fa; }
+        tr:hover { background: #27AE6008; }
+        /* Callout */
+        .callout {
+            background: #fff3cd;
+            border-left: 4px solid #ffc107;
+            padding: 14px 18px;
+            border-radius: 0 8px 8px 0;
+            margin: 16px 0;
+            font-size: 0.93em;
+        }
+        .callout .misconception {
+            color: #856404;
+            margin-bottom: 4px;
+        }
+        .callout .reality {
+            color: #155724;
+            background: #d4edda;
+            padding: 8px 12px;
+            border-radius: 4px;
+            margin-bottom: 12px;
+        }
+        /* Rating */
+        .rating {
+            display: flex;
+            align-items: center;
+            gap: 10px;
+            padding: 6px 0;
+        }
+        .rating-label { font-weight: 600; min-width: 160px; }
+        .rating-dots { font-size: 1.2em; color: #27AE60; letter-spacing: 2px; }
+        .rating-score { color: #636e72; font-size: 0.85em; }
+        footer {
+            text-align: center;
+            padding: 30px 20px;
+            color: #b2bec3;
+            font-size: 0.8em;
+        }
+        footer a { color: #636e72; }
+        @media (max-width: 600px) {
+            header h1 { font-size: 1.3em; }
+            .angle-nav { gap: 4px; }
+            .angle-link { padding: 4px 10px; font-size: 0.75em; }
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <div class="container">
+            <h1><span class="flag">🇵🇷</span> Puerto Rico - Overview & Essential Facts</h1>
+        </div>
+    </header>
+
+    <nav class="breadcrumb"><a href="/">Home</a> &raquo; <a href="/north-america/">North America</a> &raquo; <a href="/north-america/puerto-rico/">Puerto Rico</a> &raquo; <span>Overview</span></nav>
+
+    <nav class="angle-nav">
+        <a href="/north-america/puerto-rico/overview.html" class="angle-link active">Overview</a>
+        <a href="/north-america/puerto-rico/geography.html" class="angle-link ">Geography</a>
+        <a href="/north-america/puerto-rico/must-know-truth.html" class="angle-link ">Must Know Truth</a>
+        <a href="/north-america/puerto-rico/positive-things.html" class="angle-link ">Positive Things</a>
+        <a href="/north-america/puerto-rico/cities-and-regions.html" class="angle-link ">Cities And Regions</a>
+        <a href="/north-america/puerto-rico/visa-and-entry.html" class="angle-link ">Visa And Entry</a>
+        <a href="/north-america/puerto-rico/cost-of-living.html" class="angle-link ">Cost Of Living</a>
+        <a href="/north-america/puerto-rico/economy.html" class="angle-link ">Economy</a>
+        <a href="/north-america/puerto-rico/culture.html" class="angle-link ">Culture</a>
+        <a href="/north-america/puerto-rico/travel-safety.html" class="angle-link ">Travel Safety</a>
+    </nav>
+
+    <article>
+        <div class="factbox"><h3>Quick Facts</h3>
+        <div class="fact-row"><span class="fact-key">Official Name</span><span class="fact-val">Commonwealth of Puerto Rico</span></div>
+        <div class="fact-row"><span class="fact-key">Capital</span><span class="fact-val">San Juan</span></div>
+        <div class="fact-row"><span class="fact-key">Population</span><span class="fact-val">3.2 million</span></div>
+        <div class="fact-row"><span class="fact-key">Languages</span><span class="fact-val">Spanish, English</span></div>
+        <div class="fact-row"><span class="fact-key">Currency</span><span class="fact-val">USD</span></div>
+        <div class="fact-row"><span class="fact-key">Government</span><span class="fact-val">Unincorporated territory</span></div>
+        <div class="fact-row"><span class="fact-key">Continent</span><span class="fact-val">North America</span></div>
+        <div class="fact-row"><span class="fact-key">ISO Code</span><span class="fact-val">PR</span></div>
+        <div class="fact-row"><span class="fact-key">Calling Code</span><span class="fact-val">+1</span></div>
+        <div class="fact-row"><span class="fact-key">Drives On</span><span class="fact-val">right</span></div>
+        <div class="fact-row"><span class="fact-key">Time Zone</span><span class="fact-val">UTC-4</span></div>
+        </div>
+        <h2>What Is Puerto Rico?</h2>
+        <p>Puerto Rico is an <strong>unincorporated territory</strong> of the United States, located in the northeastern Caribbean Sea. It is situated approximately 1,000 miles southeast of Miami, Florida, and is bordered by the Dominican Republic to the west and the US Virgin Islands to the east. Puerto Rico is known for its rich cultural heritage, stunning natural beauty, and unique blend of Spanish and American influences. The island is home to a diverse population of 3.2 million people, who are US citizens but do not have voting representation in the US Congress.</p>
+        <p>Geographically, Puerto Rico is a small island, measuring approximately 100 miles long and 35 miles wide. The island is mountainous, with a central range that includes the highest peak, Cerro de Punta, which rises to an elevation of over 4,300 feet. The coastlines are marked by beautiful beaches, bays, and coves, while the interior is home to lush rainforests, waterfalls, and scenic valleys. Puerto Rico is also known for its vibrant cities, including San Juan, the capital, which is a major hub for commerce, culture, and tourism.</p>
+        <p>Puerto Rico's unique cultural identity is shaped by its history, language, and traditions. The island was colonized by Spain in the 16th century, and as a result, Spanish is the predominant language spoken by the majority of the population. However, English is also widely spoken, particularly in tourist areas and business settings. Puerto Rico is famous for its <strong>salsa music</strong>, delicious cuisine, and vibrant festivals, which reflect the island's African, Spanish, and indigenous Taino influences.</p>
+        <h2>Key History</h2>
+        <ol>
+        <li>1493 - Christopher Columbus lands on the island, which he names San Juan Bautista, and claims it for Spain.</li>
+        <li>1898 - The Spanish-American War leads to Spain ceding Puerto Rico to the United States, which establishes a military government on the island.</li>
+        <li>1917 - The Jones-Shafroth Act grants US citizenship to all Puerto Ricans, but does not provide voting representation in Congress.</li>
+        <li>1947 - The US Congress passes the Elective Governor Act, which allows Puerto Rico to elect its own governor.</li>
+        <li>1952 - The Commonwealth of Puerto Rico is established, with a constitution that provides for a degree of autonomy and self-governance.</li>
+        <li>1967 - A referendum is held, in which the majority of Puerto Ricans vote to maintain the island's commonwealth status, rather than seeking statehood or independence.</li>
+        <li>2017 - Hurricane Maria devastates the island, causing widespread destruction and loss of life, and highlighting the need for improved infrastructure and disaster preparedness.</li>
+        </ol>
+        <h2>What Makes Puerto Rico Unique</h2>
+        <ul>
+        <li>Puerto Rico is home to three <strong>bioluminescent bays</strong>, where microorganisms in the water emit a blue-green glow, creating a magical and unforgettable experience.</li>
+        <li>The island is a major hub for <strong>pharmaceutical manufacturing</strong>, with many international companies operating facilities in Puerto Rico.</li>
+        <li>Puerto Rico has a unique <strong>cuisine</strong>, which blends Spanish, African, and indigenous Taino influences, and features popular dishes such as mofongo, arroz con gandules, and empanadas.</li>
+        <li>The island is home to a diverse range of <strong>wildlife</strong>, including the endangered Puerto Rican parrot, the coquí frog, and the West Indian manatee.</li>
+        <li>Puerto Rico has a rich <strong>cultural heritage</strong>, with a mix of Spanish colonial architecture, African rhythms, and indigenous traditions, which are reflected in its music, dance, and art.</li>
+        </ul>
+        <h2>Quick Summary</h2>
+        <p>Puerto Rico is a unique and fascinating territory that offers a blend of natural beauty, rich culture, and modern amenities, making it an attractive destination for tourists, business travelers, and those interested in exploring the complexities of US-Puerto Rico relations.</p>
+    </article>
+
+    <footer>
+        <p>&copy; 2026 360 Nations. Evergreen reference content.</p>
+        <p>This page contains factual, timeless information. Always verify visa and safety details with official sources.</p>
+    </footer>
+</body>
+</html>

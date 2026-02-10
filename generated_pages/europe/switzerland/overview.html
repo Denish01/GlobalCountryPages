@@ -1,0 +1,228 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Switzerland - Overview & Essential Facts - Comprehensive guide to Switzerland. 360 Nations.">
+    <title>Switzerland - Overview & Essential Facts | 360 Nations</title>
+    <style>
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+            line-height: 1.7;
+            color: #2d3436;
+            background: #fafafa;
+        }
+        header {
+            background: linear-gradient(135deg, #3498DB, #2980B9);
+            color: white;
+            padding: 24px 0;
+        }
+        header .container {
+            max-width: 900px;
+            margin: 0 auto;
+            padding: 0 20px;
+        }
+        header h1 {
+            font-size: 1.8em;
+            font-weight: 700;
+        }
+        .flag { font-size: 1.4em; margin-right: 8px; }
+        .breadcrumb {
+            max-width: 900px;
+            margin: 0 auto;
+            padding: 12px 20px;
+            font-size: 0.85em;
+            color: #636e72;
+        }
+        .breadcrumb a { color: #3498DB; text-decoration: none; }
+        .breadcrumb a:hover { text-decoration: underline; }
+        .angle-nav {
+            max-width: 900px;
+            margin: 0 auto;
+            padding: 0 20px 16px;
+            display: flex;
+            flex-wrap: wrap;
+            gap: 6px;
+        }
+        .angle-link {
+            display: inline-block;
+            padding: 6px 14px;
+            border-radius: 20px;
+            font-size: 0.82em;
+            text-decoration: none;
+            color: #636e72;
+            background: #f1f2f6;
+            transition: all 0.2s;
+        }
+        .angle-link:hover { background: #dfe6e9; }
+        .angle-link.active {
+            background: #3498DB;
+            color: white;
+        }
+        article {
+            max-width: 900px;
+            margin: 0 auto;
+            padding: 20px;
+            background: white;
+            border-radius: 8px;
+            box-shadow: 0 1px 3px rgba(0,0,0,0.08);
+            margin-bottom: 40px;
+        }
+        article h2 {
+            color: #3498DB;
+            margin: 28px 0 12px;
+            padding-bottom: 6px;
+            border-bottom: 2px solid #3498DB22;
+        }
+        article h3 { color: #2d3436; margin: 20px 0 8px; }
+        article p { margin-bottom: 14px; }
+        article ul, article ol { padding-left: 24px; margin-bottom: 14px; }
+        article li { margin-bottom: 6px; }
+        /* Factbox */
+        .factbox {
+            background: linear-gradient(135deg, #3498DB08, #3498DB15);
+            border: 1px solid #3498DB30;
+            border-radius: 10px;
+            padding: 20px 24px;
+            margin: 20px 0;
+        }
+        .factbox h3 {
+            color: #3498DB;
+            margin: 0 0 12px;
+            font-size: 1.05em;
+        }
+        .fact-row {
+            display: flex;
+            justify-content: space-between;
+            padding: 6px 0;
+            border-bottom: 1px solid #3498DB15;
+        }
+        .fact-row:last-child { border-bottom: none; }
+        .fact-key { font-weight: 600; color: #2d3436; flex: 0 0 45%; }
+        .fact-val { color: #636e72; text-align: right; flex: 0 0 50%; }
+        /* Tables */
+        .table-wrapper { overflow-x: auto; margin: 16px 0; }
+        table { border-collapse: collapse; width: 100%; font-size: 0.92em; }
+        th {
+            background: #3498DB;
+            color: white;
+            padding: 10px 14px;
+            text-align: left;
+            font-weight: 600;
+        }
+        td { padding: 10px 14px; border-bottom: 1px solid #eee; }
+        tr:nth-child(even) { background: #f8f9fa; }
+        tr:hover { background: #3498DB08; }
+        /* Callout */
+        .callout {
+            background: #fff3cd;
+            border-left: 4px solid #ffc107;
+            padding: 14px 18px;
+            border-radius: 0 8px 8px 0;
+            margin: 16px 0;
+            font-size: 0.93em;
+        }
+        .callout .misconception {
+            color: #856404;
+            margin-bottom: 4px;
+        }
+        .callout .reality {
+            color: #155724;
+            background: #d4edda;
+            padding: 8px 12px;
+            border-radius: 4px;
+            margin-bottom: 12px;
+        }
+        /* Rating */
+        .rating {
+            display: flex;
+            align-items: center;
+            gap: 10px;
+            padding: 6px 0;
+        }
+        .rating-label { font-weight: 600; min-width: 160px; }
+        .rating-dots { font-size: 1.2em; color: #3498DB; letter-spacing: 2px; }
+        .rating-score { color: #636e72; font-size: 0.85em; }
+        footer {
+            text-align: center;
+            padding: 30px 20px;
+            color: #b2bec3;
+            font-size: 0.8em;
+        }
+        footer a { color: #636e72; }
+        @media (max-width: 600px) {
+            header h1 { font-size: 1.3em; }
+            .angle-nav { gap: 4px; }
+            .angle-link { padding: 4px 10px; font-size: 0.75em; }
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <div class="container">
+            <h1><span class="flag">🇨🇭</span> Switzerland - Overview & Essential Facts</h1>
+        </div>
+    </header>
+
+    <nav class="breadcrumb"><a href="/">Home</a> &raquo; <a href="/europe/">Europe</a> &raquo; <a href="/europe/switzerland/">Switzerland</a> &raquo; <span>Overview</span></nav>
+
+    <nav class="angle-nav">
+        <a href="/europe/switzerland/overview.html" class="angle-link active">Overview</a>
+        <a href="/europe/switzerland/geography.html" class="angle-link ">Geography</a>
+        <a href="/europe/switzerland/must-know-truth.html" class="angle-link ">Must Know Truth</a>
+        <a href="/europe/switzerland/positive-things.html" class="angle-link ">Positive Things</a>
+        <a href="/europe/switzerland/cities-and-regions.html" class="angle-link ">Cities And Regions</a>
+        <a href="/europe/switzerland/visa-and-entry.html" class="angle-link ">Visa And Entry</a>
+        <a href="/europe/switzerland/cost-of-living.html" class="angle-link ">Cost Of Living</a>
+        <a href="/europe/switzerland/economy.html" class="angle-link ">Economy</a>
+        <a href="/europe/switzerland/culture.html" class="angle-link ">Culture</a>
+        <a href="/europe/switzerland/travel-safety.html" class="angle-link ">Travel Safety</a>
+    </nav>
+
+    <article>
+        <div class="factbox"><h3>Quick Facts</h3>
+        <div class="fact-row"><span class="fact-key">Official Name</span><span class="fact-val">Swiss Confederation</span></div>
+        <div class="fact-row"><span class="fact-key">Capital</span><span class="fact-val">Bern</span></div>
+        <div class="fact-row"><span class="fact-key">Population</span><span class="fact-val">8.8 million</span></div>
+        <div class="fact-row"><span class="fact-key">Languages</span><span class="fact-val">German, French, Italian, Romansh</span></div>
+        <div class="fact-row"><span class="fact-key">Currency</span><span class="fact-val">CHF</span></div>
+        <div class="fact-row"><span class="fact-key">Government</span><span class="fact-val">Federal republic</span></div>
+        <div class="fact-row"><span class="fact-key">Continent</span><span class="fact-val">Europe</span></div>
+        <div class="fact-row"><span class="fact-key">ISO Code</span><span class="fact-val">CH</span></div>
+        <div class="fact-row"><span class="fact-key">Calling Code</span><span class="fact-val">+41</span></div>
+        <div class="fact-row"><span class="fact-key">Drives On</span><span class="fact-val">right</span></div>
+        <div class="fact-row"><span class="fact-key">Time Zone</span><span class="fact-val">UTC+1</span></div>
+        </div>
+        <h2>What Is Switzerland?</h2>
+        <p>Switzerland, officially known as the Swiss Confederation, is a <strong>sovereign</strong> country located in <strong>Europe</strong>. It is situated in the western and central part of the continent, bordered by <strong>Germany</strong>, <strong>France</strong>, <strong>Italy</strong>, <strong>Austria</strong>, and <strong>Liechtenstein</strong>. With a population of approximately 8.8 million people, Switzerland is known for its stunning <strong>mountainous landscapes</strong>, including the <strong>Alps</strong>, which cover about 60% of the country's territory. The country has a unique cultural identity, with four official languages - <strong>German</strong>, <strong>French</strong>, <strong>Italian</strong>, and <strong>Romansh</strong> - and a strong tradition of <strong>neutrality</strong> and <strong>federalism</strong>.</p>
+        <p>Switzerland has a long history of <strong>independence</strong>, dating back to the 13th century, and has maintained its <strong>sovereignty</strong> throughout the centuries. The country's strategic location at the heart of Europe has made it an important hub for <strong>trade</strong>, <strong>finance</strong>, and <strong>diplomacy</strong>. Switzerland is also famous for its high standard of living, <strong>stability</strong>, and <strong>security</strong>, making it a popular destination for tourists, business travelers, and international organizations.</p>
+        <p>The country's diverse <strong>geography</strong> ranges from the <strong>Jura Mountains</strong> in the northwest to the <strong>Pennine Alps</strong> in the south, with numerous <strong>lakes</strong> and <strong>rivers</strong> in between. Switzerland's <strong>climate</strong> varies from <strong>temperate</strong> in the north to <strong>Mediterranean</strong> in the south, with cold <strong>winters</strong> and mild <strong>summers</strong>. The country's unique combination of <strong>natural beauty</strong>, <strong>cultural heritage</strong>, and <strong>economic prosperity</strong> makes it a fascinating destination to explore.</p>
+        <h2>Key History</h2>
+        <ol>
+        <li>1291 - The Swiss Confederation is founded by three cantons - Uri, Schwyz, and Unterwalden - with the signing of the Federal Charter.</li>
+        <li>1515 - The Swiss Confederation expands to include 13 cantons and becomes a major power in Europe.</li>
+        <li>1648 - The Treaty of Westphalia recognizes Switzerland's independence and neutrality.</li>
+        <li>1848 - The Swiss Federal Constitution is adopted, establishing a federal republic with a strong central government.</li>
+        <li>1866 - The Swiss Red Cross is founded, and the country becomes a hub for international humanitarian organizations.</li>
+        <li>1920 - Switzerland joins the League of Nations, precursor to the United Nations.</li>
+        <li>2002 - Switzerland becomes a member of the United Nations, marking a significant shift in its foreign policy.</li>
+        </ol>
+        <h2>What Makes Switzerland Unique</h2>
+        <ul>
+        <li>Switzerland is home to some of the world's most prestigious <strong>international organizations</strong>, including the United Nations, the Red Cross, and the International Olympic Committee.</li>
+        <li>The country has a unique system of <strong>direct democracy</strong>, which allows citizens to vote on important issues and participate in the decision-making process.</li>
+        <li>Switzerland is famous for its <strong>high-quality chocolate</strong>, <strong>watches</strong>, and <strong>banking system</strong>, which have become synonymous with Swiss excellence.</li>
+        <li>The country has a strong tradition of <strong>neutrality</strong> and <strong>humanitarianism</strong>, with a long history of providing <strong>aid</strong> and <strong>refuge</strong> to those in need.</li>
+        <li>Switzerland is home to some of the world's most <strong>scenic train routes</strong>, including the Glacier Express and the Bernina Express.</li>
+        </ul>
+        <h2>Quick Summary</h2>
+        <p>Switzerland is a sovereign country located in the heart of Europe, known for its stunning mountainous landscapes, unique cultural identity, and high standard of living, making it a popular destination for tourists, business travelers, and international organizations.</p>
+    </article>
+
+    <footer>
+        <p>&copy; 2026 360 Nations. Evergreen reference content.</p>
+        <p>This page contains factual, timeless information. Always verify visa and safety details with official sources.</p>
+    </footer>
+</body>
+</html>

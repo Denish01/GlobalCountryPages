@@ -1,0 +1,54 @@
+---
+title: "Egypt - Overview & Essential Facts"
+entity: "Egypt"
+iso_code: "EG"
+continent: "africa"
+angle: "overview"
+date: "2026-02-10"
+---
+
+# Egypt - Overview & Essential Facts
+
+[FACTBOX]
+Official Name: Arab Republic of Egypt
+Capital: Cairo
+Population: 110.0 million
+Languages: Arabic
+Currency: EGP
+Government: Sovereign
+Continent: Africa
+ISO Code: EG
+Calling Code: +20
+Drives On: right
+Time Zone: UTC+2
+[/FACTBOX]
+
+[SECTION] What Is Egypt? [/SECTION]
+Egypt is a **sovereign** country located in northeastern Africa, bordered by Libya to the west, Sudan to the south, and Israel and Palestine to the northeast. The country has a rich history dating back to ancient times and is known for its stunning **pyramids**, temples, and other archaeological sites. With a population of over 110 million people, Egypt is the most populous country in the Arab world and the third most populous in Africa.
+
+Geographically, Egypt is characterized by its vast **desert** landscapes, including the Sahara Desert, which covers much of the country. The **Nile River**, which runs through the heart of Egypt, is the lifeblood of the country, supporting agriculture, industry, and urban centers. Egypt's strategic location at the crossroads of Africa, Asia, and Europe has made it an important center for trade and cultural exchange throughout history.
+
+Egypt's unique blend of **Islamic**, **Christian**, and **ancient Egyptian** cultures has created a distinct identity that is reflected in its art, architecture, music, and cuisine. From the bustling streets of Cairo to the tranquil landscapes of the **Sinai Peninsula**, Egypt is a country of incredible diversity and beauty.
+
+[SECTION] Key History [/SECTION]
+1. 3100 BCE - The **unification of Upper and Lower Egypt** under the first pharaoh, Narmer, marked the beginning of ancient Egyptian civilization.
+2. 2580 BCE - The **construction of the Great Pyramid of Giza**, one of the Seven Wonders of the Ancient World, began during the Old Kingdom period.
+3. 332 BCE - **Alexander the Great** conquered Egypt, introducing Greek culture and language to the region.
+4. 641 CE - **Arab conquest** of Egypt led to the spread of Islam and the establishment of Arabic as the official language.
+5. 1922 - Egypt gained **independence** from British colonial rule, becoming a sovereign state.
+6. 1952 - The **Egyptian Revolution** led by Gamal Abdel Nasser overthrew the monarchy and established a republic.
+7. 2011 - The **Arab Spring** protests in Egypt led to the resignation of President Hosni Mubarak and the transition to a new government.
+
+[SECTION] What Makes Egypt Unique [/SECTION]
+- Egypt is home to the **oldest known university in the world**, Al-Azhar University, which was founded in 970 CE.
+- The country has a **unique writing system**, known as hieroglyphics, which was used by ancient Egyptians to record their history and culture.
+- Egypt is the **most populous Arab country**, with a population of over 110 million people.
+- The **Nile River** is the longest river in the world, stretching over 6,600 kilometers from its source in Burundi to its delta in Egypt.
+- Egypt has a **rich cultural heritage**, with a blend of Islamic, Christian, and ancient Egyptian influences reflected in its art, architecture, and music.
+
+[SECTION] Quick Summary [/SECTION]
+Egypt is a sovereign country in northeastern Africa, known for its rich history, stunning archaeological sites, and unique cultural heritage, which has been shaped by its strategic location at the crossroads of Africa, Asia, and Europe.
+
+---
+
+*Evergreen reference content. Verify time-sensitive details with official sources.*

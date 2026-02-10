@@ -1,0 +1,228 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Mayotte - Overview & Essential Facts - Comprehensive guide to Mayotte. 360 Nations.">
+    <title>Mayotte - Overview & Essential Facts | 360 Nations</title>
+    <style>
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+            line-height: 1.7;
+            color: #2d3436;
+            background: #fafafa;
+        }
+        header {
+            background: linear-gradient(135deg, #E67E22, #F39C12);
+            color: white;
+            padding: 24px 0;
+        }
+        header .container {
+            max-width: 900px;
+            margin: 0 auto;
+            padding: 0 20px;
+        }
+        header h1 {
+            font-size: 1.8em;
+            font-weight: 700;
+        }
+        .flag { font-size: 1.4em; margin-right: 8px; }
+        .breadcrumb {
+            max-width: 900px;
+            margin: 0 auto;
+            padding: 12px 20px;
+            font-size: 0.85em;
+            color: #636e72;
+        }
+        .breadcrumb a { color: #E67E22; text-decoration: none; }
+        .breadcrumb a:hover { text-decoration: underline; }
+        .angle-nav {
+            max-width: 900px;
+            margin: 0 auto;
+            padding: 0 20px 16px;
+            display: flex;
+            flex-wrap: wrap;
+            gap: 6px;
+        }
+        .angle-link {
+            display: inline-block;
+            padding: 6px 14px;
+            border-radius: 20px;
+            font-size: 0.82em;
+            text-decoration: none;
+            color: #636e72;
+            background: #f1f2f6;
+            transition: all 0.2s;
+        }
+        .angle-link:hover { background: #dfe6e9; }
+        .angle-link.active {
+            background: #E67E22;
+            color: white;
+        }
+        article {
+            max-width: 900px;
+            margin: 0 auto;
+            padding: 20px;
+            background: white;
+            border-radius: 8px;
+            box-shadow: 0 1px 3px rgba(0,0,0,0.08);
+            margin-bottom: 40px;
+        }
+        article h2 {
+            color: #E67E22;
+            margin: 28px 0 12px;
+            padding-bottom: 6px;
+            border-bottom: 2px solid #E67E2222;
+        }
+        article h3 { color: #2d3436; margin: 20px 0 8px; }
+        article p { margin-bottom: 14px; }
+        article ul, article ol { padding-left: 24px; margin-bottom: 14px; }
+        article li { margin-bottom: 6px; }
+        /* Factbox */
+        .factbox {
+            background: linear-gradient(135deg, #E67E2208, #E67E2215);
+            border: 1px solid #E67E2230;
+            border-radius: 10px;
+            padding: 20px 24px;
+            margin: 20px 0;
+        }
+        .factbox h3 {
+            color: #E67E22;
+            margin: 0 0 12px;
+            font-size: 1.05em;
+        }
+        .fact-row {
+            display: flex;
+            justify-content: space-between;
+            padding: 6px 0;
+            border-bottom: 1px solid #E67E2215;
+        }
+        .fact-row:last-child { border-bottom: none; }
+        .fact-key { font-weight: 600; color: #2d3436; flex: 0 0 45%; }
+        .fact-val { color: #636e72; text-align: right; flex: 0 0 50%; }
+        /* Tables */
+        .table-wrapper { overflow-x: auto; margin: 16px 0; }
+        table { border-collapse: collapse; width: 100%; font-size: 0.92em; }
+        th {
+            background: #E67E22;
+            color: white;
+            padding: 10px 14px;
+            text-align: left;
+            font-weight: 600;
+        }
+        td { padding: 10px 14px; border-bottom: 1px solid #eee; }
+        tr:nth-child(even) { background: #f8f9fa; }
+        tr:hover { background: #E67E2208; }
+        /* Callout */
+        .callout {
+            background: #fff3cd;
+            border-left: 4px solid #ffc107;
+            padding: 14px 18px;
+            border-radius: 0 8px 8px 0;
+            margin: 16px 0;
+            font-size: 0.93em;
+        }
+        .callout .misconception {
+            color: #856404;
+            margin-bottom: 4px;
+        }
+        .callout .reality {
+            color: #155724;
+            background: #d4edda;
+            padding: 8px 12px;
+            border-radius: 4px;
+            margin-bottom: 12px;
+        }
+        /* Rating */
+        .rating {
+            display: flex;
+            align-items: center;
+            gap: 10px;
+            padding: 6px 0;
+        }
+        .rating-label { font-weight: 600; min-width: 160px; }
+        .rating-dots { font-size: 1.2em; color: #E67E22; letter-spacing: 2px; }
+        .rating-score { color: #636e72; font-size: 0.85em; }
+        footer {
+            text-align: center;
+            padding: 30px 20px;
+            color: #b2bec3;
+            font-size: 0.8em;
+        }
+        footer a { color: #636e72; }
+        @media (max-width: 600px) {
+            header h1 { font-size: 1.3em; }
+            .angle-nav { gap: 4px; }
+            .angle-link { padding: 4px 10px; font-size: 0.75em; }
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <div class="container">
+            <h1><span class="flag">🇾🇹</span> Mayotte - Overview & Essential Facts</h1>
+        </div>
+    </header>
+
+    <nav class="breadcrumb"><a href="/">Home</a> &raquo; <a href="/africa/">Africa</a> &raquo; <a href="/africa/mayotte/">Mayotte</a> &raquo; <span>Overview</span></nav>
+
+    <nav class="angle-nav">
+        <a href="/africa/mayotte/overview.html" class="angle-link active">Overview</a>
+        <a href="/africa/mayotte/geography.html" class="angle-link ">Geography</a>
+        <a href="/africa/mayotte/must-know-truth.html" class="angle-link ">Must Know Truth</a>
+        <a href="/africa/mayotte/positive-things.html" class="angle-link ">Positive Things</a>
+        <a href="/africa/mayotte/cities-and-regions.html" class="angle-link ">Cities And Regions</a>
+        <a href="/africa/mayotte/visa-and-entry.html" class="angle-link ">Visa And Entry</a>
+        <a href="/africa/mayotte/cost-of-living.html" class="angle-link ">Cost Of Living</a>
+        <a href="/africa/mayotte/economy.html" class="angle-link ">Economy</a>
+        <a href="/africa/mayotte/culture.html" class="angle-link ">Culture</a>
+        <a href="/africa/mayotte/travel-safety.html" class="angle-link ">Travel Safety</a>
+    </nav>
+
+    <article>
+        <div class="factbox"><h3>Quick Facts</h3>
+        <div class="fact-row"><span class="fact-key">Official Name</span><span class="fact-val">Department of Mayotte</span></div>
+        <div class="fact-row"><span class="fact-key">Capital</span><span class="fact-val">Mamoudzou</span></div>
+        <div class="fact-row"><span class="fact-key">Population</span><span class="fact-val">0.33 million</span></div>
+        <div class="fact-row"><span class="fact-key">Languages</span><span class="fact-val">French</span></div>
+        <div class="fact-row"><span class="fact-key">Currency</span><span class="fact-val">EUR</span></div>
+        <div class="fact-row"><span class="fact-key">Government</span><span class="fact-val">Overseas department and region of France</span></div>
+        <div class="fact-row"><span class="fact-key">Continent</span><span class="fact-val">Africa</span></div>
+        <div class="fact-row"><span class="fact-key">ISO Code</span><span class="fact-val">YT</span></div>
+        <div class="fact-row"><span class="fact-key">Calling Code</span><span class="fact-val">+262</span></div>
+        <div class="fact-row"><span class="fact-key">Drives On</span><span class="fact-val">right</span></div>
+        <div class="fact-row"><span class="fact-key">Time Zone</span><span class="fact-val">UTC+3</span></div>
+        </div>
+        <h2>What Is Mayotte?</h2>
+        <p>Mayotte is an overseas department and region of France located in the Indian Ocean, off the coast of East Africa. It is part of the Comoro Islands archipelago, but unlike the other islands, it chose to remain a French territory in 1975. Mayotte is known for its beautiful beaches, coral reefs, and diverse marine life, making it a popular destination for tourists and scuba divers. The island has a tropical monsoon climate, with two main seasons: a hot and humid season from November to April, and a cooler and drier season from May to October.</p>
+        <p>Mayotte's geographic position makes it a strategic location for trade and commerce in the region. The island's economy is primarily based on agriculture, with major crops including vanilla, coffee, and coconuts. However, the tourism industry is growing, and the island's natural beauty and unique culture make it an attractive destination for visitors. Mayotte is also home to a diverse population, with a mix of African, Arab, and French influences.</p>
+        <p>The island's sovereignty status is unique, as it is an overseas department and region of France, but it also has a degree of autonomy. Mayotte has its own local government, but it is also represented in the French National Assembly and Senate. This status allows Mayotte to maintain its cultural identity while also benefiting from French citizenship and economic support.</p>
+        <h2>Key History</h2>
+        <ol>
+        <li>1843 - Mayotte becomes a French colony after being purchased from the Sultan of Mwali.</li>
+        <li>1912 - The Comoro Islands, including Mayotte, become a French protectorate.</li>
+        <li>1946 - The Comoro Islands become an overseas territory of France.</li>
+        <li>1975 - The Comoro Islands gain independence from France, but Mayotte chooses to remain a French territory.</li>
+        <li>2009 - Mayotte becomes an overseas department of France, with the same rights and privileges as departments on the French mainland.</li>
+        <li>2011 - Mayotte becomes an overseas region of France, with a greater degree of autonomy.</li>
+        <li>2014 - The European Union recognizes Mayotte as an outermost region, providing additional economic support and funding.</li>
+        </ol>
+        <h2>What Makes Mayotte Unique</h2>
+        <ul>
+        <li>Mayotte is home to a unique and diverse culture, with a mix of African, Arab, and French influences.</li>
+        <li>The island is surrounded by a coral reef, making it a popular destination for scuba diving and snorkeling.</li>
+        <li>Mayotte is one of the few places in the world where you can see <strong>humpback whales</strong> and <strong>dugongs</strong> in their natural habitat.</li>
+        <li>The island has a number of traditional festivals and celebrations, including the <strong>Grand Marriage</strong> and the <strong>Festival of the Sea</strong>.</li>
+        <li>Mayotte is a major producer of <strong>vanilla</strong>, with the island's vanilla beans being considered some of the best in the world.</li>
+        </ul>
+        <h2>Quick Summary</h2>
+        <p>Mayotte is a unique and fascinating overseas department and region of France, known for its stunning natural beauty, diverse culture, and strategic location in the Indian Ocean.</p>
+    </article>
+
+    <footer>
+        <p>&copy; 2026 360 Nations. Evergreen reference content.</p>
+        <p>This page contains factual, timeless information. Always verify visa and safety details with official sources.</p>
+    </footer>
+</body>
+</html>

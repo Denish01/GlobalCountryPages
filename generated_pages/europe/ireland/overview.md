@@ -1,0 +1,54 @@
+---
+title: "Ireland - Overview & Essential Facts"
+entity: "Ireland"
+iso_code: "IE"
+continent: "europe"
+angle: "overview"
+date: "2026-02-10"
+---
+
+# Ireland - Overview & Essential Facts
+
+[FACTBOX]
+Official Name: Republic of Ireland
+Capital: Dublin
+Population: 5.1 million
+Languages: English, Irish
+Currency: EUR
+Government: sovereign
+Continent: Europe
+ISO Code: IE
+Calling Code: +353
+Drives On: left
+Time Zone: UTC+0
+[/FACTBOX]
+
+[SECTION] What Is Ireland? [/SECTION]
+Ireland is a **sovereign** country located in Northwest Europe, occupying the majority of the island of Ireland. It shares a border with the United Kingdom, specifically Northern Ireland, to the north. The country is known for its lush green landscapes, rugged coastlines, and vibrant cultural heritage. With a population of 5.1 million people, Ireland is a relatively small country, but it has a significant impact on the world stage. The country's strategic location in the Atlantic Ocean has made it an important hub for trade and commerce.
+
+Ireland is a popular tourist destination, attracting millions of visitors each year with its rich history, stunning natural beauty, and warm hospitality. The country is home to numerous historic sites, including ancient castles, monasteries, and prehistoric monuments. Ireland is also famous for its vibrant cities, including Dublin, the capital city, which is known for its literary heritage, cultural attractions, and lively nightlife. The country's unique blend of traditional and modern culture makes it a fascinating place to visit and explore.
+
+Ireland has a strong and stable economy, with a high standard of living and a highly developed infrastructure. The country is a member of the European Union and has a close relationship with the United Kingdom, despite being a separate and independent nation. Ireland's **sovereignty** is an important aspect of its identity, and the country has a long history of independence and self-governance. Today, Ireland is a modern, cosmopolitan country that is proud of its heritage and its place in the world.
+
+[SECTION] Key History [/SECTION]
+1. 1171 - Norman invasion of Ireland, which marked the beginning of English rule in the country
+2. 1542 - Ireland was declared a kingdom by Henry VIII of England, with the English monarch serving as the king of Ireland
+3. 1801 - The Act of Union created the United Kingdom of Great Britain and Ireland, with Ireland becoming part of the UK
+4. 1916 - The Easter Rising, a rebellion against British rule, took place in Dublin and marked the beginning of Ireland's struggle for independence
+5. 1922 - Ireland gained independence from the UK, with the establishment of the Irish Free State, which later became the Republic of Ireland
+6. 1949 - Ireland declared itself a republic, leaving the British Commonwealth and becoming a fully independent nation
+7. 1998 - The Good Friday Agreement was signed, marking a significant step towards peace and reconciliation in Northern Ireland
+
+[SECTION] What Makes Ireland Unique [/SECTION]
+- Ireland is home to a unique and diverse range of landscapes, including rugged coastlines, rolling hills, and scenic valleys.
+- The country has a rich cultural heritage, with a strong emphasis on traditional music, dance, and literature.
+- Ireland is famous for its **Celtic** heritage, with a distinct language, mythology, and symbolism that sets it apart from other European countries.
+- The country is home to numerous historic sites, including ancient castles, monasteries, and prehistoric monuments, such as Newgrange and the Cliffs of Moher.
+- Ireland has a thriving arts scene, with numerous galleries, museums, and festivals celebrating the country's vibrant cultural heritage.
+
+[SECTION] Quick Summary [/SECTION]
+Ireland is a unique and fascinating country that offers a rich cultural heritage, stunning natural beauty, and a warm and welcoming people, making it a must-visit destination for anyone interested in exploring the best of Europe.
+
+---
+
+*Evergreen reference content. Verify time-sensitive details with official sources.*

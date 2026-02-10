@@ -1,0 +1,228 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Uruguay - Overview & Essential Facts - Comprehensive guide to Uruguay. 360 Nations.">
+    <title>Uruguay - Overview & Essential Facts | 360 Nations</title>
+    <style>
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+            line-height: 1.7;
+            color: #2d3436;
+            background: #fafafa;
+        }
+        header {
+            background: linear-gradient(135deg, #8E44AD, #7D3C98);
+            color: white;
+            padding: 24px 0;
+        }
+        header .container {
+            max-width: 900px;
+            margin: 0 auto;
+            padding: 0 20px;
+        }
+        header h1 {
+            font-size: 1.8em;
+            font-weight: 700;
+        }
+        .flag { font-size: 1.4em; margin-right: 8px; }
+        .breadcrumb {
+            max-width: 900px;
+            margin: 0 auto;
+            padding: 12px 20px;
+            font-size: 0.85em;
+            color: #636e72;
+        }
+        .breadcrumb a { color: #8E44AD; text-decoration: none; }
+        .breadcrumb a:hover { text-decoration: underline; }
+        .angle-nav {
+            max-width: 900px;
+            margin: 0 auto;
+            padding: 0 20px 16px;
+            display: flex;
+            flex-wrap: wrap;
+            gap: 6px;
+        }
+        .angle-link {
+            display: inline-block;
+            padding: 6px 14px;
+            border-radius: 20px;
+            font-size: 0.82em;
+            text-decoration: none;
+            color: #636e72;
+            background: #f1f2f6;
+            transition: all 0.2s;
+        }
+        .angle-link:hover { background: #dfe6e9; }
+        .angle-link.active {
+            background: #8E44AD;
+            color: white;
+        }
+        article {
+            max-width: 900px;
+            margin: 0 auto;
+            padding: 20px;
+            background: white;
+            border-radius: 8px;
+            box-shadow: 0 1px 3px rgba(0,0,0,0.08);
+            margin-bottom: 40px;
+        }
+        article h2 {
+            color: #8E44AD;
+            margin: 28px 0 12px;
+            padding-bottom: 6px;
+            border-bottom: 2px solid #8E44AD22;
+        }
+        article h3 { color: #2d3436; margin: 20px 0 8px; }
+        article p { margin-bottom: 14px; }
+        article ul, article ol { padding-left: 24px; margin-bottom: 14px; }
+        article li { margin-bottom: 6px; }
+        /* Factbox */
+        .factbox {
+            background: linear-gradient(135deg, #8E44AD08, #8E44AD15);
+            border: 1px solid #8E44AD30;
+            border-radius: 10px;
+            padding: 20px 24px;
+            margin: 20px 0;
+        }
+        .factbox h3 {
+            color: #8E44AD;
+            margin: 0 0 12px;
+            font-size: 1.05em;
+        }
+        .fact-row {
+            display: flex;
+            justify-content: space-between;
+            padding: 6px 0;
+            border-bottom: 1px solid #8E44AD15;
+        }
+        .fact-row:last-child { border-bottom: none; }
+        .fact-key { font-weight: 600; color: #2d3436; flex: 0 0 45%; }
+        .fact-val { color: #636e72; text-align: right; flex: 0 0 50%; }
+        /* Tables */
+        .table-wrapper { overflow-x: auto; margin: 16px 0; }
+        table { border-collapse: collapse; width: 100%; font-size: 0.92em; }
+        th {
+            background: #8E44AD;
+            color: white;
+            padding: 10px 14px;
+            text-align: left;
+            font-weight: 600;
+        }
+        td { padding: 10px 14px; border-bottom: 1px solid #eee; }
+        tr:nth-child(even) { background: #f8f9fa; }
+        tr:hover { background: #8E44AD08; }
+        /* Callout */
+        .callout {
+            background: #fff3cd;
+            border-left: 4px solid #ffc107;
+            padding: 14px 18px;
+            border-radius: 0 8px 8px 0;
+            margin: 16px 0;
+            font-size: 0.93em;
+        }
+        .callout .misconception {
+            color: #856404;
+            margin-bottom: 4px;
+        }
+        .callout .reality {
+            color: #155724;
+            background: #d4edda;
+            padding: 8px 12px;
+            border-radius: 4px;
+            margin-bottom: 12px;
+        }
+        /* Rating */
+        .rating {
+            display: flex;
+            align-items: center;
+            gap: 10px;
+            padding: 6px 0;
+        }
+        .rating-label { font-weight: 600; min-width: 160px; }
+        .rating-dots { font-size: 1.2em; color: #8E44AD; letter-spacing: 2px; }
+        .rating-score { color: #636e72; font-size: 0.85em; }
+        footer {
+            text-align: center;
+            padding: 30px 20px;
+            color: #b2bec3;
+            font-size: 0.8em;
+        }
+        footer a { color: #636e72; }
+        @media (max-width: 600px) {
+            header h1 { font-size: 1.3em; }
+            .angle-nav { gap: 4px; }
+            .angle-link { padding: 4px 10px; font-size: 0.75em; }
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <div class="container">
+            <h1><span class="flag">🇺🇾</span> Uruguay - Overview & Essential Facts</h1>
+        </div>
+    </header>
+
+    <nav class="breadcrumb"><a href="/">Home</a> &raquo; <a href="/south-america/">South America</a> &raquo; <a href="/south-america/uruguay/">Uruguay</a> &raquo; <span>Overview</span></nav>
+
+    <nav class="angle-nav">
+        <a href="/south-america/uruguay/overview.html" class="angle-link active">Overview</a>
+        <a href="/south-america/uruguay/geography.html" class="angle-link ">Geography</a>
+        <a href="/south-america/uruguay/must-know-truth.html" class="angle-link ">Must Know Truth</a>
+        <a href="/south-america/uruguay/positive-things.html" class="angle-link ">Positive Things</a>
+        <a href="/south-america/uruguay/cities-and-regions.html" class="angle-link ">Cities And Regions</a>
+        <a href="/south-america/uruguay/visa-and-entry.html" class="angle-link ">Visa And Entry</a>
+        <a href="/south-america/uruguay/cost-of-living.html" class="angle-link ">Cost Of Living</a>
+        <a href="/south-america/uruguay/economy.html" class="angle-link ">Economy</a>
+        <a href="/south-america/uruguay/culture.html" class="angle-link ">Culture</a>
+        <a href="/south-america/uruguay/travel-safety.html" class="angle-link ">Travel Safety</a>
+    </nav>
+
+    <article>
+        <div class="factbox"><h3>Quick Facts</h3>
+        <div class="fact-row"><span class="fact-key">Official Name</span><span class="fact-val">Oriental Republic of Uruguay</span></div>
+        <div class="fact-row"><span class="fact-key">Capital</span><span class="fact-val">Montevideo</span></div>
+        <div class="fact-row"><span class="fact-key">Population</span><span class="fact-val">3.4 million</span></div>
+        <div class="fact-row"><span class="fact-key">Languages</span><span class="fact-val">Spanish</span></div>
+        <div class="fact-row"><span class="fact-key">Currency</span><span class="fact-val">UYU</span></div>
+        <div class="fact-row"><span class="fact-key">Government</span><span class="fact-val">sovereign</span></div>
+        <div class="fact-row"><span class="fact-key">Continent</span><span class="fact-val">South America</span></div>
+        <div class="fact-row"><span class="fact-key">ISO Code</span><span class="fact-val">UY</span></div>
+        <div class="fact-row"><span class="fact-key">Calling Code</span><span class="fact-val">+598</span></div>
+        <div class="fact-row"><span class="fact-key">Drives On</span><span class="fact-val">right</span></div>
+        <div class="fact-row"><span class="fact-key">Time Zone</span><span class="fact-val">UTC-3</span></div>
+        </div>
+        <h2>What Is Uruguay?</h2>
+        <p>Uruguay is a <strong>sovereign</strong> country located in the southeastern region of South America, bordered by Argentina to the west and Brazil to the north and east. With a population of 3.4 million people, Uruguay is the second-smallest country in South America, after Suriname. The country is known for its rich cultural heritage, beautiful coastline, and rolling hills, making it a popular destination for tourists and expats alike. Uruguay's capital and largest city, Montevideo, is a bustling metropolis with a rich history and a mix of colonial and modern architecture.</p>
+        <p>Uruguay is situated on the Atlantic coast, with a long shoreline that stretches for over 600 kilometers. The country's geography is characterized by rolling hills, grasslands, and coastal plains, with no mountains or deserts. This unique geography has made Uruguay an important agricultural producer, with a strong focus on livestock and crop production. The country is also home to a number of important rivers, including the Rio de la Plata, which forms the border with Argentina.</p>
+        <p>Uruguay is a <strong>stable democracy</strong> with a strong economy and a high standard of living. The country has a long tradition of social liberalism and has been at the forefront of social and economic reforms in the region. Uruguay is a member of the United Nations, the Organization of American States, and the Mercosur trading bloc, among other international organizations.</p>
+        <h2>Key History</h2>
+        <ol>
+        <li>1828 - Uruguay gains independence from Brazil, becoming a sovereign state.</li>
+        <li>1830 - The country's first constitution is adopted, establishing Uruguay as a republic.</li>
+        <li>1903 - Uruguay becomes one of the first countries in the world to establish an eight-hour working day.</li>
+        <li>1967 - Uruguay adopts a new constitution, which establishes the country as a presidential republic.</li>
+        <li>1985 - Uruguay transitions to democracy after a period of military rule, with the election of Julio Maria Sanguinetti as president.</li>
+        <li>2013 - Uruguay becomes the first country in the world to legalize the cultivation, sale, and use of <strong>cannabis</strong> for recreational purposes.</li>
+        <li>2019 - Uruguay celebrates its 191st anniversary of independence, with festivities and events throughout the country.</li>
+        </ol>
+        <h2>What Makes Uruguay Unique</h2>
+        <ul>
+        <li>Uruguay is home to a unique blend of European and indigenous cultures, reflected in its music, art, and cuisine.</li>
+        <li>The country has a strong tradition of social liberalism, with a focus on <strong>human rights</strong> and <strong>social justice</strong>.</li>
+        <li>Uruguay is a leader in <strong>renewable energy</strong>, with a goal of generating 30% of its electricity from wind power by 2025.</li>
+        <li>The country has a highly developed <strong>agricultural sector</strong>, with a focus on livestock and crop production.</li>
+        <li>Uruguay is home to a number of important <strong>cultural festivals</strong>, including the Montevideo Carnival and the Punta del Este International Film Festival.</li>
+        </ul>
+        <h2>Quick Summary</h2>
+        <p>Uruguay is a sovereign country in South America known for its rich cultural heritage, beautiful coastline, and strong economy, with a unique blend of European and indigenous influences and a commitment to social liberalism and human rights.</p>
+    </article>
+
+    <footer>
+        <p>&copy; 2026 360 Nations. Evergreen reference content.</p>
+        <p>This page contains factual, timeless information. Always verify visa and safety details with official sources.</p>
+    </footer>
+</body>
+</html>

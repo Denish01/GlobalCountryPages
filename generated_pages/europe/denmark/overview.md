@@ -1,0 +1,54 @@
+---
+title: "Denmark - Overview & Essential Facts"
+entity: "Denmark"
+iso_code: "DK"
+continent: "europe"
+angle: "overview"
+date: "2026-02-10"
+---
+
+# Denmark - Overview & Essential Facts
+
+[FACTBOX]
+Official Name: Kingdom of Denmark
+Capital: Copenhagen
+Population: 5.9 million
+Languages: Danish
+Currency: DKK
+Government: sovereign
+Continent: Europe
+ISO Code: DK
+Calling Code: +45
+Drives On: right
+Time Zone: UTC+1
+[/FACTBOX]
+
+[SECTION] What Is Denmark? [/SECTION]
+Denmark is a **sovereign** country located in Northern Europe, comprising the Jutland peninsula and a group of islands, including the two major islands of Zealand and Funen. It shares borders with Germany to the south, and is connected to Sweden by a bridge-tunnel. Denmark is known for its high standard of living, vibrant culture, and stunning natural beauty, with a mix of rolling hills, sandy beaches, and bustling cities. The country has a long history, with evidence of human habitation dating back to the Stone Age, and has been a major player in European politics and trade for centuries.
+
+Denmark is a **parliamentary democracy** and a **constitutional monarchy**, with a monarch serving as head of state and a prime minister as head of government. The country is known for its strong social safety net, high level of social cohesion, and commitment to environmental sustainability. Denmark is also famous for its **design** and **architecture**, with iconic brands like LEGO and Arne Jacobsen's Egg chair, and its vibrant **food scene**, which showcases the country's love of local, organic produce and traditional dishes like smørrebrød and flæskesteg.
+
+Denmark's strategic location at the entrance to the Baltic Sea has made it an important hub for trade and commerce, with the capital city Copenhagen serving as a major **financial center**. The country is also home to a number of **major industries**, including pharmaceuticals, wind energy, and shipping. With its unique blend of traditional and modern culture, stunning natural beauty, and high standard of living, Denmark is a popular destination for tourists and a great place to live and work.
+
+[SECTION] Key History [/SECTION]
+1. 965 - Denmark is unified under a single ruler, Harald Bluetooth, who introduces Christianity to the country.
+2. 1380 - The Kalmar Union is formed, uniting Denmark, Norway, and Sweden under a single monarch.
+3. 1849 - Denmark becomes a **constitutional monarchy**, with a monarch serving as head of state and a prime minister as head of government.
+4. 1914-1918 - Denmark remains neutral during World War I, but suffers economic hardship and loss of trade.
+5. 1940-1945 - Denmark is occupied by Germany during World War II, but the country's **resistance movement** plays a significant role in disrupting German operations.
+6. 1973 - Denmark joins the European Economic Community (EEC), a precursor to the European Union.
+7. 1993 - The Maastricht Treaty is signed, creating the European Union and paving the way for Denmark's integration into the EU.
+
+[SECTION] What Makes Denmark Unique [/SECTION]
+- Denmark is home to the concept of **hygge**, a cultural phenomenon that emphasizes coziness, warmth, and social togetherness.
+- The country has a highly developed **welfare state**, with a strong social safety net and high level of social cohesion.
+- Denmark is a world leader in **sustainable energy**, with a goal of becoming carbon neutral by 2050.
+- The country has a vibrant **arts scene**, with a number of world-class museums, galleries, and performance venues.
+- Denmark is famous for its **design** and **architecture**, with iconic brands like LEGO and Arne Jacobsen's Egg chair.
+
+[SECTION] Quick Summary [/SECTION]
+Denmark is a sovereign country located in Northern Europe, known for its high standard of living, vibrant culture, and stunning natural beauty, with a unique blend of traditional and modern culture, a strong social safety net, and a commitment to environmental sustainability.
+
+---
+
+*Evergreen reference content. Verify time-sensitive details with official sources.*

@@ -1,0 +1,228 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Hong Kong - Overview & Essential Facts - Comprehensive guide to Hong Kong. 360 Nations.">
+    <title>Hong Kong - Overview & Essential Facts | 360 Nations</title>
+    <style>
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+            line-height: 1.7;
+            color: #2d3436;
+            background: #fafafa;
+        }
+        header {
+            background: linear-gradient(135deg, #E74C3C, #C0392B);
+            color: white;
+            padding: 24px 0;
+        }
+        header .container {
+            max-width: 900px;
+            margin: 0 auto;
+            padding: 0 20px;
+        }
+        header h1 {
+            font-size: 1.8em;
+            font-weight: 700;
+        }
+        .flag { font-size: 1.4em; margin-right: 8px; }
+        .breadcrumb {
+            max-width: 900px;
+            margin: 0 auto;
+            padding: 12px 20px;
+            font-size: 0.85em;
+            color: #636e72;
+        }
+        .breadcrumb a { color: #E74C3C; text-decoration: none; }
+        .breadcrumb a:hover { text-decoration: underline; }
+        .angle-nav {
+            max-width: 900px;
+            margin: 0 auto;
+            padding: 0 20px 16px;
+            display: flex;
+            flex-wrap: wrap;
+            gap: 6px;
+        }
+        .angle-link {
+            display: inline-block;
+            padding: 6px 14px;
+            border-radius: 20px;
+            font-size: 0.82em;
+            text-decoration: none;
+            color: #636e72;
+            background: #f1f2f6;
+            transition: all 0.2s;
+        }
+        .angle-link:hover { background: #dfe6e9; }
+        .angle-link.active {
+            background: #E74C3C;
+            color: white;
+        }
+        article {
+            max-width: 900px;
+            margin: 0 auto;
+            padding: 20px;
+            background: white;
+            border-radius: 8px;
+            box-shadow: 0 1px 3px rgba(0,0,0,0.08);
+            margin-bottom: 40px;
+        }
+        article h2 {
+            color: #E74C3C;
+            margin: 28px 0 12px;
+            padding-bottom: 6px;
+            border-bottom: 2px solid #E74C3C22;
+        }
+        article h3 { color: #2d3436; margin: 20px 0 8px; }
+        article p { margin-bottom: 14px; }
+        article ul, article ol { padding-left: 24px; margin-bottom: 14px; }
+        article li { margin-bottom: 6px; }
+        /* Factbox */
+        .factbox {
+            background: linear-gradient(135deg, #E74C3C08, #E74C3C15);
+            border: 1px solid #E74C3C30;
+            border-radius: 10px;
+            padding: 20px 24px;
+            margin: 20px 0;
+        }
+        .factbox h3 {
+            color: #E74C3C;
+            margin: 0 0 12px;
+            font-size: 1.05em;
+        }
+        .fact-row {
+            display: flex;
+            justify-content: space-between;
+            padding: 6px 0;
+            border-bottom: 1px solid #E74C3C15;
+        }
+        .fact-row:last-child { border-bottom: none; }
+        .fact-key { font-weight: 600; color: #2d3436; flex: 0 0 45%; }
+        .fact-val { color: #636e72; text-align: right; flex: 0 0 50%; }
+        /* Tables */
+        .table-wrapper { overflow-x: auto; margin: 16px 0; }
+        table { border-collapse: collapse; width: 100%; font-size: 0.92em; }
+        th {
+            background: #E74C3C;
+            color: white;
+            padding: 10px 14px;
+            text-align: left;
+            font-weight: 600;
+        }
+        td { padding: 10px 14px; border-bottom: 1px solid #eee; }
+        tr:nth-child(even) { background: #f8f9fa; }
+        tr:hover { background: #E74C3C08; }
+        /* Callout */
+        .callout {
+            background: #fff3cd;
+            border-left: 4px solid #ffc107;
+            padding: 14px 18px;
+            border-radius: 0 8px 8px 0;
+            margin: 16px 0;
+            font-size: 0.93em;
+        }
+        .callout .misconception {
+            color: #856404;
+            margin-bottom: 4px;
+        }
+        .callout .reality {
+            color: #155724;
+            background: #d4edda;
+            padding: 8px 12px;
+            border-radius: 4px;
+            margin-bottom: 12px;
+        }
+        /* Rating */
+        .rating {
+            display: flex;
+            align-items: center;
+            gap: 10px;
+            padding: 6px 0;
+        }
+        .rating-label { font-weight: 600; min-width: 160px; }
+        .rating-dots { font-size: 1.2em; color: #E74C3C; letter-spacing: 2px; }
+        .rating-score { color: #636e72; font-size: 0.85em; }
+        footer {
+            text-align: center;
+            padding: 30px 20px;
+            color: #b2bec3;
+            font-size: 0.8em;
+        }
+        footer a { color: #636e72; }
+        @media (max-width: 600px) {
+            header h1 { font-size: 1.3em; }
+            .angle-nav { gap: 4px; }
+            .angle-link { padding: 4px 10px; font-size: 0.75em; }
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <div class="container">
+            <h1><span class="flag">🇭🇰</span> Hong Kong - Overview & Essential Facts</h1>
+        </div>
+    </header>
+
+    <nav class="breadcrumb"><a href="/">Home</a> &raquo; <a href="/asia/">Asia</a> &raquo; <a href="/asia/hong-kong/">Hong Kong</a> &raquo; <span>Overview</span></nav>
+
+    <nav class="angle-nav">
+        <a href="/asia/hong-kong/overview.html" class="angle-link active">Overview</a>
+        <a href="/asia/hong-kong/geography.html" class="angle-link ">Geography</a>
+        <a href="/asia/hong-kong/must-know-truth.html" class="angle-link ">Must Know Truth</a>
+        <a href="/asia/hong-kong/positive-things.html" class="angle-link ">Positive Things</a>
+        <a href="/asia/hong-kong/cities-and-regions.html" class="angle-link ">Cities And Regions</a>
+        <a href="/asia/hong-kong/visa-and-entry.html" class="angle-link ">Visa And Entry</a>
+        <a href="/asia/hong-kong/cost-of-living.html" class="angle-link ">Cost Of Living</a>
+        <a href="/asia/hong-kong/economy.html" class="angle-link ">Economy</a>
+        <a href="/asia/hong-kong/culture.html" class="angle-link ">Culture</a>
+        <a href="/asia/hong-kong/travel-safety.html" class="angle-link ">Travel Safety</a>
+    </nav>
+
+    <article>
+        <div class="factbox"><h3>Quick Facts</h3>
+        <div class="fact-row"><span class="fact-key">Official Name</span><span class="fact-val">Hong Kong Special Administrative Region of the People's Republic of China</span></div>
+        <div class="fact-row"><span class="fact-key">Capital</span><span class="fact-val">Hong Kong</span></div>
+        <div class="fact-row"><span class="fact-key">Population</span><span class="fact-val">7.5 million</span></div>
+        <div class="fact-row"><span class="fact-key">Languages</span><span class="fact-val">Cantonese, English</span></div>
+        <div class="fact-row"><span class="fact-key">Currency</span><span class="fact-val">HKD</span></div>
+        <div class="fact-row"><span class="fact-key">Government</span><span class="fact-val">Special administrative region</span></div>
+        <div class="fact-row"><span class="fact-key">Continent</span><span class="fact-val">Asia</span></div>
+        <div class="fact-row"><span class="fact-key">ISO Code</span><span class="fact-val">HK</span></div>
+        <div class="fact-row"><span class="fact-key">Calling Code</span><span class="fact-val">+852</span></div>
+        <div class="fact-row"><span class="fact-key">Drives On</span><span class="fact-val">left</span></div>
+        <div class="fact-row"><span class="fact-key">Time Zone</span><span class="fact-val">UTC+8</span></div>
+        </div>
+        <h2>What Is Hong Kong?</h2>
+        <p>Hong Kong is a <strong>special administrative region</strong> of China, located on the southeastern coast of the country. It is situated on the Pearl River Delta and borders the province of Guangdong to the north and the South China Sea to the east, south, and west. Hong Kong is known for its <strong>lively economy</strong>, <strong>rich culture</strong>, and <strong>stunning skyline</strong>, making it a popular destination for tourists and business travelers alike. The region's unique blend of East and West, reflected in its architecture, cuisine, and traditions, is a result of its complex history as a British colony.</p>
+        <p>Geographically, Hong Kong is a small region, comprising more than 200 islands, with the largest being Lantau Island and Hong Kong Island. The Kowloon Peninsula and the New Territories are also part of the region. The terrain is mountainous, with many hills and valleys, and the climate is subtropical, with hot and humid summers and mild winters. Hong Kong's <strong>strategic location</strong> has made it an important center for trade and finance in Asia, with its <strong>deep-water harbor</strong> and <strong>world-class infrastructure</strong>.</p>
+        <p>As a <strong>special administrative region</strong>, Hong Kong enjoys a high degree of autonomy in all matters except foreign affairs and defense, which are the responsibility of the Chinese government. This unique arrangement has allowed Hong Kong to maintain its own economic and social systems, including its <strong>independent judiciary</strong> and <strong>free market economy</strong>. The region's <strong>cultural diversity</strong> is reflected in its vibrant arts scene, with a mix of traditional and modern music, theater, and visual arts.</p>
+        <h2>Key History</h2>
+        <ol>
+        <li>1842 - The Treaty of Nanking is signed, ceding Hong Kong Island to the British Empire, marking the beginning of British rule in the region.</li>
+        <li>1860 - The Second Opium War leads to the expansion of British control, with the addition of the Kowloon Peninsula to the colony.</li>
+        <li>1898 - The British lease the New Territories from China for 99 years, further expanding the colony's territory.</li>
+        <li>1941-1945 - Hong Kong is occupied by Japan during World War II, with the British regaining control after the war.</li>
+        <li>1997 - The British hand over sovereignty of Hong Kong to China, marking the end of British rule and the establishment of the Hong Kong Special Administrative Region.</li>
+        <li>2014 - The Umbrella Revolution takes place, with protesters demanding greater democracy and autonomy for Hong Kong.</li>
+        <li>2020 - The National Security Law is implemented, giving the Chinese government greater control over Hong Kong's internal affairs.</li>
+        </ol>
+        <h2>What Makes Hong Kong Unique</h2>
+        <ul>
+        <li>Hong Kong is one of the <strong>most densely populated cities</strong> in the world, with a population of over 7.5 million people living in a small area of approximately 1,100 square kilometers.</li>
+        <li>The region is home to a <strong>thriving financial sector</strong>, with the Hong Kong Stock Exchange being one of the largest in Asia.</li>
+        <li>Hong Kong has a <strong>unique cuisine</strong>, which is a fusion of Cantonese, Chinese, and international flavors, with popular dishes such as dim sum, roast goose, and congee.</li>
+        <li>The region is known for its <strong>stunning natural beauty</strong>, with many parks, gardens, and nature reserves, including the popular Victoria Peak and Lantau Island.</li>
+        <li>Hong Kong has a <strong>well-developed public transportation system</strong>, with a comprehensive network of buses, trains, and ferries, making it easy to get around the city.</li>
+        </ul>
+        <h2>Quick Summary</h2>
+        <p>Hong Kong is a special administrative region of China, known for its unique blend of East and West, stunning skyline, and thriving economy, making it a popular destination for tourists and business travelers alike.</p>
+    </article>
+
+    <footer>
+        <p>&copy; 2026 360 Nations. Evergreen reference content.</p>
+        <p>This page contains factual, timeless information. Always verify visa and safety details with official sources.</p>
+    </footer>
+</body>
+</html>

@@ -1,0 +1,54 @@
+---
+title: "North Macedonia - Overview & Essential Facts"
+entity: "North Macedonia"
+iso_code: "MK"
+continent: "europe"
+angle: "overview"
+date: "2026-02-10"
+---
+
+# North Macedonia - Overview & Essential Facts
+
+[FACTBOX]
+Official Name: Republic of North Macedonia
+Capital: Skopje
+Population: 1.8 million
+Languages: Macedonian, Albanian
+Currency: MKD (Macedonian Denar)
+Government: sovereign
+Continent: Europe
+ISO Code: MK
+Calling Code: +389
+Drives On: right
+Time Zone: UTC+1
+[/FACTBOX]
+
+[SECTION] What Is North Macedonia? [/SECTION]
+North Macedonia, officially known as the Republic of North Macedonia, is a **sovereign** country located in the **Balkan Peninsula** of **Europe**. It is situated in the southern part of the continent, bordered by **Kosovo** to the northwest, **Serbia** to the north, **Bulgaria** to the east, **Greece** to the south, and **Albania** to the west. With a population of approximately 1.8 million people, North Macedonia is a relatively small country, but it has a rich history and culture. The country is known for its stunning natural beauty, with mountains, lakes, and forests covering much of its territory.
+
+North Macedonia is a **multilingual** country, with **Macedonian** and **Albanian** being the two official languages. The country has a diverse culture, with influences from its neighboring countries and its complex history. The capital city, **Skopje**, is the largest city in the country and is home to many historical landmarks, cultural institutions, and entertainment venues. North Macedonia is also known for its delicious cuisine, which features a mix of Mediterranean and Balkan flavors.
+
+The country's strategic location has made it an important crossroads for trade and cultural exchange throughout history. North Macedonia has been part of various empires and kingdoms, including the **Roman Empire**, the **Byzantine Empire**, and the **Ottoman Empire**. Today, the country is a member of the **United Nations** and the **Council of Europe**, and is working towards joining the **European Union** and **NATO**.
+
+[SECTION] Key History [/SECTION]
+1. 1913 - The **Treaty of Bucharest** is signed, establishing the borders of the **Kingdom of Serbia**, which includes the territory of present-day North Macedonia.
+2. 1946 - The **Socialist Republic of Macedonia** is established as part of the **Socialist Federal Republic of Yugoslavia**.
+3. 1991 - North Macedonia declares its independence from Yugoslavia, becoming the **Republic of Macedonia**.
+4. 1993 - The country is admitted to the **United Nations**, but its name is disputed by **Greece**, which claims that the name "Macedonia" is already used by a region in northern Greece.
+5. 2018 - The **Prespa Agreement** is signed, resolving the naming dispute with Greece and paving the way for the country to join the **European Union** and **NATO**.
+6. 2019 - The country officially changes its name to the **Republic of North Macedonia**, as agreed upon in the Prespa Agreement.
+7. 2020 - North Macedonia becomes the 30th member of **NATO**, marking a significant milestone in its integration into European and transatlantic institutions.
+
+[SECTION] What Makes North Macedonia Unique [/SECTION]
+- North Macedonia is home to **Lake Ohrid**, one of the oldest and deepest lakes in Europe, which is a **UNESCO World Heritage Site**.
+- The country has a diverse **geography**, with mountains, forests, and lakes covering over 80% of its territory.
+- North Macedonia has a rich **cultural heritage**, with influences from ancient civilizations such as the **Greeks** and **Romans**, as well as the **Ottoman Empire**.
+- The country is home to a number of **ancient ruins**, including the ancient city of **Stobi**, which dates back to the 3rd century BC.
+- North Macedonia has a vibrant **arts scene**, with many museums, galleries, and festivals celebrating its music, dance, and visual arts.
+
+[SECTION] Quick Summary [/SECTION]
+North Macedonia is a sovereign country located in the Balkan Peninsula of Europe, known for its stunning natural beauty, rich cultural heritage, and complex history, with a unique blend of Mediterranean and Balkan influences that make it a fascinating destination to explore.
+
+---
+
+*Evergreen reference content. Verify time-sensitive details with official sources.*

@@ -1,0 +1,54 @@
+---
+title: "Puerto Rico - Overview & Essential Facts"
+entity: "Puerto Rico"
+iso_code: "PR"
+continent: "north-america"
+angle: "overview"
+date: "2026-02-10"
+---
+
+# Puerto Rico - Overview & Essential Facts
+
+[FACTBOX]
+Official Name: Commonwealth of Puerto Rico
+Capital: San Juan
+Population: 3.2 million
+Languages: Spanish, English
+Currency: USD
+Government: Unincorporated territory
+Continent: North America
+ISO Code: PR
+Calling Code: +1
+Drives On: right
+Time Zone: UTC-4
+[/FACTBOX]
+
+[SECTION] What Is Puerto Rico? [/SECTION]
+Puerto Rico is an **unincorporated territory** of the United States, located in the northeastern Caribbean Sea. It is situated approximately 1,000 miles southeast of Miami, Florida, and is bordered by the Dominican Republic to the west and the US Virgin Islands to the east. Puerto Rico is known for its rich cultural heritage, stunning natural beauty, and unique blend of Spanish and American influences. The island is home to a diverse population of 3.2 million people, who are US citizens but do not have voting representation in the US Congress.
+
+Geographically, Puerto Rico is a small island, measuring approximately 100 miles long and 35 miles wide. The island is mountainous, with a central range that includes the highest peak, Cerro de Punta, which rises to an elevation of over 4,300 feet. The coastlines are marked by beautiful beaches, bays, and coves, while the interior is home to lush rainforests, waterfalls, and scenic valleys. Puerto Rico is also known for its vibrant cities, including San Juan, the capital, which is a major hub for commerce, culture, and tourism.
+
+Puerto Rico's unique cultural identity is shaped by its history, language, and traditions. The island was colonized by Spain in the 16th century, and as a result, Spanish is the predominant language spoken by the majority of the population. However, English is also widely spoken, particularly in tourist areas and business settings. Puerto Rico is famous for its **salsa music**, delicious cuisine, and vibrant festivals, which reflect the island's African, Spanish, and indigenous Taino influences.
+
+[SECTION] Key History [/SECTION]
+1. 1493 - Christopher Columbus lands on the island, which he names San Juan Bautista, and claims it for Spain.
+2. 1898 - The Spanish-American War leads to Spain ceding Puerto Rico to the United States, which establishes a military government on the island.
+3. 1917 - The Jones-Shafroth Act grants US citizenship to all Puerto Ricans, but does not provide voting representation in Congress.
+4. 1947 - The US Congress passes the Elective Governor Act, which allows Puerto Rico to elect its own governor.
+5. 1952 - The Commonwealth of Puerto Rico is established, with a constitution that provides for a degree of autonomy and self-governance.
+6. 1967 - A referendum is held, in which the majority of Puerto Ricans vote to maintain the island's commonwealth status, rather than seeking statehood or independence.
+7. 2017 - Hurricane Maria devastates the island, causing widespread destruction and loss of life, and highlighting the need for improved infrastructure and disaster preparedness.
+
+[SECTION] What Makes Puerto Rico Unique [/SECTION]
+- Puerto Rico is home to three **bioluminescent bays**, where microorganisms in the water emit a blue-green glow, creating a magical and unforgettable experience.
+- The island is a major hub for **pharmaceutical manufacturing**, with many international companies operating facilities in Puerto Rico.
+- Puerto Rico has a unique **cuisine**, which blends Spanish, African, and indigenous Taino influences, and features popular dishes such as mofongo, arroz con gandules, and empanadas.
+- The island is home to a diverse range of **wildlife**, including the endangered Puerto Rican parrot, the coquí frog, and the West Indian manatee.
+- Puerto Rico has a rich **cultural heritage**, with a mix of Spanish colonial architecture, African rhythms, and indigenous traditions, which are reflected in its music, dance, and art.
+
+[SECTION] Quick Summary [/SECTION]
+Puerto Rico is a unique and fascinating territory that offers a blend of natural beauty, rich culture, and modern amenities, making it an attractive destination for tourists, business travelers, and those interested in exploring the complexities of US-Puerto Rico relations.
+
+---
+
+*Evergreen reference content. Verify time-sensitive details with official sources.*

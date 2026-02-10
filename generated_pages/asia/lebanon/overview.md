@@ -1,0 +1,54 @@
+---
+title: "Lebanon - Overview & Essential Facts"
+entity: "Lebanon"
+iso_code: "LB"
+continent: "asia"
+angle: "overview"
+date: "2026-02-10"
+---
+
+# Lebanon - Overview & Essential Facts
+
+[FACTBOX]
+Official Name: Lebanese Republic
+Capital: Beirut
+Population: 5.5 million
+Languages: Arabic
+Currency: LBP
+Government: Sovereign
+Continent: Asia
+ISO Code: LB
+Calling Code: +961
+Drives On: Right
+Time Zone: UTC+2
+[/FACTBOX]
+
+[SECTION] What Is Lebanon? [/SECTION]
+Lebanon is a **sovereign** country located in Western Asia, bordered by Syria to the north and east, and Israel to the south. It has a population of approximately 5.5 million people and is known for its rich cultural heritage, beautiful beaches, and mountainous terrain. The country's strategic location at the crossroads of Europe, Asia, and Africa has made it an important center for trade and commerce throughout history. Lebanon is a member of the United Nations and the Arab League, and its government is a parliamentary democracy.
+
+Lebanon is situated on the eastern shore of the Mediterranean Sea, with a diverse geography that includes snow-capped mountains, fertile valleys, and a scenic coastline. The country's capital, Beirut, is a bustling metropolis with a vibrant cultural scene, known for its historic landmarks, museums, and nightlife. Lebanon is also home to several important archaeological sites, including the ancient cities of Byblos and Tyre, which are listed as UNESCO World Heritage Sites.
+
+Lebanon has a complex history, with various empires and civilizations having ruled the country over the centuries, including the Phoenicians, Romans, Ottomans, and French. This diverse cultural heritage is reflected in the country's cuisine, architecture, and traditions, making it a unique and fascinating destination for visitors. Despite facing various challenges, including civil war and regional conflicts, Lebanon has maintained its independence and sovereignty, and continues to be an important player in regional and international affairs.
+
+[SECTION] Key History [/SECTION]
+1. 1920 - Lebanon is established as a French mandate territory under the League of Nations, following the collapse of the Ottoman Empire.
+2. 1943 - Lebanon gains independence from France, with the country's first constitution being adopted.
+3. 1958 - Lebanon experiences a civil war, with the United States intervening to support the government.
+4. 1975-1990 - Lebanon is embroiled in a prolonged civil war, with various factions and militias vying for power.
+5. 2005 - Former Prime Minister Rafik Hariri is assassinated, leading to widespread protests and the withdrawal of Syrian troops from the country.
+6. 2006 - Lebanon is involved in a conflict with Israel, resulting in significant damage to the country's infrastructure.
+7. 2011 - Lebanon is affected by the Syrian civil war, with the country hosting over a million Syrian refugees.
+
+[SECTION] What Makes Lebanon Unique [/SECTION]
+- Lebanon is home to a diverse range of cultures, including Muslim, Christian, and Druze communities, which coexist and contribute to the country's rich cultural heritage.
+- The country has a vibrant arts scene, with numerous galleries, museums, and festivals showcasing Lebanese and international art.
+- Lebanon is famous for its cuisine, which includes popular dishes such as **tabbouleh**, **kibbeh**, and **shawarma**, and is known for its emphasis on fresh ingredients and spices.
+- The country has a well-developed tourism industry, with popular destinations including the historic city of Byblos, the **Jeita Grotto**, and the **Cedars of God** ski resort.
+- Lebanon is a significant producer of **wine**, with the country's wine industry dating back over 5,000 years, and is known for its high-quality wines made from grape varieties such as **Chardonnay** and **Cabernet Sauvignon**.
+
+[SECTION] Quick Summary [/SECTION]
+Lebanon is a sovereign country located in Western Asia, known for its rich cultural heritage, diverse geography, and complex history, with a unique blend of traditional and modern influences that make it a fascinating destination for visitors and a significant player in regional and international affairs.
+
+---
+
+*Evergreen reference content. Verify time-sensitive details with official sources.*

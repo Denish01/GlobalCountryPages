@@ -1,0 +1,228 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Peru - Overview & Essential Facts - Comprehensive guide to Peru. 360 Nations.">
+    <title>Peru - Overview & Essential Facts | 360 Nations</title>
+    <style>
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+            line-height: 1.7;
+            color: #2d3436;
+            background: #fafafa;
+        }
+        header {
+            background: linear-gradient(135deg, #8E44AD, #7D3C98);
+            color: white;
+            padding: 24px 0;
+        }
+        header .container {
+            max-width: 900px;
+            margin: 0 auto;
+            padding: 0 20px;
+        }
+        header h1 {
+            font-size: 1.8em;
+            font-weight: 700;
+        }
+        .flag { font-size: 1.4em; margin-right: 8px; }
+        .breadcrumb {
+            max-width: 900px;
+            margin: 0 auto;
+            padding: 12px 20px;
+            font-size: 0.85em;
+            color: #636e72;
+        }
+        .breadcrumb a { color: #8E44AD; text-decoration: none; }
+        .breadcrumb a:hover { text-decoration: underline; }
+        .angle-nav {
+            max-width: 900px;
+            margin: 0 auto;
+            padding: 0 20px 16px;
+            display: flex;
+            flex-wrap: wrap;
+            gap: 6px;
+        }
+        .angle-link {
+            display: inline-block;
+            padding: 6px 14px;
+            border-radius: 20px;
+            font-size: 0.82em;
+            text-decoration: none;
+            color: #636e72;
+            background: #f1f2f6;
+            transition: all 0.2s;
+        }
+        .angle-link:hover { background: #dfe6e9; }
+        .angle-link.active {
+            background: #8E44AD;
+            color: white;
+        }
+        article {
+            max-width: 900px;
+            margin: 0 auto;
+            padding: 20px;
+            background: white;
+            border-radius: 8px;
+            box-shadow: 0 1px 3px rgba(0,0,0,0.08);
+            margin-bottom: 40px;
+        }
+        article h2 {
+            color: #8E44AD;
+            margin: 28px 0 12px;
+            padding-bottom: 6px;
+            border-bottom: 2px solid #8E44AD22;
+        }
+        article h3 { color: #2d3436; margin: 20px 0 8px; }
+        article p { margin-bottom: 14px; }
+        article ul, article ol { padding-left: 24px; margin-bottom: 14px; }
+        article li { margin-bottom: 6px; }
+        /* Factbox */
+        .factbox {
+            background: linear-gradient(135deg, #8E44AD08, #8E44AD15);
+            border: 1px solid #8E44AD30;
+            border-radius: 10px;
+            padding: 20px 24px;
+            margin: 20px 0;
+        }
+        .factbox h3 {
+            color: #8E44AD;
+            margin: 0 0 12px;
+            font-size: 1.05em;
+        }
+        .fact-row {
+            display: flex;
+            justify-content: space-between;
+            padding: 6px 0;
+            border-bottom: 1px solid #8E44AD15;
+        }
+        .fact-row:last-child { border-bottom: none; }
+        .fact-key { font-weight: 600; color: #2d3436; flex: 0 0 45%; }
+        .fact-val { color: #636e72; text-align: right; flex: 0 0 50%; }
+        /* Tables */
+        .table-wrapper { overflow-x: auto; margin: 16px 0; }
+        table { border-collapse: collapse; width: 100%; font-size: 0.92em; }
+        th {
+            background: #8E44AD;
+            color: white;
+            padding: 10px 14px;
+            text-align: left;
+            font-weight: 600;
+        }
+        td { padding: 10px 14px; border-bottom: 1px solid #eee; }
+        tr:nth-child(even) { background: #f8f9fa; }
+        tr:hover { background: #8E44AD08; }
+        /* Callout */
+        .callout {
+            background: #fff3cd;
+            border-left: 4px solid #ffc107;
+            padding: 14px 18px;
+            border-radius: 0 8px 8px 0;
+            margin: 16px 0;
+            font-size: 0.93em;
+        }
+        .callout .misconception {
+            color: #856404;
+            margin-bottom: 4px;
+        }
+        .callout .reality {
+            color: #155724;
+            background: #d4edda;
+            padding: 8px 12px;
+            border-radius: 4px;
+            margin-bottom: 12px;
+        }
+        /* Rating */
+        .rating {
+            display: flex;
+            align-items: center;
+            gap: 10px;
+            padding: 6px 0;
+        }
+        .rating-label { font-weight: 600; min-width: 160px; }
+        .rating-dots { font-size: 1.2em; color: #8E44AD; letter-spacing: 2px; }
+        .rating-score { color: #636e72; font-size: 0.85em; }
+        footer {
+            text-align: center;
+            padding: 30px 20px;
+            color: #b2bec3;
+            font-size: 0.8em;
+        }
+        footer a { color: #636e72; }
+        @media (max-width: 600px) {
+            header h1 { font-size: 1.3em; }
+            .angle-nav { gap: 4px; }
+            .angle-link { padding: 4px 10px; font-size: 0.75em; }
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <div class="container">
+            <h1><span class="flag">🇵🇪</span> Peru - Overview & Essential Facts</h1>
+        </div>
+    </header>
+
+    <nav class="breadcrumb"><a href="/">Home</a> &raquo; <a href="/south-america/">South America</a> &raquo; <a href="/south-america/peru/">Peru</a> &raquo; <span>Overview</span></nav>
+
+    <nav class="angle-nav">
+        <a href="/south-america/peru/overview.html" class="angle-link active">Overview</a>
+        <a href="/south-america/peru/geography.html" class="angle-link ">Geography</a>
+        <a href="/south-america/peru/must-know-truth.html" class="angle-link ">Must Know Truth</a>
+        <a href="/south-america/peru/positive-things.html" class="angle-link ">Positive Things</a>
+        <a href="/south-america/peru/cities-and-regions.html" class="angle-link ">Cities And Regions</a>
+        <a href="/south-america/peru/visa-and-entry.html" class="angle-link ">Visa And Entry</a>
+        <a href="/south-america/peru/cost-of-living.html" class="angle-link ">Cost Of Living</a>
+        <a href="/south-america/peru/economy.html" class="angle-link ">Economy</a>
+        <a href="/south-america/peru/culture.html" class="angle-link ">Culture</a>
+        <a href="/south-america/peru/travel-safety.html" class="angle-link ">Travel Safety</a>
+    </nav>
+
+    <article>
+        <div class="factbox"><h3>Quick Facts</h3>
+        <div class="fact-row"><span class="fact-key">Official Name</span><span class="fact-val">Republic of Peru</span></div>
+        <div class="fact-row"><span class="fact-key">Capital</span><span class="fact-val">Lima</span></div>
+        <div class="fact-row"><span class="fact-key">Population</span><span class="fact-val">34.0 million</span></div>
+        <div class="fact-row"><span class="fact-key">Languages</span><span class="fact-val">Spanish</span></div>
+        <div class="fact-row"><span class="fact-key">Currency</span><span class="fact-val">PEN</span></div>
+        <div class="fact-row"><span class="fact-key">Government</span><span class="fact-val">Sovereign</span></div>
+        <div class="fact-row"><span class="fact-key">Continent</span><span class="fact-val">South America</span></div>
+        <div class="fact-row"><span class="fact-key">ISO Code</span><span class="fact-val">PE</span></div>
+        <div class="fact-row"><span class="fact-key">Calling Code</span><span class="fact-val">+51</span></div>
+        <div class="fact-row"><span class="fact-key">Drives On</span><span class="fact-val">right</span></div>
+        <div class="fact-row"><span class="fact-key">Time Zone</span><span class="fact-val">UTC-5</span></div>
+        </div>
+        <h2>What Is Peru?</h2>
+        <p>Peru is a <strong>sovereign</strong> country located in western South America, bordered by Ecuador, Colombia, Brazil, Bolivia, and Chile. It has a diverse geography, with a long coastline along the Pacific Ocean, as well as a vast array of landscapes, including the Andes Mountains, the Amazon rainforest, and the Atacama Desert. Peru is known for its rich cultural heritage, including the Inca Empire, which was one of the most powerful and advanced civilizations in the Americas before the arrival of the Spanish conquistadors. Today, Peru is a popular tourist destination, attracting visitors from around the world with its vibrant cities, ancient ruins, and stunning natural beauty.</p>
+        <p>Peru's geographic position has played a significant role in shaping its history and culture. The country's strategic location has made it an important center for trade and commerce, with the city of Lima serving as a major hub for the Spanish Empire in the 16th century. The country's diverse landscapes have also supported a wide range of ecosystems, including the Amazon rainforest, which is home to an incredible array of plant and animal species. Peru's unique cultural heritage is reflected in its music, art, and cuisine, which have been influenced by the country's indigenous, Spanish, African, and Asian roots.</p>
+        <p>Peru's sovereignty status as a <strong>republic</strong> has allowed it to maintain its independence and self-governance since the country declared its independence from Spain in 1821. Today, Peru is a stable democracy, with a growing economy and a strong commitment to preserving its cultural heritage and natural resources. The country's government has implemented a range of initiatives to promote sustainable tourism, protect the environment, and support the development of local communities.</p>
+        <h2>Key History</h2>
+        <ol>
+        <li>1533 - The Spanish conquistador Francisco Pizarro arrives in Peru and captures the Inca emperor Atahualpa, marking the beginning of Spanish rule in the country.</li>
+        <li>1821 - Peru declares its independence from Spain, with José de San Martín serving as the country's first leader.</li>
+        <li>1866 - Peru becomes a republic, with a new constitution and a president serving as head of state.</li>
+        <li>1968 - A military coup led by General Juan Velasco Alvarado overthrows the government, leading to a period of military rule that lasts until 1980.</li>
+        <li>1990 - Peru returns to democratic rule, with the election of President Alberto Fujimori, who serves until 2000.</li>
+        <li>2001 - The Peruvian government establishes the <strong>Truth and Reconciliation Commission</strong> to investigate human rights abuses committed during the country's internal conflict, which lasted from 1980 to 2000.</li>
+        <li>2011 - Peru signs a <strong>free trade agreement</strong> with the United States, marking an important step in the country's economic development.</li>
+        </ol>
+        <h2>What Makes Peru Unique</h2>
+        <ul>
+        <li>Peru is home to the <strong>Inca Trail</strong>, a famous hiking trail that leads to the ancient Inca city of Machu Picchu, one of the <strong>Seven Wonders of the World</strong>.</li>
+        <li>The country has a rich cultural heritage, with over 60% of the population identifying as <strong>indigenous</strong>, and a wide range of traditional festivals and celebrations throughout the year.</li>
+        <li>Peru is home to a diverse range of <strong>wildlife</strong>, including the Andean condor, the jaguar, and the <strong>vicuña</strong>, a wild South American camelid that is considered a national symbol.</li>
+        <li>The country has a vibrant <strong>gastronomy</strong>, with popular dishes such as <strong>ceviche</strong>, <strong>lomo saltado</strong>, and <strong>aji de gallina</strong>, which reflect the country's indigenous, Spanish, and African roots.</li>
+        <li>Peru is a major producer of <strong>minerals</strong>, including copper, gold, and silver, with the country's mining industry playing an important role in the national economy.</li>
+        </ul>
+        <h2>Quick Summary</h2>
+        <p>Peru is a sovereign country in western South America, known for its rich cultural heritage, diverse geography, and vibrant cities, with a strong commitment to preserving its natural resources and promoting sustainable tourism.</p>
+    </article>
+
+    <footer>
+        <p>&copy; 2026 360 Nations. Evergreen reference content.</p>
+        <p>This page contains factual, timeless information. Always verify visa and safety details with official sources.</p>
+    </footer>
+</body>
+</html>
