@@ -18,7 +18,7 @@ except ImportError:
     import os
     SITE_URL = os.environ.get("SITE_URL", "https://360nations.com")
 
-SKIP_FILES = {"index.html", "robots.txt", "sitemap.xml", "CNAME", ".nojekyll"}
+SKIP_FILES = {"robots.txt", "sitemap.xml", "CNAME", ".nojekyll"}
 
 # Priority by angle type
 ANGLE_PRIORITY = {
@@ -56,15 +56,39 @@ def get_all_pages():
 
         continent = continent_dir.name
 
+        # Continent index page (e.g. /africa/)
+        continent_index = continent_dir / "index.html"
+        if continent_index.exists():
+            mtime = datetime.fromtimestamp(continent_index.stat().st_mtime)
+            pages.append({
+                "url": f"/{continent}/",
+                "lastmod": mtime.strftime("%Y-%m-%d"),
+                "priority": "0.9",
+                "changefreq": "weekly",
+            })
+
         for country_dir in sorted(continent_dir.iterdir()):
             if not country_dir.is_dir():
                 continue
 
             country = country_dir.name
 
-            # Level 2 pages: direct HTML files
+            # Country index page (e.g. /africa/nigeria/)
+            country_index = country_dir / "index.html"
+            if country_index.exists():
+                mtime = datetime.fromtimestamp(country_index.stat().st_mtime)
+                pages.append({
+                    "url": f"/{continent}/{country}/",
+                    "lastmod": mtime.strftime("%Y-%m-%d"),
+                    "priority": "0.8",
+                    "changefreq": "weekly",
+                })
+
+            # Level 2 pages: direct HTML files (skip index.html, already added above)
             for html_file in sorted(country_dir.glob("*.html")):
-                url_path = f"/{continent}/{country}/{html_file.stem}"
+                if html_file.name == "index.html":
+                    continue
+                url_path = f"/{continent}/{country}/{html_file.name}"
                 mtime = datetime.fromtimestamp(html_file.stat().st_mtime)
 
                 pages.append({
@@ -87,7 +111,7 @@ def get_all_pages():
                     sub_entity = sub_entity_dir.name
 
                     for html_file in sorted(sub_entity_dir.glob("*.html")):
-                        url_path = f"/{continent}/{country}/{sub_type}/{sub_entity}/{html_file.stem}"
+                        url_path = f"/{continent}/{country}/{sub_type}/{sub_entity}/{html_file.name}"
                         mtime = datetime.fromtimestamp(html_file.stat().st_mtime)
 
                         pages.append({
