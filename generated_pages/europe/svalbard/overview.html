@@ -1,0 +1,228 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Svalbard - Overview & Essential Facts - Comprehensive guide to Svalbard. 360 Nations.">
+    <title>Svalbard - Overview & Essential Facts | 360 Nations</title>
+    <style>
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+            line-height: 1.7;
+            color: #2d3436;
+            background: #fafafa;
+        }
+        header {
+            background: linear-gradient(135deg, #3498DB, #2980B9);
+            color: white;
+            padding: 24px 0;
+        }
+        header .container {
+            max-width: 900px;
+            margin: 0 auto;
+            padding: 0 20px;
+        }
+        header h1 {
+            font-size: 1.8em;
+            font-weight: 700;
+        }
+        .flag { font-size: 1.4em; margin-right: 8px; }
+        .breadcrumb {
+            max-width: 900px;
+            margin: 0 auto;
+            padding: 12px 20px;
+            font-size: 0.85em;
+            color: #636e72;
+        }
+        .breadcrumb a { color: #3498DB; text-decoration: none; }
+        .breadcrumb a:hover { text-decoration: underline; }
+        .angle-nav {
+            max-width: 900px;
+            margin: 0 auto;
+            padding: 0 20px 16px;
+            display: flex;
+            flex-wrap: wrap;
+            gap: 6px;
+        }
+        .angle-link {
+            display: inline-block;
+            padding: 6px 14px;
+            border-radius: 20px;
+            font-size: 0.82em;
+            text-decoration: none;
+            color: #636e72;
+            background: #f1f2f6;
+            transition: all 0.2s;
+        }
+        .angle-link:hover { background: #dfe6e9; }
+        .angle-link.active {
+            background: #3498DB;
+            color: white;
+        }
+        article {
+            max-width: 900px;
+            margin: 0 auto;
+            padding: 20px;
+            background: white;
+            border-radius: 8px;
+            box-shadow: 0 1px 3px rgba(0,0,0,0.08);
+            margin-bottom: 40px;
+        }
+        article h2 {
+            color: #3498DB;
+            margin: 28px 0 12px;
+            padding-bottom: 6px;
+            border-bottom: 2px solid #3498DB22;
+        }
+        article h3 { color: #2d3436; margin: 20px 0 8px; }
+        article p { margin-bottom: 14px; }
+        article ul, article ol { padding-left: 24px; margin-bottom: 14px; }
+        article li { margin-bottom: 6px; }
+        /* Factbox */
+        .factbox {
+            background: linear-gradient(135deg, #3498DB08, #3498DB15);
+            border: 1px solid #3498DB30;
+            border-radius: 10px;
+            padding: 20px 24px;
+            margin: 20px 0;
+        }
+        .factbox h3 {
+            color: #3498DB;
+            margin: 0 0 12px;
+            font-size: 1.05em;
+        }
+        .fact-row {
+            display: flex;
+            justify-content: space-between;
+            padding: 6px 0;
+            border-bottom: 1px solid #3498DB15;
+        }
+        .fact-row:last-child { border-bottom: none; }
+        .fact-key { font-weight: 600; color: #2d3436; flex: 0 0 45%; }
+        .fact-val { color: #636e72; text-align: right; flex: 0 0 50%; }
+        /* Tables */
+        .table-wrapper { overflow-x: auto; margin: 16px 0; }
+        table { border-collapse: collapse; width: 100%; font-size: 0.92em; }
+        th {
+            background: #3498DB;
+            color: white;
+            padding: 10px 14px;
+            text-align: left;
+            font-weight: 600;
+        }
+        td { padding: 10px 14px; border-bottom: 1px solid #eee; }
+        tr:nth-child(even) { background: #f8f9fa; }
+        tr:hover { background: #3498DB08; }
+        /* Callout */
+        .callout {
+            background: #fff3cd;
+            border-left: 4px solid #ffc107;
+            padding: 14px 18px;
+            border-radius: 0 8px 8px 0;
+            margin: 16px 0;
+            font-size: 0.93em;
+        }
+        .callout .misconception {
+            color: #856404;
+            margin-bottom: 4px;
+        }
+        .callout .reality {
+            color: #155724;
+            background: #d4edda;
+            padding: 8px 12px;
+            border-radius: 4px;
+            margin-bottom: 12px;
+        }
+        /* Rating */
+        .rating {
+            display: flex;
+            align-items: center;
+            gap: 10px;
+            padding: 6px 0;
+        }
+        .rating-label { font-weight: 600; min-width: 160px; }
+        .rating-dots { font-size: 1.2em; color: #3498DB; letter-spacing: 2px; }
+        .rating-score { color: #636e72; font-size: 0.85em; }
+        footer {
+            text-align: center;
+            padding: 30px 20px;
+            color: #b2bec3;
+            font-size: 0.8em;
+        }
+        footer a { color: #636e72; }
+        @media (max-width: 600px) {
+            header h1 { font-size: 1.3em; }
+            .angle-nav { gap: 4px; }
+            .angle-link { padding: 4px 10px; font-size: 0.75em; }
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <div class="container">
+            <h1><span class="flag">🇸🇯</span> Svalbard - Overview & Essential Facts</h1>
+        </div>
+    </header>
+
+    <nav class="breadcrumb"><a href="/">Home</a> &raquo; <a href="/europe/">Europe</a> &raquo; <a href="/europe/svalbard/">Svalbard</a> &raquo; <span>Overview</span></nav>
+
+    <nav class="angle-nav">
+        <a href="/europe/svalbard/overview.html" class="angle-link active">Overview</a>
+        <a href="/europe/svalbard/geography.html" class="angle-link ">Geography</a>
+        <a href="/europe/svalbard/must-know-truth.html" class="angle-link ">Must Know Truth</a>
+        <a href="/europe/svalbard/positive-things.html" class="angle-link ">Positive Things</a>
+        <a href="/europe/svalbard/cities-and-regions.html" class="angle-link ">Cities And Regions</a>
+        <a href="/europe/svalbard/visa-and-entry.html" class="angle-link ">Visa And Entry</a>
+        <a href="/europe/svalbard/cost-of-living.html" class="angle-link ">Cost Of Living</a>
+        <a href="/europe/svalbard/economy.html" class="angle-link ">Economy</a>
+        <a href="/europe/svalbard/culture.html" class="angle-link ">Culture</a>
+        <a href="/europe/svalbard/travel-safety.html" class="angle-link ">Travel Safety</a>
+    </nav>
+
+    <article>
+        <div class="factbox"><h3>Quick Facts</h3>
+        <div class="fact-row"><span class="fact-key">Official Name</span><span class="fact-val">Svalbard</span></div>
+        <div class="fact-row"><span class="fact-key">Capital</span><span class="fact-val">Longyearbyen</span></div>
+        <div class="fact-row"><span class="fact-key">Population</span><span class="fact-val">0.003 million</span></div>
+        <div class="fact-row"><span class="fact-key">Languages</span><span class="fact-val">Norwegian</span></div>
+        <div class="fact-row"><span class="fact-key">Currency</span><span class="fact-val">NOK</span></div>
+        <div class="fact-row"><span class="fact-key">Government</span><span class="fact-val">Unincorporated territory</span></div>
+        <div class="fact-row"><span class="fact-key">Continent</span><span class="fact-val">Europe</span></div>
+        <div class="fact-row"><span class="fact-key">ISO Code</span><span class="fact-val">SJ</span></div>
+        <div class="fact-row"><span class="fact-key">Calling Code</span><span class="fact-val">+47</span></div>
+        <div class="fact-row"><span class="fact-key">Drives On</span><span class="fact-val">right</span></div>
+        <div class="fact-row"><span class="fact-key">Time Zone</span><span class="fact-val">UTC+1</span></div>
+        </div>
+        <h2>What Is Svalbard?</h2>
+        <p>Svalbard is a <strong>Norwegian territory</strong> located in the Arctic Circle, situated about 400 miles north of the Norwegian mainland. The territory is an archipelago, comprising three main islands: Spitsbergen, Nordaustlandet, and Edgeoya. Svalbard is known for its breathtaking <strong>Arctic landscapes</strong>, including glaciers, fjords, and snow-capped mountains. The territory is also home to a diverse range of <strong>wildlife</strong>, including polar bears, reindeer, and arctic foxes.</p>
+        <p>Svalbard's sovereignty status is unique, as it is not part of any Norwegian county and is instead governed directly by the Norwegian government. The territory has a special <strong>Svalbard Treaty</strong>, which was signed in 1920 and recognizes Norway's sovereignty over the islands. However, the treaty also establishes certain rights for other signatory countries, including the right to engage in <strong>mining</strong> and <strong>fishing</strong> activities.</p>
+        <p>The geographic position of Svalbard makes it an attractive location for <strong>scientific research</strong>, particularly in the fields of <strong>glaciology</strong> and <strong>climate change</strong>. The territory is home to several research stations, including the University Centre in Svalbard (UNIS) and the Svalbard Global Seed Vault. These institutions attract scientists and students from around the world, who come to Svalbard to conduct research and study the unique <strong>Arctic environment</strong>.</p>
+        <h2>Key History</h2>
+        <ol>
+        <li>1596 - The Dutch explorer Willem Barentsz becomes the first person to sight the islands of Svalbard.</li>
+        <li>1612 - The English establish a <strong>whaling station</strong> on the island of Spitsbergen, marking the beginning of European settlement in Svalbard.</li>
+        <li>1920 - The Svalbard Treaty is signed, recognizing Norway's sovereignty over the islands and establishing the framework for international cooperation in the territory.</li>
+        <li>1925 - The Norwegian government establishes the <strong>Svalbard Administration</strong>, which is responsible for governing the territory and providing public services to residents.</li>
+        <li>1975 - The University Centre in Svalbard (UNIS) is established, providing higher education and research opportunities in the fields of Arctic science.</li>
+        <li>2008 - The Svalbard Global Seed Vault is opened, providing a secure storage facility for <strong>seed samples</strong> from around the world.</li>
+        <li>2014 - The Norwegian government establishes a new <strong>environmental protection plan</strong> for Svalbard, aimed at preserving the territory's unique and fragile Arctic ecosystem.</li>
+        </ol>
+        <h2>What Makes Svalbard Unique</h2>
+        <ul>
+        <li>Svalbard is one of the most <strong>northerly inhabited places</strong> on Earth, with a population of just over 2,600 people.</li>
+        <li>The territory has a unique <strong>midnight sun</strong> phenomenon, where the sun remains visible at midnight during the summer months.</li>
+        <li>Svalbard is home to the <strong>northernmost church</strong> in the world, the Svalbard Church, which was built in 1958.</li>
+        <li>The territory has a <strong>polar bear population</strong> that is protected by law, and visitors are required to take <strong>bear safety</strong> precautions when traveling outside of settled areas.</li>
+        <li>Svalbard has a <strong>low-light pollution</strong> environment, making it an ideal location for <strong>astronomical research</strong> and <strong>stargazing</strong>.</li>
+        </ul>
+        <h2>Quick Summary</h2>
+        <p>Svalbard is a unique and fascinating Norwegian territory located in the Arctic Circle, known for its breathtaking landscapes, diverse wildlife, and rich history, and offering a range of opportunities for scientific research, outdoor adventure, and cultural exploration.</p>
+    </article>
+
+    <footer>
+        <p>&copy; 2026 360 Nations. Evergreen reference content.</p>
+        <p>This page contains factual, timeless information. Always verify visa and safety details with official sources.</p>
+    </footer>
+</body>
+</html>

@@ -1,0 +1,228 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Guernsey - Overview & Essential Facts - Comprehensive guide to Guernsey. 360 Nations.">
+    <title>Guernsey - Overview & Essential Facts | 360 Nations</title>
+    <style>
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+            line-height: 1.7;
+            color: #2d3436;
+            background: #fafafa;
+        }
+        header {
+            background: linear-gradient(135deg, #3498DB, #2980B9);
+            color: white;
+            padding: 24px 0;
+        }
+        header .container {
+            max-width: 900px;
+            margin: 0 auto;
+            padding: 0 20px;
+        }
+        header h1 {
+            font-size: 1.8em;
+            font-weight: 700;
+        }
+        .flag { font-size: 1.4em; margin-right: 8px; }
+        .breadcrumb {
+            max-width: 900px;
+            margin: 0 auto;
+            padding: 12px 20px;
+            font-size: 0.85em;
+            color: #636e72;
+        }
+        .breadcrumb a { color: #3498DB; text-decoration: none; }
+        .breadcrumb a:hover { text-decoration: underline; }
+        .angle-nav {
+            max-width: 900px;
+            margin: 0 auto;
+            padding: 0 20px 16px;
+            display: flex;
+            flex-wrap: wrap;
+            gap: 6px;
+        }
+        .angle-link {
+            display: inline-block;
+            padding: 6px 14px;
+            border-radius: 20px;
+            font-size: 0.82em;
+            text-decoration: none;
+            color: #636e72;
+            background: #f1f2f6;
+            transition: all 0.2s;
+        }
+        .angle-link:hover { background: #dfe6e9; }
+        .angle-link.active {
+            background: #3498DB;
+            color: white;
+        }
+        article {
+            max-width: 900px;
+            margin: 0 auto;
+            padding: 20px;
+            background: white;
+            border-radius: 8px;
+            box-shadow: 0 1px 3px rgba(0,0,0,0.08);
+            margin-bottom: 40px;
+        }
+        article h2 {
+            color: #3498DB;
+            margin: 28px 0 12px;
+            padding-bottom: 6px;
+            border-bottom: 2px solid #3498DB22;
+        }
+        article h3 { color: #2d3436; margin: 20px 0 8px; }
+        article p { margin-bottom: 14px; }
+        article ul, article ol { padding-left: 24px; margin-bottom: 14px; }
+        article li { margin-bottom: 6px; }
+        /* Factbox */
+        .factbox {
+            background: linear-gradient(135deg, #3498DB08, #3498DB15);
+            border: 1px solid #3498DB30;
+            border-radius: 10px;
+            padding: 20px 24px;
+            margin: 20px 0;
+        }
+        .factbox h3 {
+            color: #3498DB;
+            margin: 0 0 12px;
+            font-size: 1.05em;
+        }
+        .fact-row {
+            display: flex;
+            justify-content: space-between;
+            padding: 6px 0;
+            border-bottom: 1px solid #3498DB15;
+        }
+        .fact-row:last-child { border-bottom: none; }
+        .fact-key { font-weight: 600; color: #2d3436; flex: 0 0 45%; }
+        .fact-val { color: #636e72; text-align: right; flex: 0 0 50%; }
+        /* Tables */
+        .table-wrapper { overflow-x: auto; margin: 16px 0; }
+        table { border-collapse: collapse; width: 100%; font-size: 0.92em; }
+        th {
+            background: #3498DB;
+            color: white;
+            padding: 10px 14px;
+            text-align: left;
+            font-weight: 600;
+        }
+        td { padding: 10px 14px; border-bottom: 1px solid #eee; }
+        tr:nth-child(even) { background: #f8f9fa; }
+        tr:hover { background: #3498DB08; }
+        /* Callout */
+        .callout {
+            background: #fff3cd;
+            border-left: 4px solid #ffc107;
+            padding: 14px 18px;
+            border-radius: 0 8px 8px 0;
+            margin: 16px 0;
+            font-size: 0.93em;
+        }
+        .callout .misconception {
+            color: #856404;
+            margin-bottom: 4px;
+        }
+        .callout .reality {
+            color: #155724;
+            background: #d4edda;
+            padding: 8px 12px;
+            border-radius: 4px;
+            margin-bottom: 12px;
+        }
+        /* Rating */
+        .rating {
+            display: flex;
+            align-items: center;
+            gap: 10px;
+            padding: 6px 0;
+        }
+        .rating-label { font-weight: 600; min-width: 160px; }
+        .rating-dots { font-size: 1.2em; color: #3498DB; letter-spacing: 2px; }
+        .rating-score { color: #636e72; font-size: 0.85em; }
+        footer {
+            text-align: center;
+            padding: 30px 20px;
+            color: #b2bec3;
+            font-size: 0.8em;
+        }
+        footer a { color: #636e72; }
+        @media (max-width: 600px) {
+            header h1 { font-size: 1.3em; }
+            .angle-nav { gap: 4px; }
+            .angle-link { padding: 4px 10px; font-size: 0.75em; }
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <div class="container">
+            <h1><span class="flag">🇬🇬</span> Guernsey - Overview & Essential Facts</h1>
+        </div>
+    </header>
+
+    <nav class="breadcrumb"><a href="/">Home</a> &raquo; <a href="/europe/">Europe</a> &raquo; <a href="/europe/guernsey/">Guernsey</a> &raquo; <span>Overview</span></nav>
+
+    <nav class="angle-nav">
+        <a href="/europe/guernsey/overview.html" class="angle-link active">Overview</a>
+        <a href="/europe/guernsey/geography.html" class="angle-link ">Geography</a>
+        <a href="/europe/guernsey/must-know-truth.html" class="angle-link ">Must Know Truth</a>
+        <a href="/europe/guernsey/positive-things.html" class="angle-link ">Positive Things</a>
+        <a href="/europe/guernsey/cities-and-regions.html" class="angle-link ">Cities And Regions</a>
+        <a href="/europe/guernsey/visa-and-entry.html" class="angle-link ">Visa And Entry</a>
+        <a href="/europe/guernsey/cost-of-living.html" class="angle-link ">Cost Of Living</a>
+        <a href="/europe/guernsey/economy.html" class="angle-link ">Economy</a>
+        <a href="/europe/guernsey/culture.html" class="angle-link ">Culture</a>
+        <a href="/europe/guernsey/travel-safety.html" class="angle-link ">Travel Safety</a>
+    </nav>
+
+    <article>
+        <div class="factbox"><h3>Quick Facts</h3>
+        <div class="fact-row"><span class="fact-key">Official Name</span><span class="fact-val">Bailiwick of Guernsey</span></div>
+        <div class="fact-row"><span class="fact-key">Capital</span><span class="fact-val">Saint Peter Port</span></div>
+        <div class="fact-row"><span class="fact-key">Population</span><span class="fact-val">0.06 million</span></div>
+        <div class="fact-row"><span class="fact-key">Languages</span><span class="fact-val">English, French</span></div>
+        <div class="fact-row"><span class="fact-key">Currency</span><span class="fact-val">GBP</span></div>
+        <div class="fact-row"><span class="fact-key">Government</span><span class="fact-val">Parliamentary democracy under constitutional monarchy</span></div>
+        <div class="fact-row"><span class="fact-key">Continent</span><span class="fact-val">Europe</span></div>
+        <div class="fact-row"><span class="fact-key">ISO Code</span><span class="fact-val">GG</span></div>
+        <div class="fact-row"><span class="fact-key">Calling Code</span><span class="fact-val">+44</span></div>
+        <div class="fact-row"><span class="fact-key">Drives On</span><span class="fact-val">left</span></div>
+        <div class="fact-row"><span class="fact-key">Time Zone</span><span class="fact-val">UTC+0</span></div>
+        </div>
+        <h2>What Is Guernsey?</h2>
+        <p>Guernsey is a <strong>British Crown dependency</strong> located in the English Channel, off the coast of France. It is part of the Channel Islands, an archipelago that also includes Jersey, Alderney, and Sark. Guernsey is not part of the United Kingdom, but it is under the British monarch's jurisdiction. The island has a unique <strong>parliamentary democracy</strong> system, with its own government and laws, while the UK is responsible for its defense and foreign affairs. Guernsey is known for its stunning coastline, mild climate, and rich history, which attracts tourists and financial institutions alike.</p>
+        <p>Geographically, Guernsey is situated approximately 30 miles west of the Normandy coast in France and 70 miles south of the English coast. The island has a total area of about 25 square miles, making it one of the smaller islands in the Channel Islands. Guernsey's strategic location has made it an important hub for trade and commerce throughout its history. The island's economy is driven by financial services, tourism, and agriculture, with a strong focus on horticulture and dairy farming.</p>
+        <p>Guernsey's cultural heritage is a blend of French and British influences, reflecting its history and geographic position. The island has a distinct <strong>language</strong>, known as Guernésiais, which is a variant of the Norman language. However, English and French are the most widely spoken languages, and many residents are fluent in both. Guernsey's unique cultural identity is also reflected in its cuisine, which features a mix of French, British, and seafood dishes.</p>
+        <h2>Key History</h2>
+        <ol>
+        <li>933 - Guernsey is annexed by the Duchy of Normandy, which later becomes part of the Kingdom of England.</li>
+        <li>1204 - Guernsey is separated from the English crown and becomes a <strong>British Crown dependency</strong>, with its own government and laws.</li>
+        <li>1348 - The Black Death devastates the island, reducing the population by nearly half.</li>
+        <li>1940 - Guernsey is occupied by German forces during World War II, and the island suffers significant damage and loss of life.</li>
+        <li>1945 - Guernsey is liberated by British forces, and the island begins to rebuild and recover.</li>
+        <li>1960s - Guernsey experiences significant economic growth, driven by the development of its financial services sector.</li>
+        <li>2008 - Guernsey introduces a new <strong>constitution</strong>, which clarifies the island's relationship with the UK and establishes a more modern system of government.</li>
+        </ol>
+        <h2>What Makes Guernsey Unique</h2>
+        <ul>
+        <li>Guernsey has a unique <strong>tax system</strong>, with no capital gains tax, inheritance tax, or value-added tax (VAT).</li>
+        <li>The island is home to a diverse range of <strong>wildlife</strong>, including seabirds, dolphins, and seals.</li>
+        <li>Guernsey has a strong <strong>financial services sector</strong>, with many international banks and financial institutions having a presence on the island.</li>
+        <li>The island has a rich <strong>cultural heritage</strong>, with numerous museums, galleries, and historical sites.</li>
+        <li>Guernsey is famous for its <strong>coastal scenery</strong>, with stunning beaches, cliffs, and harbors.</li>
+        </ul>
+        <h2>Quick Summary</h2>
+        <p>Guernsey is a British Crown dependency in the English Channel, known for its unique blend of French and British cultures, stunning coastline, and thriving financial services sector, making it an attractive destination for tourists and businesses alike.</p>
+    </article>
+
+    <footer>
+        <p>&copy; 2026 360 Nations. Evergreen reference content.</p>
+        <p>This page contains factual, timeless information. Always verify visa and safety details with official sources.</p>
+    </footer>
+</body>
+</html>
