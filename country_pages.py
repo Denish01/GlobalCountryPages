@@ -723,7 +723,7 @@ def build_html(entity, angle_id, title, content, breadcrumbs=None):
         for label, url in breadcrumbs
     )
 
-    # Build angle navigation
+    # Build angle navigation (only link to pages that exist or are being generated)
     angle_registry = load_angle_registry()
     angles = angle_registry.get("angles", {})
     angle_nav_items = []
@@ -731,11 +731,19 @@ def build_html(entity, angle_id, title, content, breadcrumbs=None):
     for aid, aconfig in angles.items():
         if aid == "vs":
             continue
-        is_active = "active" if aid == angle_id else ""
         angle_label = aid.replace("-", " ").title()
-        angle_nav_items.append(
-            f'<a href="/{continent}/{entity_slug}/{aid}.html" class="angle-link {is_active}">{angle_label}</a>'
-        )
+        angle_page = OUTPUT_DIR / continent / entity_slug / f"{aid}.html"
+        if aid == angle_id:
+            # Current page - always show as active
+            angle_nav_items.append(
+                f'<a href="/{continent}/{entity_slug}/{aid}.html" class="angle-link active">{angle_label}</a>'
+            )
+        elif angle_page.exists():
+            # Page exists - show as clickable link
+            angle_nav_items.append(
+                f'<a href="/{continent}/{entity_slug}/{aid}.html" class="angle-link">{angle_label}</a>'
+            )
+        # Skip angles whose pages don't exist yet
     angle_nav_html = "\n        ".join(angle_nav_items)
 
     meta_desc = f"{title} - Comprehensive guide to {entity_name}. {SITE_NAME}."
@@ -1093,6 +1101,30 @@ def content_to_html(content):
                 in_ol = True
             html_parts.append(f"<li>{bold(ol_match.group(2))}</li>")
             continue
+
+        # ── Bare markdown table (| col | col | without [TABLE] wrapper) ──
+        if re.match(r'^\|.+\|$', stripped):
+            # Skip separator rows
+            if re.match(r'^\|[\s\-:|]+\|$', stripped):
+                continue
+            cells = [c.strip() for c in stripped.strip("|").split("|")]
+            if not in_table:
+                close_list()
+                in_table = True
+                table_header_done = False
+                html_parts.append('<div class="table-wrapper"><table>')
+            if not table_header_done:
+                html_parts.append("<thead><tr>" + "".join(f"<th>{bold(c)}</th>" for c in cells) + "</tr></thead><tbody>")
+                table_header_done = True
+            else:
+                html_parts.append("<tr>" + "".join(f"<td>{bold(c)}</td>" for c in cells) + "</tr>")
+            continue
+
+        # ── Close bare markdown table when non-table line encountered ──
+        if in_table and not stripped.startswith("|"):
+            in_table = False
+            table_header_done = False
+            html_parts.append("</tbody></table></div>")
 
         # ── Regular paragraph ──
         close_list()
