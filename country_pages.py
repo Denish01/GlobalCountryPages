@@ -1202,6 +1202,208 @@ def save_level3_page(entity, sub_entity_name, sub_type, angle_id, title, content
 
 
 # =============================================================================
+# INDEX PAGE GENERATION
+# =============================================================================
+
+def generate_all_index_pages():
+    """Generate index.html for every continent and every country that has pages."""
+    registry = load_entity_registry()
+    entities = registry.get("entities", {})
+
+    # Group entities by continent
+    by_continent = {}
+    for slug, entity in entities.items():
+        continent = entity.get("continent", "general")
+        by_continent.setdefault(continent, []).append((slug, entity))
+
+    for continent, country_list in by_continent.items():
+        continent_dir = OUTPUT_DIR / continent
+        if not continent_dir.exists():
+            continue
+
+        # Only include countries that have at least one generated page
+        countries_with_pages = []
+        for slug, entity in country_list:
+            entity_dir = continent_dir / slug
+            if entity_dir.exists() and list(entity_dir.glob("*.html")):
+                pages = sorted([f.stem for f in entity_dir.glob("*.html") if f.stem != "index"])
+                countries_with_pages.append((slug, entity, pages))
+
+        if not countries_with_pages:
+            continue
+
+        # ── Generate continent index ──
+        _write_continent_index(continent, countries_with_pages)
+
+        # ── Generate country index for each country ──
+        for slug, entity, pages in countries_with_pages:
+            _write_country_index(continent, slug, entity, pages)
+
+    log("All index pages generated", "SUCCESS")
+
+
+def _write_continent_index(continent, countries_with_pages):
+    """Write continent/index.html listing all countries."""
+    colors = CONTINENT_COLORS.get(continent, CONTINENT_COLORS.get("europe"))
+    continent_name = colors["name"]
+
+    country_cards = []
+    for slug, entity, pages in sorted(countries_with_pages, key=lambda x: x[1]["name"]):
+        flag = iso_to_flag(entity.get("iso_code", ""))
+        page_count = len(pages)
+        pop = entity.get("population_millions", 0)
+        capital = entity.get("capital", "")
+        country_cards.append(f"""
+            <a href="/{continent}/{slug}/" class="country-card">
+                <span class="card-flag">{flag}</span>
+                <h3>{entity['name']}</h3>
+                <p>{capital} &middot; {pop}M people &middot; {page_count} pages</p>
+            </a>""")
+
+    html = f"""<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Country guides for {continent_name} - explore every country with 11 in-depth angles.">
+    <title>{continent_name} Country Guides | {SITE_NAME}</title>
+    <style>
+        * {{ margin: 0; padding: 0; box-sizing: border-box; }}
+        body {{ font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; line-height: 1.7; color: #2d3436; background: #fafafa; }}
+        header {{ background: linear-gradient(135deg, {colors['primary']}, {colors['secondary']}); color: white; padding: 40px 20px; text-align: center; }}
+        header h1 {{ font-size: 2em; }}
+        header p {{ opacity: 0.9; margin-top: 8px; }}
+        .breadcrumb {{ max-width: 1100px; margin: 0 auto; padding: 12px 20px; font-size: 0.85em; color: #636e72; }}
+        .breadcrumb a {{ color: {colors['primary']}; text-decoration: none; }}
+        .container {{ max-width: 1100px; margin: 0 auto; padding: 20px; }}
+        .country-grid {{ display: grid; grid-template-columns: repeat(auto-fill, minmax(280px, 1fr)); gap: 16px; }}
+        .country-card {{
+            display: block; background: white; border-radius: 10px; padding: 20px;
+            box-shadow: 0 2px 6px rgba(0,0,0,0.06); text-decoration: none; color: #2d3436;
+            border-left: 4px solid {colors['primary']}; transition: transform 0.2s;
+        }}
+        .country-card:hover {{ transform: translateY(-2px); box-shadow: 0 4px 12px rgba(0,0,0,0.1); }}
+        .country-card h3 {{ color: {colors['primary']}; margin: 4px 0; }}
+        .country-card p {{ font-size: 0.85em; color: #636e72; }}
+        .card-flag {{ font-size: 1.6em; }}
+        footer {{ text-align: center; padding: 30px; color: #b2bec3; font-size: 0.8em; }}
+    </style>
+</head>
+<body>
+    <header>
+        <h1>{continent_name}</h1>
+        <p>{len(countries_with_pages)} countries and territories</p>
+    </header>
+    <nav class="breadcrumb"><a href="/">Home</a> &raquo; <span>{continent_name}</span></nav>
+    <div class="container">
+        <div class="country-grid">
+            {''.join(country_cards)}
+        </div>
+    </div>
+    <footer><p>&copy; {datetime.now().year} {SITE_NAME}. Evergreen reference content.</p></footer>
+</body>
+</html>"""
+
+    out = OUTPUT_DIR / continent / "index.html"
+    out.write_text(html, encoding="utf-8")
+    log(f"Index: {continent}/ ({len(countries_with_pages)} countries)", "INFO")
+
+
+def _write_country_index(continent, entity_slug, entity, pages):
+    """Write continent/country/index.html linking to all angles."""
+    colors = CONTINENT_COLORS.get(continent, CONTINENT_COLORS.get("europe"))
+    continent_name = colors["name"]
+    flag = iso_to_flag(entity.get("iso_code", ""))
+    name = entity["name"]
+    capital = entity.get("capital", "")
+    pop = entity.get("population_millions", 0)
+    languages = ", ".join(entity.get("languages", []))
+
+    angle_registry = load_angle_registry()
+    angles = angle_registry.get("angles", {})
+
+    # Build angle links (required angles first, then vs)
+    angle_links = []
+    vs_links = []
+    for page in pages:
+        if page.startswith("vs-"):
+            comp_name = page.replace("vs-", "").replace("-", " ").title()
+            vs_links.append(f'<a href="/{continent}/{entity_slug}/{page}.html" class="angle-card vs"><span class="angle-icon">&#8644;</span><h3>{name} vs {comp_name}</h3></a>')
+        elif page in angles:
+            desc = angles[page].get("description", "")
+            angle_links.append(f'<a href="/{continent}/{entity_slug}/{page}.html" class="angle-card"><span class="angle-icon">&#9654;</span><h3>{page.replace("-", " ").title()}</h3><p>{desc}</p></a>')
+
+    html = f"""<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="{name} - comprehensive country guide covering geography, culture, visa, cost of living, safety, and more.">
+    <title>{name} Country Guide | {SITE_NAME}</title>
+    <style>
+        * {{ margin: 0; padding: 0; box-sizing: border-box; }}
+        body {{ font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; line-height: 1.7; color: #2d3436; background: #fafafa; }}
+        header {{ background: linear-gradient(135deg, {colors['primary']}, {colors['secondary']}); color: white; padding: 40px 20px; text-align: center; }}
+        header h1 {{ font-size: 2.2em; }}
+        .flag {{ font-size: 1.6em; margin-right: 8px; }}
+        .subtitle {{ opacity: 0.9; margin-top: 8px; }}
+        .breadcrumb {{ max-width: 900px; margin: 0 auto; padding: 12px 20px; font-size: 0.85em; color: #636e72; }}
+        .breadcrumb a {{ color: {colors['primary']}; text-decoration: none; }}
+        .quick-facts {{
+            max-width: 900px; margin: 0 auto; padding: 0 20px;
+        }}
+        .quick-facts-inner {{
+            display: flex; flex-wrap: wrap; gap: 20px; background: white;
+            border-radius: 10px; padding: 20px; box-shadow: 0 1px 3px rgba(0,0,0,0.08); margin-bottom: 20px;
+        }}
+        .qf-item {{ text-align: center; flex: 1; min-width: 100px; }}
+        .qf-item .qf-val {{ font-size: 1.1em; font-weight: 700; color: {colors['primary']}; }}
+        .qf-item .qf-label {{ font-size: 0.75em; color: #636e72; text-transform: uppercase; }}
+        .container {{ max-width: 900px; margin: 0 auto; padding: 0 20px 40px; }}
+        h2 {{ margin: 24px 0 12px; color: #2d3436; }}
+        .angle-grid {{ display: grid; grid-template-columns: repeat(auto-fill, minmax(260px, 1fr)); gap: 14px; }}
+        .angle-card {{
+            display: block; background: white; border-radius: 10px; padding: 18px;
+            box-shadow: 0 2px 6px rgba(0,0,0,0.06); text-decoration: none; color: #2d3436;
+            border-left: 4px solid {colors['primary']}; transition: transform 0.2s;
+        }}
+        .angle-card:hover {{ transform: translateY(-2px); box-shadow: 0 4px 12px rgba(0,0,0,0.1); }}
+        .angle-card h3 {{ color: {colors['primary']}; font-size: 1em; margin: 4px 0; }}
+        .angle-card p {{ font-size: 0.82em; color: #636e72; margin: 0; }}
+        .angle-card.vs {{ border-left-color: #636e72; }}
+        .angle-card.vs h3 {{ color: #636e72; }}
+        .angle-icon {{ font-size: 0.9em; color: {colors['primary']}; }}
+        footer {{ text-align: center; padding: 30px; color: #b2bec3; font-size: 0.8em; }}
+    </style>
+</head>
+<body>
+    <header>
+        <h1><span class="flag">{flag}</span> {name}</h1>
+        <p class="subtitle">{capital} &middot; {pop}M people &middot; {languages}</p>
+    </header>
+    <nav class="breadcrumb"><a href="/">Home</a> &raquo; <a href="/{continent}/">{continent_name}</a> &raquo; <span>{name}</span></nav>
+    <div class="quick-facts"><div class="quick-facts-inner">
+        <div class="qf-item"><div class="qf-val">{capital}</div><div class="qf-label">Capital</div></div>
+        <div class="qf-item"><div class="qf-val">{pop}M</div><div class="qf-label">Population</div></div>
+        <div class="qf-item"><div class="qf-val">{entity.get('currency', '')}</div><div class="qf-label">Currency</div></div>
+        <div class="qf-item"><div class="qf-val">{len(pages)}</div><div class="qf-label">Pages</div></div>
+    </div></div>
+    <div class="container">
+        <h2>Explore {name}</h2>
+        <div class="angle-grid">
+            {''.join(angle_links)}
+        </div>
+        {"<h2>Comparisons</h2><div class='angle-grid'>" + ''.join(vs_links) + "</div>" if vs_links else ""}
+    </div>
+    <footer><p>&copy; {datetime.now().year} {SITE_NAME}. Evergreen reference content.</p></footer>
+</body>
+</html>"""
+
+    out = OUTPUT_DIR / continent / entity_slug / "index.html"
+    out.write_text(html, encoding="utf-8")
+
+
+# =============================================================================
 # PAGE GENERATION
 # =============================================================================
 
@@ -1339,8 +1541,9 @@ def generate_batch(entity_slugs=None, angle_id=None, count=200, phase=None):
     print("\n" + "=" * 60)
     log(f"Generated {len(results)}/{len(work)} pages", "SUCCESS")
 
-    # Update manifest
+    # Update manifest and index pages
     update_manifest()
+    generate_all_index_pages()
 
     return results
 
@@ -1420,6 +1623,7 @@ def _generate_level3_auto(sub_type="regions", count=200):
     print("\n" + "=" * 60)
     log(f"Generated {len(results)}/{len(work)} Level 3 pages", "SUCCESS")
     update_manifest()
+    generate_all_index_pages()
     return results
 
 
@@ -1599,6 +1803,7 @@ def main():
     parser.add_argument("--status", action="store_true", help="Show completion status")
     parser.add_argument("--status-entity", help="Show status for specific entity")
     parser.add_argument("--update-manifest", action="store_true", help="Update manifest")
+    parser.add_argument("--generate-indexes", action="store_true", help="Regenerate all index pages")
 
     args = parser.parse_args()
 
@@ -1609,6 +1814,10 @@ def main():
 
     if args.update_manifest:
         update_manifest()
+        return
+
+    if args.generate_indexes:
+        generate_all_index_pages()
         return
 
     if args.level3:

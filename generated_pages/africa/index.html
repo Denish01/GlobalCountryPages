@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Country guides for Africa - explore every country with 11 in-depth angles.">
+    <title>Africa Country Guides | 360 Nations</title>
+    <style>
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+        body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; line-height: 1.7; color: #2d3436; background: #fafafa; }
+        header { background: linear-gradient(135deg, #E67E22, #F39C12); color: white; padding: 40px 20px; text-align: center; }
+        header h1 { font-size: 2em; }
+        header p { opacity: 0.9; margin-top: 8px; }
+        .breadcrumb { max-width: 1100px; margin: 0 auto; padding: 12px 20px; font-size: 0.85em; color: #636e72; }
+        .breadcrumb a { color: #E67E22; text-decoration: none; }
+        .container { max-width: 1100px; margin: 0 auto; padding: 20px; }
+        .country-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(280px, 1fr)); gap: 16px; }
+        .country-card {
+            display: block; background: white; border-radius: 10px; padding: 20px;
+            box-shadow: 0 2px 6px rgba(0,0,0,0.06); text-decoration: none; color: #2d3436;
+            border-left: 4px solid #E67E22; transition: transform 0.2s;
+        }
+        .country-card:hover { transform: translateY(-2px); box-shadow: 0 4px 12px rgba(0,0,0,0.1); }
+        .country-card h3 { color: #E67E22; margin: 4px 0; }
+        .country-card p { font-size: 0.85em; color: #636e72; }
+        .card-flag { font-size: 1.6em; }
+        footer { text-align: center; padding: 30px; color: #b2bec3; font-size: 0.8em; }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Africa</h1>
+        <p>2 countries and territories</p>
+    </header>
+    <nav class="breadcrumb"><a href="/">Home</a> &raquo; <span>Africa</span></nav>
+    <div class="container">
+        <div class="country-grid">
+            
+            <a href="/africa/nigeria/" class="country-card">
+                <span class="card-flag">🇳🇬</span>
+                <h3>Nigeria</h3>
+                <p>Abuja &middot; 224.0M people &middot; 12 pages</p>
+            </a>
+            <a href="/africa/south-africa/" class="country-card">
+                <span class="card-flag">🇿🇦</span>
+                <h3>South Africa</h3>
+                <p>Pretoria &middot; 60.4M people &middot; 12 pages</p>
+            </a>
+        </div>
+    </div>
+    <footer><p>&copy; 2026 360 Nations. Evergreen reference content.</p></footer>
+</body>
+</html>
