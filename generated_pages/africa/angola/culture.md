@@ -1,0 +1,83 @@
+---
+title: "Angola Culture - Food, Traditions & Etiquette"
+entity: "Angola"
+iso_code: "AO"
+continent: "africa"
+angle: "culture"
+date: "2026-02-11"
+---
+
+# Angola Culture - Food, Traditions & Etiquette
+
+[SECTION] Cultural Identity [/SECTION]
+Angola's culture is a unique blend of African, Portuguese, and Brazilian influences, reflecting the country's complex history and strategic location on the continent. The country has a diverse ethnic and linguistic makeup, with over 40 distinct ethnic groups, including the Ovimbundu, Kimbundu, and Bakongo. The official language is **Portuguese**, but many Angolans also speak indigenous languages, such as Umbundu and Kimbundu. The country's cultural identity is also shaped by its history of colonization, slavery, and trade, which has left a lasting legacy in its music, art, and cuisine.
+
+Angolan culture is known for its vibrant traditions and customs, which are often expressed through music, dance, and storytelling. The country has a rich oral tradition, with many stories and legends passed down through generations by word of mouth. The influence of African, European, and Brazilian cultures is evident in Angolan art, music, and literature, which often blend traditional and modern elements. The country's cultural diversity is also reflected in its many festivals and celebrations, which showcase the unique customs and traditions of each ethnic group.
+
+The cultural identity of Angola is also closely tied to its history and geography. The country's strategic location on the Atlantic coast made it an important hub for trade and commerce, which has had a lasting impact on its culture and economy. The country's diverse landscape, which ranges from tropical rainforests to savannas and deserts, has also shaped the lives and traditions of its people. From the bustling streets of Luanda to the rural villages of the countryside, Angolan culture is a rich and complex tapestry of traditions, customs, and influences.
+
+[SECTION] Food & Cuisine [/SECTION]
+| Dish | Type | Description | Must-Try? |
+| --- | --- | --- | --- |
+| Calulu | Stew | A hearty stew made with fish or meat, vegetables, and spices | Yes |
+| Funje | Side dish | A staple made from cassava flour, often served with stews or sauces | Yes |
+| Moamba | Stew | A rich and flavorful stew made with chicken or beef, vegetables, and peanuts | Yes |
+| Arroz de Pescado | Fish dish | A flavorful rice dish made with fish, onions, and spices | Yes |
+| Calulu de Peixe | Fish stew | A spicy stew made with fish, vegetables, and spices | Yes |
+| Funge de Bombo | Side dish | A side dish made from cassava flour, often served with stews or sauces | No |
+| Cocada | Dessert | A sweet coconut dessert, often served at special occasions | Yes |
+| Maluvo | Drink | A traditional drink made from palm wine, often served at social gatherings | Yes |
+
+Angolan cuisine is a unique blend of African, Portuguese, and Brazilian influences, reflecting the country's history and cultural diversity. Meals are often centered around staple ingredients like cassava, rice, and fish, which are combined with spices and vegetables to create flavorful and hearty dishes. Eating customs in Angola are often informal and social, with meals shared with family and friends. In rural areas, traditional dishes are often cooked over open fires, while in urban areas, restaurants and cafes serve a range of traditional and modern cuisine.
+
+[SECTION] Traditions & Festivals [/SECTION]
+| Festival/Tradition | When | What It Is |
+| --- | --- | --- |
+| Carnaval | February/March | A colorful and lively carnival celebration, with parades, music, and dancing |
+| Festas de Nossa Senhora da Nazaré | September | A religious festival honoring the Virgin Mary, with processions, music, and traditional food |
+| Festival de Música de Luanda | June | A music festival showcasing traditional and modern Angolan music, with performances by local and international artists |
+| Dia da Independência | November 11 | A national holiday celebrating Angola's independence from Portugal, with parades, speeches, and traditional music |
+| Festival de Dança de Angola | August | A dance festival showcasing traditional Angolan dance, with performances by local and international companies |
+| Festas de São João | June | A religious festival honoring Saint John, with traditional food, music, and dancing |
+
+[SECTION] Etiquette: Do's and Don'ts [/SECTION]
+**Do:**
+- Greet people with a handshake or a hug, as physical touch is an important part of Angolan culture
+- Respect traditional customs and traditions, especially in rural areas
+- Learn a few basic phrases in Portuguese, such as **obrigado** (thank you) and **desculpe** (excuse me)
+- Dress modestly, especially when visiting rural areas or attending traditional events
+- Bring a small gift, such as a bottle of wine or a box of chocolates, when visiting someone's home
+- Be prepared to haggle when shopping at markets or from street vendors
+
+**Don't:**
+- Don't point with your left hand, as this is considered rude in Angolan culture
+- Don't refuse food or drink when offered, as this is seen as impolite
+- Don't take pictures of people without asking permission, especially in rural areas
+- Don't discuss politics or sensitive topics, especially with people you don't know well
+- Don't touch or handle traditional masks or artifacts without permission
+- Don't litter or throw trash on the ground, as this is seen as disrespectful to the environment and the community
+
+[SECTION] Arts & Music [/SECTION]
+- **Semanas da Cultura**, a cultural festival showcasing traditional Angolan music, dance, and art
+- **Ngola Ritmos**, a music genre that combines traditional Angolan rhythms with modern styles
+- **Estevao Pinto**, a renowned Angolan artist known for his vibrant paintings and sculptures
+- **Bonga**, a famous Angolan musician who combines traditional and modern styles
+- **Ondjaki**, a celebrated Angolan writer and poet, known for his novels and short stories
+
+[SECTION] Useful Phrases [/SECTION]
+| English | Local Language | Pronunciation |
+| --- | --- | --- |
+| Hello | Olá | oh-LAH |
+| Thank you | Obrigado/Obrigada | oh-bree-GAH-doo/oh-bree-GAH-dah |
+| Please | Por favor | pohl fah-VOHR |
+| Yes / No | Sim/Não | SEEM/NAH-oh |
+| How much? | Quanto custa? | KWAHN-toh KOOS-tah |
+| Goodbye | Tchau | CHOW |
+| Excuse me | Desculpe | deh-SKOOL-peh |
+| Where is...? | Onde está...? | OHN-deh EH-stah |
+| I don't understand | Não entendo | NAH-oh ehn-TEHN-doo |
+| Do you speak English? | Fala inglês? | FAH-lah eeng-lee-EHZ |
+
+---
+
+*Evergreen reference content. Verify time-sensitive details with official sources.*

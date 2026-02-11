@@ -1,0 +1,87 @@
+---
+title: "Azerbaijan Culture - Food, Traditions & Etiquette"
+entity: "Azerbaijan"
+iso_code: "AZ"
+continent: "asia"
+angle: "culture"
+date: "2026-02-11"
+---
+
+# Azerbaijan Culture - Food, Traditions & Etiquette
+
+[SECTION] Cultural Identity [/SECTION]
+Azerbaijan's culture is a unique blend of traditional and modern elements, shaped by its strategic location at the crossroads of Europe and Asia. The country has a rich history, with various empires and civilizations, including the ancient Persian, Arabic, and Turkish cultures, leaving their mark on the nation's identity. The majority of the population, approximately 95%, is ethnic Azerbaijani, with the remaining 5% comprising various ethnic groups such as Lezgins, Avars, and Russians. The official language is Azerbaijani, also known as Azeri, which is a Turkic language.
+
+The cultural identity of Azerbaijan is also influenced by its Islamic heritage, with the majority of the population practicing Shia Islam. However, the country has a long tradition of secularism and tolerance, with people of different faiths and backgrounds coexisting peacefully. The Azerbaijani people are known for their hospitality and warm welcome to guests, which is reflected in their traditional saying "guest is a gift from God." This emphasis on hospitality and respect for guests is a fundamental aspect of Azerbaijani culture and is deeply ingrained in the country's social norms.
+
+Azerbaijan's cultural identity is also characterized by its rich cultural heritage, including its music, dance, and art. The country has a long tradition of mugham music, which is a unique form of vocal and instrumental music that is considered an important part of Azerbaijan's cultural identity. The country is also home to a number of ancient cities, including Baku, which is a UNESCO World Heritage Site and features a unique blend of ancient and modern architecture. Overall, Azerbaijan's cultural identity is a complex and multifaceted phenomenon that reflects the country's rich history, cultural heritage, and traditional values.
+
+[SECTION] Food & Cuisine [/SECTION]
+| Dish | Type | Description | Must-Try? |
+| --- | --- | --- | --- |
+| Plov | Main Course | A traditional Azerbaijani dish made with rice, meat, and spices | Yes |
+| Khinkali | Dumpling | A boiled dumpling filled with meat and spices, similar to a Chinese baozi | Yes |
+| Dolma | Appetizer | Stuffed vegetables or fruits, typically filled with a mixture of rice, meat, and spices | Yes |
+| Kebabs | Main Course | Skewers of marinated meat, typically beef or chicken, grilled over an open flame | Yes |
+| Shashlik | Main Course | A type of kebab made with marinated meat, onions, and bell peppers | Yes |
+| Pakhlava | Dessert | A traditional Azerbaijani pastry made with layers of dough, nuts, and honey | Yes |
+| Sherbet | Drink | A sweet, fruit-based drink made with sugar, water, and fruit juice | Yes |
+| Black Tea | Drink | A strong, flavorful tea that is an integral part of Azerbaijani culture and hospitality | Yes |
+
+Azerbaijani cuisine is known for its bold flavors and aromas, with a focus on fresh ingredients and traditional cooking methods. Meals are often served with a variety of side dishes, including salads, bread, and pickled vegetables. The country has a strong tea culture, with black tea being an integral part of social gatherings and hospitality. When dining in Azerbaijan, it is customary to wait for the host to invite you to sit down and start eating, and to use your right hand when eating or giving/receiving something.
+
+[SECTION] Traditions & Festivals [/SECTION]
+| Festival/Tradition | When | What It Is |
+| --- | --- | --- |
+| Novruz | March 20-21 | A traditional spring festival that celebrates the arrival of spring and the new year |
+| Ramadan | Variable | A month-long period of fasting and spiritual reflection for Muslims |
+| Eid al-Fitr | Variable | A celebratory festival that marks the end of Ramadan |
+| National Independence Day | October 18 | A public holiday that commemorates Azerbaijan's independence from the Soviet Union |
+| New Year's Eve | December 31 | A festive celebration that marks the start of the new year |
+| International Mugham Festival | Variable | A cultural festival that showcases Azerbaijan's unique mugham music and dance traditions |
+
+Azerbaijan has a rich cultural calendar, with a variety of festivals and traditions that reflect the country's history, heritage, and values. The Novruz festival, which celebrates the arrival of spring, is a particularly important tradition that is marked with music, dance, and feasting. The country also celebrates a number of Islamic holidays, including Ramadan and Eid al-Fitr, which are important periods of fasting and spiritual reflection for Muslims.
+
+[SECTION] Etiquette: Do's and Don'ts [/SECTION]
+**Do:**
+- Respect the country's Islamic heritage and customs, particularly during Ramadan
+- Use your right hand when eating or giving/receiving something
+- Remove your shoes before entering a mosque or a traditional Azerbaijani home
+- Learn a few basic Azerbaijani phrases, such as "salam" (hello) and "təşəkkür" (thank you)
+- Be prepared to engage in lively conversations and debates, particularly over tea or coffee
+- Show respect for the elderly and traditional authority figures
+
+**Don't:**
+- Publicly display affection or intimacy, as this is considered impolite in Azerbaijani culture
+- Refuse an offer of food or drink, as this can be seen as impolite or disrespectful
+- Discuss sensitive topics, such as politics or religion, without being mindful of your audience
+- Take pictures of people or places without permission, particularly in rural areas
+- Touch or point at someone with your left hand, as this is considered rude
+- Leave the table before the host has finished eating, as this can be seen as impolite or disrespectful
+
+[SECTION] Arts & Music [/SECTION]
+- Mugham music is a unique and ancient form of vocal and instrumental music that is considered an important part of Azerbaijan's cultural heritage
+- Ashiq music is a traditional form of folk music that is characterized by its use of the saz instrument and poetic lyrics
+- Azerbaijani literature is known for its rich poetic tradition, with famous poets such as Nizami Ganjavi and Fuzuli
+- The country has a thriving film industry, with a number of notable directors and actors, including Rustam Ibragimbekov and Faig Ahmad
+- Traditional Azerbaijani art forms include miniature painting, ceramics, and metalwork, which are often characterized by intricate designs and patterns
+
+[SECTION] Useful Phrases [/SECTION]
+| English | Local Language | Pronunciation |
+| --- | --- | --- |
+| Hello | Salam | SA-lam |
+| Thank you | Təşəkkür | te-shuh-KUR |
+| Please | Xahiş | KHA-heesh |
+| Yes / No | Bəli / Yox | BELL-ee / YOH |
+| How much? | Neçə | NEH-chuh |
+| Goodbye | Sağ olun | SAH-ool-un |
+| Excuse me | Bağışlayın | BA-gee-shlah-yin |
+| I don't understand | Anlamıram | AHN-lah-muh-rahm |
+| Where is...? | Haradadır...? | HAH-rah-DAH-deer |
+| How are you? | Necəsiniz? | NEH-jeh-SEEN-eez |
+
+Note: The pronunciation guide is approximate and may vary depending on the regional accent and dialect.
+
+---
+
+*Evergreen reference content. Verify time-sensitive details with official sources.*

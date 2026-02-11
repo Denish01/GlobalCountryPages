@@ -1,0 +1,65 @@
+---
+title: "Afghanistan Visa & Entry Requirements"
+entity: "Afghanistan"
+iso_code: "AF"
+continent: "asia"
+angle: "visa-and-entry"
+date: "2026-02-11"
+---
+
+# Afghanistan Visa & Entry Requirements
+
+[CALLOUT] Visa rules change frequently. Always verify current requirements with the official embassy or consulate of Afghanistan before traveling. [/CALLOUT]
+
+[SECTION] Visa Policy Overview [/SECTION]
+Afghanistan has a strict visa policy, with only a few countries having visa-free access. The country is cautious about issuing visas due to security concerns and the need to carefully screen applicants. Citizens of most countries require a visa to enter Afghanistan, and the application process can be lengthy and complex. The Afghan government has introduced an electronic visa system for some nationalities, making it easier for tourists and business travelers to apply for a visa.
+
+The visa policy in Afghanistan is designed to balance the need to facilitate international travel and trade with the need to maintain national security. The country has been working to improve its visa system and make it more efficient, but the process can still be challenging for some applicants. It is essential to check the latest visa requirements and regulations before planning a trip to Afghanistan.
+
+[SECTION] Requirements By Nationality [/SECTION]
+[TABLE]
+| Nationality | Visa Required? | Type | Max Stay | Notes |
+| --- | --- | --- | --- | --- |
+| US Citizens | Yes | Tourist/Non-Immigrant | 30 days | Must apply in advance, no visa on arrival |
+| UK Citizens | Yes | Tourist/Non-Immigrant | 30 days | Must apply in advance, no visa on arrival |
+| EU Citizens | Yes | Tourist/Non-Immigrant | 30 days | Must apply in advance, no visa on arrival |
+| Canadian Citizens | Yes | Tourist/Non-Immigrant | 30 days | Must apply in advance, no visa on arrival |
+| Australian Citizens | Yes | Tourist/Non-Immigrant | 30 days | Must apply in advance, no visa on arrival |
+| Indian Citizens | Yes | Tourist/Non-Immigrant | 30 days | Must apply in advance, no visa on arrival |
+| Chinese Citizens | Yes | Tourist/Non-Immigrant | 30 days | Must apply in advance, no visa on arrival |
+[/TABLE]
+
+[SECTION] By Visitor Type [/SECTION]
+**Tourists:** Tourists can apply for a single-entry or multiple-entry visa, which is usually valid for 30 days. The typical stay for tourists is 30 days, but extensions are possible. Tourists must provide proof of onward travel and sufficient funds for their stay in Afghanistan.
+**Business Travelers:** Business travelers require an invitation letter from an Afghan company or organization and must apply for a business visa. The requirements for business travelers are more stringent than for tourists, and the application process can take longer.
+**Students:** Students must provide proof of enrollment in an Afghan educational institution and apply for a student visa. The student visa is usually valid for one year, and the student must register with the local authorities.
+**Workers:** Workers require a sponsorship from an Afghan employer and must apply for a work visa. The work visa is usually valid for one year, and the worker must register with the local authorities.
+
+[SECTION] Documents Checklist [/SECTION]
+1. A valid passport with at least six months' validity
+2. Completed visa application form
+3. Recent passport-sized photograph
+4. Proof of onward travel
+5. Proof of sufficient funds for stay in Afghanistan
+6. Invitation letter from an Afghan company or organization (for business travelers)
+7. Proof of enrollment in an Afghan educational institution (for students)
+8. Sponsorship letter from an Afghan employer (for workers)
+9. Police certificate (in some cases)
+10. Medical certificate (in some cases)
+
+[SECTION] Entry Points & Procedures [/SECTION]
+The main airports in Afghanistan are Kabul International Airport and Kandahar International Airport. The country also has several land borders with neighboring countries, including Iran, Pakistan, Turkmenistan, Uzbekistan, Tajikistan, and China. When arriving at an airport or land border, travelers must go through immigration and customs procedures. The immigration officer will check the traveler's passport, visa, and other documents, and may ask questions about the purpose of the visit and the planned stay in Afghanistan. It is essential to have all the required documents and to be prepared to answer questions from the immigration officer.
+
+The entry procedures in Afghanistan can be strict, and travelers may be subject to security checks and questioning. It is crucial to be patient and cooperative during the entry process, and to follow the instructions of the immigration officer. Travelers who are found to be missing required documents or who are unable to provide satisfactory answers to questions may be denied entry to Afghanistan.
+
+[SECTION] Common Mistakes To Avoid [/SECTION]
+- Not checking the latest visa requirements and regulations before traveling to Afghanistan
+- Not having all the required documents, including a valid passport and visa
+- Not providing accurate and complete information on the visa application form
+- Not registering with the local authorities within the required timeframe
+- Not having proof of onward travel and sufficient funds for stay in Afghanistan
+- Not being prepared to answer questions from the immigration officer during the entry process
+
+---
+
+*Evergreen reference content. Verify time-sensitive details with official sources.*
