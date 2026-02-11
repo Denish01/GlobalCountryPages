@@ -155,14 +155,47 @@
             font-size: 0.8em;
         }
         footer a { color: #636e72; }
+        .site-bar {
+            background: #2d3436;
+            padding: 10px 20px;
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+        }
+        .site-bar a {
+            color: white;
+            text-decoration: none;
+            font-weight: 700;
+            font-size: 1.05em;
+            display: flex;
+            align-items: center;
+            gap: 8px;
+        }
+        .site-bar a:hover { opacity: 0.85; }
+        .site-bar .home-btn {
+            background: #27AE60;
+            color: white;
+            padding: 6px 16px;
+            border-radius: 6px;
+            font-size: 0.85em;
+            font-weight: 600;
+            text-decoration: none;
+        }
+        .site-bar .home-btn:hover { opacity: 0.9; }
         @media (max-width: 600px) {
             header h1 { font-size: 1.3em; }
             .angle-nav { gap: 4px; }
             .angle-link { padding: 4px 10px; font-size: 0.75em; }
+            .site-bar { padding: 8px 12px; }
+            .site-bar a { font-size: 0.9em; }
         }
     </style>
 </head>
 <body>
+    <div class="site-bar">
+        <a href="/">360 Nations</a>
+        <a href="/" class="home-btn">Home</a>
+    </div>
     <header>
         <div class="container">
             <h1><span class="flag">🇧🇱</span> Saint Barthelemy - Overview & Essential Facts</h1>
