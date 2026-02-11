@@ -748,13 +748,87 @@ def build_html(entity, angle_id, title, content, breadcrumbs=None):
 
     meta_desc = f"{title} - Comprehensive guide to {entity_name}. {SITE_NAME}."
 
+    # Canonical URL
+    canonical_url = f"{SITE_URL}/{continent}/{entity_slug}/{angle_id}.html"
+
+    # JSON-LD: BreadcrumbList
+    breadcrumb_items = []
+    for i, (label, url) in enumerate(breadcrumbs):
+        item = {
+            "@type": "ListItem",
+            "position": i + 1,
+            "name": label,
+        }
+        if url:
+            item["item"] = f"{SITE_URL}{url}"
+        breadcrumb_items.append(item)
+
+    breadcrumb_ld = json.dumps({
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": breadcrumb_items,
+    }, ensure_ascii=False)
+
+    # JSON-LD: Article
+    angle_label = angle_id.replace("-", " ").title()
+    article_ld = json.dumps({
+        "@context": "https://schema.org",
+        "@type": "Article",
+        "headline": title,
+        "description": meta_desc,
+        "url": canonical_url,
+        "mainEntityOfPage": canonical_url,
+        "author": {
+            "@type": "Organization",
+            "name": SITE_NAME,
+            "url": SITE_URL,
+        },
+        "publisher": {
+            "@type": "Organization",
+            "name": SITE_NAME,
+            "url": SITE_URL,
+        },
+        "datePublished": datetime.now().strftime("%Y-%m-%d"),
+        "dateModified": datetime.now().strftime("%Y-%m-%d"),
+        "about": {
+            "@type": "Country",
+            "name": entity_name,
+        },
+        "articleSection": angle_label,
+    }, ensure_ascii=False)
+
+    # JSON-LD: Country (only on overview pages)
+    country_ld_tag = ""
+    if angle_id == "overview":
+        country_data = {
+            "@context": "https://schema.org",
+            "@type": "Country",
+            "name": entity_name,
+            "url": canonical_url,
+        }
+        if entity.get("iso_code"):
+            country_data["identifier"] = entity["iso_code"]
+        if entity.get("capital"):
+            country_data["containsPlace"] = {
+                "@type": "City",
+                "name": entity["capital"],
+            }
+        if entity.get("languages"):
+            langs = entity["languages"]
+            if isinstance(langs, list):
+                country_data["knowsLanguage"] = langs
+        country_ld_tag = f'\n    <script type="application/ld+json">{json.dumps(country_data, ensure_ascii=False)}</script>'
+
     html = f"""<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description" content="{meta_desc}">
+    <link rel="canonical" href="{canonical_url}">
     <title>{title} | {SITE_NAME}</title>
+    <script type="application/ld+json">{breadcrumb_ld}</script>
+    <script type="application/ld+json">{article_ld}</script>{country_ld_tag}
     <style>
         * {{ margin: 0; padding: 0; box-sizing: border-box; }}
         body {{
