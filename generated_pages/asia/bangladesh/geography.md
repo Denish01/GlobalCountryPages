@@ -1,0 +1,56 @@
+---
+title: "Bangladesh Geography - Location, Terrain & Climate"
+entity: "Bangladesh"
+iso_code: "BD"
+continent: "asia"
+angle: "geography"
+date: "2026-02-11"
+---
+
+# Bangladesh Geography - Location, Terrain & Climate
+
+[FACTBOX]
+Land Area: 147,570 km2, about the size of Iowa
+Highest Point: Saka Haphong, 1,052 meters
+Lowest Point: Indian Ocean, 0 meters
+Coastline: 580 km
+Borders: India, Myanmar
+Climate Type: tropical monsoon
+[/FACTBOX]
+
+[SECTION] Location & Borders [/SECTION]
+Bangladesh is situated in **South Asia**, nestled between India to the west, north, and east, and Myanmar to the southeast. The country is bordered by the **Bay of Bengal** to the south, which provides a significant coastline and access to the Indian Ocean. Bangladesh's strategic location allows for trade and cultural exchange with neighboring countries, as well as with other nations across the **Bay of Bengal** and beyond. The country's borders are largely defined by natural features, including the **Ganges River** and the **Brahmaputra River**, which flow through the country and provide fertile soil and water resources.
+
+The country's location in a **seismically active region** makes it prone to earthquakes, and its low-lying coastal areas are vulnerable to **cyclones** and **storm surges**. Despite these challenges, Bangladesh's unique geography has also created a diverse range of ecosystems, from **mangrove forests** to **river deltas**, which support a wide variety of flora and fauna. The country's borders with India and Myanmar are largely peaceful, with several **border crossings** and trade routes facilitating the exchange of goods and people between the countries.
+
+[SECTION] Terrain & Landscape [/SECTION]
+Bangladesh's terrain is characterized by a **low-lying deltaic plain**, with the **Ganges-Brahmaputra river system** dominating the landscape. The country's terrain is generally flat, with some **hilly regions** in the northeast and southeast. The **Chittagong Hill Tracts**, located in the southeast, are the most mountainous region in the country, with **tropical forests** and **wildlife sanctuaries**. The **Sundarbans**, the world's largest **mangrove forest**, is located in the southwest and is a **UNESCO World Heritage Site**. The forest is home to a wide variety of **wildlife**, including the **Bengal tiger**, **crocodiles**, and **dolphins**.
+
+The country's **rivers** play a crucial role in shaping the landscape, with the **Ganges**, **Brahmaputra**, and **Meghna rivers** flowing through the country and providing water and fertile soil for **agriculture**. The **river deltas** are also home to a wide variety of **fish and seafood**, which are an important source of **food** and **income** for many Bangladeshis. The country's **coastline** is approximately 580 kilometers long, with several **beaches** and **ports** along the way. The **Cox's Bazar Beach**, located in the southeast, is one of the longest **natural sea beaches** in the world, stretching over 120 kilometers.
+
+Bangladesh's **geological history** is complex, with the country's terrain shaped by **tectonic activity** and **erosion** over millions of years. The country's **soil** is generally fertile, with **alluvial deposits** from the rivers providing a rich source of nutrients for **agriculture**. However, the country's **geological instability** also makes it prone to **natural disasters**, including **earthquakes**, **cyclones**, and **floods**.
+
+[SECTION] Climate By Season [/SECTION]
+[TABLE]
+| Season | Months | Temperature Range | Rainfall | Conditions |
+| --- | --- | --- | --- | --- |
+| Winter | December to February | 10-20°C | Low | Cool and dry |
+| Summer | March to May | 25-35°C | Low | Hot and humid |
+| Monsoon | June to September | 25-30°C | High | Rainy and stormy |
+| Autumn | October to November | 20-25°C | Medium | Mild and pleasant |
+[/TABLE]
+
+[SECTION] Best Time To Visit [/SECTION]
+[CALLOUT] Best months: October to February. Why: The weather is mild and pleasant, with low humidity and comfortable temperatures, making it ideal for sightseeing and outdoor activities. Avoid: June to September, as the monsoon season brings heavy rainfall and flooding, making travel and outdoor activities difficult. [/CALLOUT]
+
+[SECTION] Natural Highlights [/SECTION]
+- The **Sundarbans**, the world's largest mangrove forest, is home to a wide variety of wildlife, including the Bengal tiger and crocodiles.
+- The **Chittagong Hill Tracts** are a mountainous region in the southeast, with tropical forests and wildlife sanctuaries.
+- The **Cox's Bazar Beach** is one of the longest natural sea beaches in the world, stretching over 120 kilometers.
+- The **Lawachara National Park** is a protected area in the northeast, known for its tropical forests and wildlife, including elephants and monkeys.
+- The **Kaptai Lake** is a large man-made lake in the southeast, created by the construction of the Kaptai Dam, and is a popular spot for boating and fishing.
+- The **Madhupur National Park** is a protected area in the north, known for its tropical forests and wildlife, including deer and birds.
+
+---
+
+*Evergreen reference content. Verify time-sensitive details with official sources.*

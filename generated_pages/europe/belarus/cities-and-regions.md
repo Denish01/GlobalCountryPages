@@ -1,0 +1,80 @@
+---
+title: "Belarus Cities & Regions Guide"
+entity: "Belarus"
+iso_code: "BY"
+continent: "europe"
+angle: "cities-and-regions"
+date: "2026-02-11"
+---
+
+# Belarus Cities & Regions Guide
+
+[FACTBOX]
+Administrative Divisions: 6 provinces (voblasts) and 1 municipality (Minsk)
+Largest City: Minsk, 2 million
+Capital: Minsk
+Number of Cities Over 1M: 1
+[/FACTBOX]
+
+[SECTION] How Belarus Is Divided [/SECTION]
+Belarus is divided into six provinces (voblasts) and the municipality of Minsk, which serves as the capital. Each province is further subdivided into districts (raions) and cities of regional subordination. The provinces are Brest, Vitebsk, Gomel, Grodno, Minsk, and Mogilev. The administrative structure of Belarus is relatively centralized, with the government in Minsk holding significant authority over the provinces. This division allows for efficient governance and management of the country's resources.
+
+The six provinces of Belarus vary in terms of their economic, cultural, and geographical characteristics. For example, the Brest province is known for its border with Poland and its historical significance, while the Vitebsk province is famous for its cultural events and festivals. The provinces are also responsible for managing their own local affairs, such as education, healthcare, and infrastructure development. This decentralization of power enables the provinces to address local issues and concerns more effectively.
+
+[SECTION] Major Cities [/SECTION]
+**Minsk** (2 million)
+Role: capital, economic hub, cultural center
+Known For: Minsk is a city with a rich history, having been destroyed and rebuilt several times, and is now a modern city with a mix of Soviet and contemporary architecture. It is home to many museums, theaters, and cultural institutions.
+Best For: visitors interested in history, culture, and nightlife
+
+**Gomel** (500,000)
+Role: economic hub, industrial center
+Known For: Gomel is a major industrial city in southeastern Belarus, known for its chemical and machinery plants. It is also home to several cultural institutions, including the Gomel Palace and Park Complex.
+Best For: visitors interested in industry, history, and outdoor activities
+
+**Mogilev** (400,000)
+Role: economic hub, cultural center
+Known For: Mogilev is a city with a rich history, having been an important center of trade and commerce in the past. It is home to several historical landmarks, including the Mogilev Castle and the St. Stanislaus Cathedral.
+Best For: visitors interested in history, culture, and architecture
+
+**Vitebsk** (350,000)
+Role: cultural center, tourist destination
+Known For: Vitebsk is a city with a rich cultural heritage, known for its festivals, museums, and historical landmarks. It is home to the famous Marc Chagall Museum and the Vitebsk City Hall.
+Best For: visitors interested in culture, art, and history
+
+**Grodno** (300,000)
+Role: cultural center, tourist destination
+Known For: Grodno is a city with a unique cultural identity, known for its historical landmarks, including the Grodno Castle and the St. Boris and Gleb Church. It is also home to several festivals and cultural events.
+Best For: visitors interested in history, culture, and outdoor activities
+
+**Brest** (300,000)
+Role: border city, economic hub
+Known For: Brest is a city with a strategic location on the border with Poland, known for its historical significance and cultural institutions. It is home to the famous Brest Fortress and the Brest Museum of War.
+Best For: visitors interested in history, culture, and outdoor activities
+
+[SECTION] Key Regions [/SECTION]
+[TABLE]
+| Region | Character | Known For | Major City |
+| --- | --- | --- | --- |
+| Brest Region | Western, border with Poland | Historical significance, cultural events | Brest |
+| Vitebsk Region | Northern, cultural center | Festivals, museums, historical landmarks | Vitebsk |
+| Gomel Region | Southeastern, industrial center | Chemical and machinery plants, cultural institutions | Gomel |
+| Grodno Region | Western, cultural center | Historical landmarks, festivals, cultural events | Grodno |
+| Minsk Region | Central, economic hub | Modern architecture, cultural institutions, nightlife | Minsk |
+| Mogilev Region | Eastern, economic hub | Historical landmarks, cultural institutions, outdoor activities | Mogilev |
+[/TABLE]
+
+[SECTION] Regional Differences [/SECTION]
+- The regions of Belarus differ in terms of their cultural identity, with the western regions being more influenced by Polish and European culture, while the eastern regions are more influenced by Russian culture.
+- The economy of Belarus also varies by region, with the Minsk region being the most developed and industrialized, while the other regions are more focused on agriculture and services.
+- The climate of Belarus also differs by region, with the northern regions being colder and more humid, while the southern regions are warmer and drier.
+- The language spoken in Belarus also varies by region, with Belarusian being more widely spoken in the western regions, while Russian is more widely spoken in the eastern regions.
+
+[SECTION] Getting Around [/SECTION]
+Belarus has a well-developed transportation system, with domestic flights, trains, buses, and highways connecting the major cities and regions. The country has several international airports, including the Minsk National Airport, which offers flights to destinations in Europe, Asia, and the Middle East. The train network is also extensive, with regular services connecting the major cities and regions. Buses are a popular mode of transportation, especially for shorter distances, and the country has a network of highways and roads that are generally in good condition. Driving in Belarus can be challenging, especially in rural areas, due to the condition of the roads and the lack of traffic infrastructure. However, the country is investing in the development of its transportation system, including the construction of new highways and the modernization of its airports and train stations.
+
+The transportation system in Belarus is relatively affordable, with tickets for domestic flights, trains, and buses being relatively cheap. The country also has a well-developed system of public transportation, including buses and trolleybuses, which are a convenient and affordable way to get around the cities. Taxis are also widely available, but can be more expensive than public transportation. Overall, getting around Belarus is relatively easy, with a range of transportation options available to suit different budgets and preferences.
+
+---
+
+*Evergreen reference content. Verify time-sensitive details with official sources.*
