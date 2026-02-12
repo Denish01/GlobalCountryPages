@@ -1,0 +1,65 @@
+---
+title: "Djibouti Visa & Entry Requirements"
+entity: "Djibouti"
+iso_code: "DJ"
+continent: "africa"
+angle: "visa-and-entry"
+date: "2026-02-12"
+---
+
+# Djibouti Visa & Entry Requirements
+
+[CALLOUT] Visa rules change frequently. Always verify current requirements with the official embassy or consulate of Djibouti before traveling. [/CALLOUT]
+
+[SECTION] Visa Policy Overview [/SECTION]
+Djibouti has a moderate visa policy, requiring citizens from most countries to obtain a visa prior to arrival. However, the country has introduced an eVisa system to simplify the process for tourists and business travelers. Citizens from a few countries, such as those in the Gulf Cooperation Council, are eligible for visa-free access. The government of Djibouti aims to promote tourism and foreign investment, and the visa policy is designed to balance security concerns with the need to facilitate travel and commerce.
+
+The visa policy in Djibouti is subject to change, and the government may introduce new requirements or restrictions at short notice. It is essential for travelers to check the latest requirements before planning a trip to Djibouti. The country's embassy and consulate websites provide up-to-date information on visa requirements and application procedures.
+
+[SECTION] Requirements By Nationality [/SECTION]
+[TABLE]
+| Nationality | Visa Required? | Type | Max Stay | Notes |
+| --- | --- | --- | --- | --- |
+| US Citizens | Yes | eVisa | 31 days | Must apply online at least 3 days prior to arrival |
+| UK Citizens | Yes | eVisa | 31 days | Must apply online at least 3 days prior to arrival |
+| EU Citizens | Yes | eVisa | 31 days | Must apply online at least 3 days prior to arrival |
+| Canadian Citizens | Yes | eVisa | 31 days | Must apply online at least 3 days prior to arrival |
+| Australian Citizens | Yes | eVisa | 31 days | Must apply online at least 3 days prior to arrival |
+| Indian Citizens | Yes | Visa on Arrival | 31 days | Must meet specific requirements, including a return ticket and proof of sufficient funds |
+| Chinese Citizens | Yes | Visa on Arrival | 31 days | Must meet specific requirements, including a return ticket and proof of sufficient funds |
+[/TABLE]
+
+[SECTION] By Visitor Type [/SECTION]
+**Tourists:** Tourists can apply for an eVisa, which is typically valid for a stay of up to 31 days. The eVisa application process is straightforward, and applicants can expect to receive a decision within 3 days. Tourists may be required to provide proof of onward travel and sufficient funds to support their stay in Djibouti. Extensions are possible, but must be applied for at the immigration office in Djibouti City.
+**Business Travelers:** Business travelers can also apply for an eVisa, but may need to provide additional documentation, such as an invitation letter from a local company or organization. Business travelers may be required to register with the local authorities and obtain a business permit.
+**Students:** Students who wish to study in Djibouti must apply for a student visa, which requires proof of enrollment at a recognized institution and sufficient funds to support their stay. Students may also need to provide proof of language proficiency and meet specific health requirements.
+**Workers:** Workers who wish to take up employment in Djibouti must apply for a work visa, which requires sponsorship from a local employer. The work visa application process can be complex, and applicants must meet specific requirements, including proof of qualifications and experience.
+
+[SECTION] Documents Checklist [/SECTION]
+1. A valid passport with at least 6 months' validity
+2. A completed visa application form
+3. A recent passport-sized photograph
+4. Proof of onward travel, such as a return ticket or travel itinerary
+5. Proof of sufficient funds, such as bank statements or traveler's checks
+6. Health insurance that covers the duration of stay in Djibouti
+7. Proof of accommodation, such as a hotel reservation or rental agreement
+8. A police certificate, if required by the immigration authorities
+9. Proof of language proficiency, if required by the immigration authorities
+10. Proof of enrollment at a recognized institution, if applying for a student visa
+
+[SECTION] Entry Points & Procedures [/SECTION]
+The main entry point for travelers to Djibouti is Djibouti-Ambouli International Airport, which is located about 5 kilometers south of Djibouti City. The airport is served by several international airlines, including Air France, Turkish Airlines, and Ethiopian Airlines. Travelers can also enter Djibouti by land, via the border crossings with Ethiopia, Eritrea, or Somalia. At immigration, travelers can expect to have their documents checked and may be required to provide additional information or answer questions about their stay in Djibouti.
+
+Travelers should be prepared to present their documents and answer questions from immigration officials. It is essential to ensure that all documents are in order and that travelers have all the necessary information and supporting documents. The immigration process can be slow, and travelers should be patient and courteous when interacting with immigration officials.
+
+[SECTION] Common Mistakes To Avoid [/SECTION]
+- Not checking the latest visa requirements before traveling to Djibouti
+- Not applying for an eVisa at least 3 days prior to arrival
+- Not providing all the required documents, such as proof of onward travel or sufficient funds
+- Not registering with the local authorities, if required
+- Not obtaining a business permit, if required
+- Not meeting the specific requirements for student or work visas, such as proof of enrollment or sponsorship from a local employer
+
+---
+
+*Evergreen reference content. Verify time-sensitive details with official sources.*

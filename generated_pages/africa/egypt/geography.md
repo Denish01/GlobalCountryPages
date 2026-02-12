@@ -1,0 +1,56 @@
+---
+title: "Egypt Geography - Location, Terrain & Climate"
+entity: "Egypt"
+iso_code: "EG"
+continent: "africa"
+angle: "geography"
+date: "2026-02-12"
+---
+
+# Egypt Geography - Location, Terrain & Climate
+
+[FACTBOX]
+Land Area: 1,010,000 km2, about the size of Texas and California combined
+Highest Point: Mount Catherine, 2,629 meters
+Lowest Point: Qattara Depression, -133 meters
+Coastline: 2,450 km
+Borders: Libya, Sudan, Israel, Palestine
+Climate Type: arid
+[/FACTBOX]
+
+[SECTION] Location & Borders [/SECTION]
+Egypt is located in the northeastern part of Africa, bordering the Mediterranean Sea to the north and the Red Sea to the east. It is situated in a strategic position, connecting Africa to Asia through the Suez Canal, a vital shipping route. To the west, Egypt shares a border with Libya, while to the south, it borders Sudan. The country also shares borders with Israel and Palestine to the northeast, with the Gaza Strip and the Sinai Peninsula being key areas of contact. The country's unique geography, with the Nile River flowing through it, has made it an important center of trade and culture for thousands of years.
+
+The country's borders are defined by a combination of natural and artificial boundaries. The Mediterranean coastline to the north is approximately 1,050 km long, while the Red Sea coastline to the east is about 1,400 km long. The Suez Canal, which connects the Mediterranean to the Red Sea, is a vital shipping route that runs through the country. The country's borders with its neighboring countries are largely defined by international agreements and treaties, with some areas still being disputed. The Sinai Peninsula, which is part of Egypt, is a strategic location that connects Africa to Asia and is home to several important ports and trade routes.
+
+[SECTION] Terrain & Landscape [/SECTION]
+Egypt's terrain is characterized by a combination of deserts, mountains, and fertile valleys. The **Nile River**, which flows through the country, is the lifeblood of Egypt and has supported agriculture and human settlement for thousands of years. The Nile Valley, which is the fertile area surrounding the river, is home to most of Egypt's population and is the country's most productive agricultural region. The valley is surrounded by deserts, including the **Western Desert** to the west and the **Eastern Desert** to the east. These deserts are home to several important oases, including the **Siwa Oasis**, which is a key center of trade and culture.
+
+The country's mountainous regions are located in the southern part of the country, where the **Nubian Mountains** meet the **Red Sea Hills**. The highest point in Egypt, **Mount Catherine**, is located in this region and is a popular destination for hikers and adventure seekers. The country's coastline, which borders the Mediterranean and the Red Sea, is home to several important ports and tourist destinations, including **Alexandria** and **Sharm el-Sheikh**. The **Suez Canal**, which connects the Mediterranean to the Red Sea, is a vital shipping route that runs through the country and is an important part of Egypt's economy.
+
+The country's deserts, which cover most of its land area, are home to several important natural resources, including oil, natural gas, and minerals. The **Western Desert**, which is the largest desert in Egypt, is home to several important oases, including the **Siwa Oasis** and the **Bahariya Oasis**. These oases are key centers of trade and culture and are home to several important archaeological sites, including the **Temple of Amun** in Siwa. The **Eastern Desert**, which is located to the east of the Nile Valley, is home to several important mining operations, including gold and copper mines.
+
+[SECTION] Climate By Season [/SECTION]
+[TABLE]
+| Season | Months | Temperature Range | Rainfall | Conditions |
+| --- | --- | --- | --- | --- |
+| Winter | December to February | 10-20°C | low | mild, cool |
+| Spring | March to May | 15-25°C | low | warm, sunny |
+| Summer | June to August | 25-35°C | very low | hot, dry |
+| Autumn | September to November | 15-25°C | low | warm, sunny |
+[/TABLE]
+
+[SECTION] Best Time To Visit [/SECTION]
+[CALLOUT] Best months: October to February. Why: The weather is mild and cool, making it ideal for sightseeing and outdoor activities. Avoid: June to August, as the heat can be extreme and the crowds can be overwhelming. [/CALLOUT]
+
+[SECTION] Natural Highlights [/SECTION]
+- The **Nile River**, which is the longest river in the world and supports most of Egypt's population and agriculture.
+- The **Red Sea**, which is home to several important coral reefs and is a popular destination for scuba diving and snorkeling.
+- The **Sinai Peninsula**, which is a strategic location that connects Africa to Asia and is home to several important ports and trade routes.
+- The **Western Desert**, which is the largest desert in Egypt and is home to several important oases and natural resources.
+- The **Nubian Mountains**, which are located in the southern part of the country and are home to several important archaeological sites and natural wonders.
+- The **Wadi El-Hitan**, which is a natural wonder and a key center of biodiversity, with several important species of plants and animals found nowhere else in the world.
+
+---
+
+*Evergreen reference content. Verify time-sensitive details with official sources.*
