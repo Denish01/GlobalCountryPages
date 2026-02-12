@@ -1,0 +1,79 @@
+---
+title: "Cuba Economy - GDP, Industries & Trade"
+entity: "Cuba"
+iso_code: "CU"
+continent: "north-america"
+angle: "economy"
+date: "2026-02-12"
+---
+
+# Cuba Economy - GDP, Industries & Trade
+
+[FACTBOX]
+GDP (nominal): ($87 billion estimate)
+GDP Per Capita: ($7,600 estimate)
+Income Classification: (Upper-Middle)
+Main Industries: Sugar, Tobacco, Tourism
+Currency: CUP
+Unemployment Rate: (3% approximate)
+Ease of Doing Business: (ranked 184 out of 190)
+[/FACTBOX]
+
+[SECTION] Economic Overview [/SECTION]
+Cuba's economy is a planned economy with a strong socialist orientation. The country has been transitioning towards a more mixed economy, with a growing private sector, since the introduction of economic reforms in 2011. The economy is classified as upper-middle income, with a GDP per capita of around $7,600. Despite its small size, Cuba has a relatively well-developed infrastructure and a high level of human capital, with a strong emphasis on education and healthcare. The country has a long-term development strategy, known as the "2030 National Development Plan", which aims to diversify the economy, increase productivity, and reduce dependence on a few key sectors.
+
+The Cuban economy has been shaped by its history of socialism and its close relationship with the Soviet Union. The country has a large state sector, which dominates key industries such as sugar, tobacco, and energy. However, the private sector has been growing in recent years, with a significant increase in the number of self-employed workers and small businesses. The government has also been encouraging foreign investment, particularly in the tourism and energy sectors. Despite these efforts, the economy still faces significant challenges, including a large trade deficit, a lack of access to international credit, and a dependence on a few key export markets.
+
+Cuba's economic trajectory has been influenced by a range of factors, including the US trade embargo, which has been in place since 1960. The embargo has limited Cuba's access to international markets and has made it difficult for the country to attract foreign investment. However, in recent years, the government has been seeking to diversify its economy and reduce its dependence on the US. This has involved strengthening ties with other countries, such as China, Russia, and Venezuela, and investing in key sectors such as tourism and renewable energy.
+
+[SECTION] Key Industries [/SECTION]
+[TABLE]
+| Industry | Contribution | Details |
+| --- | --- | --- |
+| Agriculture | 20% | Sugar, tobacco, and citrus fruits are key crops, with a growing focus on organic and sustainable farming practices |
+| Tourism | 15% | The tourism sector is a significant contributor to the economy, with a focus on eco-tourism and cultural tourism |
+| Manufacturing | 10% | The manufacturing sector is small but growing, with a focus on textiles, food processing, and pharmaceuticals |
+| Services | 40% | The services sector is the largest contributor to the economy, with a focus on healthcare, education, and financial services |
+| Mining | 5% | Cuba has significant mineral reserves, including nickel, copper, and gold, with a growing focus on mining exports |
+[/TABLE]
+
+[SECTION] Trade Profile [/SECTION]
+**Top Exports:** 
+- Sugar
+- Tobacco
+- Nickel
+- Coffee
+- Rum
+These exports are driven by the country's strong agricultural sector and its rich mineral reserves. Cuba's sugar industry, in particular, has a long history and is a significant contributor to the economy.
+
+**Top Imports:** 
+- Petroleum
+- Machinery
+- Vehicles
+- Food
+- Chemicals
+Cuba relies heavily on imports to meet its energy needs and to support its manufacturing sector.
+
+**Key Trading Partners:** 
+- Venezuela
+- China
+- Spain
+- Canada
+- Brazil
+These countries are Cuba's main trading partners, with Venezuela being a key supplier of oil and China being a significant investor in the country's energy and infrastructure sectors.
+
+[SECTION] Infrastructure [/SECTION]
+- The transport network in Cuba is well-developed, with a comprehensive system of roads, railways, and ports.
+- The energy sector is dominated by oil and gas, with a growing focus on renewable energy sources such as wind and solar power.
+- Internet and mobile penetration is relatively low, with around 40% of the population having access to the internet.
+- The country has a number of major ports, including the Port of Havana and the Port of Santiago de Cuba, which are key hubs for trade and commerce.
+- Cuba has a number of international airports, including José Martí International Airport in Havana, which is a major hub for tourism and business travel.
+
+[SECTION] Economic Outlook [/SECTION]
+The Cuban economy is expected to continue growing in the coming years, driven by a combination of factors including tourism, foreign investment, and a growing private sector. The government has been implementing a range of reforms aimed at diversifying the economy and increasing productivity, including the introduction of a new foreign investment law and a range of measures to support small businesses and entrepreneurs. However, the economy still faces significant challenges, including a large trade deficit and a dependence on a few key export markets.
+
+One of the key priorities for the government is to increase the country's economic resilience and reduce its dependence on external factors. This involves investing in key sectors such as renewable energy, agriculture, and manufacturing, and promoting the development of a more diversified economy. The government is also seeking to increase access to international markets and to attract more foreign investment, particularly in the tourism and energy sectors. With its rich natural resources, highly educated workforce, and strategic location, Cuba has the potential to become a significant player in the regional economy and to achieve sustainable and inclusive economic growth. [CALLOUT] The country's economic future will depend on its ability to navigate the complex and rapidly changing global economic landscape, and to capitalize on new opportunities and challenges.
+
+---
+
+*Evergreen reference content. Verify time-sensitive details with official sources.*

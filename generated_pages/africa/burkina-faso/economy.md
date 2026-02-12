@@ -1,0 +1,76 @@
+---
+title: "Burkina Faso Economy - GDP, Industries & Trade"
+entity: "Burkina Faso"
+iso_code: "BF"
+continent: "africa"
+angle: "economy"
+date: "2026-02-12"
+---
+
+# Burkina Faso Economy - GDP, Industries & Trade
+
+[FACTBOX]
+GDP (nominal): ($14.4 billion estimate)
+GDP Per Capita: ($640 estimate)
+Income Classification: (Low)
+Main Industries: cotton, gold, livestock
+Currency: XOF
+Unemployment Rate: (5% approximate)
+Ease of Doing Business: (ranked 151 out of 190 countries)
+[/FACTBOX]
+
+[SECTION] Economic Overview [/SECTION]
+Burkina Faso has a low-income economy, with a GDP per capita of approximately $640. The country's economy is largely driven by agriculture, with cotton being the main cash crop. The country is also rich in natural resources, including gold, which has become a significant contributor to the economy in recent years. Burkina Faso is one of the fastest-growing economies in the West African region, with a growth rate of around 6% per annum. However, the country still faces significant development challenges, including a large poverty gap and limited access to basic services such as healthcare and education.
+
+The economy of Burkina Faso is classified as a developing economy, with a focus on primary production and limited industrialization. The country has a large informal sector, with many people engaged in small-scale farming, trading, and other informal activities. The government has implemented various policies to promote economic growth and development, including investments in infrastructure, education, and healthcare. However, the country still faces significant challenges, including a lack of diversification, limited access to credit, and a high dependence on external aid.
+
+Despite these challenges, Burkina Faso has made significant progress in recent years, with the economy growing at a steady rate and poverty rates declining. The country has also made significant investments in infrastructure, including roads, bridges, and energy generation. The government has also implemented policies to promote private sector growth, including the creation of a one-stop shop for business registration and the introduction of tax incentives for investors.
+
+[SECTION] Key Industries [/SECTION]
+[TABLE]
+| Industry | Contribution | Details |
+| --- | --- | --- |
+| Agriculture | 30% | Cotton, maize, sorghum, and livestock are the main agricultural products |
+| Mining | 20% | Gold, manganese, and limestone are the main minerals extracted |
+| Manufacturing | 15% | Textiles, food processing, and construction materials are the main manufactured products |
+| Services | 25% | Telecommunications, banking, and tourism are the main service sectors |
+| Livestock | 10% | Cattle, sheep, and goats are the main livestock products |
+[/TABLE]
+
+[SECTION] Trade Profile [/SECTION]
+**Top Exports:** 
+- **Gold**, which accounts for around 50% of the country's total exports
+- **Cotton**, which is the main cash crop and accounts for around 20% of total exports
+- **Livestock**, which is mainly exported to neighboring countries
+- **Manganese**, which is used in the production of steel and other alloys
+- **Textiles**, which are mainly exported to European countries
+
+**Top Imports:** 
+- **Petroleum products**, which are used to meet the country's energy needs
+- **Machinery**, which is used in the mining and manufacturing sectors
+- **Food products**, which are imported to meet the country's food needs
+- **Construction materials**, which are used in the construction of roads, bridges, and buildings
+- **Electronics**, which are mainly imported from Asian countries
+
+**Key Trading Partners:** 
+- **China**, which is the country's main trading partner
+- **France**, which is a significant trading partner due to historical ties
+- **Ghana**, which is a neighboring country and a significant trading partner
+- **Ivory Coast**, which is also a neighboring country and a significant trading partner
+- **Netherlands**, which is a significant trading partner due to its role in the global cotton trade
+
+[SECTION] Infrastructure [/SECTION]
+- The country has a well-developed road network, with around 12,000 kilometers of paved roads
+- The energy sector is dominated by thermal power plants, with a total installed capacity of around 200 megawatts
+- Internet and mobile penetration is relatively low, with around 10% of the population having access to the internet
+- The country has two international airports, one in Ouagadougou and the other in Bobo-Dioulasso
+- The port of Abidjan in Ivory Coast is the main port used by Burkina Faso for international trade
+
+[SECTION] Economic Outlook [/SECTION]
+The economic outlook for Burkina Faso is positive, with the country expected to continue growing at a steady rate. The government has implemented various policies to promote economic growth, including investments in infrastructure, education, and healthcare. The country is also expected to benefit from its rich natural resources, including gold, manganese, and limestone. However, the country still faces significant challenges, including a lack of diversification, limited access to credit, and a high dependence on external aid.
+
+The government has identified several priority areas for development, including the promotion of private sector growth, the development of the agricultural sector, and the improvement of the business environment. The country is also expected to benefit from its membership in the West African Economic and Monetary Union (WAEMU), which provides a common currency and a common market for the region. Major projects and reforms include the development of the Kalsaka gold mine, the construction of a new international airport in Ouagadougou, and the introduction of a new investment code to promote foreign investment. Overall, the economic outlook for Burkina Faso is positive, with the country expected to continue growing and developing in the coming years.
+
+---
+
+*Evergreen reference content. Verify time-sensitive details with official sources.*

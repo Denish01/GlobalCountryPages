@@ -1,0 +1,79 @@
+---
+title: "Botswana Economy - GDP, Industries & Trade"
+entity: "Botswana"
+iso_code: "BW"
+continent: "africa"
+angle: "economy"
+date: "2026-02-12"
+---
+
+# Botswana Economy - GDP, Industries & Trade
+
+[FACTBOX]
+GDP (nominal): ($18 billion estimate)
+GDP Per Capita: ($7,240 estimate)
+Income Classification: Upper-Middle
+Main Industries: Mining, Tourism, Agriculture
+Currency: BWP
+Unemployment Rate: (18% approximate)
+Ease of Doing Business: (ranked 86 out of 190 countries)
+[/FACTBOX]
+
+[SECTION] Economic Overview [/SECTION]
+Botswana has a high-income economy, with a strong focus on mining, tourism, and agriculture. The country has made significant progress in recent years, with a growing economy and a relatively high standard of living. Botswana's economy is classified as an upper-middle-income economy, with a GDP per capita of over $7,000. The country has a relatively small population, with a total of 2.6 million people, and a diverse economy that is driven by a range of industries. The government has implemented a number of policies aimed at diversifying the economy and reducing its dependence on diamond mining, which has been the mainstay of the economy for many years.
+
+Botswana's economic development has been driven by a combination of factors, including its natural resources, a stable political environment, and a favorable business climate. The country has a well-developed infrastructure, with good roads, telecommunications, and energy systems. The government has also invested heavily in education and healthcare, which has helped to improve the standard of living and reduce poverty. However, the economy is still vulnerable to external shocks, particularly in the mining sector, and the government is working to diversify the economy and reduce its dependence on a single industry.
+
+The country's economic trajectory is expected to remain positive, with a focus on sustainable development and poverty reduction. The government has implemented a number of initiatives aimed at promoting economic growth and development, including the development of a new economic strategy and the establishment of a number of special economic zones. These initiatives are expected to help drive economic growth and reduce poverty, and to promote Botswana's development as a high-income economy.
+
+[SECTION] Key Industries [/SECTION]
+[TABLE]
+| Industry | Contribution | Details |
+| --- | --- | --- |
+| Mining | 30% | Diamond mining is the mainstay of the industry, with Botswana being one of the world's largest diamond producers |
+| Tourism | 20% | Tourism is a significant contributor to the economy, with visitors drawn to the country's natural beauty and wildlife |
+| Agriculture | 15% | Agriculture is an important sector, with cattle ranching and crop production being the main activities |
+| Manufacturing | 10% | Manufacturing is a growing sector, with a focus on food processing, textiles, and construction materials |
+| Services | 25% | The services sector is the largest contributor to the economy, with a focus on finance, business services, and government services |
+[/TABLE]
+
+[SECTION] Trade Profile [/SECTION]
+**Top Exports:** 
+- Diamonds
+- Copper and nickel
+- Beef
+- Textiles
+- Vehicles
+These exports are driven by the country's natural resources and its strategic location in southern Africa. Botswana's trade profile is dominated by its exports of diamonds, which account for the majority of its export earnings.
+
+**Top Imports:** 
+- Machinery and electronics
+- Vehicles
+- Fuel
+- Foodstuffs
+- Chemicals
+These imports are driven by the country's need for capital goods and intermediate inputs, as well as its reliance on imported fuel and foodstuffs.
+
+**Key Trading Partners:** 
+- South Africa
+- Belgium
+- India
+- China
+- Namibia
+These countries are Botswana's main trading partners, with South Africa being the largest market for its exports.
+
+[SECTION] Infrastructure [/SECTION]
+- The country has a well-developed road network, with over 18,000 kilometers of roads, including a number of major highways that connect the main towns and cities.
+- The energy sector is dominated by coal-fired power stations, with a number of new renewable energy projects being developed to reduce the country's reliance on fossil fuels.
+- Internet and mobile penetration is relatively high, with over 70% of the population having access to a mobile phone and over 30% having access to the internet.
+- The country has a number of major airports, including the Sir Seretse Khama International Airport in Gaborone, which provides connections to a number of regional and international destinations.
+- The port of Walvis Bay in Namibia is the main port serving Botswana, with a number of rail and road links connecting the port to the country's main towns and cities.
+
+[SECTION] Economic Outlook [/SECTION]
+The economic outlook for Botswana is positive, with the country expected to continue to grow at a steady rate over the next few years. The government has implemented a number of initiatives aimed at promoting economic growth and development, including the development of a new economic strategy and the establishment of a number of special economic zones. These initiatives are expected to help drive economic growth and reduce poverty, and to promote Botswana's development as a high-income economy. The country is also expected to benefit from its membership of the Southern African Customs Union (SACU) and the Southern African Development Community (SADC), which provide access to a large and growing market.
+
+The government's development priorities include the promotion of economic diversification, the development of the private sector, and the improvement of the business climate. A number of major projects are also being implemented, including the development of a new coal-fired power station and the expansion of the country's rail network. These projects are expected to help drive economic growth and reduce poverty, and to promote Botswana's development as a high-income economy. However, the country still faces a number of challenges, including a high unemployment rate and a reliance on a single industry, and the government will need to continue to work to address these challenges if it is to achieve its development goals.
+
+---
+
+*Evergreen reference content. Verify time-sensitive details with official sources.*

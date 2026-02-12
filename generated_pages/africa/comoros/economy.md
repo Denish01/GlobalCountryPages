@@ -1,0 +1,74 @@
+---
+title: "Comoros Economy - GDP, Industries & Trade"
+entity: "Comoros"
+iso_code: "KM"
+continent: "africa"
+angle: "economy"
+date: "2026-02-12"
+---
+
+# Comoros Economy - GDP, Industries & Trade
+
+[FACTBOX]
+GDP (nominal): ($1.2 billion estimate)
+GDP Per Capita: ($1,350 estimate)
+Income Classification: (Low)
+Main Industries: agriculture, fishing, tourism
+Currency: KMF
+Unemployment Rate: (approximately 14%)
+Ease of Doing Business: (ranked 164 out of 190 countries)
+[/FACTBOX]
+
+[SECTION] Economic Overview [/SECTION]
+Comoros is one of the poorest countries in the world, with a low-income economy that is heavily reliant on agriculture, fishing, and tourism. The country's economy is classified as a developing economy, with a GDP per capita of approximately $1,350. Comoros has a significant amount of potential for growth, with a strategic location in the Indian Ocean and a diverse range of natural resources. However, the country faces a number of challenges, including a lack of infrastructure, a limited skilled workforce, and a high level of dependence on foreign aid.
+
+Comoros's economy has been growing slowly over the past few years, with a growth rate of approximately 2-3% per annum. The country has been working to diversify its economy, with a focus on developing its tourism and manufacturing sectors. However, the economy remains heavily reliant on agriculture, with the majority of the population employed in the sector. The government has been working to improve the business environment, with a range of reforms aimed at attracting foreign investment and promoting economic growth.
+
+Despite these efforts, Comoros's economy remains vulnerable to a number of external shocks, including fluctuations in global commodity prices and changes in the weather. The country is also heavily dependent on foreign aid, with a significant proportion of its budget funded by international donors. As a result, Comoros's economy is subject to a high level of uncertainty, and the country faces a number of challenges in its efforts to achieve sustainable economic growth and development.
+
+[SECTION] Key Industries [/SECTION]
+[TABLE]
+| Industry | Contribution | Details |
+| --- | --- | --- |
+| Agriculture | 40% of GDP | Comoros is a significant producer of crops such as vanilla, cloves, and ylang-ylang, with a focus on small-scale farming |
+| Fishing | 10% of GDP | The country has a significant fishing industry, with a focus on tuna and other seafood |
+| Tourism | 5% of GDP | Comoros has a growing tourism industry, with a focus on eco-tourism and cultural tourism |
+| Manufacturing | 5% of GDP | The country has a small manufacturing sector, with a focus on textiles, food processing, and other light industries |
+| Services | 30% of GDP | The services sector is a significant contributor to Comoros's economy, with a focus on finance, transportation, and other services |
+[/TABLE]
+
+[SECTION] Trade Profile [/SECTION]
+**Top Exports:** 
+- **Vanilla**, which is a significant crop for Comoros and is exported to countries such as France and the United States
+- **Cloves**, which are used in a range of products including perfumes and spices
+- **Ylang-ylang**, which is used in the production of perfumes and other cosmetics
+- **Tuna**, which is caught in Comoros's waters and exported to countries such as Japan and the United States
+- **Perfume oils**, which are produced from Comoros's aromatic plants and exported to countries such as France and the United States
+**Top Imports:** 
+- **Rice**, which is a staple food in Comoros and is imported from countries such as Thailand and Vietnam
+- **Petroleum products**, which are used to fuel Comoros's transportation and energy sectors
+- **Machinery**, which is used in Comoros's manufacturing and agriculture sectors
+- **Textiles**, which are used in Comoros's manufacturing sector
+- **Pharmaceuticals**, which are imported to meet Comoros's health care needs
+**Key Trading Partners:** 
+- France, which is a significant trading partner for Comoros and provides a range of imports and exports
+- China, which is a growing trading partner for Comoros and provides a range of imports including machinery and textiles
+- United Arab Emirates, which is a significant trading partner for Comoros and provides a range of imports including petroleum products
+- India, which is a growing trading partner for Comoros and provides a range of imports including textiles and pharmaceuticals
+- South Africa, which is a significant trading partner for Comoros and provides a range of imports including machinery and vehicles
+
+[SECTION] Infrastructure [/SECTION]
+- Comoros has a limited transportation network, with a focus on roads and ports. The country has a total of approximately 880 kilometers of roads, with a significant proportion of these roads being unpaved.
+- The country has a number of ports, including the port of Moroni, which is the largest port in Comoros. The port of Moroni handles a significant proportion of Comoros's imports and exports.
+- Comoros has a limited energy sector, with a focus on fossil fuels. The country has a number of power plants, including a thermal power plant in Moroni.
+- The country has a growing telecommunications sector, with a focus on mobile phones and internet services. Comoros has a mobile penetration rate of approximately 50%, with a significant proportion of the population having access to mobile phones.
+- Comoros has a number of airports, including the Prince Said Ibrahim International Airport, which is located in Moroni. The airport handles a significant proportion of Comoros's international flights.
+
+[SECTION] Economic Outlook [/SECTION]
+Comoros's economy is expected to continue growing slowly over the next few years, with a focus on developing its tourism and manufacturing sectors. The country has a number of major projects in the pipeline, including a new port in Moroni and a range of infrastructure developments. However, Comoros's economy remains vulnerable to a number of external shocks, including fluctuations in global commodity prices and changes in the weather. The country will need to continue to work to diversify its economy and reduce its dependence on foreign aid if it is to achieve sustainable economic growth and development.
+
+The government of Comoros has a number of development priorities, including improving the business environment, developing the country's infrastructure, and promoting economic growth and development. The country has also been working to improve its governance and institutions, with a focus on reducing corruption and improving transparency. Comoros has also been working to develop its human capital, with a focus on education and health care. Despite these efforts, Comoros's economy remains subject to a high level of uncertainty, and the country faces a number of challenges in its efforts to achieve sustainable economic growth and development.
+
+---
+
+*Evergreen reference content. Verify time-sensitive details with official sources.*

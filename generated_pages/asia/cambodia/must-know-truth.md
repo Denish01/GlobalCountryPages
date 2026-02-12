@@ -1,0 +1,51 @@
+---
+title: "The Truth About Cambodia - History & Real Facts"
+entity: "Cambodia"
+iso_code: "KH"
+continent: "asia"
+angle: "must-know-truth"
+date: "2026-02-12"
+---
+
+# The Truth About Cambodia - History & Real Facts
+
+[SECTION] Historical Context [/SECTION]
+Cambodia has a rich and complex history that spans over two millennia. The **Funan Kingdom**, which is considered one of the earliest civilizations in Cambodia, was established in the 1st century AD. The kingdom was later replaced by the **Chenla Kingdom** in the 6th century AD, which was then divided into two kingdoms: **Land Chenla** and **Water Chenla**. In the 9th century AD, the **Angkorian Empire** was established, and it is during this period that Cambodia experienced its golden age, with the construction of the famous **Angkor Wat** temple complex.
+
+In the 15th century AD, the Angkorian Empire began to decline, and Cambodia was eventually colonized by **France** in the 19th century AD. The French colonization of Cambodia lasted for nearly a century, until Cambodia gained its independence on November 9, 1953. After independence, Cambodia experienced a period of instability, with the rise of the **Khmer Rouge** in the 1970s. The Khmer Rouge regime, led by **Pol Pot**, was responsible for the deaths of an estimated 1.7 to 2.2 million people, out of a population of approximately 8 million, due to executions, forced labor, and starvation.
+
+The Khmer Rouge regime was eventually overthrown in 1979, and Cambodia has since been working to rebuild and recover. In 1993, Cambodia adopted a **constitutional monarchy** system, with **King Norodom Sihanouk** as the head of state. Today, Cambodia is a **sovereign state**, with a population of over 17 million people, and a growing economy.
+
+The country's history has had a significant impact on its culture and society, with many **Buddhist temples** and **cultural festivals** still being celebrated today. The **Khmer language** is the official language of Cambodia, and it is spoken by the vast majority of the population. The country's **currency**, the **Riel**, has been in use since 1980, although the **US dollar** is also widely accepted.
+
+[SECTION] Common Misconceptions [/SECTION]
+[CALLOUT] Misconception: "Cambodia is a small country with a limited geography"
+Reality: Cambodia is a country with a diverse geography, including **mountains**, **forests**, and **coastal areas**, with a total area of approximately 181,035 square kilometers. [/CALLOUT]
+[CALLOOUT] Misconception: "Cambodian culture is similar to Thai culture"
+Reality: While Cambodia and Thailand share some cultural similarities, Cambodian culture is unique and has its own distinct **traditions**, **customs**, and **festivals**, such as the **Water Festival** and the **Pchum Ben** festival. [/CALLOUT]
+[CALLOUT] Misconception: "Cambodia is not a safe country to visit"
+Reality: While Cambodia has experienced some safety concerns in the past, the country has made significant progress in recent years, and **tourist areas** are generally considered safe, with low crime rates compared to other countries in the region. [/CALLOUT]
+[CALLOUT] Misconception: "Cambodia's economy is primarily based on agriculture"
+Reality: While agriculture is an important sector in Cambodia's economy, the country has a **diversified economy**, with significant contributions from **manufacturing**, **tourism**, and **services**, with a growing **garment industry** and a **rising middle class**. [/CALLOUT]
+[CALLOUT] Misconception: "Cambodians are not friendly to tourists"
+Reality: Cambodians are known for their **hospitality** and **friendliness**, with many **tourist-friendly** towns and cities, such as **Siem Reap** and **Sihanoukville**, which offer a range of **accommodations**, **restaurants**, and **activities** for visitors. [/CALLOUT]
+[CALLOUT] Misconception: "Cambodia is a poor country with limited infrastructure"
+Reality: While Cambodia is still a **developing country**, it has made significant progress in recent years, with improvements in **infrastructure**, such as **roads**, **airports**, and **ports**, and a growing **middle class** with increasing access to **education**, **healthcare**, and **technology**. [/CALLOUT]
+
+[SECTION] Challenges & Context [/SECTION]
+- The country still faces significant **poverty** and **inequality**, with an estimated 17.7% of the population living below the poverty line.
+- Cambodia has a **limited healthcare system**, with a shortage of medical professionals and facilities, particularly in rural areas.
+- The country is vulnerable to **climate change**, with rising temperatures and changing weather patterns affecting **agriculture** and **water resources**.
+- Cambodia has a **corruption problem**, with a ranking of 161 out of 180 countries in the **Corruption Perceptions Index**.
+- The country is working to address these challenges, with a focus on **sustainable development** and **human rights**, and a commitment to achieving the **United Nations' Sustainable Development Goals**.
+
+[SECTION] What Gets Overlooked [/SECTION]
+- Cambodia has a **thriving arts scene**, with a range of **museums**, **galleries**, and **festivals** celebrating **traditional** and **contemporary** art.
+- The country is home to a **diverse range of wildlife**, including **elephants**, **tigers**, and **crocodiles**, with a number of **national parks** and **wildlife sanctuaries**.
+- Cambodia has a **growing tech industry**, with a number of **startups** and **innovation hubs**, and a focus on **digital transformation** and **e-commerce**.
+- The country has a **rich culinary tradition**, with a range of **traditional dishes**, such as **fish amok** and **nom banh chok**, and a growing **food scene** with a range of **restaurants** and **cafes**.
+- Cambodia is home to a number of **ancient temples** and **historical sites**, including the **Angkor Wat** complex, which is a **UNESCO World Heritage Site**, and the **Koh Ker** temple complex, which is a **less-visited** but equally impressive site.
+
+---
+
+*Evergreen reference content. Verify time-sensitive details with official sources.*

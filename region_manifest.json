@@ -1,34 +1,34 @@
 {
   "version": "1.0",
-  "last_updated": "2026-02-11T05:13:57.950947",
+  "last_updated": "2026-02-12T04:51:15.714526",
   "continents": {
     "asia": {
       "entities": 52,
-      "pages_generated": 169,
+      "pages_generated": 196,
       "pages_total": 572,
       "status": "in_progress"
     },
     "europe": {
       "entities": 53,
-      "pages_generated": 171,
+      "pages_generated": 202,
       "pages_total": 583,
       "status": "in_progress"
     },
     "africa": {
       "entities": 58,
-      "pages_generated": 167,
+      "pages_generated": 264,
       "pages_total": 638,
       "status": "in_progress"
     },
     "north-america": {
       "entities": 41,
-      "pages_generated": 129,
+      "pages_generated": 156,
       "pages_total": 451,
       "status": "in_progress"
     },
     "south-america": {
       "entities": 15,
-      "pages_generated": 59,
+      "pages_generated": 77,
       "pages_total": 165,
       "status": "in_progress"
     },
@@ -42,7 +42,7 @@
   "totals": {
     "entities_complete": 0,
     "entities_total": 244,
-    "pages_generated": 754,
+    "pages_generated": 954,
     "pages_estimated": 18000
   }
 }
