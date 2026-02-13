@@ -1,0 +1,51 @@
+---
+title: "The Truth About Iraq - History & Real Facts"
+entity: "Iraq"
+iso_code: "IQ"
+continent: "asia"
+angle: "must-know-truth"
+date: "2026-02-13"
+---
+
+# The Truth About Iraq - History & Real Facts
+
+[SECTION] Historical Context [/SECTION]
+Iraq, a sovereign country located in Asia, has a rich and complex history that spans thousands of years. The region was first inhabited by ancient civilizations, including the **Sumerians**, **Babylonians**, and **Assyrians**, who made significant contributions to the development of writing, governance, and architecture. In the 7th century AD, Iraq was conquered by the Arabs, who introduced **Islam** to the region and established it as a major center of Islamic learning and culture. The **Ottoman Empire** later ruled Iraq from the 16th century until the end of World War I, when it was mandated to the United Kingdom by the **League of Nations**.
+
+Iraq gained independence from the United Kingdom on October 3, 1932, and became a **monarchy** under the rule of King Faisal II. However, the monarchy was overthrown in a **revolution** in 1958, and Iraq became a **republic**. The country was then ruled by a series of **military governments**, including that of Saddam Hussein, who came to power in 1979 and ruled until his overthrow in 2003. Since then, Iraq has been a **federal parliamentary republic**, with a **constitution** that was adopted in 2005.
+
+The country's history has been marked by periods of conflict, including the **Iran-Iraq War** (1980-1988) and the **Gulf War** (1990-1991). The US-led invasion of Iraq in 2003 led to a prolonged period of instability and violence, including the **Iraq War** (2003-2011) and the **Iraqi insurgency**. Today, Iraq continues to face challenges related to security, governance, and economic development. The country has a diverse population of over 44 million people, with **Arabic** and **Kurdish** being the official languages.
+
+Iraq's strategic location at the crossroads of Asia, Europe, and Africa has made it an important center of trade and commerce throughout history. The country's economy is largely based on **oil exports**, which account for the majority of its revenue. However, Iraq is also rich in cultural heritage, with a number of important archaeological sites, including **Babylon** and **Ur**, which are recognized as **UNESCO World Heritage sites**.
+
+[SECTION] Common Misconceptions [/SECTION]
+[CALLOUT] Misconception: "Iraq is a desert country with no natural resources."
+Reality: While it is true that much of Iraq is desert, the country is also home to the **Tigris** and **Euphrates** rivers, which provide water and fertile soil for agriculture. Iraq is also rich in oil reserves, with an estimated 147 billion barrels of proven oil reserves. [/CALLOUT]
+[CALLOUT] Misconception: "Iraqis are all Muslims."
+Reality: While the majority of Iraqis are indeed **Muslims**, the country is also home to a number of other religious groups, including **Christians**, **Yazidis**, and **Mandaeans**. [/CALLOUT]
+[CALLOUT] Misconception: "Iraq is a dangerous country with no tourist attractions."
+Reality: While it is true that Iraq has faced security challenges in the past, the country is also home to a number of important cultural and historical sites, including the ancient city of **Ur** and the **National Museum of Iraq** in Baghdad. [/CALLOUT]
+[CALLOUT] Misconception: "The Iraqi economy is entirely dependent on oil exports."
+Reality: While oil exports are an important part of the Iraqi economy, the country is also working to diversify its economy and develop other sectors, such as **agriculture** and **manufacturing**. [/CALLOUT]
+[CALLOUT] Misconception: "Iraqis are not friendly to foreigners."
+Reality: Iraqis are known for their hospitality and welcoming nature, and many visitors to the country have reported receiving a warm and friendly reception. [/CALLOUT]
+[CALLOUT] Misconception: "Iraq has no modern infrastructure or amenities."
+Reality: While some parts of Iraq are still recovering from the damage caused by conflict, the country has a number of modern cities, including **Baghdad** and **Erbil**, which offer a range of amenities and services, including **airports**, **hotels**, and **shopping centers**. [/CALLOUT]
+
+[SECTION] Challenges & Context [/SECTION]
+- The country faces significant security challenges, including the ongoing threat from **terrorist groups** such as **ISIS**.
+- Iraq is working to recover from the damage caused by decades of conflict and **sanctions**, which have had a major impact on the country's **infrastructure** and **economy**.
+- The country is also facing a number of environmental challenges, including **water scarcity** and **pollution**, which are affecting the health and well-being of its citizens.
+- Iraq's **education system** is underdeveloped, with many schools and universities still recovering from the damage caused by conflict.
+- The country's **health system** is also facing significant challenges, including a shortage of **medical supplies** and **trained healthcare professionals**.
+
+[SECTION] What Gets Overlooked [/SECTION]
+- Iraq has a rich and diverse cultural heritage, with a number of important archaeological sites and historical landmarks, including the **Ziggurat of Ur** and the **Mosque of the Imam Ali**.
+- The country is home to a number of important **universities** and **research institutions**, including the **University of Baghdad** and the **Iraqi Institute for the Conservation of Antiquities and Heritage**.
+- Iraq has a thriving **arts scene**, with a number of talented **painters**, **sculptors**, and **musicians** who are working to promote the country's cultural heritage.
+- The country is also home to a number of important **natural resources**, including **fish** and **dates**, which are an important part of the Iraqi **diet** and **economy**.
+- Iraq has a number of **traditional festivals** and **celebrations**, including the **Nowruz** festival, which is celebrated by **Kurds** and other communities in the region.
+
+---
+
+*Evergreen reference content. Verify time-sensitive details with official sources.*

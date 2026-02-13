@@ -1,0 +1,58 @@
+---
+title: "Jamaica Visa & Entry Requirements"
+entity: "Jamaica"
+iso_code: "JM"
+continent: "north-america"
+angle: "visa-and-entry"
+date: "2026-02-13"
+---
+
+# Jamaica Visa & Entry Requirements
+
+[CALLOUT] Visa rules change frequently. Always verify current requirements with the official embassy or consulate of Jamaica before traveling. [/CALLOUT]
+
+[SECTION] Visa Policy Overview [/SECTION]
+Jamaica has a moderate visa policy, allowing citizens of over 100 countries to enter the island nation without a visa or with a visa on arrival. The country is a popular tourist destination, and its visa policy reflects this, with a focus on facilitating travel for visitors from around the world. Citizens of countries that do not require a visa can stay in Jamaica for up to 90 days, depending on their nationality. Jamaica is a member of the Caribbean Community (CARICOM) and has a common visa policy with other member states.
+
+The Jamaican government has implemented various measures to simplify the entry process for tourists, including the introduction of an online visa application system and the expansion of visa-free travel to citizens of certain countries. However, it's essential to note that visa requirements can change, and travelers should always check with the official embassy or consulate of Jamaica for the most up-to-date information before planning their trip.
+
+[SECTION] Requirements By Nationality [/SECTION]
+| Nationality | Visa Required? | Type | Max Stay | Notes |
+| --- | --- | --- | --- | --- |
+| US Citizens | No | Tourist | 90 days | No visa required for tourism or business stays up to 90 days |
+| UK Citizens | No | Tourist | 90 days | No visa required for tourism or business stays up to 90 days |
+| EU Citizens | No | Tourist | 90 days | No visa required for tourism or business stays up to 90 days |
+| Canadian Citizens | No | Tourist | 90 days | No visa required for tourism or business stays up to 90 days |
+| Australian Citizens | No | Tourist | 90 days | No visa required for tourism or business stays up to 90 days |
+| Indian Citizens | Yes | Tourist | 30 days | Visa required, can be obtained on arrival or prior to travel |
+| Chinese Citizens | Yes | Tourist | 30 days | Visa required, must be obtained prior to travel |
+
+[SECTION] By Visitor Type [/SECTION]
+**Tourists:** Tourists can stay in Jamaica for up to 90 days without a visa, depending on their nationality. To enter Jamaica as a tourist, visitors will need to provide proof of onward travel, sufficient funds, and a valid passport. Extensions of stay can be applied for at the Jamaican Immigration Department. **Business Travelers:** Business travelers may require a visa, depending on their nationality and the purpose of their visit. They will need to provide an invitation letter from a Jamaican company, proof of business activities, and a valid passport. **Students:** Students will need to provide proof of enrollment at a Jamaican educational institution, a valid passport, and sufficient funds to support themselves during their stay. The duration of stay will depend on the length of their course. **Workers:** Workers will need to have a job offer from a Jamaican employer and a valid work permit. The application process involves submitting documents to the Jamaican Labour Department and obtaining a work visa.
+
+[SECTION] Documents Checklist [/SECTION]
+1. A valid passport with at least six months' validity
+2. Completed immigration form (provided on arrival or downloadable from the Jamaican government website)
+3. Proof of onward travel (return ticket or reservation)
+4. Proof of sufficient funds (cash, credit cards, or traveler's checks)
+5. Hotel reservation or confirmation of accommodation
+6. Health insurance documents (if required)
+7. Invitation letter (for business travelers)
+8. Proof of enrollment (for students)
+9. Work permit (for workers)
+10. Police certificate (if required)
+
+[SECTION] Entry Points & Procedures [/SECTION]
+The main airports in Jamaica are Norman Manley International Airport in Kingston and Sangster International Airport in Montego Bay. Visitors can also enter Jamaica by land or sea, with border crossings at various points along the coast. Upon arrival, visitors will need to present their travel documents and complete an immigration form. The immigration process typically involves a brief interview with a customs officer, who will ask questions about the purpose of the visit, length of stay, and accommodation arrangements. Visitors may also be required to provide fingerprints and undergo a security screening.
+
+[SECTION] Common Mistakes To Avoid [/SECTION]
+- Failing to provide proof of onward travel or sufficient funds
+- Not having a valid passport with at least six months' validity
+- Not completing the immigration form correctly
+- Not having the required documents for business or student travel
+- Not declaring goods or currency in excess of the allowed limits
+- Not having health insurance documents (if required)
+
+---
+
+*Evergreen reference content. Verify time-sensitive details with official sources.*

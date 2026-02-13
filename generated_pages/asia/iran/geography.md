@@ -1,0 +1,56 @@
+---
+title: "Iran Geography - Location, Terrain & Climate"
+entity: "Iran"
+iso_code: "IR"
+continent: "asia"
+angle: "geography"
+date: "2026-02-13"
+---
+
+# Iran Geography - Location, Terrain & Climate
+
+[FACTBOX]
+Land Area: 1,648,195 km2, about the size of Alaska
+Highest Point: Mount Damavand, 5,671 meters
+Lowest Point: Caspian Sea, -28 meters
+Coastline: 2,440 km
+Borders: Iraq, Turkey, Armenia, Azerbaijan, Turkmenistan, Afghanistan, Pakistan
+Climate Type: arid
+[/FACTBOX]
+
+[SECTION] Location & Borders [/SECTION]
+Iran is located in the Middle East, situated in southwestern Asia. It is bordered by several countries, including Iraq and Turkey to the west, Armenia, Azerbaijan, and Turkmenistan to the north, Afghanistan and Pakistan to the east, and the Persian Gulf and the Gulf of Oman to the south. The Caspian Sea lies to the north, and the country's coastline along the Persian Gulf and the Gulf of Oman provides access to the Arabian Sea and the Indian Ocean. This strategic location has made Iran an important center for trade and cultural exchange throughout history.
+
+Iran's borders are defined by a combination of natural and artificial boundaries. The Zagros Mountains form a natural border with Iraq, while the Alborz Mountains separate the country from Turkey and Armenia. The eastern border with Afghanistan and Pakistan is marked by the **Hindu Kush** mountain range. The country's coastline along the Persian Gulf and the Gulf of Oman is approximately 2,440 km long, providing access to major shipping lanes and ports. Iran's diverse geography and climate have created a range of ecosystems, from **deserts** to **mountain forests**, that support a wide variety of flora and fauna.
+
+[SECTION] Terrain & Landscape [/SECTION]
+Iran's terrain is characterized by a combination of mountains, deserts, and coastal plains. The **Zagros Mountains** stretch across the western part of the country, while the **Alborz Mountains** run along the southern shore of the Caspian Sea. The highest point in the country is **Mount Damavand**, a volcanic peak that rises to 5,671 meters. The **Dasht-e Kavir** and **Dasht-e Lut** deserts cover much of the central and eastern parts of the country, and are known for their extreme heat and aridity. The coastal plains along the Persian Gulf and the Gulf of Oman are generally flat and low-lying, with many **mangrove forests** and **salt marshes** that provide habitat for a wide range of marine life.
+
+The country's landscape is also marked by several major rivers, including the **Karun**, **Karkheh**, and **Zayanderud**. These rivers support irrigation and agriculture in the surrounding valleys, and provide water for drinking and other uses. The **Lake Urmia**, a saltwater lake in the northwest, is an important stopover for migratory birds and a key habitat for several endangered species. Iran's diverse landscape has created a range of ecosystems, from **temperate forests** to **tropical regions**, that support a wide variety of plant and animal life.
+
+The country's terrain has also played a significant role in shaping its history and culture. The **Silk Road**, a major trade route that connected Europe and Asia, passed through Iran, and the country's strategic location has made it an important center for commerce and cultural exchange. The **mountain passes** and **desert trade routes** that crisscross the country have been used for centuries, and continue to play an important role in the country's economy and culture.
+
+[SECTION] Climate By Season [/SECTION]
+[TABLE]
+| Season | Months | Temperature Range | Rainfall | Conditions |
+| --- | --- | --- | --- | --- |
+| Spring | March to May | 10-25°C | moderate | mild, with some rain |
+| Summer | June to August | 25-40°C | low | hot, dry, and sunny |
+| Autumn | September to November | 10-25°C | moderate | mild, with some rain |
+| Winter | December to February | -10 to 10°C | high | cold, with some snow |
+[/TABLE]
+
+[SECTION] Best Time To Visit [/SECTION]
+[CALLOUT] Best months: September to November and March to May. Why: The weather is mild and pleasant, with moderate temperatures and rainfall, making it ideal for sightseeing and outdoor activities. Avoid: June to August, as the heat can be extreme, and December to February, as the cold weather and snow can make travel difficult. [/CALLOUT]
+
+[SECTION] Natural Highlights [/SECTION]
+- **Golestan National Park**: a protected area in the north that is home to a wide range of flora and fauna, including the endangered **Asiatic cheetah**.
+- **Dasht-e Lut Desert**: a unique and extreme environment that is known for its high temperatures and arid conditions.
+- **Lake Urmia**: a saltwater lake that is an important stopover for migratory birds and a key habitat for several endangered species.
+- **Mount Damavand**: the highest peak in the country, and a popular destination for hiking and climbing.
+- **Hara Forests**: a network of mangrove forests along the Persian Gulf coast that provide habitat for a wide range of marine life.
+- **Kavir National Park**: a protected area in the center of the country that is home to a wide range of flora and fauna, including the endangered **Persian leopard**.
+
+---
+
+*Evergreen reference content. Verify time-sensitive details with official sources.*
