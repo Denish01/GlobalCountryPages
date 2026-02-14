@@ -1,0 +1,74 @@
+---
+title: "Malawi Economy - GDP, Industries & Trade"
+entity: "Malawi"
+iso_code: "MW"
+continent: "africa"
+angle: "economy"
+date: "2026-02-14"
+---
+
+# Malawi Economy - GDP, Industries & Trade
+
+[FACTBOX]
+GDP (nominal): ($1.43 billion estimate)
+GDP Per Capita: ($69,355 estimate)
+Income Classification: (Low)
+Main Industries: (Agriculture, Mining, Manufacturing)
+Currency: MWK
+Unemployment Rate: (20% approximate)
+Ease of Doing Business: (132 general ranking context)
+[/FACTBOX]
+
+[SECTION] Economic Overview [/SECTION]
+Malawi is a low-income economy with a GDP per capita of approximately $69,355. The country's economy is primarily driven by agriculture, which accounts for about 30% of the GDP and employs nearly 80% of the workforce. Malawi's economic development level is relatively low, with a high dependence on foreign aid and a limited industrial base. The country's economic trajectory has been impacted by various factors, including climate change, corruption, and a lack of economic diversification.
+
+Malawi's economy has been growing at a moderate rate, with an average annual growth rate of about 4% over the past decade. However, the country still faces significant development challenges, including high levels of poverty and inequality. The government has implemented various policies and programs aimed at promoting economic growth and reducing poverty, including the Malawi Growth and Development Strategy. Despite these efforts, Malawi's economy remains vulnerable to external shocks, including fluctuations in global commodity prices and weather-related disasters.
+
+The Malawi government has been working to improve the business environment and attract foreign investment. The country has made progress in simplifying regulatory procedures and reducing bureaucratic hurdles, but more needs to be done to improve the ease of doing business. Malawi's economic outlook is closely tied to the performance of the agricultural sector, which is vulnerable to climate change and other external factors. To promote economic growth and reduce poverty, the government needs to diversify the economy, invest in human capital, and improve the business environment.
+
+[SECTION] Key Industries [/SECTION]
+[TABLE]
+| Industry | Contribution | Details |
+| --- | --- | --- |
+| Agriculture | 30% | Tobacco, tea, sugarcane, and maize are the main crops, with tobacco being the largest export earner |
+| Mining | 10% | Uranium, coal, and gemstones are the main minerals extracted, with uranium being a significant export |
+| Manufacturing | 15% | Textiles, food processing, and beverages are the main manufacturing activities, with a growing focus on export-oriented production |
+| Services | 40% | Financial services, tourism, and telecommunications are the main service sectors, with a growing IT sector |
+| Tourism | 5% | Lake Malawi, Mount Mulanje, and the Nyika National Park are the main tourist attractions, with a focus on eco-tourism and adventure tourism |
+[/TABLE]
+
+[SECTION] Trade Profile [/SECTION]
+**Top Exports:** 
+- Tobacco: Malawi is one of the largest tobacco producers in the world, with the crop being a significant export earner.
+- Tea: Malawi is a major tea producer, with the crop being exported to countries such as the UK and Germany.
+- Sugarcane: Sugarcane is another important crop, with the country producing sugar for both domestic consumption and export.
+- Uranium: Malawi is a significant producer of uranium, with the mineral being exported to countries such as China and Russia.
+- Maize: Maize is a staple crop in Malawi, with the country exporting surplus production to neighboring countries.
+**Top Imports:** 
+- Petroleum products: Malawi imports a significant amount of petroleum products, including gasoline and diesel.
+- Machinery: The country imports machinery and equipment, including agricultural machinery and construction equipment.
+- Electronics: Malawi imports electronic goods, including computers and mobile phones.
+- Vehicles: The country imports vehicles, including cars and trucks.
+- Pharmaceuticals: Malawi imports pharmaceuticals, including medicines and medical equipment.
+**Key Trading Partners:** 
+- China: China is one of Malawi's largest trading partners, with the country importing a significant amount of goods from China.
+- South Africa: South Africa is another major trading partner, with Malawi importing goods such as petroleum products and machinery.
+- India: India is a significant trading partner, with Malawi importing goods such as textiles and pharmaceuticals.
+- United States: The US is a major trading partner, with Malawi exporting goods such as tobacco and tea to the US.
+- United Kingdom: The UK is another significant trading partner, with Malawi exporting goods such as tea and tobacco to the UK.
+
+[SECTION] Infrastructure [/SECTION]
+- The road network in Malawi is relatively well-developed, with a total of about 15,000 km of roads, including paved and unpaved roads.
+- The country has a rail network of about 797 km, with the railway connecting Malawi to the port of Nacala in Mozambique.
+- The energy sector in Malawi is dominated by hydropower, with the country generating about 90% of its electricity from hydroelectric power plants.
+- Internet and mobile penetration in Malawi is growing, with about 40% of the population having access to the internet and about 70% having access to mobile phones.
+- Malawi has two international airports, Kamuzu International Airport and Chileka International Airport, with the country being a member of the Southern African Development Community (SADC) and the Common Market for Eastern and Southern Africa (COMESA).
+
+[SECTION] Economic Outlook [/SECTION]
+Malawi's economic outlook is positive, with the country expected to continue growing at a moderate rate. The government has implemented various policies and programs aimed at promoting economic growth and reducing poverty, including the Malawi Growth and Development Strategy. The country's economic growth is expected to be driven by the agricultural sector, which is expected to continue growing due to government support and investment in irrigation and other agricultural infrastructure.
+
+However, Malawi's economy still faces significant challenges, including a high dependence on foreign aid, a limited industrial base, and a vulnerability to external shocks. To promote economic growth and reduce poverty, the government needs to diversify the economy, invest in human capital, and improve the business environment. The country also needs to address the challenges posed by climate change, including droughts and floods, which can have a significant impact on the agricultural sector. With the right policies and investments, Malawi has the potential to achieve significant economic growth and reduce poverty, but it will require careful planning and implementation.
+
+---
+
+*Evergreen reference content. Verify time-sensitive details with official sources.*

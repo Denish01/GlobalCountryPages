@@ -1,0 +1,77 @@
+---
+title: "Moldova Cities & Regions Guide"
+entity: "Moldova"
+iso_code: "MD"
+continent: "europe"
+angle: "cities-and-regions"
+date: "2026-02-14"
+---
+
+# Moldova Cities & Regions Guide
+
+[FACTBOX]
+Administrative Divisions: 32 districts, 3 municipalities, and 2 autonomous territories
+Largest City: Chisinau, population 690,000
+Capital: Chisinau
+Number of Cities Over 1M: 0
+[/FACTBOX]
+
+[SECTION] How Moldova Is Divided [/SECTION]
+Moldova is a sovereign state located in Eastern Europe, bordered by Romania and Ukraine. The country is divided into 32 districts, 3 municipalities, and 2 autonomous territories. The districts are further divided into communes and cities, with the municipalities of Chisinau, Balti, and Tighina having a special status. The autonomous territories of Gagauzia and Transnistria have a significant degree of autonomy, with their own governments and laws. This administrative structure allows for a balance of power between the central government and the regional authorities.
+
+The division of Moldova into districts and municipalities is based on geographical and historical factors. The country's terrain is characterized by rolling hills and plains, with the Dniester River forming a natural border with Ukraine. The districts are often named after the main city or town in the area, and they have their own local governments and administrations. The municipalities of Chisinau, Balti, and Tighina have a higher degree of autonomy, with their own mayors and city councils.
+
+[SECTION] Major Cities [/SECTION]
+**Chisinau** (population 690,000)
+Role: capital, economic hub, cultural center
+Known For: Chisinau is a vibrant city with a rich history, cultural attractions, and a lively nightlife. The city is home to many museums, theaters, and historical landmarks, including the National Museum of Ethnography and Natural History and the Stephen the Great Park.
+Best For: visitors interested in history, culture, and nightlife
+
+**Tiraspol** (population 150,000)
+Role: administrative center of Transnistria
+Known For: Tiraspol is a city with a unique history and culture, located in the autonomous territory of Transnistria. The city is home to many historical landmarks, including the Tiraspol Museum of History and the Noul Neamț Monastery.
+Best For: visitors interested in history and politics
+
+**Balti** (population 150,000)
+Role: economic hub, industrial center
+Known For: Balti is a city located in the north of Moldova, known for its industrial and economic significance. The city is home to many factories and manufacturing plants, and it has a rich cultural scene, with many museums and theaters.
+Best For: visitors interested in industry and economy
+
+**Orhei** (population 30,000)
+Role: cultural center, historical town
+Known For: Orhei is a town located in the center of Moldova, known for its rich history and cultural significance. The town is home to many historical landmarks, including the Orheiul Vechi Monastery and the Orhei Fortress.
+Best For: visitors interested in history and culture
+
+**Soroca** (population 30,000)
+Role: port city, industrial center
+Known For: Soroca is a city located on the Dniester River, known for its industrial and economic significance. The city is home to many factories and manufacturing plants, and it has a rich cultural scene, with many museums and theaters.
+Best For: visitors interested in industry and economy
+
+[SECTION] Key Regions [/SECTION]
+[TABLE]
+| Region | Character | Known For | Major City |
+| --- | --- | --- | --- |
+| Chisinau Municipality | urban, cultural | historic landmarks, nightlife | Chisinau |
+| Gagauzia | rural, autonomous | wine production, folk culture | Comrat |
+| Transnistria | industrial, autonomous | heavy industry, Soviet-era architecture | Tiraspol |
+| Orhei District | rural, historical | ancient monasteries, fortresses | Orhei |
+| Balti Municipality | urban, industrial | manufacturing, trade | Balti |
+| Soroca District | rural, scenic | Dniester River, wine production | Soroca |
+| Cahul District | rural, agricultural | wine production, folk culture | Cahul |
+| Ungheni District | rural, industrial | manufacturing, trade | Ungheni |
+[/TABLE]
+
+[SECTION] Regional Differences [/SECTION]
+- The regions of Moldova differ significantly in terms of culture, with the Gagauzia region having a unique Turkish-influenced culture and the Transnistria region having a Soviet-era culture.
+- The economy of the regions also varies, with the Chisinau Municipality and the Balti Municipality being the main economic hubs, and the rural regions being primarily agricultural.
+- The climate of the regions is similar, with a temperate continental climate and four distinct seasons.
+- The language spoken in the regions is also different, with Romanian being the official language, but Russian and Ukrainian being widely spoken in the Transnistria region.
+
+[SECTION] Getting Around [/SECTION]
+Moldova has a well-developed public transportation system, with buses and trains connecting the main cities and towns. The country has a total of 12,000 kilometers of roads, with the main highway connecting Chisinau to the Ukrainian border. The capital city, Chisinau, has a comprehensive public transportation system, with buses and trolleybuses connecting the different parts of the city. The country also has a number of domestic flights, with the Chisinau International Airport being the main hub. The driving conditions in Moldova are generally good, with well-maintained roads and a low crime rate. However, the traffic in the capital city can be congested, especially during rush hour.
+
+The train network in Moldova is also well-developed, with trains connecting the main cities and towns. The trains are a convenient and affordable way to travel, with prices starting from around 10 MDL for a one-way ticket. The buses are also a popular mode of transportation, with many private companies operating bus services between the cities and towns. The prices for bus tickets are similar to those for train tickets, with prices starting from around 10 MDL for a one-way ticket. Overall, Moldova has a well-developed transportation system, making it easy to get around the country and explore its many attractions.
+
+---
+
+*Evergreen reference content. Verify time-sensitive details with official sources.*

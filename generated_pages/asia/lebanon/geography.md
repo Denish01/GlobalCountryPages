@@ -1,0 +1,56 @@
+---
+title: "Lebanon Geography - Location, Terrain & Climate"
+entity: "Lebanon"
+iso_code: "LB"
+continent: "asia"
+angle: "geography"
+date: "2026-02-14"
+---
+
+# Lebanon Geography - Location, Terrain & Climate
+
+[FACTBOX]
+Land Area: 10,452 km2, about the size of Connecticut
+Highest Point: Qurnat as Sawda', 3,088 meters
+Lowest Point: Mediterranean Sea, 0 meters
+Coastline: 225 km
+Borders: Syria, Israel
+Climate Type: Mediterranean
+[/FACTBOX]
+
+[SECTION] Location & Borders [/SECTION]
+Lebanon is a small, sovereign country located in Western Asia, on the eastern shore of the Mediterranean Sea. It is bordered by two countries: Syria to the north and east, and Israel to the south. The country's strategic location has made it an important hub for trade and cultural exchange throughout history. Lebanon's coastline stretches for approximately 225 kilometers, providing access to the Mediterranean Sea and facilitating the country's maritime trade.
+
+Lebanon's geography is characterized by its mountainous terrain, with the **Lebanon Mountains** running parallel to the coastline. The country's borders with Syria and Israel are marked by a combination of natural and artificial boundaries, including the **Litani River** and the **Golan Heights**. The capital city, Beirut, is located on the coast, about midway between the country's northern and southern borders. Lebanon's unique location at the crossroads of Europe, Asia, and Africa has made it a melting pot of cultures, with a rich history and diverse heritage.
+
+[SECTION] Terrain & Landscape [/SECTION]
+Lebanon's terrain is dominated by mountains, with the **Lebanon Mountains** and the **Anti-Lebanon Mountains** forming the country's backbone. The Lebanon Mountains run parallel to the coastline, with peaks reaching elevations of over 3,000 meters. The **Bekaa Valley**, a fertile and densely populated region, lies between the two mountain ranges. The valley is watered by the **Litani River**, which flows southwards through the country and empties into the Mediterranean Sea. Lebanon's coastline is generally rocky, with few natural harbors, but the country's scenic beaches and coves make it a popular destination for tourists.
+
+Lebanon's landscape is also characterized by its forests, which cover about 13% of the country's land area. The **Cedar of Lebanon**, a iconic and culturally significant tree, is native to the country and can be found in the mountainous regions. The country's diverse geography supports a wide range of flora and fauna, including **olive groves**, **vineyards**, and **orchards**. Lebanon's natural beauty, combined with its rich cultural heritage, makes it a unique and fascinating destination for travelers.
+
+The country's terrain has also played a significant role in shaping its history and economy. The mountains have provided a natural barrier against invaders, while the valleys and coastal plains have supported agriculture and trade. Lebanon's strategic location and natural resources have made it an important center for commerce and industry, with a strong focus on **textiles**, **food processing**, and **tourism**.
+
+[SECTION] Climate By Season [/SECTION]
+[TABLE]
+| Season | Months | Temperature Range | Rainfall | Conditions |
+| --- | --- | --- | --- | --- |
+| Winter | December to February | 10-15°C | High | Cool and wet, with occasional snow in the mountains |
+| Spring | March to May | 15-25°C | Moderate | Mild and sunny, with wildflowers blooming in the valleys |
+| Summer | June to August | 25-35°C | Low | Hot and dry, with high humidity in the coastal regions |
+| Autumn | September to November | 15-25°C | Moderate | Mild and sunny, with harvest season in the valleys and mountains |
+[/TABLE]
+
+[SECTION] Best Time To Visit [/SECTION]
+[CALLOUT] Best months: September to November and March to May. Why: These periods offer mild and sunny weather, with comfortable temperatures and fewer crowds. Avoid: June to August, as the summer heat can be intense, and December to February, when the weather can be cool and wet. [/CALLOUT]
+
+[SECTION] Natural Highlights [/SECTION]
+- The **Jeita Grotto**, a stunning limestone cave system located near Beirut, featuring impressive rock formations and underground rivers.
+- The **Cedar of Lebanon**, a iconic and culturally significant tree, found in the mountainous regions and considered a national symbol.
+- The **Bekaa Valley**, a fertile and densely populated region, known for its vineyards, orchards, and scenic landscapes.
+- The **Litani River**, a major watercourse that flows southwards through the country and empties into the Mediterranean Sea.
+- The **Qurnat as Sawda'**, the highest peak in Lebanon, offering breathtaking views of the surrounding landscape and the Mediterranean Sea.
+- The **Palm Islands Nature Reserve**, a protected area located off the coast of Tripoli, providing a habitat for diverse marine life and a popular spot for snorkeling and diving.
+
+---
+
+*Evergreen reference content. Verify time-sensitive details with official sources.*

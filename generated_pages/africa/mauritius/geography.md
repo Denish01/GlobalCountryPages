@@ -1,0 +1,56 @@
+---
+title: "Mauritius Geography - Location, Terrain & Climate"
+entity: "Mauritius"
+iso_code: "MU"
+continent: "africa"
+angle: "geography"
+date: "2026-02-14"
+---
+
+# Mauritius Geography - Location, Terrain & Climate
+
+[FACTBOX]
+Land Area: 2,040 km2, about the size of the state of Rhode Island
+Highest Point: Piton de la Petite Rivière Noire, 828 meters
+Lowest Point: Indian Ocean, 0 meters
+Coastline: 177 km
+Borders: None, but located near Madagascar and Reunion
+Climate Type: Tropical
+[/FACTBOX]
+
+[SECTION] Location & Borders [/SECTION]
+Mauritius is an island nation located in the Indian Ocean, off the coast of East Africa. It is situated approximately 2,000 kilometers east of the African continent, and is part of the Mascarene Islands, a group of islands that also includes Reunion and Rodrigues. The country is surrounded by the Indian Ocean, with no land borders, but is situated near the islands of Madagascar and Reunion. The strategic location of Mauritius has made it an important hub for trade and commerce in the region.
+
+The island of Mauritius is relatively small, with a total area of approximately 2,040 square kilometers. It is a sovereign nation, with its own government and economy, and is a member of the African Union and the Commonwealth of Nations. The country's location in the Indian Ocean has also made it vulnerable to tropical cyclones, which can bring heavy rainfall and strong winds to the island. Despite these challenges, Mauritius has developed a diverse economy and a unique culture, shaped by its history, geography, and cultural influences.
+
+[SECTION] Terrain & Landscape [/SECTION]
+The terrain of Mauritius is characterized by a central plateau, surrounded by mountains and hills. The **Piton de la Petite Rivière Noire**, the highest point on the island, is located in the southwest, and offers breathtaking views of the surrounding landscape. The island is also home to several **rivers**, including the Grand River South East and the Rivière du Rempart, which flow through the central plateau and into the ocean. The **coastline** of Mauritius is approximately 177 kilometers long, and features a mix of sandy beaches, rocky shores, and coral reefs.
+
+The island's landscape is also home to several **forests**, including the **Black River Gorges National Park**, which is one of the largest and most biodiverse forests in the country. The park is home to a wide range of flora and fauna, including many **endemic species** that are found nowhere else in the world. The forest is also an important watershed, providing water to the surrounding communities and supporting the island's agriculture and industry. In addition to its natural beauty, the landscape of Mauritius has also been shaped by human activity, including **sugar cane plantations** and **tourist resorts**, which have become an important part of the country's economy.
+
+The **geology** of Mauritius is also of interest, with the island being formed as a result of volcanic activity millions of years ago. The island's **volcanic rocks** have been shaped by erosion and weathering, creating a unique landscape of **hills**, **valleys**, and **coastal cliffs**. The island's geology has also created a number of **caves** and **rock formations**, which are popular with tourists and adventure seekers.
+
+[SECTION] Climate By Season [/SECTION]
+[ TABLE ]
+| Season | Months | Temperature Range | Rainfall | Conditions |
+| --- | --- | --- | --- | --- |
+| Summer | November to March | 22-30°C | High | Hot and humid, with occasional cyclones |
+| Autumn | April to May | 20-28°C | Moderate | Mild and pleasant, with occasional rain showers |
+| Winter | June to September | 18-25°C | Low | Cool and dry, with clear skies and calm seas |
+| Spring | October to November | 20-28°C | Moderate | Mild and pleasant, with increasing temperatures and humidity |
+[/TABLE ]
+
+[SECTION] Best Time To Visit [/SECTION]
+[ CALLOUT ] Best months: October to April. Why: The weather is warm and sunny, with minimal rainfall and calm seas, making it ideal for outdoor activities and water sports. Avoid: January to March, as these months are the hottest and most humid, with a higher risk of cyclones. [/CALLOUT]
+
+[SECTION] Natural Highlights [/SECTION]
+- **Black River Gorges National Park**: a large and biodiverse forest, home to many endemic species and offering stunning views of the surrounding landscape.
+- **Piton de la Petite Rivière Noire**: the highest point on the island, offering breathtaking views of the surrounding landscape and the Indian Ocean.
+- **Grand River South East**: a scenic river that flows through the central plateau and into the ocean, offering stunning views and opportunities for water sports.
+- **Ile aux Cerfs**: a small island off the east coast of Mauritius, known for its beautiful beaches and crystal-clear waters.
+- **Chamarel Waterfall**: a scenic waterfall located in the southwest of the island, surrounded by lush vegetation and offering stunning views.
+- **Pamplemousses Botanical Garden**: a beautiful and historic garden, home to a wide range of flora and fauna, including many endemic species.
+
+---
+
+*Evergreen reference content. Verify time-sensitive details with official sources.*

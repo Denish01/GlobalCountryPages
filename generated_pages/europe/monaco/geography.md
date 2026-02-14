@@ -1,0 +1,56 @@
+---
+title: "Monaco Geography - Location, Terrain & Climate"
+entity: "Monaco"
+iso_code: "MC"
+continent: "europe"
+angle: "geography"
+date: "2026-02-14"
+---
+
+# Monaco Geography - Location, Terrain & Climate
+
+[FACTBOX]
+Land Area: 2 km2, about the size of Central Park in New York City
+Highest Point: Chemin des Révoires, 162 meters
+Lowest Point: Mediterranean Sea, 0 meters
+Coastline: 4 km
+Borders: France
+Climate Type: Mediterranean
+[/FACTBOX]
+
+[SECTION] Location & Borders [/SECTION]
+Monaco is a small, independent principality located on the French Riviera, in Western Europe. It sits on the northern coast of the Mediterranean Sea, surrounded by the warm waters of the sea to the east and the Maritime Alps to the west. The country is bordered by France to the north, east, and west, with the city of Nice, France, located just a few kilometers to the west. Monaco's strategic location on the Mediterranean has made it a popular destination for tourists and a hub for international trade and finance.
+
+Monaco's proximity to France has also had a significant impact on its culture and history. The country has been under French protection since the 17th century, and as a result, the official language is French, although many residents also speak Monégasque, Italian, and English. The country's unique location has also made it a popular destination for wealthy individuals and celebrities, who are drawn to its stunning scenery, mild climate, and low taxes. Despite its small size, Monaco has a distinct identity and a strong sense of national pride, with a rich history and culture that is worth exploring.
+
+[SECTION] Terrain & Landscape [/SECTION]
+Monaco's terrain is characterized by a narrow coastal strip, with steep cliffs and rocky shores. The country's highest point, Chemin des Révoires, is located in the north, and from there, the land slopes gently downwards towards the sea. The landscape is dominated by the Mediterranean Sea, which surrounds the country on three sides, and the Maritime Alps, which rise up to the west. The country's terrain is also marked by several small valleys and ravines, which have been carved out by rivers and streams over millions of years.
+
+Monaco's coastline is short but scenic, with several small beaches and bays. The most famous of these is the Bay of Monaco, which is home to the country's main port and a popular spot for sailing and yachting. The coastline is also dotted with several small islands, including the Îlot de la Chèvre, which is a popular spot for swimming and snorkeling. Inland, the country's terrain is dominated by hills and mountains, with several small villages and towns perched on the slopes. The most notable of these is the village of Monaco-Ville, which is located on a rocky outcrop and is home to several historic buildings and landmarks.
+
+The country's landscape has been shaped by millions of years of geological activity, with the Mediterranean Sea playing a major role in shaping the coastline. The sea has carved out several small bays and inlets, and has created a series of steep cliffs and rocky shores. The landscape is also marked by several small rivers and streams, which have carved out valleys and ravines over millions of years. Despite its small size, Monaco's terrain is varied and scenic, with a unique combination of coastal and mountain landscapes.
+
+[SECTION] Climate By Season [/SECTION]
+[TABLE]
+| Season | Months | Temperature Range | Rainfall | Conditions |
+| --- | --- | --- | --- | --- |
+| Spring | March to May | 12-18°C | 60-80 mm | Mild and sunny, with occasional rain showers |
+| Summer | June to August | 22-28°C | 10-30 mm | Hot and dry, with clear skies and warm sea temperatures |
+| Autumn | September to November | 15-22°C | 80-100 mm | Mild and sunny, with occasional rain showers |
+| Winter | December to February | 8-12°C | 100-120 mm | Cool and wet, with occasional cold snaps |
+[/TABLE]
+
+[SECTION] Best Time To Visit [/SECTION]
+[CALLOUT] Best months: September to November and March to May. Why: These periods offer mild and sunny weather, with comfortable temperatures and minimal rainfall. Avoid: July and August, when the weather is hot and humid, and the crowds are at their peak. [/CALLOUT]
+
+[SECTION] Natural Highlights [/SECTION]
+- **Larvotto Marine Reserve**: a protected area of marine habitat, home to a diverse range of marine life, including coral, fish, and sea turtles.
+- **Jardin Exotique**: a beautiful botanical garden, featuring a wide range of exotic plants and flowers from around the world.
+- **Monaco-Ville**: a historic village, perched on a rocky outcrop, with narrow streets, historic buildings, and stunning views of the Mediterranean.
+- **Mont Agel**: a scenic mountain, offering stunning views of the Mediterranean and the surrounding countryside.
+- **Fontvieille Park**: a large public park, featuring gardens, walking trails, and a small lake, as well as several sports facilities and a children's playground.
+- **Grimaldi Forum**: a conference and exhibition center, located on the seafront, with stunning views of the Mediterranean and a wide range of cultural and artistic events.
+
+---
+
+*Evergreen reference content. Verify time-sensitive details with official sources.*
