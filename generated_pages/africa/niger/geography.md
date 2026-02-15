@@ -1,0 +1,56 @@
+---
+title: "Niger Geography - Location, Terrain & Climate"
+entity: "Niger"
+iso_code: "NE"
+continent: "africa"
+angle: "geography"
+date: "2026-02-15"
+---
+
+# Niger Geography - Location, Terrain & Climate
+
+[FACTBOX]
+Land Area: 1,267,000 km2, about the size of Texas and California combined
+Highest Point: Mont Idoukal-n-Taghes, 2,022 meters
+Lowest Point: Niger River, 200 meters
+Coastline: landlocked
+Borders: Algeria, Libya, Chad, Nigeria, Benin, Burkina Faso, Mali
+Climate Type: arid, tropical
+[/FACTBOX]
+
+[SECTION] Location & Borders [/SECTION]
+Niger is a landlocked country located in West Africa, situated in the heart of the Sahara Desert. It is bordered by several countries, including Algeria to the northwest, Libya to the northeast, Chad to the east, Nigeria to the south, Benin and Burkina Faso to the southwest, and Mali to the west. Niger is a strategic location, with the Sahara Desert covering much of its territory, and the Niger River flowing through the country. The country's position in the Sahel region, a transitional zone between the Sahara Desert and the savannas of West Africa, makes it a unique and fascinating place to explore.
+
+Niger's borders are defined by its **geographical features**, including the Sahara Desert to the north and the Niger River to the south. The country's location in the Sahel region has played a significant role in shaping its history, culture, and economy. The Sahara Desert has been a major obstacle to trade and communication, while the Niger River has provided a source of water and transportation for the country's inhabitants. Niger's borders have also been influenced by its **colonial history**, with the country being a former French colony. The legacy of French colonial rule can still be seen in the country's language, culture, and architecture.
+
+[SECTION] Terrain & Landscape [/SECTION]
+Niger's terrain is characterized by a vast expanse of desert, with **sand dunes** and **oases** scattered throughout the country. The Sahara Desert covers about 80% of Niger's territory, making it one of the most desert-covered countries in the world. The desert landscape is dotted with **rock formations**, **canyons**, and **valleys**, which have been carved out by the wind and water over millions of years. In the south, the Niger River flows through the country, providing a source of water and fertile soil for agriculture. The river valley is home to a variety of **wildlife**, including **hippos**, **crocodiles**, and **birds**.
+
+The country's landscape is also home to several **mountain ranges**, including the Air Mountains and the Djado Plateau. These mountain ranges are **granite** and **sandstone** formations, which have been shaped by millions of years of erosion. The mountains are home to a variety of **flora** and **fauna**, including **acacia trees**, **baobab trees**, and **giraffes**. The mountains also provide a source of **minerals**, including **uranium**, **coal**, and **gold**. In addition to its natural resources, Niger is also home to several **national parks** and **wildlife reserves**, which provide a protected habitat for the country's diverse wildlife.
+
+Niger's landscape is also characterized by its **climate**, with very hot temperatures and low humidity during the dry season, and high temperatures and high humidity during the wet season. The country's climate has a significant impact on its **agriculture**, with the rainy season providing a boost to crop growth, and the dry season posing a challenge to farmers. The climate also has an impact on the country's **economy**, with the mining industry being a significant contributor to the country's GDP.
+
+[SECTION] Climate By Season [/SECTION]
+[TABLE]
+| Season | Months | Temperature Range | Rainfall | Conditions |
+| --- | --- | --- | --- | --- |
+| Dry Season | November to May | 25-40°C | low | hot and dry |
+| Hot Season | June to August | 35-45°C | low | extremely hot |
+| Wet Season | September to October | 25-35°C | high | humid and rainy |
+| Cool Season | December to February | 15-25°C | low | mild and cool |
+[/TABLE]
+
+[SECTION] Best Time To Visit [/SECTION]
+[CALLOUT] Best months: December to February. Why: The weather is mild and cool, making it ideal for outdoor activities such as hiking and exploring the country's natural attractions. Avoid: June to August, as the heat can be extreme and uncomfortable, and September to October, as the rainy season can make travel difficult. [/CALLOUT]
+
+[SECTION] Natural Highlights [/SECTION]
+- Air and Ténéré National Nature Reserve: a UNESCO World Heritage Site and home to a variety of wildlife, including **cheetahs**, **leopards**, and **lions**.
+- Niger River: a major source of water and transportation, and home to a variety of wildlife, including **hippos** and **crocodiles**.
+- Djado Plateau: a mountainous region with unique rock formations and a variety of flora and fauna.
+- Ayorou Game Reserve: a protected area home to a variety of wildlife, including **giraffes**, **elephants**, and **buffaloes**.
+- Termit Massif: a mountain range with unique rock formations and a variety of flora and fauna.
+- W National Park: a UNESCO World Heritage Site and home to a variety of wildlife, including **lions**, **leopards**, and **elephants**.
+
+---
+
+*Evergreen reference content. Verify time-sensitive details with official sources.*
