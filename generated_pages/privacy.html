@@ -1,0 +1,138 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="360Nations.com Privacy Policy — how we collect, use, and protect your information.">
+    <link rel="canonical" href="https://360nations.com/privacy.html">
+    <title>Privacy Policy - 360 Nations</title>
+    <style>
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+        body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; line-height: 1.7; color: #2d3436; background: #fafafa; }
+        .site-header { background: #2d3436; position: sticky; top: 0; z-index: 1000; box-shadow: 0 2px 8px rgba(0,0,0,0.2); }
+        .header-inner { max-width: 1200px; margin: 0 auto; padding: 0 20px; display: flex; align-items: center; justify-content: space-between; height: 56px; }
+        .site-logo { color: #fff; text-decoration: none; font-size: 1.3em; font-weight: 700; letter-spacing: -0.5px; }
+        .site-logo span { color: #3498db; }
+        .continent-nav { display: flex; list-style: none; gap: 4px; align-items: center; }
+        .continent-nav a { color: #dfe6e9; text-decoration: none; font-size: 0.85em; font-weight: 500; padding: 6px 12px; border-radius: 6px; transition: background 0.2s, color 0.2s; }
+        .continent-nav a:hover { background: rgba(255,255,255,0.1); color: #fff; }
+        #mobile-menu-state { display: none; }
+        .menu-toggle { display: none; cursor: pointer; width: 28px; height: 20px; position: relative; }
+        .menu-toggle span, .menu-toggle span::before, .menu-toggle span::after { display: block; background: #fff; height: 2px; width: 100%; border-radius: 2px; position: absolute; transition: all 0.3s; }
+        .menu-toggle span { top: 9px; }
+        .menu-toggle span::before { content: ""; top: -7px; }
+        .menu-toggle span::after { content: ""; top: 7px; }
+        #mobile-menu-state:checked ~ .site-header .menu-toggle span { background: transparent; }
+        #mobile-menu-state:checked ~ .site-header .menu-toggle span::before { top: 0; transform: rotate(45deg); }
+        #mobile-menu-state:checked ~ .site-header .menu-toggle span::after { top: 0; transform: rotate(-45deg); }
+        #mobile-menu-state:checked ~ .site-header .continent-nav { display: flex; flex-direction: column; position: absolute; top: 56px; left: 0; right: 0; background: #2d3436; padding: 12px 20px; box-shadow: 0 4px 12px rgba(0,0,0,0.3); }
+        .content { max-width: 800px; margin: 0 auto; padding: 40px 20px 60px; }
+        .content h1 { font-size: 2em; color: #2c3e50; margin-bottom: 8px; }
+        .content h2 { font-size: 1.3em; color: #2c3e50; margin-top: 32px; margin-bottom: 12px; }
+        .content h3 { font-size: 1.1em; color: #2c3e50; margin-top: 20px; margin-bottom: 8px; }
+        .content p { margin-bottom: 14px; color: #4a5568; }
+        .content ul { margin: 0 0 14px 24px; color: #4a5568; }
+        .content li { margin-bottom: 6px; }
+        .content a { color: #3498db; }
+        .site-footer { background: #2d3436; color: #b2bec3; padding: 48px 20px 0; margin-top: 40px; }
+        .footer-inner { max-width: 1100px; margin: 0 auto; display: grid; grid-template-columns: 2fr 1fr 1fr; gap: 32px; }
+        .footer-brand .site-logo { display: inline-block; margin-bottom: 12px; }
+        .footer-brand p { font-size: 0.9em; line-height: 1.6; color: #b2bec3; }
+        .footer-col h4 { color: #dfe6e9; font-size: 0.9em; text-transform: uppercase; letter-spacing: 1px; margin-bottom: 14px; }
+        .footer-col a { display: block; color: #b2bec3; text-decoration: none; font-size: 0.88em; padding: 3px 0; transition: color 0.2s; }
+        .footer-col a:hover { color: #3498db; }
+        .footer-bottom { text-align: center; padding: 20px 0; margin-top: 36px; border-top: 1px solid #3d4a4d; font-size: 0.8em; color: #636e72; }
+        @media (max-width: 600px) { .menu-toggle { display: block; } .continent-nav { display: none; } .footer-inner { grid-template-columns: 1fr; } }
+    </style>
+</head>
+<body>
+<input type="checkbox" id="mobile-menu-state" aria-hidden="true">
+<header class="site-header">
+    <div class="header-inner">
+        <a href="/" class="site-logo">360 <span>Nations</span></a>
+        <label for="mobile-menu-state" class="menu-toggle" aria-label="Toggle menu"><span></span></label>
+        <nav class="continent-nav">
+            <a href="/africa/">Africa</a>
+            <a href="/asia/">Asia</a>
+            <a href="/europe/">Europe</a>
+            <a href="/north-america/">North America</a>
+            <a href="/south-america/">South America</a>
+            <a href="/oceania/">Oceania</a>
+        </nav>
+    </div>
+</header>
+
+<div class="content">
+    <h1>Privacy Policy</h1>
+    <p><strong>Last updated:</strong> February 16, 2026</p>
+
+    <h2>Introduction</h2>
+    <p>360Nations.com ("we", "us", or "our") is committed to protecting your privacy. This Privacy Policy explains how we collect, use, and safeguard information when you visit our website at <a href="https://360nations.com">https://360nations.com</a>.</p>
+
+    <h2>Information We Collect</h2>
+    <h3>Automatically Collected Information</h3>
+    <p>When you visit 360Nations.com, our hosting provider (GitHub Pages) may automatically collect certain technical information, including:</p>
+    <ul>
+        <li>IP address</li>
+        <li>Browser type and version</li>
+        <li>Pages visited and time spent</li>
+        <li>Referring website</li>
+    </ul>
+
+    <h3>Personal Information</h3>
+    <p>We do not require you to create an account or provide personal information to use 360Nations.com. If you contact us via email at <a href="mailto:mrgovernment02@gmail.com">mrgovernment02@gmail.com</a>, we will only use your information to respond to your inquiry.</p>
+
+    <h2>How We Use Information</h2>
+    <p>Any information collected is used solely to:</p>
+    <ul>
+        <li>Operate and maintain the website</li>
+        <li>Understand usage patterns to improve content</li>
+        <li>Respond to inquiries</li>
+    </ul>
+
+    <h2>Cookies</h2>
+    <p>360Nations.com does not set first-party cookies. Third-party services may set cookies. You can control cookies through your browser settings.</p>
+
+    <h2>Third-Party Links</h2>
+    <p>Our content may contain links to external websites. We are not responsible for the privacy practices of those sites.</p>
+
+    <h2>Children's Privacy</h2>
+    <p>360Nations.com is an educational reference site suitable for all ages. We do not knowingly collect personal information from children under 13.</p>
+
+    <h2>Data Security</h2>
+    <p>360Nations.com is a static website hosted on GitHub Pages. We do not store user data on our own servers. All content is served over HTTPS.</p>
+
+    <h2>Changes to This Policy</h2>
+    <p>We may update this Privacy Policy from time to time. Changes will be posted on this page with an updated date.</p>
+
+    <h2>Contact Us</h2>
+    <p>If you have questions about this Privacy Policy, please contact us at <a href="mailto:mrgovernment02@gmail.com">mrgovernment02@gmail.com</a>.</p>
+</div>
+
+<footer class="site-footer">
+    <div class="footer-inner">
+        <div class="footer-brand">
+            <a href="/" class="site-logo">360 <span>Nations</span></a>
+            <p>Free encyclopedic reference covering every country and territory on Earth.</p>
+        </div>
+        <div class="footer-col">
+            <h4>Continents</h4>
+            <a href="/africa/">Africa</a>
+            <a href="/asia/">Asia</a>
+            <a href="/europe/">Europe</a>
+            <a href="/north-america/">North America</a>
+            <a href="/south-america/">South America</a>
+            <a href="/oceania/">Oceania</a>
+        </div>
+        <div class="footer-col">
+            <h4>Info</h4>
+            <a href="/privacy.html">Privacy Policy</a>
+            <a href="/terms.html">Terms of Use</a>
+            <a href="/sitemap.xml">Sitemap</a>
+            <a href="mailto:mrgovernment02@gmail.com">Contact</a>
+        </div>
+    </div>
+    <div class="footer-bottom">&copy; 2026 360Nations.com &mdash; All rights reserved.</div>
+</footer>
+</body>
+</html>
