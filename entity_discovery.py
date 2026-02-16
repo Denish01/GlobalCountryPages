@@ -45,11 +45,23 @@ def detect_current_phase():
     registry = load_json(ENTITY_REGISTRY_FILE)
     angle_reg = load_json(ANGLE_REGISTRY_FILE)
     entities = registry.get("entities", {})
-    required_angles = [a for a, cfg in angle_reg.get("angles", {}).items() if a != "vs"]
+
+    # Core 10 angles (original required angles, excluding vs)
+    core_angles = ["overview", "geography", "must-know-truth", "positive-things",
+                   "cities-and-regions", "visa-and-entry", "cost-of-living",
+                   "economy", "culture", "travel-safety"]
+
+    # All required non-vs, non-optional angles (includes new 19 angles)
+    optional = set(angle_reg.get("rules", {}).get("optional_angles", []))
+    all_required_angles = [a for a, cfg in angle_reg.get("angles", {}).items() if a not in optional]
+
+    # Extended angles = all required minus core
+    extended_angles = [a for a in all_required_angles if a not in core_angles]
 
     overview_done = 0
-    full_done = 0
+    core_done = 0
     vs_done = 0
+    extended_done = 0
     total = len(entities)
 
     for slug, entity in entities.items():
@@ -61,18 +73,22 @@ def detect_current_phase():
 
         if "overview" in existing:
             overview_done += 1
-        if all(a in existing for a in required_angles):
-            full_done += 1
+        if all(a in existing for a in core_angles):
+            core_done += 1
         if any(f.startswith("vs-") for f in existing):
             vs_done += 1
+        if all(a in existing for a in extended_angles):
+            extended_done += 1
 
     # Determine phase
     if overview_done < total:
         return 1
-    elif full_done < total:
+    elif core_done < total:
         return 2
     elif vs_done < total * 0.5:  # At least half should have vs pages
         return 3
+    elif extended_done < total:
+        return 6  # New: Extended angles pass
     else:
         # Check Level 3
         l3_reg = load_json(LEVEL3_REGISTRY_FILE)
@@ -87,8 +103,8 @@ def detect_current_phase():
                     l3_regions_done = False
                     break
         if not l3_regions_done:
-            return 4
-        return 5
+            return 7
+        return 8
 
     return 1
 
@@ -136,7 +152,25 @@ def get_next_work_unit(phase=None):
                 if not (entity_dir / f"{vs_slug}.html").exists():
                     return {"phase": 3, "entity": slug, "angle": "vs", "comparison": comp, "continent": continent}
 
-    elif phase == 4:
+    elif phase == 6:
+        # Extended angles pass - find entities missing new angles
+        optional = set(angle_reg.get("rules", {}).get("optional_angles", []))
+        core_angles = {"overview", "geography", "must-know-truth", "positive-things",
+                       "cities-and-regions", "visa-and-entry", "cost-of-living",
+                       "economy", "culture", "travel-safety", "vs"}
+        extended = [a for a in angle_reg.get("angles", {}).keys()
+                    if a not in core_angles and a not in optional]
+        for continent in CONTINENT_ORDER:
+            for slug, entity in entities.items():
+                if entity.get("continent") != continent:
+                    continue
+                entity_dir = OUTPUT_DIR / continent / slug
+                existing = {f.stem for f in entity_dir.glob("*.html")} if entity_dir.exists() else set()
+                for angle in extended:
+                    if angle not in existing:
+                        return {"phase": 6, "entity": slug, "angle": angle, "continent": continent}
+
+    elif phase == 7:
         # Level 3 regions
         l3_reg = load_json(LEVEL3_REGISTRY_FILE)
         l3_angles = angle_reg.get("level3_angles", {}).get("regions", ["overview"])
@@ -148,9 +182,9 @@ def get_next_work_unit(phase=None):
                 r_slug = slugify(r_name)
                 for angle in l3_angles:
                     if not (OUTPUT_DIR / continent / country_slug / "regions" / r_slug / f"{angle}.html").exists():
-                        return {"phase": 4, "entity": country_slug, "sub_type": "regions", "sub_entity": r_name, "angle": angle, "continent": continent}
+                        return {"phase": 7, "entity": country_slug, "sub_type": "regions", "sub_entity": r_name, "angle": angle, "continent": continent}
 
-    elif phase == 5:
+    elif phase == 8:
         # Level 3 cities
         l3_reg = load_json(LEVEL3_REGISTRY_FILE)
         l3_angles = angle_reg.get("level3_angles", {}).get("cities", ["overview"])
@@ -162,7 +196,7 @@ def get_next_work_unit(phase=None):
                 c_slug = slugify(c_name)
                 for angle in l3_angles:
                     if not (OUTPUT_DIR / continent / country_slug / "cities" / c_slug / f"{angle}.html").exists():
-                        return {"phase": 5, "entity": country_slug, "sub_type": "cities", "sub_entity": c_name, "angle": angle, "continent": continent}
+                        return {"phase": 8, "entity": country_slug, "sub_type": "cities", "sub_entity": c_name, "angle": angle, "continent": continent}
 
     return None
 

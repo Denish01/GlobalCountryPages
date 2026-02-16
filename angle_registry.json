@@ -1,6 +1,6 @@
 {
-  "version": "1.0",
-  "description": "Frozen angle registry for GlobalCountryPages - 11 angles per entity",
+  "version": "2.0",
+  "description": "Angle registry for GlobalCountryPages - 30 angles per entity",
 
   "angles": {
     "overview": {
@@ -112,18 +112,208 @@
       "priority": 11,
       "level": [2],
       "word_target": 800
+    },
+    "food-and-cuisine": {
+      "slug": "food-and-cuisine",
+      "title_pattern": "{Entity} Food Guide — Dishes, Street Food & Dining",
+      "description": "National dishes, street food, dining customs, food markets",
+      "prompt_key": "food_and_cuisine",
+      "required": true,
+      "priority": 12,
+      "level": [2, 3],
+      "word_target": 800
+    },
+    "language-guide": {
+      "slug": "language-guide",
+      "title_pattern": "{Entity} Language Guide — Phrases & Communication Tips",
+      "description": "Languages spoken, essential phrases, communication tips",
+      "prompt_key": "language_guide",
+      "required": true,
+      "priority": 13,
+      "level": [2],
+      "word_target": 700
+    },
+    "transportation": {
+      "slug": "transportation",
+      "title_pattern": "Getting Around {Entity} — Transport & Travel Guide",
+      "description": "Domestic flights, trains, buses, taxis, driving",
+      "prompt_key": "transportation",
+      "required": true,
+      "priority": 14,
+      "level": [2, 3],
+      "word_target": 700
+    },
+    "best-time-to-visit": {
+      "slug": "best-time-to-visit",
+      "title_pattern": "Best Time to Visit {Entity} — Month-by-Month Guide",
+      "description": "Seasonal weather, festivals, peak vs off-peak travel",
+      "prompt_key": "best_time_to_visit",
+      "required": true,
+      "priority": 15,
+      "level": [2, 3],
+      "word_target": 700
+    },
+    "top-things-to-do": {
+      "slug": "top-things-to-do",
+      "title_pattern": "Top Things to Do in {Entity} — Attractions & Experiences",
+      "description": "Must-see attractions, activities, day trips, hidden gems",
+      "prompt_key": "top_things_to_do",
+      "required": true,
+      "priority": 16,
+      "level": [2, 3],
+      "word_target": 800
+    },
+    "where-to-stay": {
+      "slug": "where-to-stay",
+      "title_pattern": "Where to Stay in {Entity} — Neighborhoods & Accommodation",
+      "description": "Best neighborhoods, hotel areas, accommodation types",
+      "prompt_key": "where_to_stay",
+      "required": true,
+      "priority": 17,
+      "level": [2, 3],
+      "word_target": 700
+    },
+    "internet-and-connectivity": {
+      "slug": "internet-and-connectivity",
+      "title_pattern": "{Entity} Internet & SIM Cards — Connectivity Guide",
+      "description": "Internet speeds, SIM cards, WiFi availability, mobile networks",
+      "prompt_key": "internet_and_connectivity",
+      "required": true,
+      "priority": 18,
+      "level": [2],
+      "word_target": 600
+    },
+    "moving-there": {
+      "slug": "moving-there",
+      "title_pattern": "Moving to {Entity} — Visas, Residency & Expat Guide",
+      "description": "Residency visas, expat communities, relocation logistics",
+      "prompt_key": "moving_there",
+      "required": true,
+      "priority": 19,
+      "level": [2],
+      "word_target": 800
+    },
+    "education": {
+      "slug": "education",
+      "title_pattern": "{Entity} Education — Schools, Universities & Student Guide",
+      "description": "School system, top universities, international schools, student visas",
+      "prompt_key": "education",
+      "required": true,
+      "priority": 20,
+      "level": [2],
+      "word_target": 700
+    },
+    "real-estate": {
+      "slug": "real-estate",
+      "title_pattern": "{Entity} Real Estate — Property, Prices & Buying Guide",
+      "description": "Property prices, buying process, rental market, foreign ownership",
+      "prompt_key": "real_estate",
+      "required": true,
+      "priority": 21,
+      "level": [2],
+      "word_target": 700
+    },
+    "taxes": {
+      "slug": "taxes",
+      "title_pattern": "{Entity} Tax Guide — Income, Corporate & VAT Rates",
+      "description": "Income tax, corporate tax, VAT, tax treaties, crypto taxation",
+      "prompt_key": "taxes",
+      "required": true,
+      "priority": 22,
+      "level": [2],
+      "word_target": 700
+    },
+    "healthcare": {
+      "slug": "healthcare",
+      "title_pattern": "{Entity} Healthcare — Hospitals, Insurance & Medical Guide",
+      "description": "Healthcare system, hospitals, insurance, medical tourism",
+      "prompt_key": "healthcare",
+      "required": true,
+      "priority": 23,
+      "level": [2, 3],
+      "word_target": 700
+    },
+    "retirement": {
+      "slug": "retirement",
+      "title_pattern": "Retiring in {Entity} — Pension, Visa & Expat Life",
+      "description": "Retirement visas, pension, cost of retirement, expat communities",
+      "prompt_key": "retirement",
+      "required": false,
+      "priority": 24,
+      "level": [2],
+      "word_target": 700
+    },
+    "digital-nomad-guide": {
+      "slug": "digital-nomad-guide",
+      "title_pattern": "{Entity} Digital Nomad Guide — Visas, Coworking & Internet",
+      "description": "Digital nomad visas, coworking spaces, internet speeds, nomad hubs",
+      "prompt_key": "digital_nomad_guide",
+      "required": false,
+      "priority": 25,
+      "level": [2],
+      "word_target": 700
+    },
+    "history-timeline": {
+      "slug": "history-timeline",
+      "title_pattern": "{Entity} History — Key Events & Timeline",
+      "description": "Historical timeline, key events, formation, modern history",
+      "prompt_key": "history_timeline",
+      "required": true,
+      "priority": 26,
+      "level": [2],
+      "word_target": 800
+    },
+    "politics-and-government": {
+      "slug": "politics-and-government",
+      "title_pattern": "{Entity} Politics & Government — System, Leaders & Stability",
+      "description": "Political system, government structure, leaders, stability index",
+      "prompt_key": "politics_and_government",
+      "required": true,
+      "priority": 27,
+      "level": [2],
+      "word_target": 700
+    },
+    "demographics": {
+      "slug": "demographics",
+      "title_pattern": "{Entity} Demographics — Population, Ethnicity & Religion",
+      "description": "Population stats, ethnic groups, religions, urbanization, age distribution",
+      "prompt_key": "demographics",
+      "required": true,
+      "priority": 28,
+      "level": [2],
+      "word_target": 700
+    },
+    "infrastructure": {
+      "slug": "infrastructure",
+      "title_pattern": "{Entity} Infrastructure — Roads, Airports, Electricity & Water",
+      "description": "Transport infrastructure, energy, water, telecoms, development",
+      "prompt_key": "infrastructure",
+      "required": true,
+      "priority": 29,
+      "level": [2],
+      "word_target": 600
+    },
+    "business-and-investment": {
+      "slug": "business-and-investment",
+      "title_pattern": "Doing Business in {Entity} — Investment, FDI & Opportunities",
+      "description": "Business environment, FDI, investment opportunities, regulations",
+      "prompt_key": "business_and_investment",
+      "required": true,
+      "priority": 30,
+      "level": [2],
+      "word_target": 800
     }
   },
 
   "level3_angles": {
-    "regions": ["overview", "geography", "culture", "cost-of-living", "cities-and-regions", "travel-safety", "positive-things"],
-    "cities": ["overview", "geography", "culture", "cost-of-living", "travel-safety"]
+    "regions": ["overview", "geography", "culture", "cost-of-living", "cities-and-regions", "travel-safety", "positive-things", "food-and-cuisine", "transportation", "best-time-to-visit", "top-things-to-do", "healthcare"],
+    "cities": ["overview", "geography", "culture", "cost-of-living", "travel-safety", "food-and-cuisine", "transportation", "top-things-to-do", "where-to-stay"]
   },
 
   "rules": {
-    "total_angles": 11,
-    "required_for_closure": 10,
-    "optional_angles": ["vs"],
+    "total_angles": 30,
+    "required_for_closure": 28,
+    "optional_angles": ["vs", "digital-nomad-guide", "retirement"],
     "file_structure": "continent/country/angle",
     "level3_structure": "continent/country/regions|cities/subentity/angle"
   }

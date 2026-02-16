@@ -1,6 +1,6 @@
 {
-  "version": "1.0",
-  "description": "Rules governing entity expansion phases",
+  "version": "2.0",
+  "description": "Rules governing entity expansion phases - 30 angles",
 
   "phases": {
     "1": {
@@ -14,7 +14,7 @@
     },
     "2": {
       "name": "Full Angle Pass",
-      "description": "Generate remaining 9 required angles per entity, continent by continent",
+      "description": "Generate remaining 9 core angles per entity, continent by continent",
       "angles": ["geography", "must-know-truth", "positive-things", "cities-and-regions", "visa-and-entry", "cost-of-living", "economy", "culture", "travel-safety"],
       "entity_level": 2,
       "priority": 90,
@@ -31,20 +31,29 @@
       "estimated_days": 4,
       "pages_per_day": 200
     },
-    "4": {
+    "6": {
+      "name": "Extended Angles Pass",
+      "description": "Generate 19 new content angles per entity across all countries",
+      "angles": ["food-and-cuisine", "language-guide", "transportation", "best-time-to-visit", "top-things-to-do", "where-to-stay", "internet-and-connectivity", "moving-there", "education", "real-estate", "taxes", "healthcare", "retirement", "digital-nomad-guide", "history-timeline", "politics-and-government", "demographics", "infrastructure", "business-and-investment"],
+      "entity_level": 2,
+      "priority": 65,
+      "estimated_days": 24,
+      "pages_per_day": 200
+    },
+    "7": {
       "name": "Level 3 Regions",
       "description": "Generate sub-region pages for large countries",
-      "angles": ["overview", "geography", "culture", "cost-of-living", "cities-and-regions", "travel-safety", "positive-things"],
+      "angles": ["overview", "geography", "culture", "cost-of-living", "cities-and-regions", "travel-safety", "positive-things", "food-and-cuisine", "transportation", "best-time-to-visit", "top-things-to-do", "healthcare"],
       "entity_level": 3,
       "entity_type": "region",
       "priority": 60,
       "estimated_days": 14,
       "pages_per_day": 200
     },
-    "5": {
+    "8": {
       "name": "Level 3 Cities",
       "description": "Generate city pages for large countries",
-      "angles": ["overview", "geography", "culture", "cost-of-living", "travel-safety"],
+      "angles": ["overview", "geography", "culture", "cost-of-living", "travel-safety", "food-and-cuisine", "transportation", "top-things-to-do", "where-to-stay"],
       "entity_level": 3,
       "entity_type": "city",
       "priority": 50,

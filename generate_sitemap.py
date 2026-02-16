@@ -32,6 +32,28 @@ ANGLE_PRIORITY = {
     "economy": "0.7",
     "culture": "0.8",
     "travel-safety": "0.9",
+    # New angles - Practical / Travel
+    "food-and-cuisine": "0.9",
+    "language-guide": "0.7",
+    "transportation": "0.8",
+    "best-time-to-visit": "0.9",
+    "top-things-to-do": "0.9",
+    "where-to-stay": "0.8",
+    "internet-and-connectivity": "0.6",
+    # New angles - Living / Expat
+    "moving-there": "0.7",
+    "education": "0.7",
+    "real-estate": "0.7",
+    "taxes": "0.7",
+    "healthcare": "0.8",
+    "retirement": "0.7",
+    "digital-nomad-guide": "0.7",
+    # New angles - Deeper Understanding
+    "history-timeline": "0.8",
+    "politics-and-government": "0.6",
+    "demographics": "0.6",
+    "infrastructure": "0.6",
+    "business-and-investment": "0.7",
 }
 
 

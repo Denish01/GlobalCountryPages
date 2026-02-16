@@ -1,7 +1,7 @@
 """
 Country Page Generator
 Generates evergreen reference pages for 249 countries/territories.
-11 angles per entity, with Level 3 sub-entity expansion.
+30 angles per entity, with Level 3 sub-entity expansion.
 
 Uses Groq API (OpenAI-compatible) for content generation.
 Output: HTML + JSON + Markdown per page.
@@ -147,7 +147,7 @@ def generate_with_groq(prompt, model=None, max_tokens=2500):
 
 
 # =============================================================================
-# 11 ANGLE PROMPTS
+# 30 ANGLE PROMPTS
 # =============================================================================
 
 def get_prompt_for_angle(entity, angle_id, comparison_entity=None):
@@ -689,6 +689,896 @@ FORMAT:
 
 {format_rules}
 Rules: Balanced. No bias. Practical for trip planning decisions.
+Target: 800-900 words.""",
+
+        # ── FOOD & CUISINE: Dish guide + street food + dining customs ──
+        "food_and_cuisine": f"""Generate a food and cuisine reference page for {name}.
+
+{context}
+
+This page answers: "What should I eat in {name}? What are the must-try dishes?"
+
+FORMAT:
+
+[FACTBOX]
+Staple Foods: (top 3-4 staple ingredients)
+National Dish: (name and brief description)
+Meal Times: (typical breakfast/lunch/dinner times)
+Tipping at Restaurants: (custom)
+Dietary Notes: (halal/kosher/vegetarian-friendly, etc.)
+[/FACTBOX]
+
+[SECTION] Food Culture Overview [/SECTION]
+2-3 paragraphs: what defines {name}'s cuisine, key influences, regional variations.
+
+[SECTION] Must-Try Dishes [/SECTION]
+[TABLE]
+| Dish | Type | Description | Where to Find |
+| --- | --- | --- | --- |
+(8-10 rows of signature dishes)
+[/TABLE]
+
+[SECTION] Street Food & Snacks [/SECTION]
+6-8 bullet points: popular street foods with descriptions and typical prices in USD.
+
+[SECTION] Drinks [/SECTION]
+5-6 bullet points: local beverages (alcoholic and non-alcoholic), what to order.
+
+[SECTION] Dining Customs [/SECTION]
+5-6 bullet points: eating etiquette, tipping, reservation culture, dress codes.
+
+[SECTION] Where to Eat [/SECTION]
+4-5 bullet points: types of dining venues (markets, food courts, restaurants), what to expect at each.
+
+[SECTION] Food Markets & Food Experiences [/SECTION]
+4-5 specific markets or food experiences worth visiting. Name and location for each.
+
+{format_rules}
+Rules: Specific dish names, not generic. Include local-language names where helpful.
+Target: 800-900 words.""",
+
+        # ── LANGUAGE GUIDE: Phrases + communication tips ──
+        "language_guide": f"""Generate a language and communication guide for {name}.
+
+{context}
+
+This page answers: "What language do they speak in {name}? What phrases do I need?"
+
+FORMAT:
+
+[FACTBOX]
+Official Language(s): {languages}
+Widely Spoken: (other common languages)
+English Proficiency: (High/Moderate/Low/Very Low)
+Script: (Latin/Arabic/Cyrillic/etc.)
+Language Family: (e.g. Romance, Bantu, Sino-Tibetan)
+[/FACTBOX]
+
+[SECTION] Language Overview [/SECTION]
+2-3 paragraphs: linguistic landscape, regional dialects, minority languages, how widely English is understood.
+
+[SECTION] Essential Phrases [/SECTION]
+[TABLE]
+| English | Local Language | Pronunciation | Notes |
+| --- | --- | --- | --- |
+| Hello | ... | ... | (formal/informal) |
+| Thank you | ... | ... | ... |
+| Please | ... | ... | ... |
+| Yes / No | ... | ... | ... |
+| Excuse me | ... | ... | ... |
+| How much? | ... | ... | ... |
+| Where is...? | ... | ... | ... |
+| I don't understand | ... | ... | ... |
+| Do you speak English? | ... | ... | ... |
+| Help! | ... | ... | ... |
+| Goodbye | ... | ... | ... |
+| Sorry | ... | ... | ... |
+(12-15 essential phrases in the primary language)
+[/TABLE]
+
+[SECTION] Numbers & Bargaining [/SECTION]
+[TABLE]
+| Number | Local Word | Pronunciation |
+| --- | --- | --- |
+(1-10 plus 100, 1000)
+[/TABLE]
+
+[SECTION] Communication Tips [/SECTION]
+6-8 bullet points: body language, gestures to avoid, formality levels, how to get help.
+
+[SECTION] Translation Tools & Resources [/SECTION]
+4-5 bullet points: recommended apps, phrasebooks, language learning tips for visitors.
+
+{format_rules}
+Target: 700-800 words.""",
+
+        # ── TRANSPORTATION: Getting around guide ──
+        "transportation": f"""Generate a transportation and getting-around guide for {name}.
+
+{context}
+
+This page answers: "How do I get around in {name}? What transport options exist?"
+
+FORMAT:
+
+[FACTBOX]
+Main International Airport(s): (name, code)
+Domestic Air Network: (extensive/moderate/limited)
+Rail Network: (extensive/moderate/limited/none)
+Drives On: (left/right)
+Road Quality: (good/moderate/poor)
+Ride-Hailing Apps: (Uber/Grab/Bolt/local alternatives)
+[/FACTBOX]
+
+[SECTION] Getting There [/SECTION]
+2 paragraphs: main airports, direct flight hubs, overland entry points.
+
+[SECTION] Domestic Flights [/SECTION]
+1-2 paragraphs: domestic airlines, main routes, booking tips, approximate costs.
+
+[SECTION] Trains & Rail [/SECTION]
+1-2 paragraphs: rail network quality, key routes, high-speed options, booking process.
+
+[SECTION] Buses & Coaches [/SECTION]
+1-2 paragraphs: intercity bus companies, quality, routes, costs.
+
+[SECTION] City Transport [/SECTION]
+[TABLE]
+| Mode | Available In | Cost (USD) | Notes |
+| --- | --- | --- | --- |
+| Metro/Subway | (cities) | $X | ... |
+| City Bus | (cities) | $X | ... |
+| Taxi | (everywhere/cities) | $X/km | ... |
+| Ride-Hailing | (cities) | $X-X | ... |
+| Tuk-tuk/Rickshaw | (if applicable) | $X | ... |
+[/TABLE]
+
+[SECTION] Driving [/SECTION]
+5-6 bullet points: license requirements, road conditions, fuel costs, car rental tips, hazards.
+
+[SECTION] Transport Tips [/SECTION]
+6-8 practical bullet points specific to {name}: scams to avoid, payment methods, apps to download, safety.
+
+{format_rules}
+Target: 700-800 words.""",
+
+        # ── BEST TIME TO VISIT: Month-by-month guide ──
+        "best_time_to_visit": f"""Generate a best-time-to-visit guide for {name}.
+
+{context}
+
+This page answers: "When is the best time to visit {name}? What's each month like?"
+
+FORMAT:
+
+[CALLOUT] Best months to visit {name}: (months). Peak season: (months). Budget season: (months). Avoid: (months and why). [/CALLOUT]
+
+[SECTION] Seasons Overview [/SECTION]
+2-3 paragraphs: climate zones, dry vs wet seasons, how seasons affect travel.
+
+[SECTION] Month-by-Month Guide [/SECTION]
+[TABLE]
+| Month | Weather | Crowds | Prices | Best For |
+| --- | --- | --- | --- | --- |
+| January | ... | Low/Med/High | $/$$/$$$  | ... |
+| February | ... | ... | ... | ... |
+| March | ... | ... | ... | ... |
+| April | ... | ... | ... | ... |
+| May | ... | ... | ... | ... |
+| June | ... | ... | ... | ... |
+| July | ... | ... | ... | ... |
+| August | ... | ... | ... | ... |
+| September | ... | ... | ... | ... |
+| October | ... | ... | ... | ... |
+| November | ... | ... | ... | ... |
+| December | ... | ... | ... | ... |
+[/TABLE]
+
+[SECTION] Festivals & Events Calendar [/SECTION]
+[TABLE]
+| Event | Month(s) | Description |
+| --- | --- | --- |
+(6-8 major festivals/events worth timing a visit around)
+[/TABLE]
+
+[SECTION] Regional Variations [/SECTION]
+4-5 bullet points: how timing differs by region within {name}.
+
+[SECTION] Practical Tips [/SECTION]
+5-6 bullet points: booking windows, shoulder season advantages, weather gear, holidays to avoid.
+
+{format_rules}
+Target: 700-800 words.""",
+
+        # ── TOP THINGS TO DO: Attractions & experiences ──
+        "top_things_to_do": f"""Generate a top-things-to-do reference page for {name}.
+
+{context}
+
+This page answers: "What are the best things to do in {name}? What should I not miss?"
+
+FORMAT:
+
+[SECTION] Top Attractions [/SECTION]
+[TABLE]
+| Attraction | Location | Type | Why Visit |
+| --- | --- | --- | --- |
+(8-10 must-see attractions with specific names and locations)
+[/TABLE]
+
+[SECTION] Unique Experiences [/SECTION]
+6-8 bullet points: experiences unique to {name} that you can't easily do elsewhere. Specific, not generic.
+
+[SECTION] Outdoor & Nature [/SECTION]
+5-6 bullet points: national parks, hiking, beaches, wildlife, adventure activities. Specific names.
+
+[SECTION] Cultural Experiences [/SECTION]
+5-6 bullet points: museums, temples, historical sites, local workshops, performances. Specific names.
+
+[SECTION] Hidden Gems [/SECTION]
+4-5 lesser-known spots or activities that experienced travelers recommend.
+
+[SECTION] Day Trips [/SECTION]
+4-5 day trip ideas from major cities with distance, travel time, and highlights.
+
+[SECTION] Planning Tips [/SECTION]
+[CALLOUT] Suggested itineraries: 3-day (highlights), 7-day (comprehensive), 14-day (deep exploration). Key tips for booking and prioritizing. [/CALLOUT]
+
+{format_rules}
+Rules: Use specific place names, not generic descriptions. Prioritize by visitor ratings and cultural significance.
+Target: 800-900 words.""",
+
+        # ── WHERE TO STAY: Neighborhoods & accommodation ──
+        "where_to_stay": f"""Generate a where-to-stay guide for {name}.
+
+{context}
+
+This page answers: "Where should I stay in {name}? What neighborhoods are best?"
+
+FORMAT:
+
+[SECTION] Best Areas to Stay [/SECTION]
+For each of the top 5-7 areas/neighborhoods:
+
+**Area Name** (City)
+Best For: (type of traveler: backpacker / luxury / family / business)
+Vibe: (1-2 sentences on character)
+Price Range: ($X-X/night)
+Pros: (2-3 key advantages)
+Cons: (1-2 honest downsides)
+
+[SECTION] Accommodation Types [/SECTION]
+[TABLE]
+| Type | Price Range (USD/night) | Best For | Notes |
+| --- | --- | --- | --- |
+| Hostels | $X-X | Budget/Social | ... |
+| Guesthouses | $X-X | Mid-range/Local | ... |
+| Hotels | $X-X | Comfort/Business | ... |
+| Boutique Hotels | $X-X | Experience | ... |
+| Resorts | $X-X | Relaxation | ... |
+| Apartments/Airbnb | $X-X | Long stays/Families | ... |
+[/TABLE]
+
+[SECTION] Booking Tips [/SECTION]
+6-8 bullet points: best platforms, advance booking needs, negotiation tips, seasonal pricing.
+
+[SECTION] Safety & Location Tips [/SECTION]
+5-6 bullet points: areas to avoid, safety considerations, proximity to transport.
+
+{format_rules}
+Target: 700-800 words.""",
+
+        # ── INTERNET & CONNECTIVITY ──
+        "internet_and_connectivity": f"""Generate an internet and connectivity guide for {name}.
+
+{context}
+
+This page answers: "What's the internet like in {name}? How do I get a SIM card?"
+
+FORMAT:
+
+[FACTBOX]
+Average Internet Speed: (Mbps download)
+Mobile Network Coverage: (Excellent/Good/Moderate/Poor)
+Main Carriers: (top 2-3 mobile providers)
+SIM Card Cost: (approx. USD for tourist SIM)
+WiFi Availability: (Widespread/Common/Limited)
+5G Available: (Yes/No/Limited)
+[/FACTBOX]
+
+[SECTION] Internet Overview [/SECTION]
+2 paragraphs: general internet quality, urban vs rural divide, reliability.
+
+[SECTION] Getting a SIM Card [/SECTION]
+1-2 paragraphs: where to buy, documents needed, recommended carriers, data plans with prices.
+
+[TABLE]
+| Carrier | Tourist Plan | Data | Price (USD) | Notes |
+| --- | --- | --- | --- | --- |
+(3-4 major carriers with tourist-friendly plans)
+[/TABLE]
+
+[SECTION] WiFi Availability [/SECTION]
+4-5 bullet points: hotel WiFi quality, cafe WiFi culture, coworking spaces, public WiFi.
+
+[SECTION] For Remote Workers [/SECTION]
+4-5 bullet points: coworking spaces, reliable cafe chains, backup internet options, VPN needs.
+
+[SECTION] Tips & Warnings [/SECTION]
+5-6 bullet points: internet censorship, blocked sites, VPN recommendations, roaming alternatives, eSIM options.
+
+{format_rules}
+Target: 600-700 words.""",
+
+        # ── MOVING THERE: Expat relocation guide ──
+        "moving_there": f"""Generate a moving-to / expat relocation guide for {name}.
+
+{context}
+
+This page answers: "How do I move to {name}? What do I need to know about relocating?"
+
+FORMAT:
+
+[SECTION] Why People Move to {name} [/SECTION]
+2-3 paragraphs: common reasons, expat demographics, quality of life overview.
+
+[SECTION] Visa & Residency Options [/SECTION]
+[TABLE]
+| Visa Type | Duration | Requirements | Cost (USD) | Path to PR? |
+| --- | --- | --- | --- | --- |
+| Tourist | ... | ... | ... | No |
+| Work Visa | ... | ... | ... | ... |
+| Business/Investor | ... | ... | ... | ... |
+| Retirement | ... | ... | ... | ... |
+| Student | ... | ... | ... | ... |
+| Digital Nomad | ... | ... | ... | ... |
+[/TABLE]
+
+[SECTION] Relocation Checklist [/SECTION]
+Numbered list of 10-12 steps from decision to settling in.
+
+[SECTION] Expat Communities [/SECTION]
+4-5 bullet points: where expats concentrate, online groups, social networks, meetups.
+
+[SECTION] Banking & Finances [/SECTION]
+4-5 bullet points: opening bank accounts, money transfers, currency considerations.
+
+[SECTION] Challenges & Honest Advice [/SECTION]
+5-6 bullet points: culture shock, bureaucracy, language barriers, common complaints.
+
+{format_rules}
+Target: 800-900 words.""",
+
+        # ── EDUCATION: Schools & universities ──
+        "education": f"""Generate an education reference page for {name}.
+
+{context}
+
+This page answers: "What is the education system like in {name}? Where can I study?"
+
+FORMAT:
+
+[FACTBOX]
+Literacy Rate: (%)
+School System: (years of compulsory education)
+Language of Instruction: (primary language)
+Academic Calendar: (months)
+International Schools: (available/limited)
+Top University Ranking: (global ranking context)
+[/FACTBOX]
+
+[SECTION] Education System Overview [/SECTION]
+2-3 paragraphs: structure (primary/secondary/tertiary), quality, public vs private.
+
+[SECTION] Top Universities [/SECTION]
+[TABLE]
+| University | Location | Known For | Est. Tuition (USD/year) |
+| --- | --- | --- | --- |
+(5-7 top universities)
+[/TABLE]
+
+[SECTION] International Schools [/SECTION]
+4-5 bullet points: availability, curricula offered (IB, British, American), costs, locations.
+
+[SECTION] Studying as a Foreigner [/SECTION]
+5-6 bullet points: student visa process, language requirements, scholarships, living costs for students.
+
+[SECTION] Education Quality & Challenges [/SECTION]
+4-5 bullet points: strengths and weaknesses of the system, recent reforms.
+
+{format_rules}
+Target: 700-800 words.""",
+
+        # ── REAL ESTATE: Property & buying guide ──
+        "real_estate": f"""Generate a real estate and property guide for {name}.
+
+{context}
+
+This page answers: "What's the property market like in {name}? Can foreigners buy?"
+
+FORMAT:
+
+[FACTBOX]
+Can Foreigners Buy?: (Yes/Restricted/No)
+Average Price (Capital, per sqm): ($X USD)
+Rental Yield: (approximate %)
+Property Tax: (approximate annual %)
+Popular Areas: (top 3 for investment)
+[/FACTBOX]
+
+[SECTION] Market Overview [/SECTION]
+2-3 paragraphs: current market conditions, trends, price trajectory, urban vs rural.
+
+[SECTION] Prices by Area [/SECTION]
+[TABLE]
+| Area/City | Buy (per sqm, USD) | Rent (monthly, USD) | Type |
+| --- | --- | --- | --- |
+(6-8 rows covering major cities/areas)
+[/TABLE]
+
+[SECTION] Foreign Ownership Rules [/SECTION]
+4-5 bullet points: restrictions, workarounds (leasehold, company structures), required permits.
+
+[SECTION] Buying Process [/SECTION]
+Numbered list: 8-10 steps from search to ownership transfer.
+
+[SECTION] Rental Market [/SECTION]
+4-5 bullet points: tenant rights, typical lease terms, deposit norms, furnished vs unfurnished.
+
+[SECTION] Investment Tips [/SECTION]
+5-6 bullet points: emerging areas, risks, legal considerations, property management.
+
+{format_rules}
+Target: 700-800 words.""",
+
+        # ── TAXES: Tax guide ──
+        "taxes": f"""Generate a tax guide reference page for {name}.
+
+{context}
+Currency: {currency}
+
+This page answers: "What are the tax rates in {name}? What do expats need to know?"
+
+FORMAT:
+
+[CALLOUT] Tax laws change frequently. Always consult a qualified tax professional for advice specific to your situation. This is a general guide only. [/CALLOUT]
+
+[FACTBOX]
+Income Tax Range: (X% - X%)
+Corporate Tax: (X%)
+VAT/GST: (X%)
+Capital Gains Tax: (X% or included in income)
+Tax Year: (Jan-Dec / Apr-Mar / etc.)
+Tax Treaty Network: (X countries)
+[/FACTBOX]
+
+[SECTION] Tax System Overview [/SECTION]
+2 paragraphs: territorial vs worldwide taxation, residency rules for tax purposes.
+
+[SECTION] Personal Income Tax [/SECTION]
+[TABLE]
+| Income Bracket ({currency}) | Tax Rate |
+| --- | --- |
+(4-6 brackets)
+[/TABLE]
+1 paragraph on deductions, allowances, filing requirements.
+
+[SECTION] Corporate & Business Tax [/SECTION]
+4-5 bullet points: corporate rate, small business incentives, free zones, registration requirements.
+
+[SECTION] VAT / Sales Tax [/SECTION]
+3-4 bullet points: standard rate, reduced rates, exemptions, tourist refund schemes.
+
+[SECTION] For Expats & Foreign Workers [/SECTION]
+5-6 bullet points: tax residency rules, double taxation treaties, social security, remittance rules.
+
+[SECTION] Crypto & Investment Income [/SECTION]
+3-4 bullet points: how investment income, dividends, and cryptocurrency are taxed.
+
+{format_rules}
+Target: 700-800 words.""",
+
+        # ── HEALTHCARE: Medical guide ──
+        "healthcare": f"""Generate a healthcare reference page for {name}.
+
+{context}
+
+This page answers: "What is healthcare like in {name}? What do I need to know about hospitals and insurance?"
+
+FORMAT:
+
+[FACTBOX]
+Healthcare System: (Universal/Mixed/Private)
+Quality Rating: (relative context)
+Emergency Number: (number)
+Hospital Standard: (Excellent/Good/Adequate/Basic)
+Insurance Required: (recommended/required/not needed)
+Pharmacy Access: (widespread/moderate/limited)
+[/FACTBOX]
+
+[SECTION] Healthcare Overview [/SECTION]
+2-3 paragraphs: system structure, public vs private, quality of care, urban vs rural access.
+
+[SECTION] Hospitals & Clinics [/SECTION]
+[TABLE]
+| Facility | Location | Type | Specialties | English-Speaking |
+| --- | --- | --- | --- | --- |
+(5-6 major hospitals, especially those serving foreigners)
+[/TABLE]
+
+[SECTION] Health Insurance [/SECTION]
+5-6 bullet points: recommended insurance types, local insurance options, coverage for expats, costs.
+
+[SECTION] Pharmacies & Medications [/SECTION]
+4-5 bullet points: availability of medications, prescription requirements, common brands, costs.
+
+[SECTION] Vaccinations & Health Risks [/SECTION]
+5-6 bullet points: required and recommended vaccinations, endemic diseases, water safety, food safety.
+
+[SECTION] Medical Tourism [/SECTION]
+3-4 bullet points: if applicable, popular procedures, accredited hospitals, cost savings.
+
+[SECTION] Emergency Procedures [/SECTION]
+4-5 bullet points: what to do in an emergency, ambulance reliability, nearest hospitals, insurance claims.
+
+{format_rules}
+Target: 700-800 words.""",
+
+        # ── RETIREMENT: Retiring abroad guide ──
+        "retirement": f"""Generate a retirement guide for {name}.
+
+{context}
+
+This page answers: "Can I retire in {name}? What's it like for retirees?"
+
+FORMAT:
+
+[FACTBOX]
+Retirement Visa Available: (Yes/No/Limited)
+Monthly Budget (Comfortable): ($X,XXX USD)
+Healthcare for Retirees: (good/adequate/limited)
+Safety for Seniors: (High/Moderate/Low)
+English-Friendly: (Yes/Moderate/No)
+Expat Retiree Community: (Large/Growing/Small)
+[/FACTBOX]
+
+[SECTION] Why Retire in {name}? [/SECTION]
+2-3 paragraphs: lifestyle appeal, cost advantages, climate, community.
+
+[SECTION] Retirement Visa Options [/SECTION]
+[TABLE]
+| Visa Type | Age Requirement | Financial Requirement | Duration | Renewable? |
+| --- | --- | --- | --- | --- |
+(2-4 applicable visa types)
+[/TABLE]
+
+[SECTION] Cost of Retirement [/SECTION]
+[TABLE]
+| Category | Monthly Cost (USD) | Notes |
+| --- | --- | --- |
+| Housing | $X-X | ... |
+| Food | $X-X | ... |
+| Healthcare/Insurance | $X-X | ... |
+| Transport | $X-X | ... |
+| Entertainment | $X-X | ... |
+| Utilities | $X-X | ... |
+| **Total** | **$X,XXX-X,XXX** | ... |
+[/TABLE]
+
+[SECTION] Healthcare for Retirees [/SECTION]
+4-5 bullet points: access to care, insurance options, quality of senior care, specialist availability.
+
+[SECTION] Where Retirees Live [/SECTION]
+4-5 areas/cities popular with retirees, with brief description and cost context.
+
+[SECTION] Honest Assessment [/SECTION]
+5-6 bullet points: pros and cons for retirees, common complaints, what surprises people.
+
+{format_rules}
+Target: 700-800 words.""",
+
+        # ── DIGITAL NOMAD GUIDE ──
+        "digital_nomad_guide": f"""Generate a digital nomad guide for {name}.
+
+{context}
+
+This page answers: "Is {name} good for digital nomads? What about visas, WiFi, and coworking?"
+
+FORMAT:
+
+[FACTBOX]
+Digital Nomad Visa: (Yes/No/In Progress)
+Average Internet Speed: (Mbps)
+Coworking Spaces: (Many/Some/Few)
+Monthly Cost (Nomad Budget): ($X,XXX USD)
+Safety: (rating context)
+Time Zone: (UTC offset)
+[/FACTBOX]
+
+[SECTION] Digital Nomad Overview [/SECTION]
+2-3 paragraphs: overall suitability, nomad scene, community size, trending or established.
+
+[SECTION] Visa Options for Remote Workers [/SECTION]
+[TABLE]
+| Visa Type | Duration | Income Requirement | Cost (USD) | Notes |
+| --- | --- | --- | --- | --- |
+(3-4 relevant visa types for remote workers)
+[/TABLE]
+
+[SECTION] Internet & Connectivity [/SECTION]
+4-5 bullet points: speeds, reliability, SIM cards, backup options.
+
+[SECTION] Coworking Spaces [/SECTION]
+[TABLE]
+| Space | City | Day Pass (USD) | Monthly (USD) | Notes |
+| --- | --- | --- | --- | --- |
+(4-6 popular coworking spaces)
+[/TABLE]
+
+[SECTION] Nomad-Friendly Cities [/SECTION]
+For top 3-4 cities, briefly describe: vibe, cost, internet quality, community.
+
+[SECTION] Monthly Budget Breakdown [/SECTION]
+[TABLE]
+| Category | Budget ($) | Comfortable ($) |
+| --- | --- | --- |
+| Accommodation | X | X |
+| Food | X | X |
+| Coworking | X | X |
+| Transport | X | X |
+| Entertainment | X | X |
+| **Total** | **X** | **X** |
+[/TABLE]
+
+[SECTION] Tips & Warnings [/SECTION]
+5-6 bullet points: tax implications, best neighborhoods, seasonal considerations, community resources.
+
+{format_rules}
+Target: 700-800 words.""",
+
+        # ── HISTORY TIMELINE: Key events ──
+        "history_timeline": f"""Generate a history reference page for {name}.
+
+{context}
+
+This page answers: "What is the history of {name}? What are the key events?"
+
+FORMAT:
+
+[SECTION] Historical Overview [/SECTION]
+3-4 paragraphs: broad sweep from earliest known history to modern era. Cover pre-colonial, colonial (if applicable), independence, and modern periods.
+
+[SECTION] Timeline of Key Events [/SECTION]
+Numbered list of 15-20 major events in chronological order. Format each as:
+1. **YEAR** - Event description (1-2 sentences)
+
+Cover: ancient/pre-colonial era, colonial period, independence/formation, major wars or conflicts, political changes, modern milestones.
+
+[SECTION] Founding & Formation [/SECTION]
+2 paragraphs: how {name} became the entity it is today. Key figures, key moments.
+
+[SECTION] Colonial & Independence Period [/SECTION]
+2-3 paragraphs: colonial history (if applicable), independence movement, first leaders. If not applicable, cover the equivalent formative period.
+
+[SECTION] Modern Era [/SECTION]
+2-3 paragraphs: post-independence trajectory, major political changes, economic development, current direction.
+
+[SECTION] Historical Figures [/SECTION]
+[TABLE]
+| Name | Period | Role | Significance |
+| --- | --- | --- | --- |
+(5-7 most important historical figures)
+[/TABLE]
+
+{format_rules}
+Rules: Factual dates and events only. No moral judgments on historical events. State what happened and let readers draw conclusions.
+Target: 800-900 words.""",
+
+        # ── POLITICS & GOVERNMENT ──
+        "politics_and_government": f"""Generate a politics and government reference page for {name}.
+
+{context}
+
+This page answers: "How is {name} governed? What's the political system?"
+
+FORMAT:
+
+[FACTBOX]
+Government Type: (e.g. Federal Republic, Constitutional Monarchy, etc.)
+Head of State: (title and current holder)
+Head of Government: (title and current holder)
+Legislature: (name, structure, seats)
+Legal System: (common law/civil law/sharia/mixed)
+Political Stability Index: (context)
+Corruption Index: (Transparency International ranking context)
+[/FACTBOX]
+
+[SECTION] Political System [/SECTION]
+2-3 paragraphs: how the government works, separation of powers, federal vs unitary.
+
+[SECTION] Government Structure [/SECTION]
+[TABLE]
+| Branch | Institution | Head/Leader | Role |
+| --- | --- | --- | --- |
+| Executive | ... | ... | ... |
+| Legislative | ... | ... | ... |
+| Judicial | ... | ... | ... |
+[/TABLE]
+
+[SECTION] Major Political Parties [/SECTION]
+[TABLE]
+| Party | Position | Leader | Seats | Notes |
+| --- | --- | --- | --- | --- |
+(4-6 major parties)
+[/TABLE]
+
+[SECTION] Elections [/SECTION]
+3-4 bullet points: electoral system, frequency, last election, next election, voter participation.
+
+[SECTION] Political Stability & Challenges [/SECTION]
+5-6 bullet points: current political climate, key issues, regional dynamics, freedom indices.
+
+[SECTION] Foreign Relations [/SECTION]
+4-5 bullet points: key alliances, international memberships (UN, EU, AU, ASEAN, etc.), diplomatic stance.
+
+{format_rules}
+Rules: Factual and neutral. State political positions without endorsing them. Use verified indices and rankings for context.
+Target: 700-800 words.""",
+
+        # ── DEMOGRAPHICS ──
+        "demographics": f"""Generate a demographics reference page for {name}.
+
+{context}
+
+This page answers: "Who lives in {name}? What's the population breakdown?"
+
+FORMAT:
+
+[FACTBOX]
+Total Population: ({pop} million)
+Population Growth Rate: (%)
+Median Age: (years)
+Urban Population: (%)
+Population Density: (per km2)
+Life Expectancy: (years)
+Fertility Rate: (children per woman)
+[/FACTBOX]
+
+[SECTION] Population Overview [/SECTION]
+2-3 paragraphs: population size in context, growth trends, urbanization, migration patterns.
+
+[SECTION] Ethnic Groups [/SECTION]
+[TABLE]
+| Ethnic Group | Percentage | Region | Notes |
+| --- | --- | --- | --- |
+(5-8 major ethnic groups)
+[/TABLE]
+1 paragraph on ethnic relations and diversity context.
+
+[SECTION] Languages [/SECTION]
+4-5 bullet points: official language(s), regional languages, lingua franca, endangered languages.
+
+[SECTION] Religions [/SECTION]
+[TABLE]
+| Religion | Percentage | Notes |
+| --- | --- | --- |
+(4-6 major religions/denominations)
+[/TABLE]
+1 paragraph on religious freedom and interfaith relations.
+
+[SECTION] Age Distribution [/SECTION]
+[TABLE]
+| Age Group | Percentage | Implications |
+| --- | --- | --- |
+| 0-14 | X% | ... |
+| 15-24 | X% | ... |
+| 25-54 | X% | ... |
+| 55-64 | X% | ... |
+| 65+ | X% | ... |
+[/TABLE]
+
+[SECTION] Urbanization & Major Cities [/SECTION]
+4-5 bullet points: urban vs rural split, fastest-growing cities, migration trends, diaspora.
+
+{format_rules}
+Rules: Use latest available estimates. Cite approximate percentages. Handle ethnic/religious data respectfully and factually.
+Target: 700-800 words.""",
+
+        # ── INFRASTRUCTURE ──
+        "infrastructure": f"""Generate an infrastructure reference page for {name}.
+
+{context}
+
+This page answers: "What is the infrastructure like in {name}? Roads, power, water?"
+
+FORMAT:
+
+[FACTBOX]
+Electricity Access: (% of population)
+Internet Penetration: (%)
+Road Network: (km, quality context)
+Rail Network: (km or none)
+Major Airports: (count)
+Major Ports: (count or landlocked)
+[/FACTBOX]
+
+[SECTION] Infrastructure Overview [/SECTION]
+2-3 paragraphs: overall development level, recent investments, urban vs rural gap.
+
+[SECTION] Transport Infrastructure [/SECTION]
+[TABLE]
+| Type | Coverage | Quality | Notes |
+| --- | --- | --- | --- |
+| Roads | X km | Good/Moderate/Poor | ... |
+| Railways | X km | ... | ... |
+| Airports | X international, X domestic | ... | ... |
+| Ports | X major | ... | ... |
+[/TABLE]
+
+[SECTION] Energy & Electricity [/SECTION]
+4-5 bullet points: power generation sources, reliability, outages, renewable energy progress.
+
+[SECTION] Water & Sanitation [/SECTION]
+4-5 bullet points: tap water safety, sanitation coverage, water access in rural areas.
+
+[SECTION] Telecommunications [/SECTION]
+4-5 bullet points: mobile coverage, fiber/broadband, 4G/5G rollout, postal services.
+
+[SECTION] Development Projects [/SECTION]
+4-5 bullet points: major ongoing or planned infrastructure projects, funding sources, timeline.
+
+{format_rules}
+Target: 600-700 words.""",
+
+        # ── BUSINESS & INVESTMENT ──
+        "business_and_investment": f"""Generate a doing-business and investment guide for {name}.
+
+{context}
+
+This page answers: "How easy is it to do business in {name}? What are the investment opportunities?"
+
+FORMAT:
+
+[FACTBOX]
+Ease of Doing Business: (World Bank ranking context)
+Corporate Tax Rate: (%)
+FDI Inflow: ($X billion/million annual)
+Special Economic Zones: (Yes/No, count)
+Key Industries: (top 3)
+Currency Stability: (Stable/Moderate/Volatile)
+[/FACTBOX]
+
+[SECTION] Business Environment [/SECTION]
+2-3 paragraphs: overall climate, government attitude toward foreign investment, bureaucracy level, corruption context.
+
+[SECTION] Starting a Business [/SECTION]
+[TABLE]
+| Step | Requirement | Time | Cost (USD) |
+| --- | --- | --- | --- |
+(6-8 steps to register and start a business)
+[/TABLE]
+
+[SECTION] Investment Opportunities [/SECTION]
+[TABLE]
+| Sector | Opportunity | Growth Potential | Notes |
+| --- | --- | --- | --- |
+(5-7 key sectors with investment potential)
+[/TABLE]
+
+[SECTION] Foreign Direct Investment [/SECTION]
+4-5 bullet points: FDI trends, main investing countries, incentives, restricted sectors.
+
+[SECTION] Legal & Regulatory Framework [/SECTION]
+5-6 bullet points: business laws, intellectual property protection, labor laws, dispute resolution.
+
+[SECTION] Challenges & Risks [/SECTION]
+5-6 bullet points: honest assessment of business risks, political risk, market limitations, currency risks.
+
+[SECTION] Free Zones & Incentives [/SECTION]
+3-4 bullet points: special economic zones, tax incentives, investment promotion agencies.
+
+{format_rules}
+Rules: Balanced assessment. Include both opportunities and realistic challenges.
 Target: 800-900 words.""",
     }
 
@@ -1404,7 +2294,7 @@ def _write_continent_index(continent, countries_with_pages):
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="description" content="Country guides for {continent_name} - explore every country with 11 in-depth angles.">
+    <meta name="description" content="Country guides for {continent_name} - explore every country with 30 in-depth angles.">
     <title>{continent_name} Country Guides | {SITE_NAME}</title>
     <style>
         * {{ margin: 0; padding: 0; box-sizing: border-box; }}
@@ -1603,26 +2493,33 @@ def generate_batch(entity_slugs=None, angle_id=None, count=200, phase=None):
         phase = detect_current_phase()
         log(f"Auto-detected phase: {phase}", "INFO")
 
-    # ── Phase 4 & 5: delegate to Level 3 batch generator ──
-    if phase in (4, 5):
-        sub_type = "regions" if phase == 4 else "cities"
+    # ── Phase 7 & 8: delegate to Level 3 batch generator ──
+    if phase in (7, 8):
+        sub_type = "regions" if phase == 7 else "cities"
         return _generate_level3_auto(sub_type=sub_type, count=count)
 
-    # ── Phase 1-3: Level 2 entity pages ──
+    # ── Phase 1-3, 6: Level 2 entity pages ──
     angle_registry = load_angle_registry()
     all_angles = angle_registry.get("angles", {})
+    optional = set(angle_registry.get("rules", {}).get("optional_angles", []))
+    core_angles = {"overview", "geography", "must-know-truth", "positive-things",
+                   "cities-and-regions", "visa-and-entry", "cost-of-living",
+                   "economy", "culture", "travel-safety"}
 
     # Determine what to generate based on phase
     if phase == 1:
         angles_to_generate = ["overview"]
     elif phase == 2:
-        angles_to_generate = [a for a in all_angles if a != "overview" and a != "vs"]
+        angles_to_generate = [a for a in core_angles if a != "overview"]
     elif phase == 3:
         angles_to_generate = ["vs"]
+    elif phase == 6:
+        # Extended angles: all non-core, non-optional angles
+        angles_to_generate = [a for a in all_angles if a not in core_angles and a not in optional]
     elif angle_id:
         angles_to_generate = [angle_id]
     else:
-        angles_to_generate = [a for a in all_angles if a != "vs"]
+        angles_to_generate = [a for a in all_angles if a not in optional]
 
     # Get entities
     if entity_slugs:
@@ -1721,7 +2618,7 @@ def _generate_level3_auto(sub_type="regions", count=200):
         return []
 
     work = work[:count]
-    phase_num = 4 if sub_type == "regions" else 5
+    phase_num = 7 if sub_type == "regions" else 8
     log(f"Generating {len(work)} Level 3 {sub_type} pages (Phase {phase_num})...")
     print("=" * 60)
 
@@ -1863,7 +2760,7 @@ def update_manifest():
             continent_stats[continent] = {"entities": 0, "pages_generated": 0, "pages_total": 0}
 
         continent_stats[continent]["entities"] += 1
-        continent_stats[continent]["pages_total"] += 11
+        continent_stats[continent]["pages_total"] += 30
 
         # Count generated pages
         entity_dir = OUTPUT_DIR / continent / slug
@@ -1935,7 +2832,7 @@ def main():
     parser.add_argument("--angle", help="Generate specific angle")
     parser.add_argument("--generate-batch", action="store_true", help="Batch generate pages")
     parser.add_argument("--count", type=int, default=200, help="Pages per batch run")
-    parser.add_argument("--phase", type=int, choices=[1, 2, 3, 4, 5], help="Processing phase")
+    parser.add_argument("--phase", type=int, choices=[1, 2, 3, 6, 7, 8], help="Processing phase")
     parser.add_argument("--continent", help="Filter by continent")
     parser.add_argument("--level3", help="Generate Level 3 for country slug")
     parser.add_argument("--level3-type", default="cities", choices=["cities", "regions"])
