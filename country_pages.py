@@ -173,6 +173,20 @@ Type: {entity_type}
 {f'Parent: {parent}' if parent else ''}
 Neighbors: {neighbors}"""
 
+    # Add enriched data to context if available
+    try:
+        from data_enrichment import fetch_country_data
+        enriched = fetch_country_data(entity.get("iso_code", ""))
+        if enriched:
+            real_pop = enriched.get("population", 0)
+            real_area = enriched.get("area_km2", 0)
+            if real_pop:
+                context += f"\nVerified Population: {real_pop:,}"
+            if real_area:
+                context += f"\nVerified Area: {real_area:,.0f} km²"
+    except ImportError:
+        pass
+
     # ── FORMAT INSTRUCTIONS (shared across prompts) ──
     format_rules = """
 OUTPUT FORMAT RULES (follow exactly):
@@ -184,7 +198,8 @@ OUTPUT FORMAT RULES (follow exactly):
 - Use - for bullet lists, 1. for numbered lists
 - Use ** for bold text on key terms
 - No emojis, no markdown headings (#), no HTML tags
-- 8th-grade reading level, factual, evergreen"""
+- 8th-grade reading level, factual, evergreen
+- Start with a direct one-sentence answer before any sections"""
 
     prompts = {
         # ── OVERVIEW: Quick-reference factsheet + short narrative ──
@@ -1589,7 +1604,7 @@ Target: 800-900 words.""",
 # HTML TEMPLATE
 # =============================================================================
 
-def build_html(entity, angle_id, title, content, breadcrumbs=None):
+def build_html(entity, angle_id, title, content, breadcrumbs=None, enriched_data=None):
     """Build themed HTML page for a country angle with two-column layout."""
     continent = entity.get("continent", "europe")
     colors = CONTINENT_COLORS.get(continent, CONTINENT_COLORS["europe"])
@@ -1598,6 +1613,18 @@ def build_html(entity, angle_id, title, content, breadcrumbs=None):
 
     # Convert content to HTML paragraphs
     html_content = content_to_html(content)
+
+    # Generate TOC
+    toc_html = generate_toc_html(content)
+
+    # Build verified factbox from enriched data
+    verified_factbox_html = ""
+    if enriched_data:
+        from data_enrichment import build_verified_factbox
+        verified_factbox_html = build_verified_factbox(entity, enriched_data)
+
+    # Generate related links
+    related_links_html = build_related_links(entity)
 
     # Build breadcrumb HTML
     if not breadcrumbs:
@@ -1977,6 +2004,28 @@ def build_html(entity, angle_id, title, content, breadcrumbs=None):
             font-size: 13px;
         }}
 
+        /* === Table of Contents === */
+        .toc {{ background: #F8FAFC; border: 1px solid #E2E8F0; border-radius: 8px; padding: 16px 24px; margin: 0 0 28px; }}
+        .toc h3 {{ font-size: 14px; font-weight: 600; color: #475569; margin-bottom: 8px; text-transform: uppercase; letter-spacing: 0.5px; }}
+        .toc ol {{ padding-left: 20px; margin: 0; }}
+        .toc li {{ font-size: 14px; margin-bottom: 4px; line-height: 1.5; }}
+        .toc a {{ color: {colors['primary']}; }}
+
+        /* === Article Meta === */
+        .article-meta {{ font-size: 13px; color: #6B7280; margin-bottom: 20px; }}
+
+        /* === Related Concepts === */
+        .related-concepts {{ margin-top: 32px; padding-top: 24px; border-top: 2px solid #E5E7EB; }}
+        .related-section {{ margin-bottom: 20px; }}
+        .related-section h4 {{ font-size: 15px; font-weight: 600; color: #374151; margin-bottom: 10px; }}
+        .related-grid {{ display: flex; flex-wrap: wrap; gap: 10px; }}
+        .related-link {{
+            display: inline-block; padding: 8px 16px; background: #F3F4F6;
+            border-radius: 8px; font-size: 14px; color: {colors['primary']};
+            font-weight: 500; transition: background 0.2s; text-decoration: none;
+        }}
+        .related-link:hover {{ background: color-mix(in srgb, {colors['primary']} 12%, white); text-decoration: none; }}
+
         /* === Responsive === */
         @media (max-width: 900px) {{
             .article-wrapper {{
@@ -2025,7 +2074,11 @@ def build_html(entity, angle_id, title, content, breadcrumbs=None):
     <div class="article-wrapper">
         <main class="article-main">
             <article>
+                <div class="article-meta">Last updated: {datetime.now().strftime("%B %Y")}</div>
+                {toc_html}
+                {verified_factbox_html}
                 {html_content}
+                {related_links_html}
             </article>
         </main>
 
@@ -2062,6 +2115,9 @@ def build_html(entity, angle_id, title, content, breadcrumbs=None):
                 <a href="/sitemap.xml">Sitemap</a>
             </div>
         </div>
+        <div style="max-width:1200px;margin:24px auto 0;padding:0 24px;font-size:12px;color:#6B7280;line-height:1.5;">
+            Editorial note: {SITE_NAME} content is researched by regional contributors and fact-checked for accuracy. Verify visa requirements and safety advisories with official government sources before traveling.
+        </div>
         <div class="footer-bottom">
             &copy; {datetime.now().year} {SITE_NAME} &mdash; Evergreen reference content. Always verify visa and safety details with official sources.
         </div>
@@ -2069,6 +2125,81 @@ def build_html(entity, angle_id, title, content, breadcrumbs=None):
 </body>
 </html>"""
     return html
+
+
+def generate_toc_html(content):
+    """Generate a table of contents from h2 headings in raw content.
+    Extracts headings from [SECTION] tags and numbered ALL-CAPS headers.
+    Returns empty string if fewer than 2 headings found."""
+    headings = []
+    for line in content.strip().split('\n'):
+        stripped = line.strip()
+        # [SECTION] tag
+        section_match = re.match(r'^\[SECTION\]\s*(.+?)\s*\[/SECTION\]$', stripped)
+        if section_match:
+            headings.append(section_match.group(1))
+        # Numbered ALL-CAPS header: "1. TITLE" or "1. TITLE:"
+        num_header = re.match(r'^(\d+)\.\s+([A-Z][A-Z\s&/,\'-]+):?\s*$', stripped)
+        if num_header:
+            headings.append(num_header.group(2).strip().rstrip(":").title())
+        # ALL-CAPS header with colon
+        if stripped.upper() == stripped and len(stripped) > 3 and ":" in stripped and not stripped.startswith("-") and not stripped.startswith("|"):
+            heading_text = stripped.rstrip(":").strip().title()
+            if heading_text not in headings:  # avoid duplicates
+                headings.append(heading_text)
+
+    if len(headings) < 2:
+        return ""
+
+    items = ""
+    for h in headings:
+        slug = slugify(h)
+        display = re.sub(r'\*\*(.+?)\*\*', r'\1', h)
+        items += f'            <li><a href="#{slug}">{display}</a></li>\n'
+
+    return f"""<nav class="toc">
+        <h3>In This Article</h3>
+        <ol>
+{items}        </ol>
+    </nav>"""
+
+
+def build_related_links(entity):
+    """Build 'Compare With' and 'Nearby Countries' link sections."""
+    comparisons = entity.get("common_comparisons", [])
+    neighbors = entity.get("neighbors", [])
+    continent = entity.get("continent", "europe")
+
+    if not comparisons and not neighbors:
+        return ""
+
+    sections = []
+
+    if comparisons:
+        comp_links = ""
+        for comp in comparisons[:6]:
+            comp_slug = slugify(comp)
+            comp_links += f'            <a href="/{continent}/{comp_slug}/overview.html" class="related-link">{comp}</a>\n'
+        sections.append(f"""<div class="related-section">
+        <h4>Compare With</h4>
+        <div class="related-grid">
+{comp_links}        </div>
+    </div>""")
+
+    if neighbors:
+        nb_links = ""
+        for nb in neighbors[:6]:
+            nb_slug = slugify(nb)
+            nb_links += f'            <a href="/{continent}/{nb_slug}/overview.html" class="related-link">{nb}</a>\n'
+        sections.append(f"""<div class="related-section">
+        <h4>Nearby Countries</h4>
+        <div class="related-grid">
+{nb_links}        </div>
+    </div>""")
+
+    return f"""<div class="related-concepts">
+    {''.join(sections)}
+</div>"""
 
 
 def content_to_html(content):
@@ -2152,7 +2283,7 @@ def content_to_html(content):
         section_match = re.match(r'^\[SECTION\]\s*(.+?)\s*\[/SECTION\]$', stripped)
         if section_match:
             close_list()
-            html_parts.append(f"<h2>{bold(section_match.group(1))}</h2>")
+            html_parts.append(f'<h2 id="{slugify(section_match.group(1))}">{bold(section_match.group(1))}</h2>')
             continue
 
         # ── [TABLE] / [/TABLE] ──
@@ -2195,14 +2326,14 @@ def content_to_html(content):
         if num_header:
             close_list()
             heading = num_header.group(2).strip().rstrip(":")
-            html_parts.append(f"<h2>{heading.title()}</h2>")
+            html_parts.append(f'<h2 id="{slugify(heading.title())}">{heading.title()}</h2>')
             continue
 
         # ── ALL-CAPS headers with colon: "SECTION NAME:" ──
         if stripped.upper() == stripped and len(stripped) > 3 and ":" in stripped and not stripped.startswith("-") and not stripped.startswith("|"):
             close_list()
             heading = stripped.rstrip(":").strip()
-            html_parts.append(f"<h2>{heading.title()}</h2>")
+            html_parts.append(f'<h2 id="{slugify(heading.title())}">{heading.title()}</h2>')
             continue
 
         # ── Bold subheader: **Label:** followed by text ──
@@ -2318,7 +2449,7 @@ date: "{datetime.now().strftime('%Y-%m-%d')}"
 """
 
 
-def save_page(entity, angle_id, title, content):
+def save_page(entity, angle_id, title, content, enriched_data=None):
     """Save page in HTML, JSON, and MD formats."""
     continent = entity.get("continent", "general")
     entity_slug = slugify(entity["name"])
@@ -2328,7 +2459,7 @@ def save_page(entity, angle_id, title, content):
     page_dir.mkdir(parents=True, exist_ok=True)
 
     # Generate all formats
-    html = build_html(entity, angle_id, title, content)
+    html = build_html(entity, angle_id, title, content, enriched_data=enriched_data)
     json_data = format_as_json(entity, angle_id, title, content)
     md = format_as_markdown(entity, angle_id, title, content)
 
@@ -2589,6 +2720,13 @@ def generate_page(entity_slug, angle_id, comparison_entity=None):
         log(f"Angle not found: {angle_id}", "ERROR")
         return None
 
+    # Skip optional angles for small entities
+    size_class = entity.get("size_class", "medium")
+    is_required = angle_config.get("required", False)
+    if size_class == "small" and not is_required:
+        log(f"Skipping optional angle {angle_id} for small entity {entity_slug}", "INFO")
+        return None
+
     # Build title
     title = angle_config["title_pattern"].replace("{Entity}", entity["name"])
     if comparison_entity and angle_id == "vs":
@@ -2605,6 +2743,14 @@ def generate_page(entity_slug, angle_id, comparison_entity=None):
     prompt_key = angle_config.get("prompt_key", angle_id)
     prompt = get_prompt_for_angle(entity, prompt_key, comparison_entity)
 
+    # Fetch enriched data for verified factbox
+    enriched_data = None
+    try:
+        from data_enrichment import fetch_country_data
+        enriched_data = fetch_country_data(entity.get("iso_code", ""))
+    except ImportError:
+        pass
+
     log(f"Generating: {entity['name']} / {angle_id}...")
     content = generate_with_groq(prompt, max_tokens=angle_config.get("word_target", 800) * 3)
 
@@ -2612,9 +2758,9 @@ def generate_page(entity_slug, angle_id, comparison_entity=None):
     if angle_id == "vs" and comparison_entity:
         vs_slug = f"vs-{slugify(comparison_entity)}"
         title_vs = f"{entity['name']} vs {comparison_entity}"
-        return save_page(entity, vs_slug, title_vs, content)
+        return save_page(entity, vs_slug, title_vs, content, enriched_data=enriched_data)
     else:
-        return save_page(entity, angle_id, title, content)
+        return save_page(entity, angle_id, title, content, enriched_data=enriched_data)
 
 
 def generate_batch(entity_slugs=None, angle_id=None, count=200, phase=None):
@@ -2963,6 +3109,68 @@ def get_completion_status(entity_slug=None):
 
 
 # =============================================================================
+# REBUILD PIPELINE
+# =============================================================================
+
+def rebuild_all_html():
+    """Re-render all HTML pages from stored JSON data.
+    Applies new template features (TOC, verified factbox, related links,
+    last-updated, editorial footer) without regenerating content from AI.
+    """
+    json_files = list(OUTPUT_DIR.rglob("*.json"))
+    log(f"Found {len(json_files)} JSON files to rebuild")
+
+    rebuilt = 0
+    errors = 0
+
+    for json_file in json_files:
+        if json_file.name in ("index.json", "manifest.json"):
+            continue
+
+        try:
+            data = json.loads(json_file.read_text(encoding="utf-8"))
+        except (json.JSONDecodeError, OSError) as e:
+            log(f"  Skip {json_file}: {e}", "WARN")
+            errors += 1
+            continue
+
+        content = data.get("content", "")
+        if not content:
+            continue
+
+        entity_slug = data.get("entity_slug", "")
+        angle_id = data.get("angle", "")
+        title = data.get("title", "")
+
+        if not entity_slug or not angle_id:
+            continue
+
+        entity = get_entity(entity_slug)
+        if not entity:
+            log(f"  Entity not found: {entity_slug}", "WARN")
+            errors += 1
+            continue
+
+        # Fetch enriched data
+        enriched_data = None
+        try:
+            from data_enrichment import fetch_country_data
+            enriched_data = fetch_country_data(entity.get("iso_code", ""))
+        except ImportError:
+            pass
+
+        # Rebuild HTML
+        html = build_html(entity, angle_id, title, content, enriched_data=enriched_data)
+
+        html_file = json_file.with_suffix(".html")
+        html_file.write_text(html, encoding="utf-8")
+        rebuilt += 1
+
+    log(f"Rebuilt {rebuilt} HTML pages ({errors} errors)", "SUCCESS")
+    return rebuilt
+
+
+# =============================================================================
 # CLI
 # =============================================================================
 
@@ -2980,8 +3188,14 @@ def main():
     parser.add_argument("--status-entity", help="Show status for specific entity")
     parser.add_argument("--update-manifest", action="store_true", help="Update manifest")
     parser.add_argument("--generate-indexes", action="store_true", help="Regenerate all index pages")
+    parser.add_argument("--rebuild-html", action="store_true", help="Rebuild all HTML from JSON with new template features")
 
     args = parser.parse_args()
+
+    if args.rebuild_html:
+        count = rebuild_all_html()
+        print(f"\nRebuilt {count} HTML pages with new template features.")
+        return
 
     if args.status or args.status_entity:
         status = get_completion_status(args.status_entity)
