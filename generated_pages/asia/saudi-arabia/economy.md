@@ -1,0 +1,76 @@
+---
+title: "Saudi Arabia Economy - GDP, Industries & Trade"
+entity: "Saudi Arabia"
+iso_code: "SA"
+continent: "asia"
+angle: "economy"
+date: "2026-02-16"
+---
+
+# Saudi Arabia Economy - GDP, Industries & Trade
+
+[FACTBOX]
+GDP (nominal): ($773 billion estimate)
+GDP Per Capita: ($21,923 estimate)
+Income Classification: (High)
+Main Industries: (Oil and Gas, Finance, Manufacturing)
+Currency: SAR
+Unemployment Rate: (6.3% approximate)
+Ease of Doing Business: (Rank 62 out of 190, relatively high)
+[/FACTBOX]
+
+[SECTION] Economic Overview [/SECTION]
+Saudi Arabia has a high-income economy, driven primarily by its vast oil and gas reserves. The country has been undergoing significant economic development and diversification efforts in recent years, with a focus on reducing its dependence on oil exports and promoting private sector growth. As the largest economy in the Middle East, Saudi Arabia is a major player in regional trade and commerce. The government has implemented various initiatives to stimulate economic growth, including investments in infrastructure, tourism, and manufacturing.
+
+The Saudi Arabian economy is characterized by a high level of government involvement, with state-owned enterprises playing a significant role in key sectors such as energy, finance, and industry. However, the government has been actively promoting privatization and encouraging foreign investment to diversify the economy and create new opportunities for growth. The country's economic development is also driven by its strategic location, with access to major shipping lanes and proximity to key markets in Europe, Asia, and Africa.
+
+Despite the challenges posed by fluctuations in global oil prices, Saudi Arabia's economy has shown resilience and adaptability, with a strong focus on long-term development and diversification. The government's Vision 2030 plan aims to reduce the country's dependence on oil exports, promote private sector growth, and develop a more diversified economy. This plan has been instrumental in driving economic reform and promoting investment in key sectors such as tourism, manufacturing, and renewable energy.
+
+[SECTION] Key Industries [/SECTION]
+[TABLE]
+| Industry | Contribution | Details |
+| --- | --- | --- |
+| Oil and Gas | 50% of GDP | Saudi Arabia is the world's largest oil exporter, with vast reserves and a dominant position in the global energy market |
+| Finance | 15% of GDP | The financial sector is a significant contributor to the economy, with major banks and financial institutions playing a key role in the country's development |
+| Manufacturing | 10% of GDP | The manufacturing sector is growing, with a focus on petrochemicals, pharmaceuticals, and food processing |
+| Services | 20% of GDP | The services sector, including tourism, healthcare, and education, is becoming increasingly important to the economy |
+| Agriculture | 2% of GDP | Agriculture is a small but significant sector, with a focus on date palm cultivation, livestock, and fisheries |
+[/TABLE]
+
+[SECTION] Trade Profile [/SECTION]
+**Top Exports:** 
+- **Crude Oil**: Saudi Arabia is the world's largest oil exporter, with the majority of its exports going to countries in Asia and Europe
+- **Refined Petroleum Products**: The country is also a significant exporter of refined petroleum products, including gasoline, diesel, and jet fuel
+- **Natural Gas**: Saudi Arabia has significant natural gas reserves, with exports going to countries in the Middle East and Asia
+- **Petrochemicals**: The country is a major producer and exporter of petrochemicals, including plastics, fertilizers, and other chemicals
+- **Dates**: Saudi Arabia is a significant exporter of dates, with the majority of its exports going to countries in the Middle East and North Africa
+
+**Top Imports:** 
+- **Machinery and Equipment**: Saudi Arabia imports significant amounts of machinery and equipment, including vehicles, electronics, and construction equipment
+- **Food and Beverages**: The country imports a significant portion of its food and beverages, including grains, meat, and dairy products
+- **Chemicals**: Saudi Arabia imports a range of chemicals, including fertilizers, pesticides, and other industrial chemicals
+- **Vehicles**: The country imports a significant number of vehicles, including cars, trucks, and buses
+- **Electronics**: Saudi Arabia imports a range of electronic products, including computers, smartphones, and televisions
+
+**Key Trading Partners:** 
+- **China**: Saudi Arabia's largest trading partner, with significant imports of machinery, electronics, and other goods
+- **United States**: A major trading partner, with significant imports of machinery, vehicles, and electronics
+- **Japan**: A significant trading partner, with imports of machinery, electronics, and other goods
+- **India**: A growing trading partner, with significant imports of machinery, electronics, and other goods
+- **South Korea**: A significant trading partner, with imports of machinery, electronics, and other goods
+
+[SECTION] Infrastructure [/SECTION]
+- The country has a well-developed transportation network, including major highways, airports, and seaports
+- Saudi Arabia has a significant energy infrastructure, with major power plants and transmission lines
+- The country has a high level of internet and mobile penetration, with widespread access to broadband and mobile services
+- Major ports, including the Port of Jeddah and the Port of Dammam, handle significant volumes of cargo and container traffic
+- The country has a growing number of international airports, including King Abdulaziz International Airport in Jeddah and King Khalid International Airport in Riyadh
+
+[SECTION] Economic Outlook [/SECTION]
+Saudi Arabia's economy is expected to continue growing, driven by government investment in infrastructure, tourism, and manufacturing. The country's Vision 2030 plan is a key driver of economic reform and development, with a focus on reducing dependence on oil exports and promoting private sector growth. Major projects, including the development of the NEOM megacity and the Red Sea tourism project, are expected to drive economic growth and create new opportunities for investment and job creation.
+
+The country's economic outlook is also influenced by global trends, including fluctuations in oil prices and shifts in global trade patterns. However, Saudi Arabia's strong financial position and significant foreign reserves provide a buffer against external shocks, allowing the country to maintain its economic stability and continue to invest in its future development. With a focus on diversification, innovation, and private sector growth, Saudi Arabia is well-positioned to achieve its economic development goals and become a major player in the global economy.
+
+---
+
+*Evergreen reference content. Verify time-sensitive details with official sources.*

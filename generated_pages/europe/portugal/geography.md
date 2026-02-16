@@ -1,0 +1,56 @@
+---
+title: "Portugal Geography - Location, Terrain & Climate"
+entity: "Portugal"
+iso_code: "PT"
+continent: "europe"
+angle: "geography"
+date: "2026-02-16"
+---
+
+# Portugal Geography - Location, Terrain & Climate
+
+[FACTBOX]
+Land Area: 92,390 km2, about the size of the state of Indiana
+Highest Point: Torre, 1,993 meters
+Lowest Point: Atlantic Ocean, 0 meters
+Coastline: 1,793 km
+Borders: Spain
+Climate Type: temperate maritime
+[/FACTBOX]
+
+[SECTION] Location & Borders [/SECTION]
+Portugal is a sovereign country located in southwestern Europe, on the Iberian Peninsula. It shares a border with Spain to the east and north, and is surrounded by the Atlantic Ocean to the west and south. The country's unique geography, with its extensive coastline and mountainous interior, has played a significant role in shaping its history, culture, and economy. Portugal's location on the Atlantic coast has also made it an important hub for maritime trade and exploration, with the port city of Lisbon being a major center for navigation and commerce.
+
+Portugal's borders with Spain are largely defined by the **Douro River** and the **Guadiana River**, which flow through the country and empty into the Atlantic Ocean. The country's terrain is varied, with mountains, valleys, and coastal plains, and its climate is generally mild and temperate, with warm summers and mild winters. Portugal's location on the western edge of Europe has also made it a popular destination for tourists, with its rich history, beautiful landscapes, and vibrant culture attracting visitors from around the world.
+
+[SECTION] Terrain & Landscape [/SECTION]
+Portugal's terrain is characterized by a mix of mountains, valleys, and coastal plains. The country's mountainous regions, such as the **Serra da Estrela** and the **Serra do Marão**, are home to a diverse range of flora and fauna, and offer opportunities for hiking, skiing, and other outdoor activities. The valleys and coastal plains, on the other hand, are home to many of Portugal's major cities and towns, including Lisbon and Porto, and are known for their fertile soil and mild climate. The country's coastline is also notable for its beauty and diversity, with a range of beaches, cliffs, and rocky shores.
+
+One of the most distinctive features of Portugal's landscape is its **rivers**, which flow through the country and empty into the Atlantic Ocean. The **Tagus River**, which flows through Lisbon, is the longest river in Portugal, and has played a significant role in the country's history and economy. The **Douro River**, which forms part of the border with Spain, is also an important river, and is known for its beautiful valleys and **vineyards**. Portugal's landscape is also home to a range of **forests**, including the **Mata Nacional de Leiria**, which is one of the largest forests in Europe.
+
+The country's terrain is also notable for its **geological diversity**, with a range of rocks and minerals, including **granite**, **limestone**, and **marble**. The **Algarve region**, in southern Portugal, is known for its **caves** and **rock formations**, which are popular with tourists and **spelunkers**. Overall, Portugal's terrain and landscape are characterized by their diversity and beauty, and offer a range of opportunities for outdoor activities, tourism, and economic development.
+
+[SECTION] Climate By Season [/SECTION]
+[TABLE]
+| Season | Months | Temperature Range | Rainfall | Conditions |
+| --- | --- | --- | --- | --- |
+| Spring | March to May | 12-22°C | 60-100 mm | Mild, sunny |
+| Summer | June to August | 22-28°C | 10-30 mm | Warm, dry |
+| Autumn | September to November | 15-25°C | 50-120 mm | Mild, rainy |
+| Winter | December to February | 8-15°C | 80-150 mm | Cool, wet |
+[/TABLE]
+
+[SECTION] Best Time To Visit [/SECTION]
+[CALLOUT] Best months: May and September. Why: These months offer pleasant weather, with mild temperatures and plenty of sunshine, making them ideal for outdoor activities and sightseeing. Avoid: July and August, as these months can be very hot and crowded, especially in the coastal regions. [/CALLOUT]
+
+[SECTION] Natural Highlights [/SECTION]
+- The **Serra da Estrela** national park, which is home to a diverse range of flora and fauna, including the **Iberian wolf** and the **golden eagle**.
+- The **Ria Formosa** natural park, which is a protected area of **wetlands** and **beaches** that are home to a range of bird species and other wildlife.
+- The **Douro Valley**, which is a scenic region known for its **vineyards** and **wine production**.
+- The **Arrábida** natural park, which is a protected area of **forests** and **cliffs** that are home to a range of flora and fauna.
+- The **Azores** islands, which are a group of **volcanic islands** that are located in the Atlantic Ocean and are known for their **hot springs** and **whale watching** opportunities.
+- The **Cabo da Roca**, which is a **cliff** that is located on the western coast of Portugal and is known for its **stunning views** and **rock formations**.
+
+---
+
+*Evergreen reference content. Verify time-sensitive details with official sources.*

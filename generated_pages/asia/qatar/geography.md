@@ -1,0 +1,56 @@
+---
+title: "Qatar Geography - Location, Terrain & Climate"
+entity: "Qatar"
+iso_code: "QA"
+continent: "asia"
+angle: "geography"
+date: "2026-02-16"
+---
+
+# Qatar Geography - Location, Terrain & Climate
+
+[FACTBOX]
+Land Area: 11,437 km2, about the size of the state of Connecticut
+Highest Point: Qurayn Abu al Bawl, 103 meters
+Lowest Point: Persian Gulf, 0 meters
+Coastline: 563 km
+Borders: Saudi Arabia
+Climate Type: arid
+[/FACTBOX]
+
+[SECTION] Location & Borders [/SECTION]
+Qatar is a **sovereign** state located in the **Middle East**, on the northeastern coast of the Arabian Peninsula. It is bordered by Saudi Arabia to the south and west, and it also shares maritime borders with Bahrain and the United Arab Emirates. The country is surrounded by the **Persian Gulf** to the north, east, and southeast. Qatar's strategic location has made it an important center for trade and commerce in the region.
+
+Qatar's borders with Saudi Arabia are defined by a series of agreements and treaties, including the **Treaty of Jeddah** signed in 1965. The country's maritime borders with Bahrain and the United Arab Emirates are also defined by international agreements. Qatar's location in the **Arabian Peninsula** has played a significant role in shaping its culture, economy, and history. The country's proximity to major shipping lanes and its abundant **natural resources**, including oil and gas, have made it an important player in the regional economy.
+
+[SECTION] Terrain & Landscape [/SECTION]
+Qatar's terrain is characterized by a flat, **arid** landscape, with a series of **salt flats** and **sand dunes** that cover much of the country. The terrain is generally low-lying, with an average elevation of around 28 meters above sea level. The country's highest point, **Qurayn Abu al Bawl**, is located in the southwest and has an elevation of 103 meters. Qatar's landscape is also marked by a series of **wadis**, or dry riverbeds, that are prone to **flash flooding** during periods of heavy rainfall.
+
+The country's coastline is approximately 563 kilometers long and features a series of **beaches**, **coves**, and **inlets**. The coastline is also home to a number of **islands**, including the **Hawar Islands**, which are located off the coast of Qatar. Qatar's terrain and landscape have played a significant role in shaping its economy and culture, with the country's **fishing** and **pearling** industries being important contributors to the national economy. The country's **desert** landscape has also made it an attractive destination for **tourists** and **adventure seekers**.
+
+Qatar's **natural resources**, including oil and gas, have played a significant role in shaping the country's economy. The country's **oil fields**, including the **Dukhan Field**, are located in the western part of the country and have been a major source of revenue for the government. Qatar's **gas fields**, including the **North Field**, are located offshore and are among the largest in the world.
+
+[SECTION] Climate By Season [/SECTION]
+[TABLE]
+| Season | Months | Temperature Range | Rainfall | Conditions |
+| --- | --- | --- | --- | --- |
+| Winter | December to February | 15-25°C | 20-50 mm | Mild, sunny |
+| Spring | March to May | 20-35°C | 10-30 mm | Warm, humid |
+| Summer | June to September | 35-45°C | 0-10 mm | Hot, dry |
+| Autumn | October to November | 25-35°C | 10-30 mm | Warm, sunny |
+[/TABLE]
+
+[SECTION] Best Time To Visit [/SECTION]
+[CALLOUT] Best months: October to April. Why: The weather is mild and sunny, making it ideal for outdoor activities such as **desert safaris** and **beach trips**. Avoid: June to September, as the weather is extremely hot and dry, with temperatures often reaching 45°C. [/CALLOUT]
+
+[SECTION] Natural Highlights [/SECTION]
+- The **Hawar Islands** are a group of islands located off the coast of Qatar, known for their beautiful **beaches** and **wildlife**.
+- The **Al Thakira Mangroves** are a series of mangrove forests located in the northeastern part of the country, home to a diverse range of **wildlife**, including **birds** and **fish**.
+- The **Qatar Sand Dunes** are a series of sand dunes located in the southeastern part of the country, popular for **desert safaris** and **dune bashing**.
+- The **Khor Al Adaid** is a natural **inlet** located in the southeastern part of the country, known for its beautiful **beaches** and **wildlife**.
+- The **Umm Tais National Park** is a protected area located in the northwestern part of the country, home to a diverse range of **wildlife**, including **gazelles** and **birds**.
+- The **Zubara Fort** is a historic fort located in the northwestern part of the country, built in the 18th century and now a popular **tourist destination**.
+
+---
+
+*Evergreen reference content. Verify time-sensitive details with official sources.*

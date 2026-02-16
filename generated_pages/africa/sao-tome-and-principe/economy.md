@@ -1,0 +1,75 @@
+---
+title: "Sao Tome and Principe Economy - GDP, Industries & Trade"
+entity: "Sao Tome and Principe"
+iso_code: "ST"
+continent: "africa"
+angle: "economy"
+date: "2026-02-16"
+---
+
+# Sao Tome and Principe Economy - GDP, Industries & Trade
+
+[FACTBOX]
+GDP (nominal): ($0.4 billion estimate)
+GDP Per Capita: ($1,851 estimate)
+Income Classification: Lower-Middle
+Main Industries: Agriculture, Fishing, Services
+Currency: STN (Sao Tome and Principe Dobra)
+Unemployment Rate: (approximate 12%)
+Ease of Doing Business: (general ranking context: 153 out of 190 countries)
+[/FACTBOX]
+
+[SECTION] Economic Overview [/SECTION]
+Sao Tome and Principe has a **Lower-Middle Income** economy, with a GDP per capita of approximately $1,851. The country's economic development is still in its early stages, with a strong focus on **agriculture** and **fishing**. The economy is also heavily reliant on **foreign aid**, with significant contributions from countries such as Portugal and the European Union. Sao Tome and Principe is a member of the **Economic Community of Central African States (ECCAS)**, which aims to promote regional economic integration and cooperation. The country's economic trajectory is expected to be influenced by its strategic location in the Gulf of Guinea, with potential for growth in the **tourism** and **energy** sectors.
+
+The country's economy has experienced some growth in recent years, driven by investments in **infrastructure** and **human capital**. However, the economy remains vulnerable to **external shocks**, such as fluctuations in global commodity prices and changes in international trade policies. The government has implemented various **reforms** aimed at promoting economic development, including the creation of a **free trade zone** and the establishment of a **national development plan**. Despite these efforts, the country still faces significant **development challenges**, including a lack of **diversification** and a high **dependence on imports**.
+
+Sao Tome and Principe's economy is also characterized by a **large informal sector**, with many economic activities taking place outside of the formal sector. This can make it difficult to accurately assess the country's economic performance and **tax revenue**. The government has implemented measures to **formalize** the economy and increase **tax compliance**, but more work needs to be done to address this issue. Overall, Sao Tome and Principe's economy has the potential for growth and development, but it will require careful **planning** and **management** to overcome the country's **development challenges**.
+
+[SECTION] Key Industries [/SECTION]
+[TABLE]
+| Industry | Contribution | Details |
+| --- | --- | --- |
+| Agriculture | 20% of GDP | Main crops include **cocoa**, **coffee**, and **coconuts** |
+| Fishing | 10% of GDP | **Tuna** and **shrimp** are the main fish species caught |
+| Services | 60% of GDP | Includes **tourism**, **finance**, and **government services** |
+| Manufacturing | 5% of GDP | Main products include **textiles**, **food processing**, and **wood products** |
+| Energy | 2% of GDP | **Oil** and **gas** exploration and production are increasing |
+| Construction | 3% of GDP | **Infrastructure development** and **building construction** |
+[/TABLE]
+
+[SECTION] Trade Profile [/SECTION]
+**Top Exports:** 
+- **Cocoa**: accounts for the majority of the country's exports
+- **Coffee**: a significant export crop, with most production taking place on small-scale farms
+- **Coconuts**: exported in various forms, including **copra** and **coconut oil**
+- **Fish**: mainly **tuna** and **shrimp**, exported to countries such as Portugal and Spain
+- **Palm oil**: a growing export commodity, with several large-scale plantations in the country
+
+**Top Imports:** 
+- **Machinery**: including **agricultural equipment** and **construction machinery**
+- **Fuel**: mainly **petroleum products**, such as **gasoline** and **diesel**
+- **Food**: including **rice**, **wheat**, and **sugar**
+- **Manufactured goods**: such as **textiles**, **furniture**, and **electronics**
+- **Transport equipment**: including **cars**, **trucks**, and **buses**
+
+**Key Trading Partners:** 
+- **Portugal**: the country's former colonial power and a significant trading partner
+- **Angola**: a major trading partner in the region, with significant oil exports
+- **China**: an increasingly important trading partner, with significant investments in the country's **infrastructure** and **energy** sectors
+
+[SECTION] Infrastructure [/SECTION]
+- The country has a limited **transport network**, with a total of approximately 320 kilometers of roads, of which only 68 kilometers are paved
+- The **energy sector** is dominated by **thermal power**, with several small-scale **hydroelectric** and **solar power** plants
+- **Internet** and **mobile phone** penetration are increasing, with approximately 25% of the population having access to the internet
+- The country has two **ports**: the Port of Sao Tome and the Port of Neves, which handle the majority of the country's international trade
+- The **Sao Tome International Airport** is the country's main airport, with regular flights to Portugal, Angola, and other regional destinations
+
+[SECTION] Economic Outlook [/SECTION]
+Sao Tome and Principe's economy is expected to continue growing, driven by investments in **infrastructure** and **human capital**. The country has significant **potential** for growth in the **tourism** and **energy** sectors, with several major projects currently under development. The government has implemented various **reforms** aimed at promoting economic development, including the creation of a **free trade zone** and the establishment of a **national development plan**. However, the country still faces significant **development challenges**, including a lack of **diversification** and a high **dependence on imports**.
+
+The country's economic growth is also expected to be influenced by its strategic location in the Gulf of Guinea, with potential for growth in the **energy** and **transport** sectors. The government has implemented measures to **diversify** the economy and increase **foreign investment**, including the creation of a **one-stop shop** for investors and the establishment of a **national investment promotion agency**. Despite these efforts, the country still faces significant **development challenges**, including a lack of **infrastructure** and a high **dependence on foreign aid**. Overall, Sao Tome and Principe's economy has the potential for growth and development, but it will require careful **planning** and **management** to overcome the country's **development challenges**.
+
+---
+
+*Evergreen reference content. Verify time-sensitive details with official sources.*
