@@ -3003,11 +3003,38 @@ def content_to_html(content):
             in_callout = False
             html_parts.append("</div>")
             continue
+        # Line ending with [/CALLOUT] (close block and keep content)
+        if in_callout and stripped.endswith("[/CALLOUT]"):
+            text = stripped[:-len("[/CALLOUT]")].strip()
+            if text:
+                if text.startswith("Misconception:") or text.startswith("Reality:"):
+                    key, _, val = text.partition(":")
+                    css_class = "misconception" if key.strip() == "Misconception" else "reality"
+                    html_parts.append(f'<p class="{css_class}"><strong>{key.strip()}:</strong> {bold(val.strip())}</p>')
+                else:
+                    html_parts.append(f"<p>{bold(text)}</p>")
+            in_callout = False
+            html_parts.append("</div>")
+            continue
         # Inline callout (single line: [CALLOUT] text [/CALLOUT])
         callout_inline = re.match(r'^\[CALLOUT\]\s*(.+?)\s*\[/CALLOUT\]$', stripped)
         if callout_inline:
             close_list()
             html_parts.append(f'<div class="callout"><p>{bold(callout_inline.group(1))}</p></div>')
+            continue
+        # [CALLOUT] with text on same line (opens block, first line is content)
+        callout_open_with_text = re.match(r'^\[CALLOUT\]\s+(.+)$', stripped)
+        if callout_open_with_text:
+            close_list()
+            in_callout = True
+            text = callout_open_with_text.group(1)
+            html_parts.append('<div class="callout">')
+            if text.startswith("Misconception:") or text.startswith("Reality:"):
+                key, _, val = text.partition(":")
+                css_class = "misconception" if key.strip() == "Misconception" else "reality"
+                html_parts.append(f'<p class="{css_class}"><strong>{key.strip()}:</strong> {bold(val.strip())}</p>')
+            else:
+                html_parts.append(f"<p>{bold(text)}</p>")
             continue
         if in_callout:
             # Check for Misconception/Reality pattern
