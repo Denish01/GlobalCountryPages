@@ -1597,6 +1597,537 @@ Rules: Balanced assessment. Include both opportunities and realistic challenges.
 Target: 800-900 words.""",
     }
 
+    # ── COST SUB-ANGLE PROMPTS ──
+    # Inject World Bank data as context for cost pages
+    wb_context = ""
+    try:
+        from data_enrichment import fetch_worldbank_indicators
+        wb_data = fetch_worldbank_indicators(entity.get("iso_code", ""))
+        if wb_data and wb_data.get("indicators"):
+            ind = wb_data["indicators"]
+            wb_lines = []
+            if "NY.GDP.PCAP.PP.CD" in ind:
+                wb_lines.append(f"GDP per capita PPP: ${ind['NY.GDP.PCAP.PP.CD']['value']:,.0f} ({ind['NY.GDP.PCAP.PP.CD']['year']})")
+            if "FP.CPI.TOTL.ZG" in ind:
+                wb_lines.append(f"Inflation rate: {ind['FP.CPI.TOTL.ZG']['value']:.1f}% ({ind['FP.CPI.TOTL.ZG']['year']})")
+            if "SH.XPD.CHEX.PC.CD" in ind:
+                wb_lines.append(f"Health expenditure per capita: ${ind['SH.XPD.CHEX.PC.CD']['value']:,.0f} ({ind['SH.XPD.CHEX.PC.CD']['year']})")
+            if "SH.XPD.OOPC.CH.ZS" in ind:
+                wb_lines.append(f"Out-of-pocket health spend: {ind['SH.XPD.OOPC.CH.ZS']['value']:.1f}% ({ind['SH.XPD.OOPC.CH.ZS']['year']})")
+            if "SE.XPD.TOTL.GD.ZS" in ind:
+                wb_lines.append(f"Education spend (% of GDP): {ind['SE.XPD.TOTL.GD.ZS']['value']:.1f}% ({ind['SE.XPD.TOTL.GD.ZS']['year']})")
+            if wb_lines:
+                wb_context = "\n\nWORLD BANK DATA (use these real figures in your response):\n" + "\n".join(wb_lines)
+    except ImportError:
+        pass
+
+    cost_prompts = {
+        # ── COST-RENT-HOUSING ──
+        "cost_rent_housing": f"""Generate a rent and housing prices reference page for {name}.
+
+{context}{wb_context}
+Local currency: {currency}
+
+This page answers: "How much does rent cost in {name}? What are housing prices?"
+
+FORMAT:
+
+[FACTBOX]
+GDP per Capita (PPP): (use World Bank figure if available, otherwise estimate)
+Affordability Rating: (Very Affordable / Affordable / Moderate / Expensive / Very Expensive)
+Average Monthly Rent (1BR, City Center): ($X USD / local equivalent)
+Average Monthly Rent (1BR, Outside Center): ($X USD / local equivalent)
+Property Purchase (per sqm, City Center): ($X USD)
+Currency: {currency}
+[/FACTBOX]
+
+[SECTION] Housing Market Overview [/SECTION]
+2 paragraphs: rental market conditions, typical lease terms, deposit requirements, tenant rights. How {name}'s housing costs compare to regional neighbors.
+
+[SECTION] Apartment Rental Prices [/SECTION]
+[TABLE]
+| Apartment Type | City Center (USD/month) | Outside Center (USD/month) | Notes |
+| --- | --- | --- | --- |
+| Studio / Bedsitter | $X-X | $X-X | (typical quality) |
+| 1 Bedroom | $X-X | $X-X | (what to expect) |
+| 2 Bedroom | $X-X | $X-X | (family size) |
+| 3 Bedroom | $X-X | $X-X | (spacious) |
+[/TABLE]
+
+[SECTION] Property Purchase Prices [/SECTION]
+[TABLE]
+| Area Type | Price per sqm (USD) | Notes |
+| --- | --- | --- |
+| City Center | $X-X | (prime locations) |
+| Suburbs | $X-X | (residential areas) |
+| Rural | $X-X | (if applicable) |
+[/TABLE]
+
+[SECTION] Best Neighborhoods for Expats [/SECTION]
+4-5 bullet points naming specific neighborhoods in the capital or largest city, with typical rent range and character description.
+
+[SECTION] Renter Tips for {name} [/SECTION]
+5-6 bullet points: how to find housing, negotiation tips, scams to avoid, utilities usually included or not, furnished vs unfurnished norms.
+
+{format_rules}
+Rules: All prices in USD with local currency equivalent where helpful. Prices are approximate guides.
+Target: 700-800 words.""",
+
+        # ── COST-FOOD-GROCERIES ──
+        "cost_food_groceries": f"""Generate a food and grocery prices reference page for {name}.
+
+{context}{wb_context}
+Local currency: {currency}
+
+This page answers: "How much does food cost in {name}? What do groceries cost?"
+
+FORMAT:
+
+[FACTBOX]
+Meal at Inexpensive Restaurant: ($X USD)
+Meal for 2 at Mid-Range Restaurant: ($X USD)
+Monthly Grocery Budget (1 person): ($X-X USD)
+Local Beer (500ml): ($X USD)
+Currency: {currency}
+[/FACTBOX]
+
+[SECTION] Food Costs Overview [/SECTION]
+2 paragraphs: how food prices in {name} compare to regional average, what drives prices up or down, eating-out culture vs home cooking.
+
+[SECTION] Grocery Prices [/SECTION]
+[TABLE]
+| Item | Price (USD) | Local Price | Notes |
+| --- | --- | --- | --- |
+| Milk (1 liter) | $X | X {currency} | |
+| Bread (white loaf) | $X | X {currency} | |
+| Eggs (dozen) | $X | X {currency} | |
+| Rice (1 kg) | $X | X {currency} | |
+| Chicken breast (1 kg) | $X | X {currency} | |
+| Beef (1 kg) | $X | X {currency} | |
+| Apples (1 kg) | $X | X {currency} | |
+| Tomatoes (1 kg) | $X | X {currency} | |
+| Potatoes (1 kg) | $X | X {currency} | |
+| Onions (1 kg) | $X | X {currency} | |
+| Local cheese (1 kg) | $X | X {currency} | |
+| Water (1.5L bottle) | $X | X {currency} | |
+[/TABLE]
+
+[SECTION] Restaurant Prices [/SECTION]
+[TABLE]
+| Meal Type | Price Range (USD) | Notes |
+| --- | --- | --- |
+| Street Food / Local Eatery | $X-X | (typical dishes) |
+| Casual Restaurant | $X-X | (one person) |
+| Mid-Range Restaurant (2 people) | $X-X | (3 courses) |
+| Fine Dining (2 people) | $X-X | (upscale) |
+| Local Beer (draft, 500ml) | $X-X | |
+| Imported Beer (330ml) | $X-X | |
+| Cappuccino | $X-X | |
+| Soft Drink (can) | $X-X | |
+[/TABLE]
+
+[SECTION] Supermarket vs Local Market [/SECTION]
+2 paragraphs: price difference between supermarkets and open-air markets, what to buy where, bargaining norms.
+
+[SECTION] Local Food Tips [/SECTION]
+5-6 bullet points: cheapest ways to eat, local staples that are good value, what to avoid buying imported.
+
+{format_rules}
+Rules: All prices in USD with local currency equivalent. Prices are approximate guides based on typical costs.
+Target: 700-800 words.""",
+
+        # ── COST-HEALTHCARE ──
+        "cost_healthcare": f"""Generate a healthcare costs reference page for {name}.
+
+{context}{wb_context}
+Local currency: {currency}
+
+This page answers: "How much does healthcare cost in {name}? What does insurance cost?"
+
+FORMAT:
+
+[FACTBOX]
+Health Expenditure per Capita: (use World Bank figure if available)
+Out-of-Pocket Spend: (use World Bank figure if available)
+Healthcare System: (Universal / Mixed / Private / Public)
+Emergency Number: (local emergency number)
+Insurance Required: (Yes/No/Recommended)
+Currency: {currency}
+[/FACTBOX]
+
+[SECTION] Healthcare System Overview [/SECTION]
+2 paragraphs: public vs private healthcare quality, how the system works for locals vs foreigners, whether you need insurance.
+
+[SECTION] Medical Visit Costs [/SECTION]
+[TABLE]
+| Service | Public (USD) | Private (USD) | Notes |
+| --- | --- | --- | --- |
+| GP / Doctor Visit | $X-X | $X-X | |
+| Specialist Consultation | $X-X | $X-X | |
+| Dental Checkup | $X-X | $X-X | |
+| Eye Exam | $X-X | $X-X | |
+| Blood Test (basic panel) | $X-X | $X-X | |
+[/TABLE]
+
+[SECTION] Hospital & Procedure Costs [/SECTION]
+[TABLE]
+| Procedure | Cost Range (USD) | Notes |
+| --- | --- | --- |
+| Emergency Room Visit | $X-X | |
+| Hospital Stay (per night) | $X-X | |
+| Basic Surgery | $X-X | |
+| Childbirth (normal delivery) | $X-X | |
+| MRI Scan | $X-X | |
+| X-Ray | $X-X | |
+[/TABLE]
+
+[SECTION] Health Insurance [/SECTION]
+[TABLE]
+| Coverage Type | Monthly Cost (USD) | What It Covers |
+| --- | --- | --- |
+| Basic Local Insurance | $X-X | (outline) |
+| Comprehensive Private | $X-X | (outline) |
+| International / Expat | $X-X | (outline) |
+[/TABLE]
+
+[SECTION] Pharmacy & Medication Costs [/SECTION]
+5-6 bullet points: common medication prices, prescription rules, pharmacy availability, over-the-counter norms.
+
+[SECTION] Emergency Care [/SECTION]
+2 paragraphs: what to do in a medical emergency, ambulance availability, best hospitals for foreigners.
+
+{format_rules}
+Rules: All prices in USD. Distinguish public vs private costs. Note that prices vary by city.
+Target: 700-800 words.""",
+
+        # ── COST-TRANSPORTATION ──
+        "cost_transportation": f"""Generate a transportation costs reference page for {name}.
+
+{context}{wb_context}
+Local currency: {currency}
+
+This page answers: "How much does transportation cost in {name}?"
+
+FORMAT:
+
+[FACTBOX]
+Monthly Transit Pass: ($X USD)
+Taxi Start Rate: ($X USD)
+Fuel (per liter): ($X USD)
+Ride-Hailing Available: (Yes/No — name apps)
+Currency: {currency}
+[/FACTBOX]
+
+[SECTION] Getting Around Overview [/SECTION]
+2 paragraphs: main transportation modes, quality of public transit, how most people get around.
+
+[SECTION] Public Transportation [/SECTION]
+[TABLE]
+| Transport Type | Single Fare (USD) | Monthly Pass (USD) | Notes |
+| --- | --- | --- | --- |
+| City Bus | $X | $X | (coverage quality) |
+| Metro / Subway | $X | $X | (if available) |
+| Minibus / Shared Taxi | $X | N/A | (routes) |
+| Commuter Train | $X-X | $X | (if available) |
+[/TABLE]
+
+[SECTION] Taxi & Ride-Hailing [/SECTION]
+[TABLE]
+| Service | Base Fare (USD) | Per km (USD) | Typical City Ride (USD) | Notes |
+| --- | --- | --- | --- | --- |
+| Metered Taxi | $X | $X | $X-X | |
+| Ride-Hailing App | $X | $X | $X-X | (which apps) |
+| Airport Transfer | N/A | N/A | $X-X | (to city center) |
+[/TABLE]
+
+[SECTION] Fuel & Driving Costs [/SECTION]
+[TABLE]
+| Item | Cost (USD) | Notes |
+| --- | --- | --- |
+| Gasoline (per liter) | $X | |
+| Diesel (per liter) | $X | |
+| Car Rental (per day) | $X-X | (economy car) |
+| Parking (per hour, city) | $X-X | |
+| Toll Roads (typical) | $X-X | (if applicable) |
+[/TABLE]
+
+[SECTION] Intercity & Long-Distance [/SECTION]
+[TABLE]
+| Route Type | Cost Range (USD) | Notes |
+| --- | --- | --- |
+| Intercity Bus (4-5 hrs) | $X-X | |
+| Domestic Flight | $X-X | (typical route) |
+| Train (long-distance) | $X-X | (if available) |
+[/TABLE]
+
+[SECTION] Transport Tips [/SECTION]
+5-6 bullet points: saving money on transport, apps to use, safety advice, negotiating taxi fares.
+
+{format_rules}
+Rules: All prices in USD with local currency where helpful. Note variation between cities.
+Target: 600-700 words.""",
+
+        # ── COST-EDUCATION ──
+        "cost_education": f"""Generate an education costs reference page for {name}.
+
+{context}{wb_context}
+Local currency: {currency}
+
+This page answers: "How much does education cost in {name}? What are school fees and tuition?"
+
+FORMAT:
+
+[FACTBOX]
+Education Spend (% GDP): (use World Bank figure if available)
+Literacy Rate: (approximate %)
+School System: (years of compulsory education)
+Academic Year: (months)
+Currency: {currency}
+[/FACTBOX]
+
+[SECTION] Education System Overview [/SECTION]
+2 paragraphs: public vs private education quality, language of instruction, compulsory education years, international school availability.
+
+[SECTION] School Fees [/SECTION]
+[TABLE]
+| School Type | Annual Fee (USD) | Notes |
+| --- | --- | --- |
+| Public Primary | $X (free/subsidized) | (quality notes) |
+| Private Primary | $X-X | (range by tier) |
+| Public Secondary | $X (free/subsidized) | (quality notes) |
+| Private Secondary | $X-X | (range by tier) |
+| International School | $X-X | (curriculum types) |
+[/TABLE]
+
+[SECTION] University Tuition [/SECTION]
+[TABLE]
+| Institution Type | Annual Tuition - Local (USD) | Annual Tuition - International (USD) | Notes |
+| --- | --- | --- | --- |
+| Public University | $X-X | $X-X | |
+| Private University | $X-X | $X-X | |
+| Top-Ranked University | $X-X | $X-X | (name if applicable) |
+[/TABLE]
+
+[SECTION] Other Education Costs [/SECTION]
+[TABLE]
+| Item | Cost (USD) | Notes |
+| --- | --- | --- |
+| Preschool / Daycare (monthly) | $X-X | |
+| Private Tutoring (per hour) | $X-X | |
+| Language Course (monthly) | $X-X | |
+| School Supplies (annual) | $X-X | |
+| School Uniform | $X-X | |
+[/TABLE]
+
+[SECTION] Education Quality & Tips [/SECTION]
+5-6 bullet points: best schools for expats, scholarship availability, online learning options, education quality compared to region.
+
+{format_rules}
+Rules: All prices in USD. Distinguish between local and international student fees where applicable.
+Target: 600-700 words.""",
+
+        # ── COST-UTILITIES-INTERNET ──
+        "cost_utilities_internet": f"""Generate a utility and internet costs reference page for {name}.
+
+{context}{wb_context}
+Local currency: {currency}
+
+This page answers: "How much do utilities and internet cost in {name}?"
+
+FORMAT:
+
+[FACTBOX]
+Monthly Utilities (85 sqm apt): ($X USD)
+Internet (60 Mbps): ($X USD/month)
+Mobile Data (10GB): ($X USD/month)
+Electricity Cost: ($X per kWh)
+Currency: {currency}
+[/FACTBOX]
+
+[SECTION] Utility Costs Overview [/SECTION]
+2 paragraphs: utility infrastructure quality, whether costs are stable or fluctuating, seasonal variation.
+
+[SECTION] Monthly Utility Bills [/SECTION]
+[TABLE]
+| Utility | Small Apt (45 sqm) | Medium Apt (85 sqm) | Large Apt (120 sqm) | Notes |
+| --- | --- | --- | --- | --- |
+| Electricity | $X | $X | $X | |
+| Water | $X | $X | $X | |
+| Gas / Heating | $X | $X | $X | |
+| Garbage / Municipal | $X | $X | $X | (if separate) |
+| **Total** | **$X** | **$X** | **$X** | |
+[/TABLE]
+
+[SECTION] Internet & Phone Plans [/SECTION]
+[TABLE]
+| Service | Monthly Cost (USD) | Speed / Allowance | Provider Examples |
+| --- | --- | --- | --- |
+| Fiber Internet (basic) | $X-X | X Mbps | |
+| Fiber Internet (fast) | $X-X | X Mbps | |
+| Mobile Data (prepaid) | $X-X | X GB | |
+| Mobile Data (postpaid) | $X-X | X GB | |
+| Phone + Internet Bundle | $X-X | varies | |
+[/TABLE]
+
+[SECTION] Streaming & Digital Services [/SECTION]
+[TABLE]
+| Service | Monthly Cost (USD) | Notes |
+| --- | --- | --- |
+| Netflix (standard) | $X | |
+| Spotify (premium) | $X | |
+| Local Streaming | $X | (if applicable) |
+[/TABLE]
+
+[SECTION] Utility Tips [/SECTION]
+4-5 bullet points: how to set up utilities, prepaid vs postpaid electricity, best internet providers, saving on bills.
+
+{format_rules}
+Rules: All prices in USD. Note seasonal variation where applicable.
+Target: 500-600 words.""",
+
+        # ── COST-MONTHLY-BUDGET ──
+        "cost_monthly_budget": f"""Generate a comprehensive monthly budget guide for {name}.
+
+{context}{wb_context}
+Local currency: {currency}
+
+This page answers: "How much money do I need per month to live in {name}?"
+
+FORMAT:
+
+[FACTBOX]
+GDP per Capita (PPP): (use World Bank figure if available)
+Budget Living (monthly): ($X USD)
+Mid-Range Living (monthly): ($X USD)
+Comfortable Living (monthly): ($X USD)
+Average Local Salary: ($X USD/month, approximate)
+Currency: {currency}
+[/FACTBOX]
+
+[SECTION] Cost of Living Overview [/SECTION]
+2 paragraphs: overall affordability of {name} using GDP PPP as anchor, how far different budgets go, comparison to neighboring countries.
+
+[SECTION] Monthly Budget Breakdown [/SECTION]
+[TABLE]
+| Category | Budget ($) | Mid-Range ($) | Comfortable ($) | Notes |
+| --- | --- | --- | --- | --- |
+| Rent (1BR apartment) | X | X | X | (budget=shared/outside, mid=1BR center, comfortable=nice 2BR) |
+| Food & Groceries | X | X | X | (budget=cook mostly, mid=mix, comfortable=eat out often) |
+| Transportation | X | X | X | (budget=public only, mid=mix, comfortable=taxi/car) |
+| Utilities & Internet | X | X | X | (electricity, water, internet, phone) |
+| Healthcare / Insurance | X | X | X | (budget=public only, comfortable=private) |
+| Entertainment & Social | X | X | X | (going out, hobbies, gym) |
+| Clothing & Personal | X | X | X | |
+| Savings / Misc | X | X | X | |
+| **Total** | **X** | **X** | **X** | |
+[/TABLE]
+
+[SECTION] Budget Tier Lifestyles [/SECTION]
+3 paragraphs (one per tier): what daily life looks like at each budget level. Be specific about what you can and cannot afford.
+
+[SECTION] Cost Comparison by City [/SECTION]
+[TABLE]
+| City | Rent (1BR) | Food (monthly) | Transport | Overall Level |
+| --- | --- | --- | --- | --- |
+| (capital/largest) | $X | $X | $X | (Expensive/Moderate/Cheap) |
+| (second city) | $X | $X | $X | |
+| (third city or tourist hub) | $X | $X | $X | |
+[/TABLE]
+
+[SECTION] Money-Saving Strategies [/SECTION]
+6-8 bullet points: specific, actionable tips for reducing costs in {name}. Include local knowledge.
+
+[SECTION] Is {name} Affordable? [/SECTION]
+2 paragraphs: honest assessment of who {name} is affordable for (digital nomads, retirees, students, families), and who might find it expensive.
+
+{format_rules}
+Rules: All prices in USD. Budget tiers should be realistic and internally consistent. Use GDP PPP data to anchor estimates.
+Target: 800-900 words.""",
+
+        # ── COST-COMPARISON ──
+        "cost_comparison": f"""Generate a cost of living comparison page: {name} vs {comparison_entity or '[Other Country]'}.
+
+{context}
+Local currency: {currency}
+
+{"Comparison country: " + comparison_entity if comparison_entity else ""}
+
+This page answers: "Is {name} cheaper or more expensive than {comparison_entity or 'the other country'}? How do costs compare?"
+
+FORMAT:
+
+[FACTBOX]
+{name} GDP per Capita (PPP): (use real figure if available)
+{comparison_entity or 'Other'} GDP per Capita (PPP): (use real figure if available)
+{name} Inflation Rate: (use real figure if available)
+{comparison_entity or 'Other'} Inflation Rate: (use real figure if available)
+Overall Winner (Cheaper): (which country)
+[/FACTBOX]
+
+[SECTION] Overview: {name} vs {comparison_entity or 'Other'} [/SECTION]
+2 paragraphs: high-level comparison of cost levels, economic context, which country is generally cheaper and by roughly how much.
+
+[SECTION] Rent & Housing Comparison [/SECTION]
+[TABLE]
+| Item | {name} (USD) | {comparison_entity or 'Other'} (USD) | Difference |
+| --- | --- | --- | --- |
+| 1BR Apartment (City Center) | $X | $X | X% cheaper/more |
+| 1BR Apartment (Outside) | $X | $X | X% cheaper/more |
+| 3BR Apartment (City Center) | $X | $X | X% cheaper/more |
+[/TABLE]
+
+[SECTION] Food & Dining Comparison [/SECTION]
+[TABLE]
+| Item | {name} (USD) | {comparison_entity or 'Other'} (USD) | Difference |
+| --- | --- | --- | --- |
+| Meal at Restaurant | $X | $X | X% |
+| Groceries (monthly) | $X | $X | X% |
+| Beer (500ml) | $X | $X | X% |
+| Coffee | $X | $X | X% |
+[/TABLE]
+
+[SECTION] Transport Comparison [/SECTION]
+[TABLE]
+| Item | {name} (USD) | {comparison_entity or 'Other'} (USD) | Difference |
+| --- | --- | --- | --- |
+| Monthly Transit Pass | $X | $X | X% |
+| Taxi (per km) | $X | $X | X% |
+| Fuel (per liter) | $X | $X | X% |
+[/TABLE]
+
+[SECTION] Utilities & Internet Comparison [/SECTION]
+[TABLE]
+| Item | {name} (USD) | {comparison_entity or 'Other'} (USD) | Difference |
+| --- | --- | --- | --- |
+| Utilities (85 sqm apt) | $X | $X | X% |
+| Internet (60 Mbps) | $X | $X | X% |
+| Mobile Plan | $X | $X | X% |
+[/TABLE]
+
+[SECTION] Monthly Budget Comparison [/SECTION]
+[TABLE]
+| Budget Tier | {name} (USD) | {comparison_entity or 'Other'} (USD) | Savings |
+| --- | --- | --- | --- |
+| Budget | $X | $X | X% |
+| Mid-Range | $X | $X | X% |
+| Comfortable | $X | $X | X% |
+[/TABLE]
+
+[SECTION] Where Each Country Wins [/SECTION]
+2 subsections:
+- **{name} is cheaper for:** 3-4 bullet points with specific categories
+- **{comparison_entity or 'Other'} is cheaper for:** 3-4 bullet points with specific categories
+
+[SECTION] Bottom Line [/SECTION]
+1-2 paragraphs: which country offers better value for different lifestyles (expats, students, retirees, families).
+
+{format_rules}
+Rules: All prices in USD. Show percentage differences. Be balanced and factual.
+Target: 800-900 words.""",
+    }
+
+    prompts.update(cost_prompts)
+
     return prompts.get(angle_id, prompts["overview"])
 
 
@@ -1623,8 +2154,66 @@ def build_html(entity, angle_id, title, content, breadcrumbs=None, enriched_data
         from data_enrichment import build_verified_factbox
         verified_factbox_html = build_verified_factbox(entity, enriched_data)
 
+    # Add World Bank cost factbox for cost-related pages
+    cost_related_angles = {"cost-of-living", "cost-rent-housing", "cost-food-groceries",
+                           "cost-healthcare", "cost-transportation", "cost-education",
+                           "cost-utilities-internet", "cost-monthly-budget"}
+    if angle_id in cost_related_angles or angle_id.startswith("cost-compare-"):
+        try:
+            from data_enrichment import fetch_worldbank_indicators, build_cost_factbox
+            wb_data = fetch_worldbank_indicators(entity.get("iso_code", ""))
+            wb_factbox = build_cost_factbox(entity, wb_data)
+            if wb_factbox:
+                verified_factbox_html += "\n" + wb_factbox
+        except ImportError:
+            pass
+
     # Generate related links
     related_links_html = build_related_links(entity)
+
+    # Build cost-specific linking HTML
+    cost_hub_links_html = ""
+    cost_cross_links_html = ""
+    cost_sub_angle_ids = []
+    cost_registry_path = BASE_DIR / "cost_angle_registry.json"
+    if cost_registry_path.exists():
+        try:
+            _cost_reg = json.loads(cost_registry_path.read_text(encoding="utf-8"))
+            cost_sub_angle_ids = list(_cost_reg.get("cost_angles", {}).keys())
+        except (json.JSONDecodeError, OSError):
+            pass
+
+    if angle_id == "cost-of-living":
+        # Hub page gets "Detailed Cost Guides" grid
+        cost_hub_links_html = build_cost_hub_links(entity)
+    elif angle_id in cost_sub_angle_ids:
+        # Cost sub-pages get "Related Cost Guides" footer
+        cost_cross_links_html = build_cost_cross_links(entity, angle_id)
+    elif angle_id == "economy":
+        # Economy page links to cost pages
+        entity_slug_tmp = slugify(entity_name)
+        econ_links = []
+        for link_id, link_label in [("cost-of-living", "Cost of Living"), ("cost-monthly-budget", "Monthly Budget Guide")]:
+            link_page = OUTPUT_DIR / continent / entity_slug_tmp / f"{link_id}.html"
+            if link_page.exists():
+                econ_links.append(f'<a href="/{continent}/{entity_slug_tmp}/{link_id}.html">{link_label}</a>')
+        if econ_links:
+            cost_cross_links_html = f'<div style="margin-top:24px;padding:16px 20px;background:#F3F4F6;border-radius:8px;font-size:14px;"><strong>Related:</strong> {" &middot; ".join(econ_links)}</div>'
+    elif angle_id in ("moving-there", "real-estate", "healthcare"):
+        # These pages link to relevant cost pages
+        entity_slug_tmp = slugify(entity_name)
+        link_map = {
+            "moving-there": [("cost-of-living", "Cost of Living")],
+            "real-estate": [("cost-rent-housing", "Rent & Housing Prices")],
+            "healthcare": [("cost-healthcare", "Healthcare Costs")],
+        }
+        outbound_links = []
+        for link_id, link_label in link_map.get(angle_id, []):
+            link_page = OUTPUT_DIR / continent / entity_slug_tmp / f"{link_id}.html"
+            if link_page.exists():
+                outbound_links.append(f'<a href="/{continent}/{entity_slug_tmp}/{link_id}.html">{link_label}</a>')
+        if outbound_links:
+            cost_cross_links_html = f'<div style="margin-top:24px;padding:16px 20px;background:#F3F4F6;border-radius:8px;font-size:14px;"><strong>Related:</strong> {" &middot; ".join(outbound_links)}</div>'
 
     # Build breadcrumb HTML
     if not breadcrumbs:
@@ -1645,6 +2234,19 @@ def build_html(entity, angle_id, title, content, breadcrumbs=None, enriched_data
     angles = angle_registry.get("angles", {})
     angle_nav_items = []
     entity_slug = slugify(entity_name)
+
+    # Load cost sub-angle labels for sidebar
+    cost_registry_path = BASE_DIR / "cost_angle_registry.json"
+    cost_sidebar_labels = {}
+    cost_sub_angle_ids = []
+    if cost_registry_path.exists():
+        try:
+            cost_reg = json.loads(cost_registry_path.read_text(encoding="utf-8"))
+            cost_sidebar_labels = cost_reg.get("sidebar_labels", {})
+            cost_sub_angle_ids = list(cost_reg.get("cost_angles", {}).keys())
+        except (json.JSONDecodeError, OSError):
+            pass
+
     for aid, aconfig in angles.items():
         if aid == "vs":
             continue
@@ -1658,6 +2260,20 @@ def build_html(entity, angle_id, title, content, breadcrumbs=None, enriched_data
             angle_nav_items.append(
                 f'<li><a href="/{continent}/{entity_slug}/{aid}.html">{angle_label}</a></li>'
             )
+
+        # After "Cost Of Living", insert indented cost sub-angle links
+        if aid == "cost-of-living" and cost_sub_angle_ids:
+            for csub_id in cost_sub_angle_ids:
+                csub_label = cost_sidebar_labels.get(csub_id, csub_id.replace("-", " ").title())
+                csub_page = OUTPUT_DIR / continent / entity_slug / f"{csub_id}.html"
+                if csub_id == angle_id:
+                    angle_nav_items.append(
+                        f'<li><a href="/{continent}/{entity_slug}/{csub_id}.html" class="active" style="padding-left:28px;font-size:13px;">{csub_label}</a></li>'
+                    )
+                elif csub_page.exists():
+                    angle_nav_items.append(
+                        f'<li><a href="/{continent}/{entity_slug}/{csub_id}.html" style="padding-left:28px;font-size:13px;">{csub_label}</a></li>'
+                    )
     angle_nav_html = "\n                ".join(angle_nav_items)
 
     # Continent nav links for header
@@ -2078,6 +2694,8 @@ def build_html(entity, angle_id, title, content, breadcrumbs=None, enriched_data
                 {toc_html}
                 {verified_factbox_html}
                 {html_content}
+                {cost_hub_links_html}
+                {cost_cross_links_html}
                 {related_links_html}
             </article>
         </main>
@@ -2199,6 +2817,128 @@ def build_related_links(entity):
 
     return f"""<div class="related-concepts">
     {''.join(sections)}
+</div>"""
+
+
+def build_cost_hub_links(entity):
+    """Build a 'Detailed Cost Guides' grid for the cost-of-living hub page.
+    Links to all 7 cost sub-angles + available cost comparisons.
+
+    Args:
+        entity: Entity dict from entity_registry
+
+    Returns:
+        HTML string with cost guide links grid
+    """
+    continent = entity.get("continent", "europe")
+    entity_slug = slugify(entity["name"])
+
+    # Load cost registry for sub-angle info
+    cost_registry_path = BASE_DIR / "cost_angle_registry.json"
+    if not cost_registry_path.exists():
+        return ""
+
+    try:
+        cost_reg = json.loads(cost_registry_path.read_text(encoding="utf-8"))
+    except (json.JSONDecodeError, OSError):
+        return ""
+
+    cost_angles = cost_reg.get("cost_angles", {})
+    sidebar_labels = cost_reg.get("sidebar_labels", {})
+
+    # Build sub-angle links
+    sub_links = []
+    for csub_id, csub_config in cost_angles.items():
+        csub_page = OUTPUT_DIR / continent / entity_slug / f"{csub_id}.html"
+        if csub_page.exists():
+            label = sidebar_labels.get(csub_id, csub_config.get("title_pattern", "").replace("{Entity}", entity["name"]))
+            desc = csub_config.get("description", "")
+            sub_links.append(f'<a href="/{continent}/{entity_slug}/{csub_id}.html" class="cost-guide-link"><strong>{label}</strong><span>{desc}</span></a>')
+
+    # Build comparison links
+    comp_links = []
+    for comp in entity.get("common_comparisons", []):
+        comp_slug = slugify(comp)
+        comp_file = OUTPUT_DIR / continent / entity_slug / f"cost-compare-{comp_slug}.html"
+        if comp_file.exists():
+            comp_links.append(f'<a href="/{continent}/{entity_slug}/cost-compare-{comp_slug}.html" class="cost-guide-link"><strong>{entity["name"]} vs {comp}</strong><span>Side-by-side cost comparison</span></a>')
+
+    if not sub_links and not comp_links:
+        return ""
+
+    all_links = "\n".join(sub_links + comp_links)
+    return f"""<div class="cost-guides-grid" style="margin-top:32px;">
+    <h2 style="margin-bottom:16px;">Detailed Cost Guides</h2>
+    <div style="display:grid;grid-template-columns:repeat(auto-fill,minmax(250px,1fr));gap:12px;">
+{all_links}
+    </div>
+</div>
+<style>.cost-guide-link{{display:block;padding:16px;background:#F9FAFB;border:1px solid #E5E7EB;border-radius:8px;text-decoration:none;transition:border-color 0.2s,box-shadow 0.2s;}}.cost-guide-link:hover{{border-color:#6B7280;box-shadow:0 2px 8px rgba(0,0,0,0.08);text-decoration:none;}}.cost-guide-link strong{{display:block;color:#1F2937;margin-bottom:4px;}}.cost-guide-link span{{font-size:13px;color:#6B7280;}}</style>"""
+
+
+def build_cost_cross_links(entity, current_angle_id):
+    """Build 'Related Cost Guides' footer for cost sub-pages.
+    Links to hub, related sub-pages, economy, and comparison pages.
+
+    Args:
+        entity: Entity dict from entity_registry
+        current_angle_id: Current cost sub-angle slug
+
+    Returns:
+        HTML string with related cost guide links
+    """
+    continent = entity.get("continent", "europe")
+    entity_slug = slugify(entity["name"])
+
+    # Load cost registry
+    cost_registry_path = BASE_DIR / "cost_angle_registry.json"
+    if not cost_registry_path.exists():
+        return ""
+
+    try:
+        cost_reg = json.loads(cost_registry_path.read_text(encoding="utf-8"))
+    except (json.JSONDecodeError, OSError):
+        return ""
+
+    cost_angles = cost_reg.get("cost_angles", {})
+    sidebar_labels = cost_reg.get("sidebar_labels", {})
+    current_config = cost_angles.get(current_angle_id, {})
+    related = current_config.get("related_angles", [])
+
+    links = []
+
+    # Link to cost-of-living hub
+    hub_page = OUTPUT_DIR / continent / entity_slug / "cost-of-living.html"
+    if hub_page.exists():
+        links.append(f'<a href="/{continent}/{entity_slug}/cost-of-living.html">Cost of Living Overview</a>')
+
+    # Related sub-pages
+    for rel_id in related:
+        if rel_id == current_angle_id:
+            continue
+        rel_page = OUTPUT_DIR / continent / entity_slug / f"{rel_id}.html"
+        if rel_page.exists():
+            label = sidebar_labels.get(rel_id, rel_id.replace("-", " ").title())
+            links.append(f'<a href="/{continent}/{entity_slug}/{rel_id}.html">{label}</a>')
+
+    # Link to economy page
+    econ_page = OUTPUT_DIR / continent / entity_slug / "economy.html"
+    if econ_page.exists():
+        links.append(f'<a href="/{continent}/{entity_slug}/economy.html">Economy</a>')
+
+    # Comparison links
+    for comp in entity.get("common_comparisons", [])[:2]:
+        comp_slug = slugify(comp)
+        comp_file = OUTPUT_DIR / continent / entity_slug / f"cost-compare-{comp_slug}.html"
+        if comp_file.exists():
+            links.append(f'<a href="/{continent}/{entity_slug}/cost-compare-{comp_slug}.html">{entity["name"]} vs {comp}</a>')
+
+    if not links:
+        return ""
+
+    links_html = " &middot; ".join(links)
+    return f"""<div style="margin-top:24px;padding:16px 20px;background:#F3F4F6;border-radius:8px;font-size:14px;">
+    <strong>Related Cost Guides:</strong> {links_html}
 </div>"""
 
 
@@ -2763,6 +3503,253 @@ def generate_page(entity_slug, angle_id, comparison_entity=None):
         return save_page(entity, angle_id, title, content, enriched_data=enriched_data)
 
 
+def generate_cost_page(entity_slug, cost_angle_id, comparison_entity=None):
+    """Generate a single cost sub-angle or cost comparison page.
+
+    Args:
+        entity_slug: Entity slug (e.g., 'kenya')
+        cost_angle_id: Cost sub-angle slug (e.g., 'cost-rent-housing') or 'cost-comparison'
+        comparison_entity: For comparison pages, the other country name
+
+    Returns:
+        Path to generated HTML file, or None
+    """
+    entity = get_entity(entity_slug)
+    if not entity:
+        log(f"Entity not found: {entity_slug}", "ERROR")
+        return None
+
+    # Load cost registry for config
+    cost_registry_path = BASE_DIR / "cost_angle_registry.json"
+    if not cost_registry_path.exists():
+        log("cost_angle_registry.json not found", "ERROR")
+        return None
+
+    cost_reg = json.loads(cost_registry_path.read_text(encoding="utf-8"))
+    continent = entity.get("continent", "general")
+
+    if cost_angle_id == "cost-comparison" and comparison_entity:
+        # Cost comparison page
+        comp_slug = slugify(comparison_entity)
+        file_slug = f"cost-compare-{comp_slug}"
+        title = cost_reg["comparison"]["title_pattern"].replace("{Entity}", entity["name"]).replace("{Other}", comparison_entity)
+        prompt_key = cost_reg["comparison"]["prompt_key"]
+        word_target = cost_reg["comparison"].get("word_target", 900)
+    else:
+        # Cost sub-angle page
+        angle_config = cost_reg.get("cost_angles", {}).get(cost_angle_id)
+        if not angle_config:
+            log(f"Cost angle not found: {cost_angle_id}", "ERROR")
+            return None
+        file_slug = cost_angle_id
+        title = angle_config["title_pattern"].replace("{Entity}", entity["name"])
+        prompt_key = angle_config["prompt_key"]
+        word_target = angle_config.get("word_target", 800)
+
+    # Check if already exists
+    existing = OUTPUT_DIR / continent / entity_slug / f"{file_slug}.html"
+    if existing.exists():
+        log(f"Already exists: {entity_slug}/{file_slug}, skipping", "WARN")
+        return existing
+
+    # Generate content
+    prompt = get_prompt_for_angle(entity, prompt_key, comparison_entity)
+
+    # Fetch enriched data
+    enriched_data = None
+    try:
+        from data_enrichment import fetch_country_data
+        enriched_data = fetch_country_data(entity.get("iso_code", ""))
+    except ImportError:
+        pass
+
+    log(f"Generating: {entity['name']} / {file_slug}...")
+    content = generate_with_groq(prompt, max_tokens=word_target * 3)
+
+    return save_page(entity, file_slug, title, content, enriched_data=enriched_data)
+
+
+def generate_cost_angles_batch(entity_slugs=None, count=200):
+    """Generate cost sub-angle pages in batch.
+
+    Args:
+        entity_slugs: List of entity slugs, or None for all
+        count: Max pages to generate this run
+    """
+    cost_registry_path = BASE_DIR / "cost_angle_registry.json"
+    if not cost_registry_path.exists():
+        log("cost_angle_registry.json not found", "ERROR")
+        return []
+
+    cost_reg = json.loads(cost_registry_path.read_text(encoding="utf-8"))
+    cost_angle_ids = list(cost_reg.get("cost_angles", {}).keys())
+
+    if entity_slugs is None:
+        entity_slugs = get_all_entity_slugs()
+
+    # Build work queue
+    work = []
+    for slug in entity_slugs:
+        entity = get_entity(slug)
+        if not entity:
+            continue
+        continent = entity.get("continent", "general")
+        for caid in cost_angle_ids:
+            existing = OUTPUT_DIR / continent / slug / f"{caid}.html"
+            if not existing.exists():
+                work.append((slug, caid))
+
+    if not work:
+        log("No cost angle pages to generate (all done)", "WARN")
+        return []
+
+    work = work[:count]
+    log(f"Generating {len(work)} cost angle pages (Phase 9)...")
+    print("=" * 60)
+
+    results = []
+    for i, (slug, caid) in enumerate(work, 1):
+        entity = get_entity(slug)
+        print(f"\n[{i}/{len(work)}] {entity['name']} / {caid}")
+        print("-" * 40)
+
+        try:
+            result = generate_cost_page(slug, caid)
+            if result:
+                results.append(result)
+        except Exception as e:
+            log(f"Failed: {e}", "ERROR")
+
+        if i < len(work):
+            time.sleep(2)
+
+    print("\n" + "=" * 60)
+    log(f"Generated {len(results)}/{len(work)} cost angle pages", "SUCCESS")
+
+    update_manifest()
+    generate_all_index_pages()
+    return results
+
+
+def generate_cost_comparisons_batch(entity_slugs=None, count=200):
+    """Generate cost comparison pages in batch.
+
+    Args:
+        entity_slugs: List of entity slugs, or None for all
+        count: Max pages to generate this run
+    """
+    if entity_slugs is None:
+        entity_slugs = get_all_entity_slugs()
+
+    # Build work queue from common_comparisons + neighbors
+    work = []
+    seen_pairs = set()
+
+    for slug in entity_slugs:
+        entity = get_entity(slug)
+        if not entity:
+            continue
+        continent = entity.get("continent", "general")
+
+        # common_comparisons
+        for comp in entity.get("common_comparisons", []):
+            pair_key = tuple(sorted([slug, slugify(comp)]))
+            if pair_key in seen_pairs:
+                continue
+            comp_slug = slugify(comp)
+            existing = OUTPUT_DIR / continent / slug / f"cost-compare-{comp_slug}.html"
+            if not existing.exists():
+                work.append((slug, comp))
+                seen_pairs.add(pair_key)
+
+        # neighbors (for additional coverage)
+        for nb in entity.get("neighbors", []):
+            pair_key = tuple(sorted([slug, slugify(nb)]))
+            if pair_key in seen_pairs:
+                continue
+            nb_slug = slugify(nb)
+            existing = OUTPUT_DIR / continent / slug / f"cost-compare-{nb_slug}.html"
+            if not existing.exists():
+                work.append((slug, nb))
+                seen_pairs.add(pair_key)
+
+    if not work:
+        log("No cost comparison pages to generate (all done)", "WARN")
+        return []
+
+    work = work[:count]
+    log(f"Generating {len(work)} cost comparison pages (Phase 10)...")
+    print("=" * 60)
+
+    results = []
+    for i, (slug, comp) in enumerate(work, 1):
+        entity = get_entity(slug)
+        print(f"\n[{i}/{len(work)}] {entity['name']} vs {comp}")
+        print("-" * 40)
+
+        try:
+            result = generate_cost_page(slug, "cost-comparison", comparison_entity=comp)
+            if result:
+                results.append(result)
+        except Exception as e:
+            log(f"Failed: {e}", "ERROR")
+
+        if i < len(work):
+            time.sleep(2)
+
+    print("\n" + "=" * 60)
+    log(f"Generated {len(results)}/{len(work)} cost comparison pages", "SUCCESS")
+
+    update_manifest()
+    generate_all_index_pages()
+    return results
+
+
+def regenerate_cost_hubs(entity_slugs=None):
+    """Regenerate cost-of-living hub pages with new sub-angle links.
+    Re-renders HTML from existing JSON content (no new AI generation).
+
+    Args:
+        entity_slugs: List of entity slugs, or None for all
+    """
+    if entity_slugs is None:
+        entity_slugs = get_all_entity_slugs()
+
+    rebuilt = 0
+    for slug in entity_slugs:
+        entity = get_entity(slug)
+        if not entity:
+            continue
+        continent = entity.get("continent", "general")
+        json_file = OUTPUT_DIR / continent / slug / "cost-of-living.json"
+        if not json_file.exists():
+            continue
+
+        try:
+            data = json.loads(json_file.read_text(encoding="utf-8"))
+            content = data.get("content", "")
+            title = data.get("title", "")
+            if not content or not title:
+                continue
+
+            enriched_data = None
+            try:
+                from data_enrichment import fetch_country_data
+                enriched_data = fetch_country_data(entity.get("iso_code", ""))
+            except ImportError:
+                pass
+
+            html = build_html(entity, "cost-of-living", title, content, enriched_data=enriched_data)
+            html_file = OUTPUT_DIR / continent / slug / "cost-of-living.html"
+            html_file.write_text(html, encoding="utf-8")
+            rebuilt += 1
+        except (json.JSONDecodeError, OSError) as e:
+            log(f"Failed to rebuild hub for {slug}: {e}", "ERROR")
+
+    log(f"Rebuilt {rebuilt} cost-of-living hub pages with new links", "SUCCESS")
+    return rebuilt
+
+
 def generate_batch(entity_slugs=None, angle_id=None, count=200, phase=None):
     """
     Generate multiple pages in batch. Handles all 5 phases automatically.
@@ -3189,8 +4176,41 @@ def main():
     parser.add_argument("--update-manifest", action="store_true", help="Update manifest")
     parser.add_argument("--generate-indexes", action="store_true", help="Regenerate all index pages")
     parser.add_argument("--rebuild-html", action="store_true", help="Rebuild all HTML from JSON with new template features")
+    # Cost expansion CLI flags
+    parser.add_argument("--generate-cost-angles", action="store_true", help="Generate cost sub-angle pages (Phase 9)")
+    parser.add_argument("--generate-cost-comparisons", action="store_true", help="Generate cost comparison pages (Phase 10)")
+    parser.add_argument("--regenerate-cost-hubs", action="store_true", help="Rebuild cost-of-living hub pages with sub-angle links (Phase 11)")
 
     args = parser.parse_args()
+
+    # Helper to resolve entity filter
+    def _resolve_entity_slugs():
+        entity_slugs = None
+        if args.entity:
+            entity_slugs = [args.entity]
+        elif args.continent:
+            registry = load_entity_registry()
+            entity_slugs = [
+                slug for slug, e in registry.get("entities", {}).items()
+                if e.get("continent") == args.continent
+            ]
+        return entity_slugs
+
+    # Cost expansion commands
+    if args.generate_cost_angles:
+        entity_slugs = _resolve_entity_slugs()
+        generate_cost_angles_batch(entity_slugs=entity_slugs, count=args.count)
+        return
+
+    if args.generate_cost_comparisons:
+        entity_slugs = _resolve_entity_slugs()
+        generate_cost_comparisons_batch(entity_slugs=entity_slugs, count=args.count)
+        return
+
+    if args.regenerate_cost_hubs:
+        entity_slugs = _resolve_entity_slugs()
+        regenerate_cost_hubs(entity_slugs=entity_slugs if entity_slugs else None)
+        return
 
     if args.rebuild_html:
         count = rebuild_all_html()
@@ -3215,7 +4235,20 @@ def main():
         return
 
     if args.entity and args.angle:
-        generate_page(args.entity, args.angle)
+        # Support cost sub-angles via --entity + --angle
+        cost_registry_path = BASE_DIR / "cost_angle_registry.json"
+        cost_angle_ids = set()
+        if cost_registry_path.exists():
+            try:
+                cost_reg = json.loads(cost_registry_path.read_text(encoding="utf-8"))
+                cost_angle_ids = set(cost_reg.get("cost_angles", {}).keys())
+            except (json.JSONDecodeError, OSError):
+                pass
+
+        if args.angle in cost_angle_ids:
+            generate_cost_page(args.entity, args.angle)
+        else:
+            generate_page(args.entity, args.angle)
         return
 
     if args.generate_batch:

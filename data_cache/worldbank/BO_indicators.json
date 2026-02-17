@@ -1,0 +1,26 @@
+{
+  "iso_code": "BO",
+  "fetched_date": "2026-02-16",
+  "indicators": {
+    "NY.GDP.PCAP.PP.CD": {
+      "year": 2024,
+      "value": 12877.64
+    },
+    "FP.CPI.TOTL.ZG": {
+      "year": 2024,
+      "value": 5.1
+    },
+    "SH.XPD.CHEX.PC.CD": {
+      "year": 2023,
+      "value": 255.04
+    },
+    "SH.XPD.OOPC.CH.ZS": {
+      "year": 2023,
+      "value": 27.32
+    },
+    "SE.XPD.TOTL.GD.ZS": {
+      "year": 2023,
+      "value": 8.32
+    }
+  }
+}

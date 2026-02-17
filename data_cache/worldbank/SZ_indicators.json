@@ -1,0 +1,26 @@
+{
+  "iso_code": "SZ",
+  "fetched_date": "2026-02-16",
+  "indicators": {
+    "NY.GDP.PCAP.PP.CD": {
+      "year": 2024,
+      "value": 11799.2
+    },
+    "FP.CPI.TOTL.ZG": {
+      "year": 2019,
+      "value": 2.6
+    },
+    "SH.XPD.CHEX.PC.CD": {
+      "year": 2023,
+      "value": 296.05
+    },
+    "SH.XPD.OOPC.CH.ZS": {
+      "year": 2023,
+      "value": 11.02
+    },
+    "SE.XPD.TOTL.GD.ZS": {
+      "year": 2024,
+      "value": 6.03
+    }
+  }
+}

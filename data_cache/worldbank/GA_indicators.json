@@ -1,0 +1,26 @@
+{
+  "iso_code": "GA",
+  "fetched_date": "2026-02-16",
+  "indicators": {
+    "NY.GDP.PCAP.PP.CD": {
+      "year": 2024,
+      "value": 21510.17
+    },
+    "FP.CPI.TOTL.ZG": {
+      "year": 2024,
+      "value": 1.17
+    },
+    "SH.XPD.CHEX.PC.CD": {
+      "year": 2023,
+      "value": 252.98
+    },
+    "SH.XPD.OOPC.CH.ZS": {
+      "year": 2023,
+      "value": 17.27
+    },
+    "SE.XPD.TOTL.GD.ZS": {
+      "year": 2023,
+      "value": 2.32
+    }
+  }
+}

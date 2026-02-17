@@ -1,0 +1,18 @@
+{
+  "iso_code": "CU",
+  "fetched_date": "2026-02-16",
+  "indicators": {
+    "SH.XPD.CHEX.PC.CD": {
+      "year": 2020,
+      "value": 1199.35
+    },
+    "SH.XPD.OOPC.CH.ZS": {
+      "year": 2023,
+      "value": 16.58
+    },
+    "SE.XPD.TOTL.GD.ZS": {
+      "year": 2022,
+      "value": 8.44
+    }
+  }
+}

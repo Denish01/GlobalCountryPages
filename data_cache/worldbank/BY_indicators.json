@@ -1,0 +1,22 @@
+{
+  "iso_code": "BY",
+  "fetched_date": "2026-02-16",
+  "indicators": {
+    "FP.CPI.TOTL.ZG": {
+      "year": 2024,
+      "value": 5.79
+    },
+    "SH.XPD.CHEX.PC.CD": {
+      "year": 2023,
+      "value": 558.23
+    },
+    "SH.XPD.OOPC.CH.ZS": {
+      "year": 2023,
+      "value": 28.48
+    },
+    "SE.XPD.TOTL.GD.ZS": {
+      "year": 2023,
+      "value": 4.95
+    }
+  }
+}

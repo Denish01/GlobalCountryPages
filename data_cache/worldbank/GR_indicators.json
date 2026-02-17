@@ -1,0 +1,18 @@
+{
+  "iso_code": "GR",
+  "fetched_date": "2026-02-16",
+  "indicators": {
+    "NY.GDP.PCAP.PP.CD": {
+      "year": 2024,
+      "value": 44327.21
+    },
+    "SH.XPD.OOPC.CH.ZS": {
+      "year": 2023,
+      "value": 34.3
+    },
+    "SE.XPD.TOTL.GD.ZS": {
+      "year": 2022,
+      "value": 3.38
+    }
+  }
+}

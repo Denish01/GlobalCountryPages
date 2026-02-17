@@ -1,0 +1,88 @@
+{
+  "version": "1.0",
+  "description": "Cost-of-living sub-angle registry — 7 dedicated cost pages + comparison type",
+
+  "cost_angles": {
+    "cost-rent-housing": {
+      "slug": "cost-rent-housing",
+      "title_pattern": "Rent & Housing Prices in {Entity}",
+      "description": "Apartment rental prices, property costs, neighborhood guide",
+      "prompt_key": "cost_rent_housing",
+      "word_target": 800,
+      "related_angles": ["cost-utilities-internet", "cost-monthly-budget"],
+      "priority": 1
+    },
+    "cost-food-groceries": {
+      "slug": "cost-food-groceries",
+      "title_pattern": "Food & Grocery Prices in {Entity}",
+      "description": "Grocery item prices, restaurant costs, market vs supermarket",
+      "prompt_key": "cost_food_groceries",
+      "word_target": 800,
+      "related_angles": ["cost-monthly-budget", "cost-rent-housing"],
+      "priority": 2
+    },
+    "cost-healthcare": {
+      "slug": "cost-healthcare",
+      "title_pattern": "Healthcare Costs in {Entity}",
+      "description": "Medical visit costs, insurance, pharmacy, emergency care",
+      "prompt_key": "cost_healthcare",
+      "word_target": 800,
+      "related_angles": ["cost-monthly-budget", "cost-utilities-internet"],
+      "priority": 3
+    },
+    "cost-transportation": {
+      "slug": "cost-transportation",
+      "title_pattern": "Transportation Costs in {Entity}",
+      "description": "Public transit, taxi, fuel, flights, car rental costs",
+      "prompt_key": "cost_transportation",
+      "word_target": 700,
+      "related_angles": ["cost-monthly-budget", "cost-rent-housing"],
+      "priority": 4
+    },
+    "cost-education": {
+      "slug": "cost-education",
+      "title_pattern": "Education Costs in {Entity}",
+      "description": "School fees, university tuition, tutoring rates",
+      "prompt_key": "cost_education",
+      "word_target": 700,
+      "related_angles": ["cost-monthly-budget", "cost-healthcare"],
+      "priority": 5
+    },
+    "cost-utilities-internet": {
+      "slug": "cost-utilities-internet",
+      "title_pattern": "Utility & Internet Costs in {Entity}",
+      "description": "Electricity, water, gas, internet, phone plan costs",
+      "prompt_key": "cost_utilities_internet",
+      "word_target": 600,
+      "related_angles": ["cost-rent-housing", "cost-monthly-budget"],
+      "priority": 6
+    },
+    "cost-monthly-budget": {
+      "slug": "cost-monthly-budget",
+      "title_pattern": "Monthly Budget Guide for {Entity}",
+      "description": "Comprehensive budget breakdown across 3 tiers",
+      "prompt_key": "cost_monthly_budget",
+      "word_target": 900,
+      "related_angles": ["cost-rent-housing", "cost-food-groceries", "cost-transportation"],
+      "priority": 7
+    }
+  },
+
+  "comparison": {
+    "slug_pattern": "cost-compare-{other-country}",
+    "title_pattern": "Cost of Living: {Entity} vs {Other} — Price Comparison",
+    "description": "Side-by-side cost comparison between two countries",
+    "prompt_key": "cost_comparison",
+    "word_target": 900
+  },
+
+  "sidebar_labels": {
+    "cost-rent-housing": "Rent & Housing",
+    "cost-food-groceries": "Food & Groceries",
+    "cost-healthcare": "Healthcare Costs",
+    "cost-transportation": "Transportation",
+    "cost-education": "Education Costs",
+    "cost-utilities-internet": "Utilities & Internet",
+    "cost-monthly-budget": "Monthly Budget"
+  }
+}

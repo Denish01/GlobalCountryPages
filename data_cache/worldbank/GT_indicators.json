@@ -1,0 +1,26 @@
+{
+  "iso_code": "GT",
+  "fetched_date": "2026-02-16",
+  "indicators": {
+    "NY.GDP.PCAP.PP.CD": {
+      "year": 2024,
+      "value": 14368.66
+    },
+    "FP.CPI.TOTL.ZG": {
+      "year": 2024,
+      "value": 2.87
+    },
+    "SH.XPD.CHEX.PC.CD": {
+      "year": 2023,
+      "value": 392.01
+    },
+    "SH.XPD.OOPC.CH.ZS": {
+      "year": 2023,
+      "value": 57.18
+    },
+    "SE.XPD.TOTL.GD.ZS": {
+      "year": 2023,
+      "value": 3.11
+    }
+  }
+}

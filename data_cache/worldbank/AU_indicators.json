@@ -1,0 +1,26 @@
+{
+  "iso_code": "AU",
+  "fetched_date": "2026-02-16",
+  "indicators": {
+    "NY.GDP.PCAP.PP.CD": {
+      "year": 2024,
+      "value": 72111.18
+    },
+    "FP.CPI.TOTL.ZG": {
+      "year": 2024,
+      "value": 3.16
+    },
+    "SH.XPD.CHEX.PC.CD": {
+      "year": 2023,
+      "value": 6980.39
+    },
+    "SH.XPD.OOPC.CH.ZS": {
+      "year": 2023,
+      "value": 15.85
+    },
+    "SE.XPD.TOTL.GD.ZS": {
+      "year": 2022,
+      "value": 5.06
+    }
+  }
+}

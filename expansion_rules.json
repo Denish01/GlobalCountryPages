@@ -59,6 +59,36 @@
       "priority": 50,
       "estimated_days": 38,
       "pages_per_day": 200
+    },
+    "9": {
+      "name": "Cost Sub-Angles Pass",
+      "description": "Generate 7 cost sub-angle pages per entity (rent, food, healthcare, transport, education, utilities, budget)",
+      "angles": ["cost-rent-housing", "cost-food-groceries", "cost-healthcare", "cost-transportation", "cost-education", "cost-utilities-internet", "cost-monthly-budget"],
+      "entity_level": 2,
+      "priority": 45,
+      "estimated_days": 9,
+      "pages_per_day": 200,
+      "cli_flag": "--generate-cost-angles"
+    },
+    "10": {
+      "name": "Cost Comparisons Pass",
+      "description": "Generate cost-of-living comparison pages between country pairs",
+      "angles": ["cost-comparison"],
+      "entity_level": 2,
+      "priority": 40,
+      "estimated_days": 6,
+      "pages_per_day": 200,
+      "cli_flag": "--generate-cost-comparisons"
+    },
+    "11": {
+      "name": "Cost Hub Rebuild",
+      "description": "Regenerate cost-of-living hub pages with links to new sub-angle pages",
+      "angles": ["cost-of-living"],
+      "entity_level": 2,
+      "priority": 35,
+      "estimated_days": 2,
+      "pages_per_day": 200,
+      "cli_flag": "--regenerate-cost-hubs"
     }
   },
 

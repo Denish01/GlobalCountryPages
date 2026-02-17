@@ -1,0 +1,26 @@
+{
+  "iso_code": "CY",
+  "fetched_date": "2026-02-16",
+  "indicators": {
+    "NY.GDP.PCAP.PP.CD": {
+      "year": 2024,
+      "value": 62312.07
+    },
+    "FP.CPI.TOTL.ZG": {
+      "year": 2024,
+      "value": 1.8
+    },
+    "SH.XPD.CHEX.PC.CD": {
+      "year": 2023,
+      "value": 2899.36
+    },
+    "SH.XPD.OOPC.CH.ZS": {
+      "year": 2023,
+      "value": 17.94
+    },
+    "SE.XPD.TOTL.GD.ZS": {
+      "year": 2022,
+      "value": 4.74
+    }
+  }
+}
