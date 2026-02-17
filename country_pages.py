@@ -3050,6 +3050,11 @@ def content_to_html(content):
         section_match = re.match(r'^\[SECTION\]\s*(.+?)\s*\[/SECTION\]$', stripped)
         if section_match:
             close_list()
+            # Close any open bare markdown table
+            if in_table:
+                in_table = False
+                table_header_done = False
+                html_parts.append("</tbody></table></div>")
             html_parts.append(f'<h2 id="{slugify(section_match.group(1))}">{bold(section_match.group(1))}</h2>')
             continue
 
