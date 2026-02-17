@@ -1,0 +1,76 @@
+---
+title: "Monthly Budget Guide for Chad"
+entity: "Chad"
+iso_code: "TD"
+continent: "africa"
+angle: "cost-monthly-budget"
+date: "2026-02-17"
+---
+
+# Monthly Budget Guide for Chad
+
+To live in Chad, you will need around $400-$1,200 per month, depending on your lifestyle and personal preferences.
+
+[FACTBOX]
+GDP per Capita (PPP): $2,743
+Budget Living (monthly): $400
+Mid-Range Living (monthly): $700
+Comfortable Living (monthly): $1,200
+Average Local Salary: $150
+Currency: XAF
+[/FACTBOX]
+
+[SECTION] Cost of Living Overview [/SECTION]
+Chad is a relatively affordable country compared to its neighbors, with a GDP per capita of $2,743. However, the cost of living can vary greatly depending on the city, lifestyle, and personal choices. A budget of $400 per month can provide a basic standard of living, while $700 per month can offer a more comfortable lifestyle. In comparison to neighboring countries, Chad is more affordable than Libya and Sudan, but more expensive than Niger and the Central African Republic. The cost of living in Chad is also influenced by the high inflation rate of 8.9%, which can affect the purchasing power of the local currency, XAF.
+
+The different budgets can go a long way in Chad, with $400 per month allowing for a basic standard of living, $700 per month providing a more comfortable lifestyle, and $1,200 per month offering a high standard of living. However, it's essential to note that the cost of living in Chad can be affected by the high out-of-pocket health spend of 51.7% and the limited access to quality healthcare and education. For example, the education spend is only 3.2% of GDP, which can limit access to quality education. Additionally, the health expenditure per capita is only $47, which can make it challenging to access quality healthcare.
+
+[SECTION] Monthly Budget Breakdown [/SECTION]
+[TABLE]
+| Category | Budget ($) | Mid-Range ($) | Comfortable ($) | Notes |
+| --- | --- | --- | --- | --- |
+| Rent (1BR apartment) | 100 | 200 | 400 | (budget=shared/outside, mid=1BR center, comfortable=nice 2BR) |
+| Food & Groceries | 100 | 150 | 250 | (budget=cook mostly, mid=mix, comfortable=eat out often) |
+| Transportation | 20 | 50 | 100 | (budget=public only, mid=mix, comfortable=taxi/car) |
+| Utilities & Internet | 30 | 50 | 100 | (electricity, water, internet, phone) |
+| Healthcare / Insurance | 20 | 50 | 100 | (budget=public only, comfortable=private) |
+| Entertainment & Social | 20 | 50 | 100 | (going out, hobbies, gym) |
+| Clothing & Personal | 20 | 30 | 50 |  |
+| Savings / Misc | 50 | 100 | 200 |  |
+| **Total** | **400** | **700** | **1,200** |  |
+[/TABLE]
+
+[SECTION] Budget Tier Lifestyles [/SECTION]
+At the budget level of $400 per month, daily life in Chad can be challenging. You will likely need to share an apartment outside of the city center, cook most of your meals, and rely on public transportation. You will also need to be mindful of your healthcare expenses, as the public healthcare system can be limited. However, you can still afford to go out occasionally, buy some new clothes, and save a small amount of money. For example, you can afford to eat out at a local restaurant once a week, but you will need to be careful with your expenses to stay within your budget.
+
+At the mid-range level of $700 per month, you can afford a more comfortable lifestyle. You can rent a one-bedroom apartment in the city center, eat out occasionally, and take taxis or ride-hailing services. You can also afford to buy some new clothes, go out more frequently, and save a moderate amount of money. Additionally, you can afford to access some private healthcare services, which can provide better quality care. However, you will still need to be mindful of your expenses, as the cost of living in Chad can be high.
+
+At the comfortable level of $1,200 per month, you can afford a high standard of living in Chad. You can rent a nice two-bedroom apartment, eat out frequently, and own a car or hire a driver. You can also afford to access high-quality private healthcare services, travel within the country, and save a significant amount of money. Additionally, you can afford to hire domestic help, which can make your life easier. However, you will still need to be aware of the high inflation rate and the limited access to quality education and healthcare.
+
+[SECTION] Cost Comparison by City [/SECTION]
+[TABLE]
+| City | Rent (1BR) | Food (monthly) | Transport | Overall Level |
+| --- | --- | --- | --- | --- |
+| N'Djamena | 200 | 150 | 50 | Expensive |
+| Moundou | 100 | 100 | 20 | Moderate |
+| Sarh | 80 | 80 | 15 | Cheap |
+[/TABLE]
+
+[SECTION] Money-Saving Strategies [/SECTION]
+- Learn to cook local dishes to save money on food
+- Use public transportation to get around the city
+- Share an apartment with friends or colleagues to reduce rent costs
+- Buy groceries at local markets instead of supermarkets
+- Avoid eating out at expensive restaurants
+- Use a local SIM card for phone and internet services
+- Take advantage of free or low-cost entertainment options, such as visiting local parks or attending cultural events
+- Consider hiring a local guide or driver instead of renting a car
+
+[SECTION] Is Chad Affordable? [/SECTION]
+Chad can be an affordable destination for digital nomads, retirees, and students who are looking for a low-cost lifestyle. The cost of living in Chad is relatively low, and the country offers a unique cultural experience. However, Chad may not be the best destination for families or individuals who require high-quality healthcare and education. The limited access to quality healthcare and education can make it challenging for families to thrive in Chad. Additionally, the high out-of-pocket health spend and the limited access to quality healthcare can make it difficult for individuals to access the care they need.
+
+Overall, Chad is a good option for individuals who are looking for a low-cost lifestyle and are willing to adapt to the local culture and way of life. However, it's essential to be aware of the challenges and limitations of living in Chad, including the high inflation rate, the limited access to quality healthcare and education, and the high out-of-pocket health spend. With careful planning and research, individuals can make the most of their experience in Chad and enjoy the unique cultural and natural beauty that the country has to offer.
+
+---
+
+*Evergreen reference content. Verify time-sensitive details with official sources.*

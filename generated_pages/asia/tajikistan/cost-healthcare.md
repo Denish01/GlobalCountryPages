@@ -1,0 +1,73 @@
+---
+title: "Healthcare Costs in Tajikistan"
+entity: "Tajikistan"
+iso_code: "TJ"
+continent: "asia"
+angle: "cost-healthcare"
+date: "2026-02-17"
+---
+
+# Healthcare Costs in Tajikistan
+
+The cost of healthcare in Tajikistan can vary significantly, with out-of-pocket expenses accounting for approximately 62.4% of total health expenditure, and the average healthcare expenditure per capita being around $85.
+
+[FACTBOX]
+Health Expenditure per Capita: $85 (2023)
+Out-of-Pocket Spend: 62.4% (2023)
+Healthcare System: Mixed
+Emergency Number: 03 or 103
+Insurance Required: No
+Currency: TJS
+[/FACTBOX]
+
+[SECTION] Healthcare System Overview [/SECTION]
+Tajikistan has a mixed healthcare system, which includes both public and private providers. The public healthcare system is generally underfunded and understaffed, with limited resources and outdated equipment. In contrast, private healthcare providers offer better quality care, but at a significantly higher cost. For locals, the public healthcare system is often the only affordable option, while foreigners and those who can afford it tend to opt for private care. Having health insurance is not mandatory, but it is highly recommended, especially for foreigners, as it can provide access to better quality care and help cover the high out-of-pocket expenses.
+
+The healthcare system in Tajikistan is also heavily reliant on traditional medicine, with many people seeking treatment from traditional healers and using herbal remedies. However, for more serious medical conditions, modern medical care is often necessary, and this is where the public and private healthcare systems come into play. The public healthcare system is generally free or low-cost for locals, but the quality of care can be variable, and patients often have to pay for medications and other expenses out-of-pocket. Private healthcare providers, on the other hand, offer higher quality care, but at a cost that is often out of reach for many locals.
+
+[SECTION] Medical Visit Costs [/SECTION]
+[TABLE]
+| Service | Public (USD) | Private (USD) | Notes |
+| --- | --- | --- | --- |
+| GP / Doctor Visit | $5-10 | $20-50 | Public hospitals often have long wait times |
+| Specialist Consultation | $10-20 | $50-100 | Private clinics may have more experienced specialists |
+| Dental Checkup | $10-20 | $30-50 | Private dental clinics often have more modern equipment |
+| Eye Exam | $10-20 | $20-30 | Public hospitals may have limited eye care services |
+| Blood Test (basic panel) | $10-20 | $20-30 | Private labs may have faster turnaround times |
+[/TABLE]
+
+[SECTION] Hospital & Procedure Costs [/SECTION]
+[TABLE]
+| Procedure | Cost Range (USD) | Notes |
+| --- | --- | --- |
+| Emergency Room Visit | $20-50 | Public hospitals may have limited emergency services |
+| Hospital Stay (per night) | $20-50 | Private hospitals often have more comfortable accommodations |
+| Basic Surgery | $100-500 | Private clinics may have more experienced surgeons |
+| Childbirth (normal delivery) | $100-300 | Public hospitals may have limited prenatal care services |
+| MRI Scan | $100-200 | Private clinics may have more modern equipment |
+| X-Ray | $10-20 | Public hospitals often have limited imaging services |
+[/TABLE]
+
+[SECTION] Health Insurance [/SECTION]
+[TABLE]
+| Coverage Type | Monthly Cost (USD) | What It Covers |
+| --- | --- | --- |
+| Basic Local Insurance | $10-20 | Public hospital care, basic medical services |
+| Comprehensive Private | $50-100 | Private hospital care, specialist consultations, surgeries |
+| International / Expat | $100-200 | Worldwide coverage, including evacuation and repatriation |
+[/TABLE]
+
+[SECTION] Pharmacy & Medication Costs [/SECTION]
+- Prescription medications can be purchased at pharmacies with a prescription from a licensed doctor, with costs ranging from $5-20 per medication.
+- Over-the-counter medications are widely available at pharmacies and markets, with costs ranging from $2-10 per medication.
+- Pharmaceutical prices can vary significantly depending on the location and type of pharmacy.
+- Public hospitals often have limited pharmacy services, and patients may have to purchase medications at private pharmacies.
+- Some medications may be in short supply, especially in rural areas.
+- It is recommended to bring any necessary prescription medications with you when traveling to Tajikistan, as they may not be available locally.
+
+[SECTION] Emergency Care [/SECTION]
+In the event of a medical emergency, it is best to call the local emergency number, 03 or 103, or seek immediate attention at the nearest hospital. However, ambulance services may be limited, especially in rural areas, and patients may have to rely on private transportation to get to a hospital. For foreigners, it is recommended to seek care at private hospitals, which often have more modern equipment and better trained staff. Some of the best hospitals for foreigners in Dushanbe include the **Istiklol Hospital** and the **Dushanbe Central Hospital**, which offer a range of medical services, including emergency care and specialist consultations. It is also recommended to have a **health insurance plan** that covers emergency medical evacuation, as the quality of care in Tajikistan may not be up to international standards.
+
+---
+
+*Evergreen reference content. Verify time-sensitive details with official sources.*

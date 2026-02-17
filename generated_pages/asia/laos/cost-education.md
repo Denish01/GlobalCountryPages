@@ -1,0 +1,68 @@
+---
+title: "Education Costs in Laos"
+entity: "Laos"
+iso_code: "LA"
+continent: "asia"
+angle: "cost-education"
+date: "2026-02-17"
+---
+
+# Education Costs in Laos
+
+The cost of education in Laos varies greatly depending on the type of institution and the level of education, with public schools being generally free or low-cost, while private and international schools can be quite expensive.
+
+[FACTBOX]
+Education Spend (% GDP): 1.2%
+Literacy Rate: 85%
+School System: 11 years of compulsory education
+Academic Year: 9 months
+Currency: LAK
+[/FACTBOX]
+
+[SECTION] Education System Overview [/SECTION]
+The education system in Laos is divided into public and private sectors, with the public sector being the largest. Public schools in Laos are generally considered to be of lower quality compared to private schools, with limited resources and outdated teaching methods. The language of instruction in public schools is **Lao**, while private schools may use **English** or other languages. Compulsory education in Laos lasts for 11 years, from primary to lower secondary school. International schools are also available in major cities like Vientiane, offering a range of curricula, including **International Baccalaureate** and **Cambridge International Examinations**.
+
+The quality of education in Laos is a major concern, with many students struggling to meet the required standards. However, in recent years, the government has made efforts to improve the education system, including increasing funding and introducing new teaching methods. Despite these efforts, many Laotian students still choose to study abroad, particularly in neighboring countries like Thailand and Vietnam. Private schools in Laos, on the other hand, offer a higher quality of education, with better facilities and more qualified teachers. These schools are often expensive, but they provide students with a better chance of success in their future careers.
+
+[SECTION] School Fees [/SECTION]
+[TABLE]
+| School Type | Annual Fee (USD) | Notes |
+| --- | --- | --- |
+| Public Primary | $0-$50 | Free or subsidized, but quality can be low |
+| Private Primary | $200-$1,000 | Range depends on the tier of the school, with higher-end schools offering better facilities and teachers |
+| Public Secondary | $50-$100 | Free or subsidized, but quality can be low |
+| Private Secondary | $500-$2,500 | Range depends on the tier of the school, with higher-end schools offering better facilities and teachers |
+| International School | $2,000-$10,000 | Curriculum types include International Baccalaureate, Cambridge International Examinations, and American curriculum |
+[/TABLE]
+
+[SECTION] University Tuition [/SECTION]
+[TABLE]
+| Institution Type | Annual Tuition - Local (USD) | Annual Tuition - International (USD) | Notes |
+| --- | --- | --- | --- |
+| Public University | $100-$500 | $500-$1,000 | Limited programs available for international students |
+| Private University | $500-$2,000 | $1,000-$3,000 | Range depends on the institution and program |
+| Top-Ranked University | $1,000-$3,000 | $2,000-$5,000 | The **National University of Laos** is the top-ranked university in the country |
+[/TABLE]
+
+[SECTION] Other Education Costs [/SECTION]
+[TABLE]
+| Item | Cost (USD) | Notes |
+| --- | --- | --- |
+| Preschool / Daycare (monthly) | $50-$200 | Limited options available, particularly outside of major cities |
+| Private Tutoring (per hour) | $10-$50 | Popular among students who need extra help, particularly in subjects like **English** and **math** |
+| Language Course (monthly) | $100-$500 | Options include **Lao**, **English**, and other languages, with prices depending on the institution and level of instruction |
+| School Supplies (annual) | $50-$100 | Basic supplies like notebooks, pens, and pencils |
+| School Uniform | $20-$50 | Required for most schools, with prices depending on the institution and quality of the uniform |
+[/TABLE]
+
+[SECTION] Education Quality & Tips [/SECTION]
+- The **National University of Laos** is the top-ranked university in the country, offering a range of programs in fields like **engineering**, **business**, and **medicine**.
+- **Scholarship** opportunities are limited, but available for students who excel academically or demonstrate financial need.
+- **Online learning** options are becoming increasingly popular, with many institutions offering online courses and degree programs.
+- Education quality in Laos is generally considered to be lower compared to other countries in the region, but there are some excellent schools and universities that offer high-quality education.
+- **International schools** are a good option for expats, offering a range of curricula and a more Western-style education.
+- **Language** is a major barrier for students who want to study abroad, with many Laotian students choosing to study in neighboring countries where **Lao** or **Thai** is spoken.
+
+---
+
+*Evergreen reference content. Verify time-sensitive details with official sources.*

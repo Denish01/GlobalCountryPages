@@ -1,0 +1,92 @@
+---
+title: "Cost of Living: Chile vs Peru — Price Comparison"
+entity: "Chile"
+iso_code: "CL"
+continent: "south-america"
+angle: "cost-compare-peru"
+date: "2026-02-17"
+---
+
+# Cost of Living: Chile vs Peru — Price Comparison
+
+Chile is generally more expensive than Peru, with an overall cost of living difference of around 20-30% between the two countries.
+
+[FACTBOX]
+Chile GDP per Capita (PPP): $24,588
+Peru GDP per Capita (PPP): $13,434
+Chile Inflation Rate: 3.5%
+Peru Inflation Rate: 2.5%
+Overall Winner (Cheaper): Peru
+[/FACTBOX]
+
+[SECTION] Overview: Chile vs Peru [/SECTION]
+Chile and Peru are both located in South America, but they have distinct economic contexts that affect their cost of living. Chile has a more developed economy, with a higher GDP per capita and a stronger service sector, which contributes to its higher cost of living. In contrast, Peru has a more diverse economy, with a growing tourism industry and a rich cultural heritage, but its cost of living is generally lower. Overall, Peru is around 20-30% cheaper than Chile, making it a more attractive option for budget-conscious travelers and expats.
+
+The cost of living difference between Chile and Peru is largely due to the disparity in their economic development and the cost of basic necessities like housing, food, and transportation. Chile's stronger economy and higher standard of living have driven up the cost of living, particularly in cities like Santiago, which is one of the most expensive cities in South America. On the other hand, Peru's lower cost of living makes it an attractive option for those looking for a more affordable lifestyle without sacrificing too much in terms of quality of life.
+
+[SECTION] Rent & Housing Comparison [/SECTION]
+[TABLE]
+| Item | Chile (USD) | Peru (USD) | Difference |
+| --- | --- | --- | --- |
+| 1BR Apartment (City Center) | $450 | $300 | 33% cheaper in Peru |
+| 1BR Apartment (Outside) | $300 | $200 | 33% cheaper in Peru |
+| 3BR Apartment (City Center) | $800 | $550 | 31% cheaper in Peru |
+[/TABLE]
+
+[SECTION] Food & Dining Comparison [/SECTION]
+[TABLE]
+| Item | Chile (USD) | Peru (USD) | Difference |
+| --- | --- | --- | --- |
+| Meal at Restaurant | $15 | $10 | 33% cheaper in Peru |
+| Groceries (monthly) | $500 | $350 | 30% cheaper in Peru |
+| Beer (500ml) | $3 | $2 | 33% cheaper in Peru |
+| Coffee | $2 | $1.50 | 25% cheaper in Peru |
+[/TABLE]
+
+[SECTION] Transport Comparison [/SECTION]
+[TABLE]
+| Item | Chile (USD) | Peru (USD) | Difference |
+| --- | --- | --- | --- |
+| Monthly Transit Pass | $70 | $50 | 29% cheaper in Peru |
+| Taxi (per km) | $1.50 | $1 | 33% cheaper in Peru |
+| Fuel (per liter) | $1.20 | $1 | 17% cheaper in Peru |
+[/TABLE]
+
+[SECTION] Utilities & Internet Comparison [/SECTION]
+[TABLE]
+| Item | Chile (USD) | Peru (USD) | Difference |
+| --- | --- | --- | --- |
+| Utilities (85 sqm apt) | $150 | $100 | 33% cheaper in Peru |
+| Internet (60 Mbps) | $30 | $20 | 33% cheaper in Peru |
+| Mobile Plan | $20 | $15 | 25% cheaper in Peru |
+[/TABLE]
+
+[SECTION] Monthly Budget Comparison [/SECTION]
+[TABLE]
+| Budget Tier | Chile (USD) | Peru (USD) | Savings |
+| --- | --- | --- | --- |
+| Budget | $1,200 | $900 | 25% savings in Peru |
+| Mid-Range | $2,000 | $1,500 | 25% savings in Peru |
+| Comfortable | $3,000 | $2,200 | 27% savings in Peru |
+[/TABLE]
+
+[SECTION] Where Each Country Wins [/SECTION]
+- **Chile is cheaper for:**
+  - High-end shopping and luxury goods
+  - Access to modern amenities and infrastructure
+  - A more developed and efficient public transportation system
+  - A wider range of international cuisine options
+- **Peru is cheaper for:**
+  - Accommodation, particularly outside of city centers
+  - Food, including traditional Peruvian cuisine and local markets
+  - Transportation, including taxis and buses
+  - Cultural attractions and historical sites
+
+[SECTION] Bottom Line [/SECTION]
+Peru's lower cost of living makes it an attractive option for budget-conscious travelers and expats, particularly those looking for a more affordable lifestyle without sacrificing too much in terms of quality of life. However, Chile's more developed economy and higher standard of living make it a better option for those who value modern amenities and infrastructure. For expats and digital nomads, Peru's lower cost of living and rich cultural heritage make it an attractive option, while Chile's more developed economy and higher standard of living make it a better fit for families and retirees who prioritize comfort and convenience.
+
+Ultimately, the choice between Chile and Peru depends on individual priorities and lifestyle. Both countries offer unique advantages and disadvantages, and it's essential to consider factors like accommodation, food, transportation, and cultural attractions when deciding which country is the best fit. By understanding the cost of living differences between Chile and Peru, travelers and expats can make informed decisions and plan their budgets accordingly, ensuring a comfortable and enjoyable experience in either country.
+
+---
+
+*Evergreen reference content. Verify time-sensitive details with official sources.*

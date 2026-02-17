@@ -1,0 +1,74 @@
+---
+title: "Food & Grocery Prices in Barbados"
+entity: "Barbados"
+iso_code: "BB"
+continent: "north-america"
+angle: "cost-food-groceries"
+date: "2026-02-17"
+---
+
+# Food & Grocery Prices in Barbados
+
+The cost of food in Barbados is generally higher than in other Caribbean countries, with a meal at an inexpensive restaurant averaging around $15-$20 USD per person and a monthly grocery budget for one person ranging from $500-$700 USD.
+
+[FACTBOX]
+Meal at Inexpensive Restaurant: ($15-$20 USD)
+Meal for 2 at Mid-Range Restaurant: ($40-$60 USD)
+Monthly Grocery Budget (1 person): ($500-$700 USD)
+Local Beer (500ml): ($4-$6 USD)
+Currency: BBD
+[/FACTBOX]
+
+[SECTION] Food Costs Overview [/SECTION]
+Food prices in Barbados are influenced by the country's island economy and reliance on imports, which drives up the cost of many staples. The **inflation rate** of -0.4% in 2024 suggests that prices have been stable, but the overall cost of living in Barbados remains relatively high. Eating out is a popular pastime in Barbados, with many restaurants offering a range of local and international cuisine. However, home cooking is also common, and many locals prefer to buy fresh ingredients at markets or supermarkets to prepare traditional dishes like **cou-cou** and **flying fish**.
+
+The **GDP per capita PPP** of $24,823 in 2024 indicates a relatively high standard of living in Barbados, which is reflected in the prices of food and other goods. While prices may be higher than in some other Caribbean countries, the quality and variety of food in Barbados are generally good, with many restaurants and markets offering a range of fresh produce, meats, and prepared dishes. Overall, the cost of food in Barbados is a significant expense for both locals and visitors, but there are ways to eat well without breaking the bank, such as opting for **street food** or **local eateries**.
+
+[SECTION] Grocery Prices [/SECTION]
+[TABLE]
+| Item | Price (USD) | Local Price | Notes |
+| --- | --- | --- | --- |
+| Milk (1 liter) | $2.50 | 5 BBD | |
+| Bread (white loaf) | $2.00 | 4 BBD | |
+| Eggs (dozen) | $3.00 | 6 BBD | |
+| Rice (1 kg) | $2.50 | 5 BBD | |
+| Chicken breast (1 kg) | $8.00 | 16 BBD | |
+| Beef (1 kg) | $12.00 | 24 BBD | |
+| Apples (1 kg) | $6.00 | 12 BBD | imported |
+| Tomatoes (1 kg) | $3.00 | 6 BBD | |
+| Potatoes (1 kg) | $2.50 | 5 BBD | |
+| Onions (1 kg) | $2.00 | 4 BBD | |
+| Local cheese (1 kg) | $10.00 | 20 BBD | |
+| Water (1.5L bottle) | $2.00 | 4 BBD | |
+[/TABLE]
+
+[SECTION] Restaurant Prices [/SECTION]
+[TABLE]
+| Meal Type | Price Range (USD) | Notes |
+| --- | --- | --- |
+| Street Food / Local Eatery | $10-$15 | (typical dishes like **flying fish** or **cou-cou**) |
+| Casual Restaurant | $20-$30 | (one person, 2 courses) |
+| Mid-Range Restaurant (2 people) | $40-$60 | (3 courses) |
+| Fine Dining (2 people) | $80-$120 | (upscale, 3 courses) |
+| Local Beer (draft, 500ml) | $4-$6 | |
+| Imported Beer (330ml) | $6-$8 | |
+| Cappuccino | $4-$6 | |
+| Soft Drink (can) | $2-$3 | |
+[/TABLE]
+
+[SECTION] Supermarket vs Local Market [/SECTION]
+Supermarkets in Barbados tend to be more expensive than local markets, where fresh produce and other staples can be found at lower prices. However, supermarkets often offer a wider range of products, including imported goods, and may be more convenient for those staying in tourist areas. At local markets, prices can be negotiable, and **bargaining** is a common practice. Visitors can find good deals on fresh produce, meats, and handicrafts at markets like the **Hastings Farmers Market** or the **Bridgetown Market**.
+
+When shopping at local markets, it's a good idea to **buy in bulk** and **haggle** over prices, especially for items like fresh produce or handicrafts. Supermarkets, on the other hand, offer a more convenient and air-conditioned shopping experience, with a wider range of products, including international brands. Some popular supermarkets in Barbados include **Massy Stores** and **Trimart**, which offer a range of local and imported products at competitive prices.
+
+[SECTION] Local Food Tips [/SECTION]
+- **Eat at local eateries** or **street food stalls** for affordable and delicious meals
+- **Buy fresh produce** at local markets for the best prices and quality
+- **Try traditional dishes** like **cou-cou** and **flying fish** for a taste of local cuisine
+- **Avoid buying imported goods** whenever possible, as they can be expensive and may not be as fresh as local alternatives
+- **Drink local beer** or **rum punch** for a affordable and authentic drinking experience
+- **Visit the **Hastings Farmers Market** or the **Bridgetown Market** for a range of local produce, meats, and handicrafts
+
+---
+
+*Evergreen reference content. Verify time-sensitive details with official sources.*

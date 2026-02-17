@@ -1,0 +1,10 @@
+{
+  "iso_code": "GL",
+  "fetched_date": "2026-02-17",
+  "indicators": {
+    "NY.GDP.PCAP.PP.CD": {
+      "year": 2023,
+      "value": 78840.6
+    }
+  }
+}

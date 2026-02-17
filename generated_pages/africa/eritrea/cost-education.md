@@ -1,0 +1,68 @@
+---
+title: "Education Costs in Eritrea"
+entity: "Eritrea"
+iso_code: "ER"
+continent: "africa"
+angle: "cost-education"
+date: "2026-02-17"
+---
+
+# Education Costs in Eritrea
+
+The cost of education in Eritrea varies depending on the type of institution and the level of study, with public schools being generally free or subsidized, while private schools and international institutions charge fees ranging from a few hundred to several thousand dollars per year.
+
+[FACTBOX]
+Education Spend (% GDP): Not available
+Literacy Rate: 73.7%
+School System: 7 years of compulsory education
+Academic Year: 10 months
+Currency: ERN
+[/FACTBOX]
+
+[SECTION] Education System Overview [/SECTION]
+Eritrea's education system is overseen by the Ministry of Education, with a focus on providing free and compulsory education to all citizens. The system is divided into primary, secondary, and tertiary levels, with the language of instruction being **Tigrinya** and **Arabic**. While public schools are generally free, the quality of education can vary, with some schools lacking resources and qualified teachers. Private schools, on the other hand, offer a higher quality of education, but at a cost, with fees ranging from a few hundred to several thousand dollars per year. International schools are also available, primarily in the capital city of **Asmara**, offering a range of curricula, including the **International Baccalaureate** and **Cambridge International Examinations**.
+
+The education system in Eritrea faces several challenges, including a shortage of qualified teachers, inadequate infrastructure, and limited resources. Despite these challenges, the government has made significant progress in increasing access to education, with the **net enrollment rate** for primary education increasing to over 90%. However, the quality of education remains a concern, with many students lacking access to basic resources such as textbooks and technology. The government has also introduced initiatives to improve the quality of education, including the introduction of **mother-tongue instruction** in primary schools and the development of a **national curriculum**.
+
+[SECTION] School Fees [/SECTION]
+[TABLE]
+| School Type | Annual Fee (USD) | Notes |
+| --- | --- | --- |
+| Public Primary | $0 (free) | Quality can vary, some schools lack resources |
+| Private Primary | $200-$500 | Range by tier, with higher-end schools offering better facilities and teachers |
+| Public Secondary | $0 (free) | Quality can vary, some schools lack resources |
+| Private Secondary | $500-$1,000 | Range by tier, with higher-end schools offering better facilities and teachers |
+| International School | $2,000-$5,000 | Curriculum types include International Baccalaureate and Cambridge International Examinations |
+[/TABLE]
+
+[SECTION] University Tuition [/SECTION]
+[TABLE]
+| Institution Type | Annual Tuition - Local (USD) | Annual Tuition - International (USD) | Notes |
+| --- | --- | --- | --- |
+| Public University | $100-$300 | $500-$1,000 | Limited programs and resources |
+| Private University | $500-$1,000 | $1,000-$2,000 | Limited programs and resources |
+| Top-Ranked University | $1,000-$2,000 | $2,000-$3,000 | Eritrea Institute of Technology, limited programs and resources |
+[/TABLE]
+
+[SECTION] Other Education Costs [/SECTION]
+[TABLE]
+| Item | Cost (USD) | Notes |
+| --- | --- | --- |
+| Preschool / Daycare (monthly) | $20-$50 | Limited availability, especially outside of Asmara |
+| Private Tutoring (per hour) | $10-$20 | Availability and quality can vary |
+| Language Course (monthly) | $50-$100 | Limited availability, especially for languages other than Tigrinya and Arabic |
+| School Supplies (annual) | $20-$50 | Basic supplies, such as notebooks and pens |
+| School Uniform | $10-$20 | Required for most schools, including public and private institutions |
+[/TABLE]
+
+[SECTION] Education Quality & Tips [/SECTION]
+- The **Eritrea Institute of Technology** is one of the top-ranked universities in the country, offering programs in fields such as engineering and computer science.
+- **Scholarship availability** is limited, but some organizations, such as the **Eritrean Government**, offer scholarships to students who excel academically.
+- **Online learning options** are limited, but some universities and institutions offer online courses and degree programs.
+- The **quality of education** in Eritrea is generally lower compared to other countries in the region, due to a lack of resources and qualified teachers.
+- **Expats** may find it challenging to navigate the education system in Eritrea, but international schools and private institutions can offer a higher quality of education.
+- **Language barriers** can be a challenge for students who do not speak Tigrinya or Arabic, but some schools and institutions offer language support and instruction in other languages.
+
+---
+
+*Evergreen reference content. Verify time-sensitive details with official sources.*

@@ -1,0 +1,10 @@
+{
+  "iso_code": "VI",
+  "fetched_date": "2026-02-17",
+  "indicators": {
+    "NY.GDP.PCAP.PP.CD": {
+      "year": 2022,
+      "value": 49793.03
+    }
+  }
+}

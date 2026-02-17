@@ -1,0 +1,76 @@
+---
+title: "Transportation Costs in Uruguay"
+entity: "Uruguay"
+iso_code: "UY"
+continent: "south-america"
+angle: "cost-transportation"
+date: "2026-02-17"
+---
+
+# Transportation Costs in Uruguay
+
+The cost of transportation in Uruguay varies depending on the mode of transport, with a monthly transit pass costing around $25 USD.
+
+[FACTBOX]
+Monthly Transit Pass: ($25 USD)
+Taxi Start Rate: ($1.50 USD)
+Fuel (per liter): ($1.20 USD)
+Ride-Hailing Available: (Yes — Uber, Cabify)
+Currency: UYU
+[/FACTBOX]
+
+[SECTION] Getting Around Overview [/SECTION]
+Uruguay has a well-developed transportation system, with **buses** being the primary mode of public transportation. The quality of public transit is good, with frequent bus services connecting major cities and towns. Most people in Uruguay get around by using buses or taxis, with some opting for ride-hailing services. The country's compact size and relatively low population density make it easy to navigate, with many cities having a walkable downtown area. Additionally, Uruguay has a growing **cycling culture**, with many cities investing in bike lanes and bike-sharing systems.
+
+Uruguay's transportation system is also relatively affordable, with a strong focus on public transportation. The government has invested in improving the bus network, making it efficient and reliable. Taxis are also widely available, although prices can vary depending on the city and time of day. Ride-hailing services have become increasingly popular in recent years, offering a convenient and affordable alternative to traditional taxis. Overall, getting around Uruguay is relatively easy and affordable, with a range of transportation options available to suit different budgets and preferences.
+
+[SECTION] Public Transportation [/SECTION]
+[TABLE]
+| Transport Type | Single Fare (USD) | Monthly Pass (USD) | Notes |
+| --- | --- | --- | --- |
+| City Bus | $0.50-$1.00 | $25 | Good coverage, frequent services |
+| Metro / Subway | N/A | N/A | Not available in Uruguay |
+| Minibus / Shared Taxi | $1.00-$2.00 | N/A | Limited routes, mostly used for shorter trips |
+| Commuter Train | $1.00-$5.00 | $50 | Limited services, mostly used for commuting to Montevideo |
+[/TABLE]
+
+[SECTION] Taxi & Ride-Hailing [/SECTION]
+[TABLE]
+| Service | Base Fare (USD) | Per km (USD) | Typical City Ride (USD) | Notes |
+| --- | --- | --- | --- | --- |
+| Metered Taxi | $1.50 | $0.50 | $5-$10 | Available throughout the country |
+| Ride-Hailing App | $2.00 | $0.25 | $5-$15 | Uber and Cabify available in major cities |
+| Airport Transfer | N/A | N/A | $20-$50 | To Montevideo city center, depending on traffic |
+[/TABLE]
+
+[SECTION] Fuel & Driving Costs [/SECTION]
+[TABLE]
+| Item | Cost (USD) | Notes |
+| --- | --- | --- |
+| Gasoline (per liter) | $1.20 | Prices vary depending on location and taxes |
+| Diesel (per liter) | $1.10 | Prices vary depending on location and taxes |
+| Car Rental (per day) | $40-$80 | Economy car, prices vary depending on rental agency and location |
+| Parking (per hour, city) | $1-$3 | Prices vary depending on location and time of day |
+| Toll Roads (typical) | $2-$5 | Limited toll roads, mostly used for highway travel |
+[/TABLE]
+
+[SECTION] Intercity & Long-Distance [/SECTION]
+[TABLE]
+| Route Type | Cost Range (USD) | Notes |
+| --- | --- | --- |
+| Intercity Bus (4-5 hrs) | $10-$30 | Frequent services, prices vary depending on bus company and route |
+| Domestic Flight | $50-$200 | Limited domestic flights, mostly used for travel to remote areas |
+| Train (long-distance) | $20-$100 | Limited services, mostly used for tourist routes |
+[/TABLE]
+
+[SECTION] Transport Tips [/SECTION]
+- Consider purchasing a monthly transit pass for frequent travel on public transportation.
+- Use ride-hailing apps or taxis for shorter trips, as they can be more convenient than buses.
+- Always negotiate the price before taking a taxi, especially for longer trips.
+- Be aware of peak hour traffic in major cities, as it can significantly increase travel time.
+- Use reputable car rental agencies and always check the condition of the vehicle before renting.
+- Consider cycling or walking for shorter trips, as Uruguay has a growing cycling culture and many cities have bike-friendly infrastructure.
+
+---
+
+*Evergreen reference content. Verify time-sensitive details with official sources.*

@@ -1,0 +1,26 @@
+{
+  "iso_code": "NZ",
+  "fetched_date": "2026-02-17",
+  "indicators": {
+    "NY.GDP.PCAP.PP.CD": {
+      "year": 2024,
+      "value": 55551.14
+    },
+    "FP.CPI.TOTL.ZG": {
+      "year": 2024,
+      "value": 2.92
+    },
+    "SH.XPD.CHEX.PC.CD": {
+      "year": 2024,
+      "value": 5022.03
+    },
+    "SH.XPD.OOPC.CH.ZS": {
+      "year": 2024,
+      "value": 12.69
+    },
+    "SE.XPD.TOTL.GD.ZS": {
+      "year": 2023,
+      "value": 5.28
+    }
+  }
+}

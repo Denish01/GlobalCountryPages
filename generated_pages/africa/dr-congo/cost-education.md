@@ -1,0 +1,68 @@
+---
+title: "Education Costs in DR Congo"
+entity: "DR Congo"
+iso_code: "CD"
+continent: "africa"
+angle: "cost-education"
+date: "2026-02-17"
+---
+
+# Education Costs in DR Congo
+
+The cost of education in DR Congo varies widely depending on the type of institution and the level of education, with public schools being generally free or subsidized, while private schools and international institutions charge tuition fees ranging from a few hundred to several thousand dollars per year.
+
+[FACTBOX]
+Education Spend (% GDP): 2.8%
+Literacy Rate: 77%
+School System: 6 years of primary education, 6 years of secondary education
+Academic Year: 10 months
+Currency: CDF
+[/FACTBOX]
+
+[SECTION] Education System Overview [/SECTION]
+The education system in DR Congo is divided into public and private institutions, with public schools generally offering free or subsidized education, while private schools charge tuition fees. The language of instruction is French, and the school system consists of 6 years of primary education, followed by 6 years of secondary education. Compulsory education in DR Congo lasts for 12 years, from the age of 6 to 18. While public schools are generally overcrowded and underfunded, private schools offer better quality education, but at a higher cost. International schools are also available in major cities, offering a range of curricula, including the International Baccalaureate and the British curriculum.
+
+The quality of education in DR Congo varies greatly depending on the institution and the location. Public schools in rural areas often lack basic infrastructure and qualified teachers, while private schools in urban areas offer better facilities and more qualified staff. International schools in DR Congo offer a high-quality education, but at a high cost, making them accessible only to a small minority of the population. Despite these challenges, the government of DR Congo has made efforts to improve the education system, including increasing the education budget and implementing programs to improve teacher training and school infrastructure.
+
+[SECTION] School Fees [/SECTION]
+[TABLE]
+| School Type | Annual Fee (USD) | Notes |
+| --- | --- | --- |
+| Public Primary | $0 (free) | Overcrowded and underfunded, but free |
+| Private Primary | $100-$500 | Range of quality and prices, from basic to international-standard |
+| Public Secondary | $20-$50 (subsidized) | Limited resources and facilities, but subsidized |
+| Private Secondary | $500-$2,000 | Better quality and facilities, but higher cost |
+| International School | $5,000-$10,000 | High-quality education, international curricula, and facilities |
+[/TABLE]
+
+[SECTION] University Tuition [/SECTION]
+[TABLE]
+| Institution Type | Annual Tuition - Local (USD) | Annual Tuition - International (USD) | Notes |
+| --- | --- | --- | --- |
+| Public University | $50-$100 | $100-$200 | Limited resources and facilities |
+| Private University | $500-$1,000 | $1,000-$2,000 | Better quality and facilities, but higher cost |
+| Top-Ranked University | $1,000-$2,000 | $2,000-$5,000 | University of Kinshasa, high-quality education and research opportunities |
+[/TABLE]
+
+[SECTION] Other Education Costs [/SECTION]
+[TABLE]
+| Item | Cost (USD) | Notes |
+| --- | --- | --- |
+| Preschool / Daycare (monthly) | $20-$50 | Limited availability and quality |
+| Private Tutoring (per hour) | $10-$20 | Range of quality and prices |
+| Language Course (monthly) | $50-$100 | French, English, and other languages available |
+| School Supplies (annual) | $20-$50 | Basic supplies, including textbooks and stationery |
+| School Uniform | $10-$20 | Required for most schools, including public and private institutions |
+[/TABLE]
+
+[SECTION] Education Quality & Tips [/SECTION]
+- The best schools for expats in DR Congo are international schools, offering a high-quality education and international curricula.
+- Scholarships are available for local and international students, but limited and competitive.
+- Online learning options are limited in DR Congo, due to limited internet access and infrastructure.
+- Education quality in DR Congo is generally lower than in other countries in the region, due to limited resources and infrastructure.
+- The University of Kinshasa is the top-ranked university in DR Congo, offering a range of academic programs and research opportunities.
+- Expats and international students should research thoroughly and plan carefully before choosing an education institution in DR Congo, considering factors such as quality, cost, and availability of resources and facilities.
+
+---
+
+*Evergreen reference content. Verify time-sensitive details with official sources.*

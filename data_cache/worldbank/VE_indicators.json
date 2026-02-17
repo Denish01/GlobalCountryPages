@@ -1,0 +1,18 @@
+{
+  "iso_code": "VE",
+  "fetched_date": "2026-02-17",
+  "indicators": {
+    "SH.XPD.CHEX.PC.CD": {
+      "year": 2023,
+      "value": 185.99
+    },
+    "SH.XPD.OOPC.CH.ZS": {
+      "year": 2023,
+      "value": 29.69
+    },
+    "SE.XPD.TOTL.GD.ZS": {
+      "year": 2023,
+      "value": 0.0
+    }
+  }
+}

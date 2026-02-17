@@ -1,0 +1,22 @@
+{
+  "iso_code": "IQ",
+  "fetched_date": "2026-02-17",
+  "indicators": {
+    "NY.GDP.PCAP.PP.CD": {
+      "year": 2024,
+      "value": 14464.32
+    },
+    "FP.CPI.TOTL.ZG": {
+      "year": 2024,
+      "value": -12.3
+    },
+    "SH.XPD.CHEX.PC.CD": {
+      "year": 2023,
+      "value": 333.29
+    },
+    "SH.XPD.OOPC.CH.ZS": {
+      "year": 2023,
+      "value": 53.98
+    }
+  }
+}

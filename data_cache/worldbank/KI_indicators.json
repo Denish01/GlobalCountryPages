@@ -1,0 +1,26 @@
+{
+  "iso_code": "KI",
+  "fetched_date": "2026-02-17",
+  "indicators": {
+    "NY.GDP.PCAP.PP.CD": {
+      "year": 2024,
+      "value": 3702.33
+    },
+    "FP.CPI.TOTL.ZG": {
+      "year": 2024,
+      "value": 2.46
+    },
+    "SH.XPD.CHEX.PC.CD": {
+      "year": 2023,
+      "value": 238.13
+    },
+    "SH.XPD.OOPC.CH.ZS": {
+      "year": 2023,
+      "value": 2.91
+    },
+    "SE.XPD.TOTL.GD.ZS": {
+      "year": 2023,
+      "value": 16.39
+    }
+  }
+}

@@ -1,0 +1,74 @@
+---
+title: "Food & Grocery Prices in Maldives"
+entity: "Maldives"
+iso_code: "MV"
+continent: "asia"
+angle: "cost-food-groceries"
+date: "2026-02-17"
+---
+
+# Food & Grocery Prices in Maldives
+
+Food prices in Maldives are generally higher than the regional average due to the country's remote island location and reliance on imported goods.
+
+[FACTBOX]
+Meal at Inexpensive Restaurant: ($15-$25 USD)
+Meal for 2 at Mid-Range Restaurant: ($40-$70 USD)
+Monthly Grocery Budget (1 person): ($300-$500 USD)
+Local Beer (500ml): ($8-$12 USD)
+Currency: MVR
+[/FACTBOX]
+
+[SECTION] Food Costs Overview [/SECTION]
+The cost of food in Maldives is influenced by several factors, including the high cost of transportation, limited local production, and a strong tourist industry. As a result, eating out can be expensive, with prices ranging from $15 to $25 per meal at an inexpensive restaurant. However, the country's unique **cuisine**, which combines Indian, Sri Lankan, and Middle Eastern flavors, is a major draw for tourists and locals alike. The eating-out culture is prevalent in the capital city of Male, where a wide range of restaurants and cafes cater to different tastes and budgets. In contrast, home cooking is also popular, especially in rural areas where fresh seafood and local ingredients are readily available.
+
+The prices of food in Maldives are driven up by the high cost of imports, which account for a significant proportion of the country's food supply. However, the government has implemented initiatives to promote local agriculture and reduce reliance on imported goods. Additionally, the country's **inflation rate** of 1.4% in 2024 is relatively low, which has helped to keep food prices stable. Overall, the cost of food in Maldives is higher than in other Asian countries, but the unique cuisine and dining experiences make it a worthwhile destination for foodies and travelers.
+
+[SECTION] Grocery Prices [/SECTION]
+[TABLE]
+| Item | Price (USD) | Local Price | Notes |
+| --- | --- | --- | --- |
+| Milk (1 liter) | $2.50-$3.50 | 40-55 MVR | Imported from India or Sri Lanka |
+| Bread (white loaf) | $1.50-$2.50 | 25-40 MVR | Local bakeries or imported |
+| Eggs (dozen) | $2.00-$3.00 | 30-45 MVR | Local farms or imported |
+| Rice (1 kg) | $1.50-$2.50 | 25-40 MVR | Imported from India or Pakistan |
+| Chicken breast (1 kg) | $6.00-$8.00 | 100-130 MVR | Imported from Brazil or Thailand |
+| Beef (1 kg) | $10.00-$15.00 | 180-250 MVR | Imported from Australia or India |
+| Apples (1 kg) | $5.00-$7.00 | 80-120 MVR | Imported from the United States or China |
+| Tomatoes (1 kg) | $2.00-$3.00 | 30-45 MVR | Local farms or imported |
+| Potatoes (1 kg) | $1.50-$2.50 | 25-40 MVR | Local farms or imported |
+| Onions (1 kg) | $1.00-$2.00 | 20-30 MVR | Local farms or imported |
+| Local cheese (1 kg) | $8.00-$12.00 | 130-200 MVR | Made from imported milk |
+| Water (1.5L bottle) | $1.00-$2.00 | 15-30 MVR | Local brand or imported |
+[/TABLE]
+
+[SECTION] Restaurant Prices [/SECTION]
+[TABLE]
+| Meal Type | Price Range (USD) | Notes |
+| --- | --- | --- |
+| Street Food / Local Eatery | $5-$10 | Traditional dishes like **mas huni** and **bambukeylu** |
+| Casual Restaurant | $15-$30 | International cuisine, including Chinese, Indian, and Italian |
+| Mid-Range Restaurant (2 people) | $40-$70 | Seafood, steak, and other Western dishes |
+| Fine Dining (2 people) | $100-$200 | Upscale restaurants with **fine wine** and **gourmet cuisine** |
+| Local Beer (draft, 500ml) | $8-$12 | **Sri Lankan beer** or **Indian beer** |
+| Imported Beer (330ml) | $10-$15 | **European beer** or **Australian beer** |
+| Cappuccino | $5-$8 | Coffee shops and cafes in Male |
+| Soft Drink (can) | $2-$4 | **Coca-Cola**, **Pepsi**, or local brands |
+[/TABLE]
+
+[SECTION] Supermarket vs Local Market [/SECTION]
+The prices of groceries in Maldives can vary significantly depending on whether you shop at a **supermarket** or a **local market**. Supermarkets tend to be more expensive, with prices similar to those in Western countries. However, they offer a wider range of products, including imported goods and **organic produce**. In contrast, local markets are generally cheaper, with prices that are more competitive with other Asian countries. At local markets, you can find fresh produce, seafood, and traditional snacks, as well as **local handicrafts** and **souvenirs**.
+
+When shopping at local markets, it's essential to **bargain**, as prices are often negotiable. You can expect to pay 10-20% less than the initial price quoted by the vendor. Additionally, local markets are a great place to try **street food** and **local delicacies**, which are often cheaper and more flavorful than restaurant meals. However, be aware that food safety and hygiene standards may vary at local markets, so it's essential to take necessary precautions to avoid **food poisoning**.
+
+[SECTION] Local Food Tips [/SECTION]
+- Eat at **local eateries** or **street food stalls** to try traditional dishes at affordable prices.
+- Buy **fresh seafood** directly from fishermen or at local markets to get the best prices.
+- Try **local snacks** like **mas huni** or **bambukeylu**, which are made from fresh coconut, fish, and spices.
+- Avoid buying **imported products**, which tend to be more expensive than local alternatives.
+- Visit **local markets** to buy fresh produce, handicrafts, and souvenirs at competitive prices.
+- **Bargain** when shopping at local markets to get the best deals.
+
+---
+
+*Evergreen reference content. Verify time-sensitive details with official sources.*

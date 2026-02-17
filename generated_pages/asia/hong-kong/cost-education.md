@@ -1,0 +1,68 @@
+---
+title: "Education Costs in Hong Kong"
+entity: "Hong Kong"
+iso_code: "HK"
+continent: "asia"
+angle: "cost-education"
+date: "2026-02-17"
+---
+
+# Education Costs in Hong Kong
+
+The cost of education in Hong Kong can range from free or subsidized for public schools to over $20,000 per year for international schools, with university tuition fees varying from around $5,000 to over $20,000 per year for local and international students, respectively.
+
+[FACTBOX]
+Education Spend (% GDP): 3.8%
+Literacy Rate: 95%
+School System: 12 years of compulsory education
+Academic Year: 12 months
+Currency: HKD
+[/FACTBOX]
+
+[SECTION] Education System Overview [/SECTION]
+The education system in Hong Kong is highly regarded, with both public and private schools offering high-quality education. However, there is a significant difference in the quality of education between public and private schools, with private schools generally considered to be of higher quality. The language of instruction in most schools is **Cantonese** or **English**, with some schools offering **Mandarin** as an additional language. Compulsory education in Hong Kong lasts for 12 years, from primary 1 to secondary 6, with students typically attending school from the age of 6 to 18. International schools are also available in Hong Kong, offering a range of curricula, including **IB**, **IGCSE**, and **AP**.
+
+The education system in Hong Kong is highly competitive, with students often attending **private tutoring** classes outside of regular school hours to gain an advantage. This has led to a high level of academic achievement, with Hong Kong students consistently ranking highly in international assessments such as **PISA**. Despite the high quality of education, the system has been criticized for being overly focused on **examinations** and **academic achievement**, with some arguing that it can be detrimental to students' **mental health** and **well-being**.
+
+[SECTION] School Fees [/SECTION]
+[TABLE]
+| School Type | Annual Fee (USD) | Notes |
+| --- | --- | --- |
+| Public Primary | $0 (free) | High-quality education, but may have large class sizes |
+| Private Primary | $5,000-$15,000 | Range of prices depending on the school's reputation and location |
+| Public Secondary | $0 (free) | High-quality education, but may have large class sizes |
+| Private Secondary | $10,000-$25,000 | Range of prices depending on the school's reputation and location |
+| International School | $15,000-$30,000 | Offers a range of curricula, including IB, IGCSE, and AP |
+[/TABLE]
+
+[SECTION] University Tuition [/SECTION]
+[TABLE]
+| Institution Type | Annual Tuition - Local (USD) | Annual Tuition - International (USD) | Notes |
+| --- | --- | --- | --- |
+| Public University | $5,000-$10,000 | $10,000-$20,000 | High-quality education, with some universities ranked highly internationally |
+| Private University | $10,000-$20,000 | $15,000-$30,000 | Range of prices depending on the university's reputation and location |
+| Top-Ranked University | $15,000-$25,000 | $20,000-$35,000 | Universities such as the **University of Hong Kong** and **Hong Kong University of Science and Technology** |
+[/TABLE]
+
+[SECTION] Other Education Costs [/SECTION]
+[TABLE]
+| Item | Cost (USD) | Notes |
+| --- | --- | --- |
+| Preschool / Daycare (monthly) | $500-$2,000 | Range of prices depending on the quality of care and location |
+| Private Tutoring (per hour) | $50-$100 | Range of prices depending on the tutor's qualifications and experience |
+| Language Course (monthly) | $200-$500 | Range of prices depending on the language and course provider |
+| School Supplies (annual) | $100-$300 | Depending on the school's requirements and the student's grade level |
+| School Uniform | $50-$100 | Depending on the school's uniform requirements and the student's grade level |
+[/TABLE]
+
+[SECTION] Education Quality & Tips [/SECTION]
+- The **International Baccalaureate** (IB) curriculum is highly regarded and available at some international schools in Hong Kong.
+- **Scholarships** are available for students who excel academically, with some universities offering full-ride scholarships to top students.
+- **Online learning** options are becoming increasingly popular in Hong Kong, with some universities offering online courses and degree programs.
+- The education system in Hong Kong is highly competitive, with students often feeling pressured to perform well academically.
+- **Expats** may find it difficult to navigate the education system in Hong Kong, with some schools having limited availability and high fees.
+- The **Education Bureau** provides resources and support for parents and students, including information on school admissions and **special education** services.
+
+---
+
+*Evergreen reference content. Verify time-sensitive details with official sources.*

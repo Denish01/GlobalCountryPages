@@ -1,0 +1,66 @@
+---
+title: "Rent & Housing Prices in Angola"
+entity: "Angola"
+iso_code: "AO"
+continent: "africa"
+angle: "cost-rent-housing"
+date: "2026-02-17"
+---
+
+# Rent & Housing Prices in Angola
+
+Rent in Angola can be quite expensive, especially in the capital city of Luanda, with average monthly rents for a one-bedroom apartment in the city center ranging from $800 to $1,500 USD, equivalent to around 312,000 to 585,000 Angolan Kwanza (AOA).
+
+[FACTBOX]
+GDP per Capita (PPP): $10,119
+Affordability Rating: Expensive
+Average Monthly Rent (1BR, City Center): $1,000 USD / 390,000 AOA
+Average Monthly Rent (1BR, Outside Center): $600 USD / 234,000 AOA
+Property Purchase (per sqm, City Center): $2,500 USD
+Currency: AOA
+[/FACTBOX]
+
+[SECTION] Housing Market Overview [/SECTION]
+The rental market in Angola is highly competitive, with a high demand for housing, especially in the capital city of Luanda. This has driven up prices, making it challenging for locals and expats alike to find affordable housing. Typical lease terms range from 6 to 12 months, with a deposit requirement of 2-3 months' rent. Tenant rights are relatively limited, and it's essential for renters to negotiate a fair contract before signing. Compared to regional neighbors, Angola's housing costs are among the highest, with Luanda being one of the most expensive cities in Africa.
+
+The high cost of living in Angola is partly due to the country's **economic growth**, which has led to an influx of foreign investment and a growing expat community. However, this growth has also put a strain on the housing market, resulting in a shortage of affordable housing options. As a result, many Angolans and expats are forced to look for housing outside of the city center, where prices are slightly more affordable. Despite the challenges, Angola's housing market offers a unique opportunity for investors and renters to experience the country's rich **cultural heritage** and vibrant cities.
+
+[SECTION] Apartment Rental Prices [/SECTION]
+[TABLE]
+| Apartment Type | City Center (USD/month) | Outside Center (USD/month) | Notes |
+| --- | --- | --- | --- |
+| Studio / Bedsitter | $500-$800 | $300-$500 | Basic amenities, 20-30 sqm |
+| 1 Bedroom | $800-$1,200 | $500-$800 | Standard amenities, 40-60 sqm |
+| 2 Bedroom | $1,200-$1,800 | $800-$1,200 | Family size, 80-100 sqm |
+| 3 Bedroom | $1,800-$2,500 | $1,200-$1,800 | Spacious, 120-150 sqm |
+[/TABLE]
+
+[SECTION] Property Purchase Prices [/SECTION]
+[TABLE]
+| Area Type | Price per sqm (USD) | Notes |
+| --- | --- | --- |
+| City Center | $2,500-$3,500 | Prime locations, luxury amenities |
+| Suburbs | $1,500-$2,500 | Residential areas, standard amenities |
+| Rural | $500-$1,000 | Limited amenities, rural areas |
+[/TABLE]
+
+[SECTION] Best Neighborhoods for Expats [/SECTION]
+- **Miramar**: A popular neighborhood for expats, with modern amenities and a range of housing options, rent range $1,000-$2,000 USD per month
+- **Talatona**: A luxurious neighborhood with high-end amenities, rent range $1,500-$3,000 USD per month
+- **Alvalade**: A residential neighborhood with a mix of old and new buildings, rent range $800-$1,500 USD per month
+- **Maianga**: A bustling neighborhood with a range of amenities, rent range $600-$1,200 USD per month
+- **Luanda Sul**: A newer neighborhood with modern amenities, rent range $1,000-$2,000 USD per month
+
+[SECTION] Renter Tips for Angola [/SECTION]
+- Research neighborhoods thoroughly to find the best fit for your budget and lifestyle
+- Work with a reputable real estate agent to find housing options
+- Negotiate the rent and contract terms before signing
+- Be prepared for a 2-3 month deposit requirement
+- Consider furnishing your apartment, as unfurnished options are less common
+- Be aware of scams and ensure you're working with a legitimate landlord or agent
+- Utilities such as water and electricity are usually not included in the rent, so factor these costs into your budget
+- [CALLOUT] Be sure to inspect the property thoroughly before signing a lease to avoid any potential issues or disputes.
+
+---
+
+*Evergreen reference content. Verify time-sensitive details with official sources.*

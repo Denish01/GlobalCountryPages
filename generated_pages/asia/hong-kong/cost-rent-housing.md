@@ -1,0 +1,67 @@
+---
+title: "Rent & Housing Prices in Hong Kong"
+entity: "Hong Kong"
+iso_code: "HK"
+continent: "asia"
+angle: "cost-rent-housing"
+date: "2026-02-17"
+---
+
+# Rent & Housing Prices in Hong Kong
+
+The cost of rent in Hong Kong can range from $1,500 to $6,000 USD per month for a one-bedroom apartment, depending on the location and quality of the accommodation, while housing prices can reach upwards of $20,000 per square meter in the city center.
+
+[FACTBOX]
+GDP per Capita (PPP): $75,196
+Affordability Rating: Very Expensive
+Average Monthly Rent (1BR, City Center): $3,500 USD / 27,300 HKD
+Average Monthly Rent (1BR, Outside Center): $2,000 USD / 15,600 HKD
+Property Purchase (per sqm, City Center): $18,000 USD
+Currency: HKD
+[/FACTBOX]
+
+[SECTION] Housing Market Overview [/SECTION]
+The rental market in Hong Kong is highly competitive, with a large demand for housing due to the city's dense population and limited land supply. Typical lease terms range from 1 to 2 years, with a 2-month deposit required for most rentals. Tenant rights are protected under the **Landlord and Tenant (Consolidation) Ordinance**, which provides guidelines for rent increases, eviction notices, and other aspects of the landlord-tenant relationship. Compared to its regional neighbors, Hong Kong's housing costs are among the highest in Asia, with prices rivaling those of major cities like Tokyo and Singapore.
+
+The high cost of housing in Hong Kong is driven by a combination of factors, including the city's **limited land supply**, high demand for housing, and the presence of a large and affluent population. The government has implemented various measures to address the housing shortage, including the development of new housing estates and the introduction of rent control measures. However, the housing market remains highly competitive, with rents and property prices continuing to rise in recent years. For example, the average monthly rent for a one-bedroom apartment in the city center has increased by over 10% in the past year alone.
+
+[SECTION] Apartment Rental Prices [/SECTION]
+[TABLE]
+| Apartment Type | City Center (USD/month) | Outside Center (USD/month) | Notes |
+| --- | --- | --- | --- |
+| Studio / Bedsitter | $1,800-$3,000 | $1,200-$2,000 | (typical quality, 200-300 sqft) |
+| 1 Bedroom | $2,500-$4,500 | $1,500-$3,000 | (what to expect, 400-600 sqft) |
+| 2 Bedroom | $4,000-$7,000 | $2,500-$5,000 | (family size, 800-1,200 sqft) |
+| 3 Bedroom | $6,000-$10,000 | $4,000-$8,000 | (spacious, 1,200-2,000 sqft) |
+[/TABLE]
+
+[SECTION] Property Purchase Prices [/SECTION]
+[TABLE]
+| Area Type | Price per sqm (USD) | Notes |
+| --- | --- | --- |
+| City Center | $15,000-$25,000 | (prime locations, such as Central and Wan Chai) |
+| Suburbs | $8,000-$15,000 | (residential areas, such as Kowloon and New Territories) |
+| Rural | $3,000-$6,000 | (less developed areas, such as Lantau Island) |
+[/TABLE]
+
+[SECTION] Best Neighborhoods for Expats [/SECTION]
+- **Central**: a popular area for expats, with a range of high-end apartments and a lively nightlife scene, rent range $3,000-$6,000 USD per month
+- **Wan Chai**: a bustling commercial area with a mix of old and new buildings, rent range $2,500-$5,000 USD per month
+- **Causeway Bay**: a trendy neighborhood with a range of shopping and dining options, rent range $2,000-$4,000 USD per month
+- **Kowloon Tong**: a family-friendly area with a range of international schools and amenities, rent range $1,500-$3,500 USD per month
+- **Sai Kung**: a laid-back coastal area with a range of outdoor activities and a relaxed atmosphere, rent range $1,000-$2,500 USD per month
+
+[SECTION] Renter Tips for Hong Kong [/SECTION]
+- **Research thoroughly**: understand the local market and prices before starting your search
+- **Work with a reputable agent**: many landlords in Hong Kong work with agents, who can help you find a suitable property
+- **Inspect the property carefully**: check for any damage or needed repairs before signing a lease
+- **Negotiate the rent**: it's common to negotiate the rent in Hong Kong, especially for longer-term leases
+- **Understand the contract**: make sure you understand all the terms and conditions of the lease before signing
+- **Be prepared for competition**: the rental market in Hong Kong is highly competitive, so be prepared to act quickly when you find a suitable property
+[CALLOUT] Be aware of **rental scams** in Hong Kong, where scammers may pose as landlords or agents to collect deposits from unsuspecting tenants. Always verify the identity of the landlord or agent and inspect the property before signing a lease or paying any deposits. 
+[RATING] Affordability: 2/5 
+Note: The affordability rating is based on the average rent and property prices in Hong Kong, compared to the average income and GDP per capita. A rating of 2/5 indicates that Hong Kong is a very expensive city, with high housing costs that may be challenging for some residents to afford.
+
+---
+
+*Evergreen reference content. Verify time-sensitive details with official sources.*

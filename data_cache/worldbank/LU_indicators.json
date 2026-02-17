@@ -1,0 +1,26 @@
+{
+  "iso_code": "LU",
+  "fetched_date": "2026-02-17",
+  "indicators": {
+    "NY.GDP.PCAP.PP.CD": {
+      "year": 2024,
+      "value": 155941.29
+    },
+    "FP.CPI.TOTL.ZG": {
+      "year": 2024,
+      "value": 2.05
+    },
+    "SH.XPD.CHEX.PC.CD": {
+      "year": 2024,
+      "value": 8169.91
+    },
+    "SH.XPD.OOPC.CH.ZS": {
+      "year": 2024,
+      "value": 8.5
+    },
+    "SE.XPD.TOTL.GD.ZS": {
+      "year": 2022,
+      "value": 3.71
+    }
+  }
+}

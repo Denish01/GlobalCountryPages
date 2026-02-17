@@ -1,0 +1,22 @@
+{
+  "iso_code": "TV",
+  "fetched_date": "2026-02-17",
+  "indicators": {
+    "NY.GDP.PCAP.PP.CD": {
+      "year": 2023,
+      "value": 6151.01
+    },
+    "SH.XPD.CHEX.PC.CD": {
+      "year": 2023,
+      "value": 1723.57
+    },
+    "SH.XPD.OOPC.CH.ZS": {
+      "year": 2023,
+      "value": 0.04
+    },
+    "SE.XPD.TOTL.GD.ZS": {
+      "year": 2023,
+      "value": 12.85
+    }
+  }
+}

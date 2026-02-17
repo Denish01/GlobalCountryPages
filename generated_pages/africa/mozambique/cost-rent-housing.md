@@ -1,0 +1,64 @@
+---
+title: "Rent & Housing Prices in Mozambique"
+entity: "Mozambique"
+iso_code: "MZ"
+continent: "africa"
+angle: "cost-rent-housing"
+date: "2026-02-17"
+---
+
+# Rent & Housing Prices in Mozambique
+
+The cost of rent in Mozambique can vary greatly depending on the location, with average monthly rent for a one-bedroom apartment in the city center ranging from $200-$500 USD, approximately 12,000-30,000 MZN.
+
+[FACTBOX]
+GDP per Capita (PPP): $1,705
+Affordability Rating: Moderate
+Average Monthly Rent (1BR, City Center): $300-$500 USD / 18,000-30,000 MZN
+Average Monthly Rent (1BR, Outside Center): $150-$300 USD / 9,000-18,000 MZN
+Property Purchase (per sqm, City Center): $1,500-$3,000 USD
+Currency: MZN
+[/FACTBOX]
+
+[SECTION] Housing Market Overview [/SECTION]
+Mozambique's rental market is relatively underdeveloped, with a shortage of high-quality housing options, particularly in the capital city of Maputo. Typical lease terms range from 6-12 months, with a deposit requirement of 1-2 months' rent. Tenant rights are limited, and disputes are often resolved through informal negotiations. Compared to regional neighbors, Mozambique's housing costs are relatively high, particularly in the city center, due to a combination of factors including limited supply, high demand, and a growing expat community.
+
+The housing market in Mozambique is also characterized by a large informal sector, with many properties being rented out without formal contracts or documentation. This can make it difficult for tenants to assert their rights and can lead to disputes over issues such as rent increases and eviction. Despite these challenges, Mozambique's housing market offers a range of opportunities for investors and renters alike, with a growing demand for high-quality housing and a relatively low cost of living compared to other countries in the region.
+
+[SECTION] Apartment Rental Prices [/SECTION]
+[TABLE]
+| Apartment Type | City Center (USD/month) | Outside Center (USD/month) | Notes |
+| --- | --- | --- | --- |
+| Studio / Bedsitter | $150-$300 | $100-$200 | basic amenities, shared facilities |
+| 1 Bedroom | $200-$400 | $150-$300 | self-contained, moderate quality |
+| 2 Bedroom | $350-$600 | $250-$450 | family size, good quality, amenities |
+| 3 Bedroom | $500-$1,000 | $350-$700 | spacious, high-quality, luxury amenities |
+[/TABLE]
+
+[SECTION] Property Purchase Prices [/SECTION]
+[TABLE]
+| Area Type | Price per sqm (USD) | Notes |
+| --- | --- | --- |
+| City Center | $1,500-$3,000 | prime locations, high demand |
+| Suburbs | $800-$1,500 | residential areas, moderate demand |
+| Rural | $200-$500 | limited infrastructure, low demand |
+[/TABLE]
+
+[SECTION] Best Neighborhoods for Expats [/SECTION]
+- **Polana** is a popular neighborhood for expats, with a range of high-quality housing options and a relatively high rent range of $500-$1,500 USD per month.
+- **Sommerschield** is a family-friendly neighborhood with a mix of apartments and houses, and a moderate rent range of $300-$800 USD per month.
+- **Coop** is a bustling neighborhood with a range of amenities, including restaurants, shops, and entertainment options, and a relatively high rent range of $400-$1,200 USD per month.
+- **Matola** is a suburb of Maputo, with a range of housing options and a moderate rent range of $200-$600 USD per month.
+- **Machava** is a residential neighborhood with a mix of apartments and houses, and a relatively low rent range of $150-$400 USD per month.
+
+[SECTION] Renter Tips for Mozambique [/SECTION]
+- Research the local market thoroughly to understand the going rates for rent and the quality of housing options.
+- Work with a reputable real estate agent or property manager to find a suitable property.
+- Inspect the property carefully before signing a lease to ensure it is in good condition.
+- Negotiate the rent and lease terms carefully, taking into account factors such as the length of the lease and the deposit requirement.
+- Be aware of scams and ensure that any property you rent is legally owned by the landlord and has all necessary documentation.
+- Consider renting a furnished property, as this can be more convenient and cost-effective than renting an unfurnished property and purchasing furniture separately.
+
+---
+
+*Evergreen reference content. Verify time-sensitive details with official sources.*

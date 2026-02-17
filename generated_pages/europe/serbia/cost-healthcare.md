@@ -1,0 +1,73 @@
+---
+title: "Healthcare Costs in Serbia"
+entity: "Serbia"
+iso_code: "RS"
+continent: "europe"
+angle: "cost-healthcare"
+date: "2026-02-17"
+---
+
+# Healthcare Costs in Serbia
+
+The cost of healthcare in Serbia varies depending on the type of service and whether you use public or private facilities, with an average health expenditure per capita of $984 and out-of-pocket spend of 32.1%.
+
+[FACTBOX]
+Health Expenditure per Capita: $984
+Out-of-Pocket Spend: 32.1%
+Healthcare System: Mixed
+Emergency Number: 94
+Insurance Required: Recommended
+Currency: RSD
+[/FACTBOX]
+
+[SECTION] Healthcare System Overview [/SECTION]
+Serbia's healthcare system is a mix of public and private providers, with both locals and foreigners able to access medical services. The public healthcare system is generally considered to be of good quality, with most medical facilities and equipment being up-to-date. However, wait times can be long and the quality of care can vary depending on the location and type of facility. Private healthcare facilities, on the other hand, offer high-quality care with shorter wait times, but at a higher cost. For locals, the healthcare system is generally accessible and affordable, with most medical services being covered by the national health insurance system. For foreigners, it is recommended to have private health insurance to cover any medical expenses, as the public healthcare system may not provide the same level of care and services.
+
+The healthcare system in Serbia is designed to provide universal access to medical care, with both public and private providers playing a role. The public healthcare system is funded through a combination of government funding and health insurance premiums, while private healthcare facilities are funded through out-of-pocket payments and private insurance. In general, public healthcare facilities provide a wider range of services, including emergency care, hospital stays, and specialist consultations, while private facilities tend to focus on more specialized services, such as dental care and cosmetic surgery. It is worth noting that the quality of care can vary significantly depending on the location and type of facility, with larger cities like Belgrade tend to have better-equipped and staffed medical facilities.
+
+[SECTION] Medical Visit Costs [/SECTION]
+[TABLE]
+| Service | Public (USD) | Private (USD) | Notes |
+| --- | --- | --- | --- |
+| GP / Doctor Visit | $10-$30 | $50-$100 | |
+| Specialist Consultation | $20-$50 | $100-$200 | |
+| Dental Checkup | $20-$50 | $50-$100 | |
+| Eye Exam | $10-$30 | $50-$100 | |
+| Blood Test (basic panel) | $10-$20 | $20-$50 | |
+[/TABLE]
+
+[SECTION] Hospital & Procedure Costs [/SECTION]
+[TABLE]
+| Procedure | Cost Range (USD) | Notes |
+| --- | --- | --- |
+| Emergency Room Visit | $50-$100 | |
+| Hospital Stay (per night) | $100-$300 | |
+| Basic Surgery | $500-$1,000 | |
+| Childbirth (normal delivery) | $1,000-$2,000 | |
+| MRI Scan | $200-$500 | |
+| X-Ray | $20-$50 | |
+[/TABLE]
+
+[SECTION] Health Insurance [/SECTION]
+[TABLE]
+| Coverage Type | Monthly Cost (USD) | What It Covers |
+| --- | --- | --- |
+| Basic Local Insurance | $20-$50 | Doctor visits, hospital stays, and basic medical procedures |
+| Comprehensive Private | $100-$200 | Specialist consultations, advanced medical procedures, and hospital stays |
+| International / Expat | $200-$500 | Global coverage, including medical evacuation and repatriation |
+[/TABLE]
+
+[SECTION] Pharmacy & Medication Costs [/SECTION]
+- Prescription medication can be purchased at a pharmacy with a valid prescription, with costs ranging from $5-$20 per medication
+- Over-the-counter medication is widely available at pharmacies and supermarkets, with costs ranging from $2-$10 per medication
+- Common medications such as pain relievers and antibiotics can be purchased without a prescription
+- Pharmacy availability is generally good, with many pharmacies open 24 hours a day
+- Prescription rules are generally strict, with a valid prescription required for most medications
+- Medication prices can vary depending on the location and type of pharmacy
+
+[SECTION] Emergency Care [/SECTION]
+In the event of a medical emergency, it is essential to call the emergency number, 94, or go to the nearest hospital. Ambulance services are available, but may not always be equipped with the latest medical equipment. For foreigners, it is recommended to go to a private hospital or medical facility, as they tend to have better-equipped and staffed emergency departments. The best hospitals for foreigners in Serbia include the **Belgrade University Hospital** and the **Medicinska Klinika Beograd**, which offer a wide range of medical services, including emergency care, and have English-speaking staff. It is also recommended to have a basic understanding of the local language, **Serbian**, and to have a means of communication, such as a phone or translation device, to facilitate communication with medical staff.
+
+---
+
+*Evergreen reference content. Verify time-sensitive details with official sources.*

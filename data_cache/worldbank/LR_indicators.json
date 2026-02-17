@@ -1,0 +1,26 @@
+{
+  "iso_code": "LR",
+  "fetched_date": "2026-02-17",
+  "indicators": {
+    "NY.GDP.PCAP.PP.CD": {
+      "year": 2024,
+      "value": 1871.04
+    },
+    "FP.CPI.TOTL.ZG": {
+      "year": 2024,
+      "value": 8.21
+    },
+    "SH.XPD.CHEX.PC.CD": {
+      "year": 2023,
+      "value": 103.94
+    },
+    "SH.XPD.OOPC.CH.ZS": {
+      "year": 2023,
+      "value": 63.24
+    },
+    "SE.XPD.TOTL.GD.ZS": {
+      "year": 2023,
+      "value": 2.27
+    }
+  }
+}

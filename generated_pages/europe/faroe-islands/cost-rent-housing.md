@@ -1,0 +1,65 @@
+---
+title: "Rent & Housing Prices in Faroe Islands"
+entity: "Faroe Islands"
+iso_code: "FO"
+continent: "europe"
+angle: "cost-rent-housing"
+date: "2026-02-17"
+---
+
+# Rent & Housing Prices in Faroe Islands
+
+The cost of rent in Faroe Islands can range from $800 to $1,800 per month for a one-bedroom apartment, depending on the location and quality of the accommodation. 
+
+[FACTBOX]
+GDP per Capita (PPP): $81,909
+Affordability Rating: Expensive
+Average Monthly Rent (1BR, City Center): $1,200-$1,800 USD / 8,000-12,000 DKK
+Average Monthly Rent (1BR, Outside Center): $800-$1,400 USD / 5,500-9,500 DKK
+Property Purchase (per sqm, City Center): $3,000-$5,000 USD
+Currency: DKK
+[/FACTBOX]
+
+[SECTION] Housing Market Overview [/SECTION]
+The Faroe Islands have a relatively small and tight housing market, which can make it challenging for renters to find affordable accommodation, particularly in the capital city of Torshavn. Typical lease terms in the Faroe Islands are for 1-2 years, and tenants are usually required to pay a deposit of 1-2 months' rent. The Faroese government has implemented various measures to protect tenant rights, including rent control and regulations on lease terminations. Compared to regional neighbors such as Iceland and Norway, the Faroe Islands have relatively high housing costs, driven by the limited supply of housing and the high demand from expats and locals alike.
+
+The rental market in the Faroe Islands is characterized by a mix of modern apartments and traditional houses, with many properties offering stunning views of the surrounding landscape. However, the limited availability of housing can lead to higher prices, particularly in the city center. To mitigate this, many renters opt for shared accommodation or look for apartments outside of the city center. The Faroese government has also invested in initiatives to increase the supply of affordable housing, including the development of new residential areas and the renovation of existing properties.
+
+[SECTION] Apartment Rental Prices [/SECTION]
+[TABLE]
+| Apartment Type | City Center (USD/month) | Outside Center (USD/month) | Notes |
+| --- | --- | --- | --- |
+| Studio / Bedsitter | $900-$1,400 | $600-$1,000 | basic amenities, 20-30 sqm |
+| 1 Bedroom | $1,000-$1,600 | $800-$1,200 | modern appliances, 30-50 sqm |
+| 2 Bedroom | $1,400-$2,200 | $1,000-$1,600 | family size, 50-80 sqm |
+| 3 Bedroom | $2,000-$3,000 | $1,400-$2,200 | spacious, 80-120 sqm |
+[/TABLE]
+
+[SECTION] Property Purchase Prices [/SECTION]
+[TABLE]
+| Area Type | Price per sqm (USD) | Notes |
+| --- | --- | --- |
+| City Center | $3,500-$5,500 | prime locations, modern apartments |
+| Suburbs | $2,500-$4,000 | residential areas, family homes |
+| Rural | $1,500-$2,500 | traditional houses, scenic views |
+[/TABLE]
+
+[SECTION] Best Neighborhoods for Expats [/SECTION]
+- Hoyvik: a popular neighborhood with a range of modern apartments, $1,200-$1,800 per month
+- Torshavn City Center: the heart of the capital city, with shops, restaurants, and cultural attractions, $1,500-$2,500 per month
+- Argir: a family-friendly neighborhood with a mix of modern and traditional houses, $1,000-$1,600 per month
+- Vestmanna: a coastal town with stunning views and a range of outdoor activities, $800-$1,400 per month
+- Streymnes: a rural area with traditional houses and scenic views, $600-$1,200 per month
+
+[SECTION] Renter Tips for Faroe Islands [/SECTION]
+- Start your housing search early, as the rental market can be competitive, particularly in the city center
+- Consider sharing an apartment with others to reduce costs and split bills
+- Be prepared to pay a deposit and sign a lease for a minimum of 1 year
+- Research the local area and neighborhood to ensure it suits your needs and lifestyle
+- Look for apartments that include utilities such as heating, water, and electricity to avoid additional costs
+- Be aware of scams and always inspect the property before signing a lease or paying a deposit
+- Furnished apartments are less common in the Faroe Islands, so be prepared to purchase or rent furniture and appliances separately
+
+---
+
+*Evergreen reference content. Verify time-sensitive details with official sources.*

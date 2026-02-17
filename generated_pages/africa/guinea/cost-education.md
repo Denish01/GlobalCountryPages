@@ -1,0 +1,68 @@
+---
+title: "Education Costs in Guinea"
+entity: "Guinea"
+iso_code: "GN"
+continent: "africa"
+angle: "cost-education"
+date: "2026-02-17"
+---
+
+# Education Costs in Guinea
+
+The cost of education in Guinea varies significantly depending on the type of institution, with public schools generally offering free or subsidized education, while private schools and international institutions charge tuition fees ranging from a few hundred to several thousand dollars per year.
+
+[FACTBOX]
+Education Spend (% GDP): 1.7%
+Literacy Rate: 41%
+School System: 6 years of compulsory education
+Academic Year: 10 months
+Currency: GNF
+[/FACTBOX]
+
+[SECTION] Education System Overview [/SECTION]
+The education system in Guinea is primarily based on the French model, with French being the language of instruction. The system is divided into primary, secondary, and higher education, with six years of compulsory education. Public schools in Guinea generally offer free or subsidized education, but the quality can be variable, with some schools lacking basic infrastructure and resources. Private schools, on the other hand, offer a higher quality of education, but at a significantly higher cost. International schools are also available in Conakry, the capital city, catering to the needs of expatriate children and offering a range of curricula, including the International Baccalaureate and the British GCSE.
+
+The quality of education in Guinea is a significant concern, with many schools facing challenges such as overcrowding, lack of qualified teachers, and inadequate resources. However, there are efforts being made to improve the education system, including the introduction of new curricula and teacher training programs. Despite these challenges, Guinea has a relatively high proportion of children enrolled in school, with around 70% of children attending primary school. However, the dropout rate is high, particularly among girls, and the quality of education remains a significant issue.
+
+[SECTION] School Fees [/SECTION]
+[TABLE]
+| School Type | Annual Fee (USD) | Notes |
+| --- | --- | --- |
+| Public Primary | $0 (free) | Quality can be variable, with some schools lacking basic infrastructure and resources |
+| Private Primary | $200-$500 | Range by tier, with higher-end schools offering better facilities and qualified teachers |
+| Public Secondary | $0 (free) | Quality can be variable, with some schools lacking basic infrastructure and resources |
+| Private Secondary | $500-$1,000 | Range by tier, with higher-end schools offering better facilities and qualified teachers |
+| International School | $2,000-$5,000 | Curriculum types include International Baccalaureate, British GCSE, and French Baccalaureate |
+[/TABLE]
+
+[SECTION] University Tuition [/SECTION]
+[TABLE]
+| Institution Type | Annual Tuition - Local (USD) | Annual Tuition - International (USD) | Notes |
+| --- | --- | --- | --- |
+| Public University | $100-$300 | $500-$1,000 | Limited places available for international students |
+| Private University | $500-$1,000 | $1,000-$2,000 | Range by institution, with some offering scholarships and financial aid |
+| Top-Ranked University | $1,000-$2,000 | $2,000-$3,000 | Université Gamal Abdel Nasser de Conakry is one of the top-ranked universities in Guinea |
+[/TABLE]
+
+[SECTION] Other Education Costs [/SECTION]
+[TABLE]
+| Item | Cost (USD) | Notes |
+| --- | --- | --- |
+| Preschool / Daycare (monthly) | $20-$50 | Limited availability, particularly outside of Conakry |
+| Private Tutoring (per hour) | $10-$20 | Range by subject and tutor qualifications |
+| Language Course (monthly) | $50-$100 | French and English language courses available in Conakry |
+| School Supplies (annual) | $20-$50 | Basic supplies, including notebooks, pens, and pencils |
+| School Uniform | $10-$20 | Mandatory for most schools, with some offering subsidized uniforms for low-income students |
+[/TABLE]
+
+[SECTION] Education Quality & Tips [/SECTION]
+- The **International School of Conakry** is a popular choice for expatriate families, offering a range of curricula and extracurricular activities.
+- **Scholarships** are available for Guinean students, particularly those from low-income backgrounds, to pursue higher education.
+- **Online learning options** are limited in Guinea, but some universities offer distance learning programs for certain subjects.
+- The education quality in Guinea is generally lower compared to other countries in the region, with significant challenges facing the education system.
+- **French language skills** are essential for navigating the education system in Guinea, as French is the language of instruction.
+- Expatriate families may want to consider **hiring a private tutor** to supplement their child's education, particularly if they are struggling with the French language or local curriculum.
+
+---
+
+*Evergreen reference content. Verify time-sensitive details with official sources.*

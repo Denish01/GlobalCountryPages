@@ -1,0 +1,68 @@
+---
+title: "Education Costs in Greece"
+entity: "Greece"
+iso_code: "GR"
+continent: "europe"
+angle: "cost-education"
+date: "2026-02-17"
+---
+
+# Education Costs in Greece
+
+The cost of education in Greece varies depending on the type of institution and the student's residency status, with public education being generally free or subsidized for locals, while private and international schools can range from $2,000 to $10,000 per year.
+
+[FACTBOX]
+Education Spend (% GDP): 3.4%
+Literacy Rate: 97%
+School System: 12 years of compulsory education
+Academic Year: 10 months
+Currency: EUR
+[/FACTBOX]
+
+[SECTION] Education System Overview [/SECTION]
+Greece has a well-structured education system, with a strong emphasis on public education, which is generally considered to be of good quality and free or subsidized for locals. The language of instruction is **Greek**, and compulsory education lasts for 12 years, from the age of 6 to 18. Public schools are generally considered to be of good quality, but private schools are also popular, especially among expats and those seeking a more specialized education. International schools are also available, offering a range of curricula, including **IB**, **British**, and **American** programs.
+
+The quality of education in Greece is generally considered to be good, with a strong emphasis on **mathematics**, **science**, and **language**. However, the education system has faced some challenges in recent years, including budget cuts and a shortage of qualified teachers. Despite these challenges, Greece has a highly educated population, with a literacy rate of over 97%. The country is also home to a number of reputable universities, including the **University of Athens** and the **Aristotle University of Thessaloniki**.
+
+[SECTION] School Fees [/SECTION]
+[TABLE]
+| School Type | Annual Fee (USD) | Notes |
+| --- | --- | --- |
+| Public Primary | $0 (free) | High-quality education, but may lack resources |
+| Private Primary | $2,000-$5,000 | Range of quality and curricula, including bilingual and international programs |
+| Public Secondary | $0 (free) | Good quality education, with a focus on preparation for university entrance exams |
+| Private Secondary | $3,000-$7,000 | Range of quality and curricula, including **IB** and **A-level** programs |
+| International School | $5,000-$10,000 | High-quality education, with a range of curricula and extracurricular activities |
+[/TABLE]
+
+[SECTION] University Tuition [/SECTION]
+[TABLE]
+| Institution Type | Annual Tuition - Local (USD) | Annual Tuition - International (USD) | Notes |
+| --- | --- | --- | --- |
+| Public University | $0 (free) | $2,000-$5,000 | High-quality education, with a range of programs and research opportunities |
+| Private University | $2,000-$5,000 | $5,000-$10,000 | Range of quality and programs, including **business**, **engineering**, and **humanities** |
+| Top-Ranked University | $0 (free) | $5,000-$10,000 | **University of Athens**, highly competitive and reputable institution |
+[/TABLE]
+
+[SECTION] Other Education Costs [/SECTION]
+[TABLE]
+| Item | Cost (USD) | Notes |
+| --- | --- | --- |
+| Preschool / Daycare (monthly) | $200-$500 | Range of quality and services, including full-day and half-day programs |
+| Private Tutoring (per hour) | $20-$50 | Range of subjects and qualifications, including **math**, **science**, and **language** |
+| Language Course (monthly) | $100-$300 | Range of languages and levels, including **English**, **German**, and **French** |
+| School Supplies (annual) | $100-$300 | Range of quality and prices, including **books**, **stationery**, and **uniforms** |
+| School Uniform | $50-$100 | Required for most schools, including public and private institutions |
+[/TABLE]
+
+[SECTION] Education Quality & Tips [/SECTION]
+- The **University of Athens** is one of the top-ranked universities in Greece, offering a range of programs and research opportunities.
+- **Scholarships** are available for international students, including government-funded and private programs.
+- **Online learning** options are becoming increasingly popular in Greece, with many universities and institutions offering online courses and degree programs.
+- The education system in Greece is generally considered to be of good quality, but may lack resources and infrastructure in some areas.
+- **Expats** may find that international schools offer a more familiar curriculum and teaching style, but may also be more expensive than public or private schools.
+- **Language** may be a barrier for international students, but many universities and institutions offer **language support** and **English-taught programs**.
+
+---
+
+*Evergreen reference content. Verify time-sensitive details with official sources.*

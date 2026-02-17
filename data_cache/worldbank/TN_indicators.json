@@ -1,0 +1,22 @@
+{
+  "iso_code": "TN",
+  "fetched_date": "2026-02-17",
+  "indicators": {
+    "NY.GDP.PCAP.PP.CD": {
+      "year": 2024,
+      "value": 14521.01
+    },
+    "SH.XPD.CHEX.PC.CD": {
+      "year": 2023,
+      "value": 317.71
+    },
+    "SH.XPD.OOPC.CH.ZS": {
+      "year": 2023,
+      "value": 37.94
+    },
+    "SE.XPD.TOTL.GD.ZS": {
+      "year": 2023,
+      "value": 6.73
+    }
+  }
+}

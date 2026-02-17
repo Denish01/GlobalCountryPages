@@ -1,0 +1,67 @@
+---
+title: "Utility & Internet Costs in Uganda"
+entity: "Uganda"
+iso_code: "UG"
+continent: "africa"
+angle: "cost-utilities-internet"
+date: "2026-02-17"
+---
+
+# Utility & Internet Costs in Uganda
+
+The cost of utilities and internet in Uganda can vary depending on the location, usage, and provider, but on average, a monthly utility bill for an 85 sqm apartment can range from $50 to $150 USD.
+
+[FACTBOX]
+Monthly Utilities (85 sqm apt): ($100 USD)
+Internet (60 Mbps): ($30 USD/month)
+Mobile Data (10GB): ($10 USD/month)
+Electricity Cost: ($0.15 per kWh)
+Currency: UGX
+[/FACTBOX]
+
+[SECTION] Utility Costs Overview [/SECTION]
+Uganda's utility infrastructure is still developing, with some areas experiencing frequent power outages and water supply disruptions. The cost of utilities can fluctuate depending on the season, with higher demands for electricity and water during the dry seasons. The Uganda Electricity Transmission Company Limited (UETCL) and the National Water and Sewerage Corporation (NWSC) are the main providers of electricity and water services in the country. The costs of utilities are generally stable, but can be affected by factors such as fuel prices, inflation, and government subsidies.
+
+The quality of utility services in Uganda varies depending on the location, with urban areas generally having better access to reliable electricity and water supplies. However, even in urban areas, power outages and water disruptions can occur, and residents often rely on backup generators and water storage tanks. The government has been investing in infrastructure development to improve the quality and reliability of utility services, but more needs to be done to meet the growing demand for energy and water.
+
+[SECTION] Monthly Utility Bills [/SECTION]
+[TABLE]
+| Utility | Small Apt (45 sqm) | Medium Apt (85 sqm) | Large Apt (120 sqm) | Notes |
+| --- | --- | --- | --- | --- |
+| Electricity | $30 | $50 | $70 | Prepaid and postpaid options available |
+| Water | $10 | $15 | $20 | Metered and flat-rate options available |
+| Gas / Heating | $5 | $10 | $15 | LPG and charcoal are commonly used for cooking |
+| Garbage / Municipal | $5 | $10 | $15 | Collected by local authorities, fees vary by location |
+| **Total** | **$50** | **$85** | **$120** |  |
+[/TABLE]
+
+[SECTION] Internet & Phone Plans [/SECTION]
+[TABLE]
+| Service | Monthly Cost (USD) | Speed / Allowance | Provider Examples |
+| --- | --- | --- | --- |
+| Fiber Internet (basic) | $20-30 | 10-20 Mbps | MTN, Airtel, UTL |
+| Fiber Internet (fast) | $50-100 | 50-100 Mbps | MTN, Airtel, UTL |
+| Mobile Data (prepaid) | $5-10 | 1-5 GB | MTN, Airtel, UTL |
+| Mobile Data (postpaid) | $10-20 | 5-10 GB | MTN, Airtel, UTL |
+| Phone + Internet Bundle | $30-50 | varies | MTN, Airtel, UTL |
+[/TABLE]
+
+[SECTION] Streaming & Digital Services [/SECTION]
+[TABLE]
+| Service | Monthly Cost (USD) | Notes |
+| --- | --- | --- |
+| Netflix (standard) | $8 | Available in Uganda, but content may be limited |
+| Spotify (premium) | $10 | Available in Uganda, with a wide range of music |
+| Local Streaming | $5 | Services like Afrostream and Showmax are available |
+[/TABLE]
+
+[SECTION] Utility Tips [/SECTION]
+- To set up utilities, residents typically need to visit the provider's office and provide identification and proof of address.
+- Prepaid electricity meters are widely used in Uganda, allowing residents to control their energy usage and avoid unexpected bills.
+- MTN and Airtel are two of the largest internet and phone service providers in Uganda, offering a range of plans and packages.
+- To save on utility bills, residents can use energy-efficient appliances, harvest rainwater, and use public transport or walk/bike when possible.
+- It's also a good idea to negotiate with providers for the best rates, especially for internet and phone services.
+
+---
+
+*Evergreen reference content. Verify time-sensitive details with official sources.*

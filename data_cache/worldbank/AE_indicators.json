@@ -1,0 +1,22 @@
+{
+  "iso_code": "AE",
+  "fetched_date": "2026-02-17",
+  "indicators": {
+    "NY.GDP.PCAP.PP.CD": {
+      "year": 2024,
+      "value": 79228.74
+    },
+    "FP.CPI.TOTL.ZG": {
+      "year": 2024,
+      "value": 1.66
+    },
+    "SH.XPD.CHEX.PC.CD": {
+      "year": 2023,
+      "value": 2401.52
+    },
+    "SE.XPD.TOTL.GD.ZS": {
+      "year": 2021,
+      "value": 3.89
+    }
+  }
+}

@@ -1,0 +1,68 @@
+---
+title: "Education Costs in Iran"
+entity: "Iran"
+iso_code: "IR"
+continent: "asia"
+angle: "cost-education"
+date: "2026-02-17"
+---
+
+# Education Costs in Iran
+
+The cost of education in Iran varies depending on the type of institution and the student's residency status, with public education being generally free or subsidized, while private and international schools can range from a few hundred to several thousand dollars per year.
+
+[FACTBOX]
+Education Spend (% GDP): 2.8%
+Literacy Rate: 85%
+School System: 12 years of compulsory education
+Academic Year: 10 months
+Currency: IRR
+[/FACTBOX]
+
+[SECTION] Education System Overview [/SECTION]
+Iran's education system is divided into two main categories: public and private. Public education is generally free or subsidized, and the quality can vary depending on the location and availability of resources. Private schools, on the other hand, offer higher quality education but at a higher cost. The language of instruction is primarily **Persian**, but some private schools may offer instruction in other languages such as English. Compulsory education in Iran lasts for 12 years, starting from the age of 6 and ending at the age of 18. International schools are also available in major cities like Tehran, offering curricula such as the **International Baccalaureate** or **Cambridge International Examinations**.
+
+The quality of education in Iran's public schools can be inconsistent, with some schools lacking resources and qualified teachers. However, private schools and international schools generally offer higher quality education, with better facilities and more qualified teachers. Expats and foreigners may prefer to send their children to international schools, which offer a more familiar curriculum and teaching style. Additionally, some private schools in Iran may offer specialized programs such as **STEM education** or **arts programs**, which can be attractive to students with specific interests.
+
+[SECTION] School Fees [/SECTION]
+[TABLE]
+| School Type | Annual Fee (USD) | Notes |
+| --- | --- | --- |
+| Public Primary | $0 (free) | Quality can vary depending on location |
+| Private Primary | $500-$2,000 | Range depends on school tier and location |
+| Public Secondary | $0 (free) | Quality can vary depending on location |
+| Private Secondary | $1,000-$5,000 | Range depends on school tier and location |
+| International School | $5,000-$15,000 | Offers curricula such as IB or CIE |
+[/TABLE]
+
+[SECTION] University Tuition [/SECTION]
+[TABLE]
+| Institution Type | Annual Tuition - Local (USD) | Annual Tuition - International (USD) | Notes |
+| --- | --- | --- | --- |
+| Public University | $100-$500 | $1,000-$2,000 | Tuition fees are generally low for local students |
+| Private University | $2,000-$5,000 | $5,000-$10,000 | Offers specialized programs and better facilities |
+| Top-Ranked University | $1,000-$3,000 | $3,000-$6,000 | Examples include University of Tehran and Sharif University of Technology |
+[/TABLE]
+
+[SECTION] Other Education Costs [/SECTION]
+[TABLE]
+| Item | Cost (USD) | Notes |
+| --- | --- | --- |
+| Preschool / Daycare (monthly) | $50-$200 | Depends on location and quality of care |
+| Private Tutoring (per hour) | $10-$50 | Popular for students who need extra support |
+| Language Course (monthly) | $100-$500 | Offers courses in languages such as English, Arabic, and Turkish |
+| School Supplies (annual) | $50-$200 | Depends on the school and grade level |
+| School Uniform | $20-$100 | Required for most schools |
+[/TABLE]
+
+[SECTION] Education Quality & Tips [/SECTION]
+- The best schools for expats in Iran are often international schools, which offer a more familiar curriculum and teaching style.
+- Scholarship availability is limited in Iran, but some universities may offer scholarships to international students.
+- Online learning options are becoming more popular in Iran, with some universities offering online courses and degree programs.
+- Education quality in Iran can vary depending on the institution and location, but overall it is considered to be relatively high compared to other countries in the region.
+- Expats and foreigners should research schools thoroughly and consider factors such as curriculum, teaching style, and extracurricular activities when choosing a school for their children.
+- It's also important to consider the **cultural and social aspects** of education in Iran, as the country has a unique cultural and social context that may be different from what expats and foreigners are used to.
+
+---
+
+*Evergreen reference content. Verify time-sensitive details with official sources.*

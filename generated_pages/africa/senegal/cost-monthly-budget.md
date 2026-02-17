@@ -1,0 +1,76 @@
+---
+title: "Monthly Budget Guide for Senegal"
+entity: "Senegal"
+iso_code: "SN"
+continent: "africa"
+angle: "cost-monthly-budget"
+date: "2026-02-17"
+---
+
+# Monthly Budget Guide for Senegal
+
+To live in Senegal, you would need approximately $400-$1,200 per month, depending on your lifestyle and preferences.
+
+[FACTBOX]
+GDP per Capita (PPP): $5,071
+Budget Living (monthly): $400
+Mid-Range Living (monthly): $700
+Comfortable Living (monthly): $1,200
+Average Local Salary: $250
+Currency: XOF
+[/FACTBOX]
+
+[SECTION] Cost of Living Overview [/SECTION]
+Senegal is a relatively affordable country to live in, with a GDP per capita (PPP) of $5,071. The cost of living in Senegal is lower compared to many other countries in West Africa, making it an attractive destination for expats, digital nomads, and travelers. With a budget of $400 per month, you can live a simple life, sharing an apartment with others and cooking most of your meals. A mid-range budget of $700 per month would allow you to live more comfortably, with a one-bedroom apartment in the city center and the ability to eat out occasionally. A comfortable budget of $1,200 per month would provide a high standard of living, with a nice two-bedroom apartment, regular dining out, and access to private healthcare.
+
+The cost of living in Senegal is comparable to its neighboring countries, such as Guinea and Guinea-Bissau. However, it is more expensive than The Gambia and less expensive than Mauritania. Overall, Senegal offers a great balance of affordability and quality of life, making it an excellent choice for those looking to live in West Africa. The country's relatively low cost of living, combined with its rich culture and beautiful landscapes, makes it an attractive destination for travelers and expats alike.
+
+[SECTION] Monthly Budget Breakdown [/SECTION]
+[TABLE]
+| Category | Budget ($) | Mid-Range ($) | Comfortable ($) | Notes |
+| --- | --- | --- | --- | --- |
+| Rent (1BR apartment) | 100 | 250 | 400 | (budget=shared/outside, mid=1BR center, comfortable=nice 2BR) |
+| Food & Groceries | 100 | 150 | 250 | (budget=cook mostly, mid=mix, comfortable=eat out often) |
+| Transportation | 20 | 50 | 100 | (budget=public only, mid=mix, comfortable=taxi/car) |
+| Utilities & Internet | 30 | 50 | 80 | (electricity, water, internet, phone) |
+| Healthcare / Insurance | 20 | 50 | 100 | (budget=public only, comfortable=private) |
+| Entertainment & Social | 50 | 100 | 200 | (going out, hobbies, gym) |
+| Clothing & Personal | 20 | 30 | 50 | |
+| Savings / Misc | 60 | 100 | 200 | |
+| **Total** | **400** | **700** | **1,200** | |
+[/TABLE]
+
+[SECTION] Budget Tier Lifestyles [/SECTION]
+At the budget level of $400 per month, daily life in Senegal would be simple and rustic. You would likely share a small apartment with others outside of the city center and cook most of your meals. You would rely on public transportation, which is affordable and readily available, but not always comfortable. You would have limited access to entertainment and social activities, and your wardrobe would be basic. However, you would still be able to experience the vibrant culture and beautiful landscapes of Senegal, and with some careful planning, you could even save some money.
+
+At the mid-range level of $700 per month, daily life in Senegal would be more comfortable. You would have a one-bedroom apartment in the city center, and you would be able to eat out occasionally at local restaurants. You would have more access to entertainment and social activities, such as going to the beach or attending cultural events. You would also be able to afford some hobbies, such as playing sports or taking language classes. However, you would still need to be mindful of your expenses, and you would not be able to afford luxuries such as a car or private healthcare.
+
+At the comfortable level of $1,200 per month, daily life in Senegal would be very pleasant. You would have a nice two-bedroom apartment in a desirable neighborhood, and you would be able to dine out regularly at high-end restaurants. You would have access to private healthcare and would be able to afford luxuries such as a car and driver. You would also be able to travel regularly, both within Senegal and to other countries in the region. You would have a wide range of entertainment and social activities to choose from, and you would be able to pursue your hobbies and interests without worrying about the cost.
+
+[SECTION] Cost Comparison by City [/SECTION]
+[TABLE]
+| City | Rent (1BR) | Food (monthly) | Transport | Overall Level |
+| --- | --- | --- | --- | --- |
+| Dakar | 250 | 150 | 50 | Expensive |
+| Saint-Louis | 150 | 100 | 20 | Moderate |
+| Ziguinchor | 100 | 80 | 10 | Cheap |
+[/TABLE]
+
+[SECTION] Money-Saving Strategies [/SECTION]
+- Learn to cook Senegalese dishes, which are delicious and affordable
+- Use public transportation, which is cheap and efficient
+- Shop at local markets, where you can find fresh produce and other essentials at low prices
+- Avoid eating at tourist restaurants, which are often overpriced
+- Consider sharing an apartment with others to reduce rent costs
+- Take advantage of free cultural events and activities, such as concerts and festivals
+- Learn some French and Wolof, which will help you navigate everyday life and avoid tourist traps
+- Avoid exchanging money at airports or hotels, where the rates are often poor
+
+[SECTION] Is Senegal Affordable? [/SECTION]
+Senegal is an affordable country for digital nomads, retirees, and students, who can live comfortably on a budget of $400-$700 per month. The country offers a great balance of affordability and quality of life, with a wide range of cultural and recreational activities to enjoy. However, for families or those with high expectations for luxury and comfort, Senegal may be more expensive than expected. The cost of living in Dakar, the capital city, is particularly high, and the availability of certain amenities and services may be limited.
+
+Overall, Senegal is a great choice for those looking for an affordable and culturally rich experience in West Africa. With some careful planning and budgeting, you can live a comfortable and fulfilling life in Senegal, even on a limited budget. The country's welcoming people, beautiful landscapes, and vibrant culture make it an attractive destination for travelers and expats alike. However, it's essential to be aware of the potential challenges and limitations of living in Senegal, such as the occasional power outages and limited access to certain amenities, and to plan accordingly.
+
+---
+
+*Evergreen reference content. Verify time-sensitive details with official sources.*

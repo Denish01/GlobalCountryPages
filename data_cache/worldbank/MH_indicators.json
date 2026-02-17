@@ -1,0 +1,22 @@
+{
+  "iso_code": "MH",
+  "fetched_date": "2026-02-17",
+  "indicators": {
+    "NY.GDP.PCAP.PP.CD": {
+      "year": 2024,
+      "value": 8194.64
+    },
+    "SH.XPD.CHEX.PC.CD": {
+      "year": 2023,
+      "value": 894.22
+    },
+    "SH.XPD.OOPC.CH.ZS": {
+      "year": 2023,
+      "value": 1.05
+    },
+    "SE.XPD.TOTL.GD.ZS": {
+      "year": 2022,
+      "value": 7.7
+    }
+  }
+}

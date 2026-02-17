@@ -1,0 +1,75 @@
+---
+title: "Healthcare Costs in Bonaire"
+entity: "Bonaire"
+iso_code: "BQ"
+continent: "north-america"
+angle: "cost-healthcare"
+date: "2026-02-17"
+---
+
+# Healthcare Costs in Bonaire
+
+The cost of healthcare in Bonaire can vary significantly depending on whether you choose public or private services, with public healthcare generally being more affordable but sometimes limited in its offerings, while private healthcare provides more comprehensive services at a higher cost.
+
+[FACTBOX]
+Health Expenditure per Capita: $1,433
+Out-of-Pocket Spend: 23%
+Healthcare System: Mixed
+Emergency Number: 911
+Insurance Required: Recommended
+Currency: USD
+[/FACTBOX]
+
+[SECTION] Healthcare System Overview [/SECTION]
+Bonaire's healthcare system is a mixed model, combining elements of public and private healthcare. The public healthcare system is generally of good quality and is available to all residents, including foreigners who are registered with the local authorities. However, the public system may have limited specialized care and longer waiting times compared to private facilities. For foreigners, it is recommended to have private health insurance to access more comprehensive and timely care. Locals, on the other hand, can access public healthcare services, which are generally more affordable. The quality of care in both public and private sectors is good, but private facilities tend to offer more modern equipment and a wider range of specialized services.
+
+The healthcare system in Bonaire is overseen by the Ministry of Health, which ensures that all healthcare providers meet certain standards of quality and care. Both public and private healthcare providers are available on the island, with the public hospital, Hospital San Francisco, providing emergency and general medical care, and several private clinics offering specialized services. For those who can afford it, private health insurance is a good option to ensure access to the best available care, both in Bonaire and abroad, as some private insurance plans may cover medical evacuations to other countries if necessary.
+
+[SECTION] Medical Visit Costs [/SECTION]
+[TABLE]
+| Service | Public (USD) | Private (USD) | Notes |
+| --- | --- | --- | --- |
+| GP / Doctor Visit | $20-$50 | $50-$100 | |
+| Specialist Consultation | $50-$100 | $100-$200 | |
+| Dental Checkup | $30-$50 | $50-$100 | |
+| Eye Exam | $20-$30 | $30-$50 | |
+| Blood Test (basic panel) | $10-$20 | $20-$50 | |
+[/TABLE]
+
+[SECTION] Hospital & Procedure Costs [/SECTION]
+[TABLE]
+| Procedure | Cost Range (USD) | Notes |
+| --- | --- | --- |
+| Emergency Room Visit | $50-$200 | |
+| Hospital Stay (per night) | $200-$500 | |
+| Basic Surgery | $1,000-$3,000 | |
+| Childbirth (normal delivery) | $1,500-$3,500 | |
+| MRI Scan | $500-$1,000 | |
+| X-Ray | $20-$50 | |
+[/TABLE]
+
+[SECTION] Health Insurance [/SECTION]
+[TABLE]
+| Coverage Type | Monthly Cost (USD) | What It Covers |
+| --- | --- | --- |
+| Basic Local Insurance | $50-$100 | Doctor visits, hospital stays, basic procedures |
+| Comprehensive Private | $200-$500 | All medical services, including specialized care and evacuations |
+| International / Expat | $300-$1,000 | Global coverage, including medical evacuations and repatriation |
+[/TABLE]
+
+[SECTION] Pharmacy & Medication Costs [/SECTION]
+- Prescription medication can cost between $10-$50 per month, depending on the type and brand.
+- Over-the-counter medications are widely available at local pharmacies.
+- Some pharmacies may offer discounts for bulk purchases or loyalty programs.
+- Prescription rules are generally similar to those in the United States, with some medications requiring a doctor's prescription.
+- Pharmacy availability is good, with several pharmacies located in Kralendijk and other major towns.
+- Common medications such as pain relievers and antihistamines can be found at most pharmacies.
+
+[SECTION] Emergency Care [/SECTION]
+In case of a medical emergency, dial 911 to reach the emergency services. Ambulance services are available, and emergency rooms are equipped to handle most urgent cases. For foreigners, it is recommended to have private health insurance that covers emergency medical evacuations, as some specialized care may not be available on the island. The best hospitals for foreigners are the private clinics, which offer more comprehensive and modern facilities, as well as English-speaking staff. However, in life-threatening emergencies, patients are often taken to the public hospital, Hospital San Francisco, which provides emergency care and stabilization before potentially transferring patients to a private facility or off-island for further treatment.
+
+For non-life-threatening emergencies, foreigners can visit one of the private clinics, which often have more flexible hours and can provide more immediate attention. It is also a good idea to research and identify the nearest hospital or clinic to your location, as well as to have a plan in place for emergency situations, including knowing how to contact emergency services and having a means of transportation to the hospital. Additionally, carrying a list of important phone numbers, including your insurance provider and emergency contacts, can be helpful in case of an emergency.
+
+---
+
+*Evergreen reference content. Verify time-sensitive details with official sources.*

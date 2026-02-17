@@ -1,0 +1,14 @@
+{
+  "iso_code": "TC",
+  "fetched_date": "2026-02-17",
+  "indicators": {
+    "NY.GDP.PCAP.PP.CD": {
+      "year": 2024,
+      "value": 37954.39
+    },
+    "SE.XPD.TOTL.GD.ZS": {
+      "year": 2024,
+      "value": 2.95
+    }
+  }
+}

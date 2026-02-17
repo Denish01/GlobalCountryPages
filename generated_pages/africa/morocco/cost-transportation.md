@@ -1,0 +1,76 @@
+---
+title: "Transportation Costs in Morocco"
+entity: "Morocco"
+iso_code: "MA"
+continent: "africa"
+angle: "cost-transportation"
+date: "2026-02-17"
+---
+
+# Transportation Costs in Morocco
+
+The cost of transportation in Morocco can vary depending on the mode of transport, with a monthly transit pass costing around $25 USD and a taxi start rate of approximately $1.70 USD.
+
+[FACTBOX]
+Monthly Transit Pass: ($25 USD)
+Taxi Start Rate: ($1.70 USD)
+Fuel (per liter): ($1.20 USD)
+Ride-Hailing Available: (Yes — InDriver, Careem)
+Currency: MAD
+[/FACTBOX]
+
+[SECTION] Getting Around Overview [/SECTION]
+Morocco has a well-developed transportation network, with a range of options available for getting around, including buses, taxis, trains, and ride-hailing services. The quality of public transit is generally good, with modern buses and trains connecting major cities. Most people in Morocco get around using a combination of public transportation and taxis, with many also opting to use ride-hailing services, which are widely available in major cities.
+
+In larger cities like Marrakech and Casablanca, the public transportation system is more extensive, with a network of buses and trams that make it easy to get around. However, in smaller towns and rural areas, transportation options may be more limited, and taxis or ride-hailing services may be the best option. Additionally, Morocco's transportation network is also well-connected to other countries in the region, with buses and trains linking major cities to neighboring countries like Algeria and Spain.
+
+[SECTION] Public Transportation [/SECTION]
+[TABLE]
+| Transport Type | Single Fare (USD) | Monthly Pass (USD) | Notes |
+| --- | --- | --- | --- |
+| City Bus | $0.60 | $15 | Good coverage in major cities |
+| Metro / Subway | $0.80 | $20 | Available in Casablanca and Rabat |
+| Minibus / Shared Taxi | $1.20 | N/A | Connects smaller towns and rural areas |
+| Commuter Train | $2.50-$5.00 | $30 | Links major cities like Marrakech and Casablanca |
+[/TABLE]
+
+[SECTION] Taxi & Ride-Hailing [/SECTION]
+[TABLE]
+| Service | Base Fare (USD) | Per km (USD) | Typical City Ride (USD) | Notes |
+| --- | --- | --- | --- | --- |
+| Metered Taxi | $1.70 | $0.25 | $5.00-$10.00 | Be sure to agree on fare before starting journey |
+| Ride-Hailing App | $2.00 | $0.20 | $5.00-$10.00 | InDriver and Careem are popular options |
+| Airport Transfer | N/A | N/A | $20.00-$30.00 | To city center from major airports |
+[/TABLE]
+
+[SECTION] Fuel & Driving Costs [/SECTION]
+[TABLE]
+| Item | Cost (USD) | Notes |
+| --- | --- | --- |
+| Gasoline (per liter) | $1.20 | Prices may vary depending on location |
+| Diesel (per liter) | $1.10 | Prices may vary depending on location |
+| Car Rental (per day) | $40-$60 | Economy car, prices may vary depending on location and rental company |
+| Parking (per hour, city) | $2.00-$5.00 | Prices may vary depending on location |
+| Toll Roads (typical) | $5.00-$10.00 | Prices may vary depending on route and location |
+[/TABLE]
+
+[SECTION] Intercity & Long-Distance [/SECTION]
+[TABLE]
+| Route Type | Cost Range (USD) | Notes |
+| --- | --- | --- |
+| Intercity Bus (4-5 hrs) | $10.00-$20.00 | Companies like CTM and Fes Bus offer services |
+| Domestic Flight | $50.00-$100.00 | Royal Air Maroc and Air Arabia offer domestic flights |
+| Train (long-distance) | $20.00-$50.00 | ONCF offers train services linking major cities |
+[/TABLE]
+
+[SECTION] Transport Tips [/SECTION]
+- To save money on transportation, consider purchasing a monthly transit pass or using ride-hailing services.
+- Download ride-hailing apps like InDriver and Careem to get around major cities.
+- Always agree on the fare with the taxi driver before starting your journey.
+- Be aware of your surroundings and keep an eye on your belongings, especially in crowded areas.
+- Consider renting a car for longer trips or for exploring rural areas.
+- Learn some basic Arabic phrases, such as "hello" (as-salamu alaykum) and "thank you" (shukraan), to help you navigate transportation options and interact with locals.
+
+---
+
+*Evergreen reference content. Verify time-sensitive details with official sources.*

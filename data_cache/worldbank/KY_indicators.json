@@ -1,0 +1,14 @@
+{
+  "iso_code": "KY",
+  "fetched_date": "2026-02-17",
+  "indicators": {
+    "NY.GDP.PCAP.PP.CD": {
+      "year": 2023,
+      "value": 88427.79
+    },
+    "SE.XPD.TOTL.GD.ZS": {
+      "year": 2023,
+      "value": 1.57
+    }
+  }
+}

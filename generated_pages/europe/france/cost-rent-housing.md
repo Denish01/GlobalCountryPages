@@ -1,0 +1,65 @@
+---
+title: "Rent & Housing Prices in France"
+entity: "France"
+iso_code: "FR"
+continent: "europe"
+angle: "cost-rent-housing"
+date: "2026-02-17"
+---
+
+# Rent & Housing Prices in France
+
+The cost of rent in France varies depending on the location, with average monthly rents ranging from $800 to $2,000 USD (approximately 700-1,800 EUR) for a one-bedroom apartment in the city center, while housing prices can range from $5,000 to $15,000 USD (approximately 4,500-13,500 EUR) per square meter in prime locations.
+
+[FACTBOX]
+GDP per Capita (PPP): $62,557
+Affordability Rating: Expensive
+Average Monthly Rent (1BR, City Center): $1,200 USD / 1,100 EUR
+Average Monthly Rent (1BR, Outside Center): $800 USD / 700 EUR
+Property Purchase (per sqm, City Center): $10,000 USD
+Currency: EUR
+[/FACTBOX]
+
+[SECTION] Housing Market Overview [/SECTION]
+The rental market in France is highly competitive, especially in large cities like Paris, where demand often exceeds supply. Typical lease terms range from 1-3 years, with a deposit of 1-2 months' rent required. Tenant rights are well-protected in France, with laws governing rent increases, eviction notices, and maintenance responsibilities. Compared to regional neighbors, France's housing costs are generally higher, with cities like Paris and Lyon ranking among the most expensive in Europe. However, the country's strong economy, high standard of living, and rich cultural heritage make it an attractive destination for expats and international students.
+
+The French government has implemented various initiatives to address the housing shortage and affordability issues, including rent control measures, subsidies for low-income households, and investments in social housing programs. Despite these efforts, the housing market remains tight, and renters should be prepared to act quickly when finding a suitable apartment. It's also essential to understand the local customs and regulations, such as the requirement for a guarantor (caution) and the need to register with the local authorities.
+
+[SECTION] Apartment Rental Prices [/SECTION]
+[TABLE]
+| Apartment Type | City Center (USD/month) | Outside Center (USD/month) | Notes |
+| --- | --- | --- | --- |
+| Studio / Bedsitter | $900-$1,400 | $600-$1,000 | typical quality, 20-30 sqm |
+| 1 Bedroom | $1,200-$1,800 | $800-$1,400 | what to expect, 30-50 sqm |
+| 2 Bedroom | $1,800-$2,800 | $1,200-$2,200 | family size, 50-80 sqm |
+| 3 Bedroom | $2,500-$4,000 | $1,800-$3,200 | spacious, 80-120 sqm |
+[/TABLE]
+
+[SECTION] Property Purchase Prices [/SECTION]
+[TABLE]
+| Area Type | Price per sqm (USD) | Notes |
+| --- | --- | --- |
+| City Center | $10,000-$15,000 | prime locations, historic districts |
+| Suburbs | $6,000-$10,000 | residential areas, family-friendly |
+| Rural | $3,000-$6,000 | countryside, village locations |
+[/TABLE]
+
+[SECTION] Best Neighborhoods for Expats [/SECTION]
+- **Le Marais** in Paris: $1,500-$2,500 USD/month for a 1-bedroom apartment, known for its trendy bars, restaurants, and historic landmarks.
+- **La Défense** in Paris: $1,200-$2,000 USD/month for a 1-bedroom apartment, a major business district with modern amenities and easy access to public transportation.
+- **Vieux Lyon** in Lyon: $800-$1,500 USD/month for a 1-bedroom apartment, a historic neighborhood with cobblestone streets, charming cafes, and a vibrant cultural scene.
+- **Montmartre** in Paris: $1,200-$2,000 USD/month for a 1-bedroom apartment, a bohemian neighborhood with stunning views, artist studios, and a lively nightlife.
+- **Bellecour** in Lyon: $900-$1,800 USD/month for a 1-bedroom apartment, a central neighborhood with beautiful parks, upscale shopping, and a variety of restaurants.
+
+[SECTION] Renter Tips for France [/SECTION]
+- Research neighborhoods thoroughly to find the best fit for your lifestyle and budget.
+- Work with a reputable real estate agent or property manager to navigate the rental market.
+- Be prepared to provide extensive documentation, including proof of income, employment, and rental history.
+- Negotiate the rent and lease terms carefully, and consider hiring a lawyer to review the contract.
+- Check if utilities, such as electricity, water, and internet, are included in the rent or separate.
+- **Furnished** apartments are common in France, but **unfurnished** options are also available, so clarify the terms before signing the lease.
+- [CALLOUT] Be cautious of scams and fake listings, and never send money or sign a contract without visiting the property in person.
+
+---
+
+*Evergreen reference content. Verify time-sensitive details with official sources.*

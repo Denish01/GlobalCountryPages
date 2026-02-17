@@ -1,0 +1,74 @@
+---
+title: "Food & Grocery Prices in Cameroon"
+entity: "Cameroon"
+iso_code: "CM"
+continent: "africa"
+angle: "cost-food-groceries"
+date: "2026-02-17"
+---
+
+# Food & Grocery Prices in Cameroon
+
+The cost of food in Cameroon can vary greatly depending on the location, type of cuisine, and whether you are eating out or preparing meals at home, with a meal at an inexpensive restaurant costing around $3-$5 USD.
+
+[FACTBOX]
+Meal at Inexpensive Restaurant: ($3-$5 USD)
+Meal for 2 at Mid-Range Restaurant: ($15-$25 USD)
+Monthly Grocery Budget (1 person): ($100-$200 USD)
+Local Beer (500ml): ($2-$3 USD)
+Currency: XAF
+[/FACTBOX]
+
+[SECTION] Food Costs Overview [/SECTION]
+Food prices in Cameroon are generally higher than in other countries in the region, due to the country's landlocked position and reliance on imported goods. The inflation rate of 4.5% in 2024 also contributes to the increasing cost of food. However, the **eating-out culture** in Cameroon is not as prevalent as in other countries, and many people prefer to prepare meals at home using fresh ingredients from local markets. This is partly due to the fact that **home cooking** allows for more control over the quality and cost of ingredients, as well as the ability to prepare traditional dishes that are often more affordable than restaurant meals.
+
+The cost of food in Cameroon can also vary depending on the location, with cities like Yaounde and Douala tend to have higher prices than smaller towns and rural areas. Additionally, the **local currency**, XAF, can fluctuate in value, affecting the cost of imported goods and overall food prices. To navigate these costs, it's essential to understand the local market and economy, as well as the various options for dining out and preparing meals at home.
+
+[SECTION] Grocery Prices [/SECTION]
+[TABLE]
+| Item | Price (USD) | Local Price | Notes |
+| --- | --- | --- | --- |
+| Milk (1 liter) | $1.50 | 900 XAF | |
+| Bread (white loaf) | $1.20 | 750 XAF | |
+| Eggs (dozen) | $2.00 | 1,200 XAF | |
+| Rice (1 kg) | $1.80 | 1,100 XAF | |
+| Chicken breast (1 kg) | $6.00 | 3,600 XAF | |
+| Beef (1 kg) | $10.00 | 6,000 XAF | |
+| Apples (1 kg) | $3.50 | 2,100 XAF | |
+| Tomatoes (1 kg) | $1.50 | 900 XAF | |
+| Potatoes (1 kg) | $1.20 | 750 XAF | |
+| Onions (1 kg) | $1.00 | 600 XAF | |
+| Local cheese (1 kg) | $8.00 | 4,800 XAF | |
+| Water (1.5L bottle) | $1.00 | 600 XAF | |
+[/TABLE]
+
+[SECTION] Restaurant Prices [/SECTION]
+[TABLE]
+| Meal Type | Price Range (USD) | Notes |
+| --- | --- | --- |
+| Street Food / Local Eatery | $2-$5 | (typical dishes like **jollof rice** and **fufu**) |
+| Casual Restaurant | $5-$10 | (one person, **Western-style** cuisine) |
+| Mid-Range Restaurant (2 people) | $15-$30 | (3 courses, **local and international** cuisine) |
+| Fine Dining (2 people) | $30-$50 | (upscale, **high-end** cuisine) |
+| Local Beer (draft, 500ml) | $2-$3 | |
+| Imported Beer (330ml) | $4-$6 | |
+| Cappuccino | $2-$4 | |
+| Soft Drink (can) | $1-$2 | |
+[/TABLE]
+
+[SECTION] Supermarket vs Local Market [/SECTION]
+The prices of groceries can vary significantly between **supermarkets** and **local markets** in Cameroon. Supermarkets tend to have higher prices due to the cost of importation and storage, while local markets offer more affordable options for fresh produce and traditional ingredients. For example, a kilogram of **tomatoes** may cost $1.50 at a supermarket, but only $1.00 at a local market. When shopping at local markets, it's essential to **bargain** and negotiate prices, as this is a common practice in Cameroon.
+
+When deciding where to shop, consider the type of ingredients you need and the level of convenience you require. Supermarkets often have a wider selection of imported goods and Western-style products, while local markets offer a more authentic and affordable shopping experience. For **fresh produce**, local markets are often the best option, while supermarkets may be more convenient for **packaged goods** and **household items**.
+
+[SECTION] Local Food Tips [/SECTION]
+- The cheapest way to eat in Cameroon is to prepare meals at home using **local ingredients** and **traditional recipes**.
+- **Fufu** and **jollof rice** are staple dishes that are often affordable and delicious.
+- **Fresh produce** is generally cheaper at local markets than at supermarkets.
+- **Avoid buying imported goods**, as they can be expensive and may not be as fresh as local alternatives.
+- Consider **shopping in bulk** and **buying in season** to reduce costs and support local farmers.
+- **Eat at local eateries** and **street food stalls** for an affordable and authentic dining experience.
+
+---
+
+*Evergreen reference content. Verify time-sensitive details with official sources.*

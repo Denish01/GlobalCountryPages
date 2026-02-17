@@ -1,0 +1,89 @@
+---
+title: "Cost of Living: South Sudan vs Uganda — Price Comparison"
+entity: "South Sudan"
+iso_code: "SS"
+continent: "africa"
+angle: "cost-compare-uganda"
+date: "2026-02-17"
+---
+
+# Cost of Living: South Sudan vs Uganda — Price Comparison
+
+South Sudan is generally more expensive than Uganda, with a difference of around 20-30% in overall cost of living.
+
+[FACTBOX]
+South Sudan GDP per Capita (PPP): 1,144
+Uganda GDP per Capita (PPP): 2,352
+South Sudan Inflation Rate: 36.8%
+Uganda Inflation Rate: 4.2%
+Overall Winner (Cheaper): Uganda
+[/FACTBOX]
+
+[SECTION] Overview: South Sudan vs Uganda [/SECTION]
+South Sudan and Uganda are two neighboring countries in East Africa with distinct economic profiles. South Sudan is one of the world's youngest nations, having gained independence in 2011, and its economy has been heavily reliant on oil exports. However, the country has faced significant challenges, including a civil war and economic instability, which have contributed to a high cost of living. In contrast, Uganda has a more diversified economy, with a strong focus on agriculture, manufacturing, and tourism, which has helped to keep costs relatively lower. Overall, Uganda is generally cheaper than South Sudan, with a difference of around 20-30% in overall cost of living.
+
+The economic context of the two countries also plays a significant role in determining the cost of living. South Sudan's economy has been heavily affected by the decline in oil prices, which has led to a significant reduction in government revenue and a subsequent increase in prices. In contrast, Uganda's economy has been more resilient, with a growing services sector and a stable agricultural sector, which has helped to keep prices relatively stable. As a result, Uganda is generally a more affordable option for expats, students, and retirees, while South Sudan is more suitable for those with higher budgets or who are working in the oil and gas industry.
+
+[SECTION] Rent & Housing Comparison [/SECTION]
+[TABLE]
+| Item | South Sudan (USD) | Uganda (USD) | Difference |
+| --- | --- | --- | --- |
+| 1BR Apartment (City Center) | 1,200 | 800 | 33% more expensive |
+| 1BR Apartment (Outside) | 800 | 500 | 37% more expensive |
+| 3BR Apartment (City Center) | 2,500 | 1,800 | 28% more expensive |
+[/TABLE]
+
+[SECTION] Food & Dining Comparison [/SECTION]
+[TABLE]
+| Item | South Sudan (USD) | Uganda (USD) | Difference |
+| --- | --- | --- | --- |
+| Meal at Restaurant | 15 | 10 | 33% more expensive |
+| Groceries (monthly) | 150 | 100 | 33% more expensive |
+| Beer (500ml) | 5 | 3 | 40% more expensive |
+| Coffee | 3 | 2 | 33% more expensive |
+[/TABLE]
+
+[SECTION] Transport Comparison [/SECTION]
+[TABLE]
+| Item | South Sudan (USD) | Uganda (USD) | Difference |
+| --- | --- | --- | --- |
+| Monthly Transit Pass | 50 | 30 | 40% more expensive |
+| Taxi (per km) | 1.50 | 1.00 | 33% more expensive |
+| Fuel (per liter) | 1.20 | 0.80 | 33% more expensive |
+[/TABLE]
+
+[SECTION] Utilities & Internet Comparison [/SECTION]
+[TABLE]
+| Item | South Sudan (USD) | Uganda (USD) | Difference |
+| --- | --- | --- | --- |
+| Utilities (85 sqm apt) | 150 | 100 | 33% more expensive |
+| Internet (60 Mbps) | 100 | 50 | 50% more expensive |
+| Mobile Plan | 20 | 15 | 25% more expensive |
+[/TABLE]
+
+[SECTION] Monthly Budget Comparison [/SECTION]
+[TABLE]
+| Budget Tier | South Sudan (USD) | Uganda (USD) | Savings |
+| --- | --- | --- | --- |
+| Budget | 1,500 | 1,000 | 33% |
+| Mid-Range | 2,500 | 1,800 | 28% |
+| Comfortable | 4,000 | 2,800 | 29% |
+[/TABLE]
+
+[SECTION] Where Each Country Wins [/SECTION]
+- **South Sudan is cheaper for:**
+- High-end shopping: South Sudan has a limited but high-end shopping scene, with prices comparable to those in Western countries.
+- Luxury hotels: South Sudan has a limited number of high-end hotels, but they offer luxurious amenities and services at prices comparable to those in other African countries.
+- Private education: South Sudan has a limited number of private schools, but they offer high-quality education at prices comparable to those in other African countries.
+- **Uganda is cheaper for:**
+- Accommodation: Uganda has a wide range of accommodation options, from budget-friendly guesthouses to luxury hotels, at prices significantly lower than those in South Sudan.
+- Food: Uganda has a vibrant food scene, with a wide range of local and international cuisine options at prices significantly lower than those in South Sudan.
+- Transportation: Uganda has a well-developed public transportation system, with prices significantly lower than those in South Sudan.
+- Utilities: Uganda has a more developed infrastructure, with lower prices for utilities such as electricity, water, and internet.
+
+[SECTION] Bottom Line [/SECTION]
+Uganda is generally the better option for those looking for an affordable lifestyle in East Africa. With a wide range of accommodation options, a vibrant food scene, and a well-developed public transportation system, Uganda offers a great balance of quality and affordability. However, South Sudan may be more suitable for those with higher budgets or who are working in the oil and gas industry. Expats, students, and retirees may find that Uganda offers better value for money, with a lower cost of living and a wider range of amenities and services. Ultimately, the choice between South Sudan and Uganda will depend on individual preferences and priorities, but Uganda is generally the more affordable option.
+
+---
+
+*Evergreen reference content. Verify time-sensitive details with official sources.*

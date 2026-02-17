@@ -1,0 +1,70 @@
+---
+title: "Education Costs in Niue"
+entity: "Niue"
+iso_code: "NU"
+continent: "oceania"
+angle: "cost-education"
+date: "2026-02-17"
+---
+
+# Education Costs in Niue
+
+The cost of education in Niue varies depending on the type of school and institution, with public schools being generally free or subsidized, while private and international schools can range from $1,000 to $10,000 per year.
+
+[FACTBOX]
+Education Spend (% GDP): 8.1
+Literacy Rate: 95
+School System: 6 years of compulsory education
+Academic Year: 10 months
+Currency: NZD
+[/FACTBOX]
+
+[SECTION] Education System Overview [/SECTION]
+The education system in Niue is based on the New Zealand curriculum, with **English** being the primary language of instruction. Public schools in Niue are generally considered to provide a good quality education, with a strong focus on **literacy** and **numeracy**. There are six years of compulsory education in Niue, which typically starts at the age of five and ends at the age of 11. After completing primary school, students can attend secondary school, which is also free or subsidized.
+
+The quality of public education in Niue is generally good, with a strong focus on **community involvement** and **cultural heritage**. However, there are limited options for private and international schools, with only a few schools offering alternative curricula such as the **International Baccalaureate**. Despite this, Niue's education system is well-regarded in the region, with a strong emphasis on **academic achievement** and **personal development**.
+
+[SECTION] School Fees [/SECTION]
+[TABLE]
+| School Type | Annual Fee (USD) | Notes |
+| --- | --- | --- |
+| Public Primary | $0 (free) | High-quality education, limited resources |
+| Private Primary | $1,000-$3,000 | Small class sizes, individualized attention |
+| Public Secondary | $0 (free) | Good quality education, some extracurricular activities |
+| Private Secondary | $2,000-$5,000 | Better resources, more extracurricular activities |
+| International School | $5,000-$10,000 | IB curriculum, international student body |
+[/TABLE]
+
+[SECTION] University Tuition [/SECTION]
+As Niue does not have any universities, students typically travel to New Zealand or other countries to pursue higher education. However, there are some **distance learning** and **online courses** available, which can be more affordable.
+
+[TABLE]
+| Institution Type | Annual Tuition - Local (USD) | Annual Tuition - International (USD) | Notes |
+| --- | --- | --- | --- |
+| Public University (in NZ) | $5,000-$10,000 | $15,000-$25,000 | Limited scholarships available |
+| Private University (in NZ) | $10,000-$20,000 | $20,000-$30,000 | More expensive, better resources |
+| Top-Ranked University (in NZ) | $15,000-$25,000 | $25,000-$35,000 | High-quality education, competitive entry |
+[/TABLE]
+
+[SECTION] Other Education Costs [/SECTION]
+[TABLE]
+| Item | Cost (USD) | Notes |
+| --- | --- | --- |
+| Preschool / Daycare (monthly) | $100-$300 | Limited availability, high demand |
+| Private Tutoring (per hour) | $20-$50 | Limited availability, variable quality |
+| Language Course (monthly) | $50-$100 | Limited options, mostly English language courses |
+| School Supplies (annual) | $50-$100 | Basic supplies, limited availability |
+| School Uniform | $20-$50 | Simple uniform, limited options |
+[/TABLE]
+
+[SECTION] Education Quality & Tips [/SECTION]
+- The best schools for expats in Niue are typically the private and international schools, which offer a more **Western-style education** and better resources.
+- There are limited **scholarship opportunities** available for Niuean students, but some organizations offer **financial aid** and **grants**.
+- Online learning options are becoming more popular in Niue, with many students taking **distance learning courses** to supplement their education.
+- The education quality in Niue is generally good, but can vary depending on the school and resources available.
+- Expats and international students may find it difficult to adjust to the **Pacific Island culture** and **language**, but there are many resources available to help with the transition.
+- The **New Zealand Qualifications Authority** (NZQA) is responsible for overseeing the education system in Niue, ensuring that schools meet certain standards and requirements.
+
+---
+
+*Evergreen reference content. Verify time-sensitive details with official sources.*

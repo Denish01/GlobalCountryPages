@@ -1,0 +1,68 @@
+---
+title: "Education Costs in Colombia"
+entity: "Colombia"
+iso_code: "CO"
+continent: "south-america"
+angle: "cost-education"
+date: "2026-02-17"
+---
+
+# Education Costs in Colombia
+
+The cost of education in Colombia varies significantly depending on the type of institution, with public schools being generally free or subsidized, while private schools and international institutions can range from a few hundred to several thousand dollars per year.
+
+[FACTBOX]
+Education Spend (% GDP): 5.3% (2020)
+Literacy Rate: 95%
+School System: 11 years of compulsory education
+Academic Year: 10 months
+Currency: COP
+[/FACTBOX]
+
+[SECTION] Education System Overview [/SECTION]
+Colombia's education system is divided into public and private institutions, with the former being generally free or subsidized, but often lacking in resources and quality compared to the latter. The language of instruction is **Spanish**, and compulsory education lasts for 11 years, from primary to secondary school. While public schools are accessible to all, they often struggle with overcrowding, outdated materials, and limited resources, which can impact the quality of education. On the other hand, private schools and international institutions offer a higher level of quality, but at a significantly higher cost.
+
+International schools are available in major cities like **Bogota**, **Medellin**, and **Cali**, offering a range of curricula, including **International Baccalaureate**, **British**, and **American** systems. These institutions cater to expatriate families and Colombian students seeking a high-quality, international education. However, the cost of attending an international school can be prohibitively expensive for many Colombian families, with annual fees ranging from $2,000 to $10,000 or more.
+
+[SECTION] School Fees [/SECTION]
+[TABLE]
+| School Type | Annual Fee (USD) | Notes |
+| --- | --- | --- |
+| Public Primary | $0 (free) | Quality can vary, but generally good for basic education |
+| Private Primary | $800-$2,500 | Range depends on school tier and location |
+| Public Secondary | $0 (free) | Quality can be inconsistent, with some schools lacking resources |
+| Private Secondary | $1,500-$4,000 | Range depends on school tier and location |
+| International School | $2,000-$10,000 | Curriculum types include IB, British, and American systems |
+[/TABLE]
+
+[SECTION] University Tuition [/SECTION]
+[TABLE]
+| Institution Type | Annual Tuition - Local (USD) | Annual Tuition - International (USD) | Notes |
+| --- | --- | --- | --- |
+| Public University | $500-$1,500 | $1,000-$3,000 | Limited spots available for international students |
+| Private University | $2,000-$5,000 | $3,000-$6,000 | Range depends on institution and program |
+| Top-Ranked University | $3,000-$6,000 | $4,000-$8,000 | **Universidad de los Andes** is a top-ranked private university |
+[/TABLE]
+
+[SECTION] Other Education Costs [/SECTION]
+[TABLE]
+| Item | Cost (USD) | Notes |
+| --- | --- | --- |
+| Preschool / Daycare (monthly) | $100-$300 | Depends on location and quality of care |
+| Private Tutoring (per hour) | $20-$50 | Range depends on tutor's qualifications and subject |
+| Language Course (monthly) | $150-$300 | **Spanish** language courses are widely available |
+| School Supplies (annual) | $50-$100 | Basic supplies, including textbooks and materials |
+| School Uniform | $50-$100 | Required for most private and public schools |
+[/TABLE]
+
+[SECTION] Education Quality & Tips [/SECTION]
+- The **International Baccalaureate** curriculum is highly regarded and available at several international schools in Colombia.
+- **Scholarship opportunities** are limited, but available for high-achieving students, particularly in public universities.
+- **Online learning options** are becoming increasingly popular, with many universities and institutions offering online courses and degree programs.
+- Education quality in Colombia is generally considered to be **above average** compared to other countries in the region.
+- **Private tutoring** is a common practice, particularly among students seeking to improve their **English** language skills or prepare for university entrance exams.
+- **Expats** often prefer international schools, which offer a familiar curriculum and teaching style, but at a higher cost than local private schools.
+
+---
+
+*Evergreen reference content. Verify time-sensitive details with official sources.*

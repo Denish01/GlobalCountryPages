@@ -1,0 +1,74 @@
+---
+title: "Food & Grocery Prices in French Polynesia"
+entity: "French Polynesia"
+iso_code: "PF"
+continent: "oceania"
+angle: "cost-food-groceries"
+date: "2026-02-17"
+---
+
+# Food & Grocery Prices in French Polynesia
+
+The cost of food in French Polynesia can range from moderately expensive to very expensive, with a meal at an inexpensive restaurant costing around $15-20 USD and a monthly grocery budget for one person ranging from $500-700 USD.
+
+[FACTBOX]
+Meal at Inexpensive Restaurant: ($15-20 USD)
+Meal for 2 at Mid-Range Restaurant: ($40-60 USD)
+Monthly Grocery Budget (1 person): ($500-700 USD)
+Local Beer (500ml): ($5-7 USD)
+Currency: XPF
+[/FACTBOX]
+
+[SECTION] Food Costs Overview [/SECTION]
+Food prices in French Polynesia are generally higher than the regional average due to the territory's remote location and reliance on imports. The cost of living in French Polynesia is driven up by the high cost of transportation, which increases the price of goods and services. Eating out is a popular culture in French Polynesia, with many restaurants serving a mix of French, Polynesian, and international cuisine. However, home cooking is also a common practice, with many locals opting to buy fresh produce and seafood from local markets to prepare traditional dishes.
+
+The prices of food in French Polynesia can vary depending on the location, with restaurants and shops in tourist areas tend to be more expensive than those in local neighborhoods. Additionally, the prices of imported goods, such as meat and dairy products, can be higher than those of local products, such as fish and fruits. Overall, the cost of food in French Polynesia can be high, but with some planning and knowledge of where to shop and what to buy, it is possible to eat well without breaking the bank.
+
+[SECTION] Grocery Prices [/SECTION]
+[TABLE]
+| Item | Price (USD) | Local Price | Notes |
+| --- | --- | --- | --- |
+| Milk (1 liter) | $2.50 | 250 XPF | imported from France |
+| Bread (white loaf) | $2.00 | 200 XPF | local bakery |
+| Eggs (dozen) | $3.00 | 300 XPF | local farm |
+| Rice (1 kg) | $1.50 | 150 XPF | imported from Asia |
+| Chicken breast (1 kg) | $8.00 | 800 XPF | imported from France |
+| Beef (1 kg) | $12.00 | 1200 XPF | imported from Australia |
+| Apples (1 kg) | $5.00 | 500 XPF | imported from New Zealand |
+| Tomatoes (1 kg) | $3.50 | 350 XPF | local farm |
+| Potatoes (1 kg) | $2.50 | 250 XPF | local farm |
+| Onions (1 kg) | $2.00 | 200 XPF | local farm |
+| Local cheese (1 kg) | $10.00 | 1000 XPF | made from local milk |
+| Water (1.5L bottle) | $2.00 | 200 XPF | local brand |
+[/TABLE]
+
+[SECTION] Restaurant Prices [/SECTION]
+[TABLE]
+| Meal Type | Price Range (USD) | Notes |
+| --- | --- | --- |
+| Street Food / Local Eatery | $10-15 | traditional dishes like **Poisson Cru** and **Ahima'a** |
+| Casual Restaurant | $20-30 | one person, **French-Polynesian** cuisine |
+| Mid-Range Restaurant (2 people) | $40-60 | 3 courses, **seafood** and **meat** options |
+| Fine Dining (2 people) | $80-100 | upscale, **international** cuisine |
+| Local Beer (draft, 500ml) | $5-7 | **Hinano** beer, brewed locally |
+| Imported Beer (330ml) | $8-10 | **Heineken** and other international brands |
+| Cappuccino | $5-7 | **coffee** and **pastries** available |
+| Soft Drink (can) | $3-5 | **Coca-Cola** and other international brands |
+[/TABLE]
+
+[SECTION] Supermarket vs Local Market [/SECTION]
+The prices of goods at supermarkets and local markets in French Polynesia can vary significantly. Supermarkets tend to be more expensive, especially for imported goods, but they often offer a wider range of products and more convenient shopping hours. Local markets, on the other hand, offer fresh produce and seafood at lower prices, but the selection may be limited and the shopping experience can be more chaotic. It's a good idea to buy fresh produce and seafood from local markets, while opting for supermarkets for imported goods and other essentials.
+
+When shopping at local markets, it's also important to be aware of the **bargaining** culture. While prices may be fixed at supermarkets, vendors at local markets may be willing to negotiate, especially for bulk purchases. It's also a good idea to learn some basic **French** and **Tahitian** phrases to communicate with vendors and get the best deals. Additionally, be sure to check the freshness and quality of the produce before making a purchase, as the quality can vary.
+
+[SECTION] Local Food Tips [/SECTION]
+- Eating at **local eateries** and **food trucks** can be a cheap and delicious way to experience the local cuisine.
+- **Fresh seafood** is abundant and affordable in French Polynesia, making it a great option for those looking for a cheap and healthy meal.
+- **Coconuts** and **fruits** are widely available and can be purchased at a low cost, making them a great snack or addition to meals.
+- **Rice** and **bread** are staples in French Polynesian cuisine and can be purchased at a relatively low cost.
+- Avoid buying **imported meat** and **dairy products**, as they can be expensive and may not be as fresh as local alternatives.
+- Consider purchasing **local cheese** and **yogurt**, which can be a cheaper and more flavorful alternative to imported dairy products.
+
+---
+
+*Evergreen reference content. Verify time-sensitive details with official sources.*

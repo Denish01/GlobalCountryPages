@@ -1,0 +1,26 @@
+{
+  "iso_code": "HU",
+  "fetched_date": "2026-02-17",
+  "indicators": {
+    "NY.GDP.PCAP.PP.CD": {
+      "year": 2024,
+      "value": 48552.47
+    },
+    "FP.CPI.TOTL.ZG": {
+      "year": 2024,
+      "value": 3.7
+    },
+    "SH.XPD.CHEX.PC.CD": {
+      "year": 2023,
+      "value": 1419.87
+    },
+    "SH.XPD.OOPC.CH.ZS": {
+      "year": 2023,
+      "value": 23.06
+    },
+    "SE.XPD.TOTL.GD.ZS": {
+      "year": 2022,
+      "value": 3.81
+    }
+  }
+}

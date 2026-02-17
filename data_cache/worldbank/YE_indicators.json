@@ -1,0 +1,14 @@
+{
+  "iso_code": "YE",
+  "fetched_date": "2026-02-17",
+  "indicators": {
+    "SH.XPD.CHEX.PC.CD": {
+      "year": 2023,
+      "value": 47.78
+    },
+    "SH.XPD.OOPC.CH.ZS": {
+      "year": 2023,
+      "value": 69.13
+    }
+  }
+}

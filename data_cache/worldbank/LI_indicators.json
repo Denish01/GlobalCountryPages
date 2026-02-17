@@ -1,0 +1,14 @@
+{
+  "iso_code": "LI",
+  "fetched_date": "2026-02-17",
+  "indicators": {
+    "SH.XPD.CHEX.PC.CD": {
+      "year": 2023,
+      "value": 11494.96
+    },
+    "SH.XPD.OOPC.CH.ZS": {
+      "year": 2023,
+      "value": 19.72
+    }
+  }
+}
