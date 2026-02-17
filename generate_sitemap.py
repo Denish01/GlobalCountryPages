@@ -54,6 +54,14 @@ ANGLE_PRIORITY = {
     "demographics": "0.6",
     "infrastructure": "0.6",
     "business-and-investment": "0.7",
+    # Cost sub-angles
+    "cost-rent-housing": "0.8",
+    "cost-food-groceries": "0.8",
+    "cost-healthcare": "0.8",
+    "cost-transportation": "0.7",
+    "cost-education": "0.7",
+    "cost-utilities-internet": "0.7",
+    "cost-monthly-budget": "0.8",
 }
 
 
@@ -62,6 +70,8 @@ def get_priority(filename):
     stem = Path(filename).stem
     if stem.startswith("vs-"):
         return "0.6"
+    if stem.startswith("cost-compare-"):
+        return "0.7"
     return ANGLE_PRIORITY.get(stem, "0.5")
 
 
