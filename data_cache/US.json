@@ -1,0 +1,54 @@
+{
+  "iso_code": "US",
+  "name_common": "United States",
+  "name_official": "United States of America",
+  "capital": "Washington, D.C.",
+  "population": 340110988,
+  "area_km2": 9525067.0,
+  "region": "Americas",
+  "subregion": "North America",
+  "languages": {
+    "eng": "English"
+  },
+  "currencies": {
+    "USD": {
+      "name": "United States dollar",
+      "symbol": "$"
+    }
+  },
+  "timezones": [
+    "UTC-12:00",
+    "UTC-11:00",
+    "UTC-10:00",
+    "UTC-09:00",
+    "UTC-08:00",
+    "UTC-07:00",
+    "UTC-06:00",
+    "UTC-05:00",
+    "UTC-04:00",
+    "UTC+10:00",
+    "UTC+12:00"
+  ],
+  "borders": [
+    "CAN",
+    "MEX"
+  ],
+  "flag_emoji": "🇺🇸",
+  "coat_of_arms_svg": "https://mainfacts.com/media/images/coats_of_arms/us.svg",
+  "maps_google": "https://goo.gl/maps/e8M246zY4BSjkjAv6",
+  "independent": true,
+  "un_member": true,
+  "landlocked": false,
+  "driving_side": "right",
+  "start_of_week": "sunday",
+  "continents": [
+    "North America"
+  ],
+  "latlng": [
+    38.0,
+    -97.0
+  ],
+  "gini": {
+    "2018": 41.4
+  }
+}

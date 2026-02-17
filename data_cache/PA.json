@@ -1,0 +1,48 @@
+{
+  "iso_code": "PA",
+  "name_common": "Panama",
+  "name_official": "Republic of Panama",
+  "capital": "Panama City",
+  "population": 4064780,
+  "area_km2": 75417.0,
+  "region": "Americas",
+  "subregion": "Central America",
+  "languages": {
+    "spa": "Spanish"
+  },
+  "currencies": {
+    "PAB": {
+      "name": "Panamanian balboa",
+      "symbol": "B/."
+    },
+    "USD": {
+      "name": "United States dollar",
+      "symbol": "$"
+    }
+  },
+  "timezones": [
+    "UTC-05:00"
+  ],
+  "borders": [
+    "COL",
+    "CRI"
+  ],
+  "flag_emoji": "🇵🇦",
+  "coat_of_arms_svg": "https://mainfacts.com/media/images/coats_of_arms/pa.svg",
+  "maps_google": "https://goo.gl/maps/sEN7sKqeawa5oPNLA",
+  "independent": true,
+  "un_member": true,
+  "landlocked": false,
+  "driving_side": "right",
+  "start_of_week": "monday",
+  "continents": [
+    "North America"
+  ],
+  "latlng": [
+    9.0,
+    -80.0
+  ],
+  "gini": {
+    "2019": 49.8
+  }
+}

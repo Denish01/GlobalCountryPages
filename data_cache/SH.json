@@ -1,0 +1,43 @@
+{
+  "iso_code": "SH",
+  "name_common": "Saint Helena, Ascension and Tristan da Cunha",
+  "name_official": "Saint Helena, Ascension and Tristan da Cunha",
+  "capital": "Jamestown",
+  "population": 5651,
+  "area_km2": 394.0,
+  "region": "Africa",
+  "subregion": "Western Africa",
+  "languages": {
+    "eng": "English"
+  },
+  "currencies": {
+    "GBP": {
+      "name": "Pound sterling",
+      "symbol": "£"
+    },
+    "SHP": {
+      "name": "Saint Helena pound",
+      "symbol": "£"
+    }
+  },
+  "timezones": [
+    "UTC+00:00"
+  ],
+  "borders": [],
+  "flag_emoji": "🇸🇭",
+  "coat_of_arms_svg": "",
+  "maps_google": "https://goo.gl/maps/iv4VxnPzHkjLCJuc6",
+  "independent": false,
+  "un_member": false,
+  "landlocked": false,
+  "driving_side": "left",
+  "start_of_week": "monday",
+  "continents": [
+    "Africa"
+  ],
+  "latlng": [
+    -15.95,
+    -5.72
+  ],
+  "gini": {}
+}

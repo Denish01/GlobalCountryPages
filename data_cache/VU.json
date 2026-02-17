@@ -1,0 +1,43 @@
+{
+  "iso_code": "VU",
+  "name_common": "Vanuatu",
+  "name_official": "Republic of Vanuatu",
+  "capital": "Port Vila",
+  "population": 321409,
+  "area_km2": 12189.0,
+  "region": "Oceania",
+  "subregion": "Melanesia",
+  "languages": {
+    "bis": "Bislama",
+    "eng": "English",
+    "fra": "French"
+  },
+  "currencies": {
+    "VUV": {
+      "name": "Vanuatu vatu",
+      "symbol": "Vt"
+    }
+  },
+  "timezones": [
+    "UTC+11:00"
+  ],
+  "borders": [],
+  "flag_emoji": "🇻🇺",
+  "coat_of_arms_svg": "https://mainfacts.com/media/images/coats_of_arms/vu.svg",
+  "maps_google": "https://goo.gl/maps/hwAjehcT7VfvP5zJ8",
+  "independent": true,
+  "un_member": true,
+  "landlocked": false,
+  "driving_side": "right",
+  "start_of_week": "monday",
+  "continents": [
+    "Oceania"
+  ],
+  "latlng": [
+    -16.0,
+    167.0
+  ],
+  "gini": {
+    "2010": 37.6
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "iso_code": "TN",
+  "name_common": "Tunisia",
+  "name_official": "Tunisian Republic",
+  "capital": "Tunis",
+  "population": 11972169,
+  "area_km2": 163610.0,
+  "region": "Africa",
+  "subregion": "Northern Africa",
+  "languages": {
+    "ara": "Arabic"
+  },
+  "currencies": {
+    "TND": {
+      "name": "Tunisian dinar",
+      "symbol": "د.ت"
+    }
+  },
+  "timezones": [
+    "UTC+01:00"
+  ],
+  "borders": [
+    "DZA",
+    "LBY"
+  ],
+  "flag_emoji": "🇹🇳",
+  "coat_of_arms_svg": "https://mainfacts.com/media/images/coats_of_arms/tn.svg",
+  "maps_google": "https://goo.gl/maps/KgUmpZdUuNRaougs8",
+  "independent": true,
+  "un_member": true,
+  "landlocked": false,
+  "driving_side": "right",
+  "start_of_week": "monday",
+  "continents": [
+    "Africa"
+  ],
+  "latlng": [
+    34.0,
+    9.0
+  ],
+  "gini": {
+    "2015": 32.8
+  }
+}

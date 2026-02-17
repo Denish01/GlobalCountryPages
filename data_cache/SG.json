@@ -1,0 +1,42 @@
+{
+  "iso_code": "SG",
+  "name_common": "Singapore",
+  "name_official": "Republic of Singapore",
+  "capital": "Singapore",
+  "population": 6110200,
+  "area_km2": 710.0,
+  "region": "Asia",
+  "subregion": "South-Eastern Asia",
+  "languages": {
+    "eng": "English",
+    "zho": "Chinese",
+    "msa": "Malay",
+    "tam": "Tamil"
+  },
+  "currencies": {
+    "SGD": {
+      "name": "Singapore dollar",
+      "symbol": "$"
+    }
+  },
+  "timezones": [
+    "UTC+08:00"
+  ],
+  "borders": [],
+  "flag_emoji": "🇸🇬",
+  "coat_of_arms_svg": "https://mainfacts.com/media/images/coats_of_arms/sg.svg",
+  "maps_google": "https://goo.gl/maps/QbQt9Y9b5KFzsahV6",
+  "independent": true,
+  "un_member": true,
+  "landlocked": false,
+  "driving_side": "left",
+  "start_of_week": "monday",
+  "continents": [
+    "Asia"
+  ],
+  "latlng": [
+    1.36666666,
+    103.8
+  ],
+  "gini": {}
+}

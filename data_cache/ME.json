@@ -1,0 +1,47 @@
+{
+  "iso_code": "ME",
+  "name_common": "Montenegro",
+  "name_official": "Montenegro",
+  "capital": "Podgorica",
+  "population": 623327,
+  "area_km2": 13812.0,
+  "region": "Europe",
+  "subregion": "Southeast Europe",
+  "languages": {
+    "cnr": "Montenegrin"
+  },
+  "currencies": {
+    "EUR": {
+      "name": "euro",
+      "symbol": "€"
+    }
+  },
+  "timezones": [
+    "UTC+01:00"
+  ],
+  "borders": [
+    "ALB",
+    "BIH",
+    "HRV",
+    "UNK",
+    "SRB"
+  ],
+  "flag_emoji": "🇲🇪",
+  "coat_of_arms_svg": "https://mainfacts.com/media/images/coats_of_arms/me.svg",
+  "maps_google": "https://goo.gl/maps/4THX1fM7WqANuPbB8",
+  "independent": true,
+  "un_member": true,
+  "landlocked": false,
+  "driving_side": "right",
+  "start_of_week": "monday",
+  "continents": [
+    "Europe"
+  ],
+  "latlng": [
+    42.5,
+    19.3
+  ],
+  "gini": {
+    "2016": 38.5
+  }
+}

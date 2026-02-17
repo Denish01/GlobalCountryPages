@@ -1,0 +1,50 @@
+{
+  "iso_code": "CH",
+  "name_common": "Switzerland",
+  "name_official": "Swiss Confederation",
+  "capital": "Bern",
+  "population": 9082848,
+  "area_km2": 41284.0,
+  "region": "Europe",
+  "subregion": "Western Europe",
+  "languages": {
+    "fra": "French",
+    "gsw": "Swiss German",
+    "ita": "Italian",
+    "roh": "Romansh"
+  },
+  "currencies": {
+    "CHF": {
+      "name": "Swiss franc",
+      "symbol": "Fr."
+    }
+  },
+  "timezones": [
+    "UTC+01:00"
+  ],
+  "borders": [
+    "AUT",
+    "FRA",
+    "ITA",
+    "LIE",
+    "DEU"
+  ],
+  "flag_emoji": "🇨🇭",
+  "coat_of_arms_svg": "https://mainfacts.com/media/images/coats_of_arms/ch.svg",
+  "maps_google": "https://goo.gl/maps/uVuZcXaxSx5jLyEC9",
+  "independent": true,
+  "un_member": true,
+  "landlocked": true,
+  "driving_side": "right",
+  "start_of_week": "monday",
+  "continents": [
+    "Europe"
+  ],
+  "latlng": [
+    47.0,
+    8.0
+  ],
+  "gini": {
+    "2018": 33.1
+  }
+}

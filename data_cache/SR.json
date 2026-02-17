@@ -1,0 +1,45 @@
+{
+  "iso_code": "SR",
+  "name_common": "Suriname",
+  "name_official": "Republic of Suriname",
+  "capital": "Paramaribo",
+  "population": 616500,
+  "area_km2": 163820.0,
+  "region": "Americas",
+  "subregion": "South America",
+  "languages": {
+    "nld": "Dutch"
+  },
+  "currencies": {
+    "SRD": {
+      "name": "Surinamese dollar",
+      "symbol": "$"
+    }
+  },
+  "timezones": [
+    "UTC-03:00"
+  ],
+  "borders": [
+    "BRA",
+    "GUF",
+    "GUY"
+  ],
+  "flag_emoji": "🇸🇷",
+  "coat_of_arms_svg": "https://mainfacts.com/media/images/coats_of_arms/sr.svg",
+  "maps_google": "https://goo.gl/maps/iy7TuQLSi4qgoBoG7",
+  "independent": true,
+  "un_member": true,
+  "landlocked": false,
+  "driving_side": "left",
+  "start_of_week": "monday",
+  "continents": [
+    "South America"
+  ],
+  "latlng": [
+    4.0,
+    -56.0
+  ],
+  "gini": {
+    "1999": 57.9
+  }
+}

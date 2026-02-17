@@ -1,0 +1,45 @@
+{
+  "iso_code": "GW",
+  "name_common": "Guinea-Bissau",
+  "name_official": "Republic of Guinea-Bissau",
+  "capital": "Bissau",
+  "population": 1781308,
+  "area_km2": 36125.0,
+  "region": "Africa",
+  "subregion": "Western Africa",
+  "languages": {
+    "por": "Portuguese",
+    "pov": "Upper Guinea Creole"
+  },
+  "currencies": {
+    "XOF": {
+      "name": "West African CFA franc",
+      "symbol": "Fr"
+    }
+  },
+  "timezones": [
+    "UTC"
+  ],
+  "borders": [
+    "GIN",
+    "SEN"
+  ],
+  "flag_emoji": "🇬🇼",
+  "coat_of_arms_svg": "https://mainfacts.com/media/images/coats_of_arms/gw.svg",
+  "maps_google": "https://goo.gl/maps/5Wyaz17miUc1zLc67",
+  "independent": true,
+  "un_member": false,
+  "landlocked": false,
+  "driving_side": "right",
+  "start_of_week": "monday",
+  "continents": [
+    "Africa"
+  ],
+  "latlng": [
+    12.0,
+    -15.0
+  ],
+  "gini": {
+    "2010": 50.7
+  }
+}

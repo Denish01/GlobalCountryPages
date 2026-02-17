@@ -1,0 +1,44 @@
+{
+  "iso_code": "SL",
+  "name_common": "Sierra Leone",
+  "name_official": "Republic of Sierra Leone",
+  "capital": "Freetown",
+  "population": 9077691,
+  "area_km2": 71740.0,
+  "region": "Africa",
+  "subregion": "Western Africa",
+  "languages": {
+    "eng": "English"
+  },
+  "currencies": {
+    "SLE": {
+      "name": "Leone",
+      "symbol": "Le"
+    }
+  },
+  "timezones": [
+    "UTC"
+  ],
+  "borders": [
+    "GIN",
+    "LBR"
+  ],
+  "flag_emoji": "🇸🇱",
+  "coat_of_arms_svg": "https://mainfacts.com/media/images/coats_of_arms/sl.svg",
+  "maps_google": "https://goo.gl/maps/jhacar85oq9QaeKB7",
+  "independent": true,
+  "un_member": true,
+  "landlocked": false,
+  "driving_side": "right",
+  "start_of_week": "monday",
+  "continents": [
+    "Africa"
+  ],
+  "latlng": [
+    8.5,
+    -11.5
+  ],
+  "gini": {
+    "2018": 35.7
+  }
+}

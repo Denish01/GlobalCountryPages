@@ -1,0 +1,42 @@
+{
+  "iso_code": "HK",
+  "name_common": "Hong Kong",
+  "name_official": "Hong Kong Special Administrative Region of the People's Republic of China",
+  "capital": "City of Victoria",
+  "population": 7527500,
+  "area_km2": 1104.0,
+  "region": "Asia",
+  "subregion": "Eastern Asia",
+  "languages": {
+    "eng": "English",
+    "zho": "Chinese"
+  },
+  "currencies": {
+    "HKD": {
+      "name": "Hong Kong dollar",
+      "symbol": "$"
+    }
+  },
+  "timezones": [
+    "UTC+08:00"
+  ],
+  "borders": [
+    "CHN"
+  ],
+  "flag_emoji": "🇭🇰",
+  "coat_of_arms_svg": "https://mainfacts.com/media/images/coats_of_arms/hk.svg",
+  "maps_google": "https://goo.gl/maps/1sEnNmT47ffrC8MU8",
+  "independent": false,
+  "un_member": false,
+  "landlocked": false,
+  "driving_side": "left",
+  "start_of_week": "monday",
+  "continents": [
+    "Asia"
+  ],
+  "latlng": [
+    22.267,
+    114.188
+  ],
+  "gini": {}
+}

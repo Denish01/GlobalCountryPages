@@ -1,0 +1,47 @@
+{
+  "iso_code": "JO",
+  "name_common": "Jordan",
+  "name_official": "Hashemite Kingdom of Jordan",
+  "capital": "Amman",
+  "population": 11734000,
+  "area_km2": 89342.0,
+  "region": "Asia",
+  "subregion": "Western Asia",
+  "languages": {
+    "ara": "Arabic"
+  },
+  "currencies": {
+    "JOD": {
+      "name": "Jordanian dinar",
+      "symbol": "د.ا"
+    }
+  },
+  "timezones": [
+    "UTC+03:00"
+  ],
+  "borders": [
+    "IRQ",
+    "ISR",
+    "PSE",
+    "SAU",
+    "SYR"
+  ],
+  "flag_emoji": "🇯🇴",
+  "coat_of_arms_svg": "https://mainfacts.com/media/images/coats_of_arms/jo.svg",
+  "maps_google": "https://goo.gl/maps/ko1dzSDKg8Gsi9A98",
+  "independent": true,
+  "un_member": true,
+  "landlocked": false,
+  "driving_side": "right",
+  "start_of_week": "sunday",
+  "continents": [
+    "Asia"
+  ],
+  "latlng": [
+    31.0,
+    36.0
+  ],
+  "gini": {
+    "2010": 33.7
+  }
+}

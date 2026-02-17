@@ -1,0 +1,47 @@
+{
+  "iso_code": "SN",
+  "name_common": "Senegal",
+  "name_official": "Republic of Senegal",
+  "capital": "Dakar",
+  "population": 18593258,
+  "area_km2": 196722.0,
+  "region": "Africa",
+  "subregion": "Western Africa",
+  "languages": {
+    "fra": "French"
+  },
+  "currencies": {
+    "XOF": {
+      "name": "West African CFA franc",
+      "symbol": "Fr"
+    }
+  },
+  "timezones": [
+    "UTC"
+  ],
+  "borders": [
+    "GMB",
+    "GIN",
+    "GNB",
+    "MLI",
+    "MRT"
+  ],
+  "flag_emoji": "🇸🇳",
+  "coat_of_arms_svg": "https://mainfacts.com/media/images/coats_of_arms/sn.svg",
+  "maps_google": "https://goo.gl/maps/o5f1uD5nyihCL3HCA",
+  "independent": true,
+  "un_member": true,
+  "landlocked": false,
+  "driving_side": "right",
+  "start_of_week": "monday",
+  "continents": [
+    "Africa"
+  ],
+  "latlng": [
+    14.0,
+    -14.0
+  ],
+  "gini": {
+    "2011": 40.3
+  }
+}

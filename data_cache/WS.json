@@ -1,0 +1,42 @@
+{
+  "iso_code": "WS",
+  "name_common": "Samoa",
+  "name_official": "Independent State of Samoa",
+  "capital": "Apia",
+  "population": 205557,
+  "area_km2": 2842.0,
+  "region": "Oceania",
+  "subregion": "Polynesia",
+  "languages": {
+    "eng": "English",
+    "smo": "Samoan"
+  },
+  "currencies": {
+    "WST": {
+      "name": "Samoan tālā",
+      "symbol": "T"
+    }
+  },
+  "timezones": [
+    "UTC+13:00"
+  ],
+  "borders": [],
+  "flag_emoji": "🇼🇸",
+  "coat_of_arms_svg": "https://mainfacts.com/media/images/coats_of_arms/ws.svg",
+  "maps_google": "https://goo.gl/maps/CFC9fEFP9cfkYUBF9",
+  "independent": true,
+  "un_member": true,
+  "landlocked": false,
+  "driving_side": "left",
+  "start_of_week": "monday",
+  "continents": [
+    "Oceania"
+  ],
+  "latlng": [
+    -13.58333333,
+    -172.33333333
+  ],
+  "gini": {
+    "2013": 38.7
+  }
+}

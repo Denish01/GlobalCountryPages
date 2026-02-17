@@ -1,0 +1,46 @@
+{
+  "iso_code": "AM",
+  "name_common": "Armenia",
+  "name_official": "Republic of Armenia",
+  "capital": "Yerevan",
+  "population": 3076200,
+  "area_km2": 29743.0,
+  "region": "Asia",
+  "subregion": "Western Asia",
+  "languages": {
+    "hye": "Armenian"
+  },
+  "currencies": {
+    "AMD": {
+      "name": "Armenian dram",
+      "symbol": "֏"
+    }
+  },
+  "timezones": [
+    "UTC+04:00"
+  ],
+  "borders": [
+    "AZE",
+    "GEO",
+    "IRN",
+    "TUR"
+  ],
+  "flag_emoji": "🇦🇲",
+  "coat_of_arms_svg": "https://mainfacts.com/media/images/coats_of_arms/am.svg",
+  "maps_google": "https://goo.gl/maps/azWUtK9bUQYEyccbA",
+  "independent": true,
+  "un_member": true,
+  "landlocked": true,
+  "driving_side": "right",
+  "start_of_week": "monday",
+  "continents": [
+    "Asia"
+  ],
+  "latlng": [
+    40.0,
+    45.0
+  ],
+  "gini": {
+    "2019": 29.9
+  }
+}

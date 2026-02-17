@@ -1,0 +1,48 @@
+{
+  "iso_code": "AZ",
+  "name_common": "Azerbaijan",
+  "name_official": "Republic of Azerbaijan",
+  "capital": "Baku",
+  "population": 10241722,
+  "area_km2": 86600.0,
+  "region": "Asia",
+  "subregion": "Western Asia",
+  "languages": {
+    "aze": "Azerbaijani"
+  },
+  "currencies": {
+    "AZN": {
+      "name": "Azerbaijani manat",
+      "symbol": "₼"
+    }
+  },
+  "timezones": [
+    "UTC+04:00"
+  ],
+  "borders": [
+    "ARM",
+    "GEO",
+    "IRN",
+    "RUS",
+    "TUR"
+  ],
+  "flag_emoji": "🇦🇿",
+  "coat_of_arms_svg": "https://mainfacts.com/media/images/coats_of_arms/az.svg",
+  "maps_google": "https://goo.gl/maps/az3Zz7ar2aoB9AUc6",
+  "independent": true,
+  "un_member": true,
+  "landlocked": true,
+  "driving_side": "right",
+  "start_of_week": "monday",
+  "continents": [
+    "Europe",
+    "Asia"
+  ],
+  "latlng": [
+    40.5,
+    47.5
+  ],
+  "gini": {
+    "2005": 26.6
+  }
+}

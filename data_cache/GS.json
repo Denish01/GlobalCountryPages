@@ -1,0 +1,39 @@
+{
+  "iso_code": "GS",
+  "name_common": "South Georgia",
+  "name_official": "South Georgia and the South Sandwich Islands",
+  "capital": "King Edward Point",
+  "population": 0,
+  "area_km2": 3903.0,
+  "region": "Antarctic",
+  "subregion": "",
+  "languages": {
+    "eng": "English"
+  },
+  "currencies": {
+    "GBP": {
+      "name": "British pound",
+      "symbol": "£"
+    }
+  },
+  "timezones": [
+    "UTC-02:00"
+  ],
+  "borders": [],
+  "flag_emoji": "🇬🇸",
+  "coat_of_arms_svg": "",
+  "maps_google": "https://goo.gl/maps/mJzdaBwKBbm2B81q9",
+  "independent": false,
+  "un_member": false,
+  "landlocked": false,
+  "driving_side": "right",
+  "start_of_week": "monday",
+  "continents": [
+    "Antarctica"
+  ],
+  "latlng": [
+    -54.5,
+    -37.0
+  ],
+  "gini": {}
+}

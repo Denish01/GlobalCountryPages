@@ -1,0 +1,41 @@
+{
+  "iso_code": "QA",
+  "name_common": "Qatar",
+  "name_official": "State of Qatar",
+  "capital": "Doha",
+  "population": 3173024,
+  "area_km2": 11586.0,
+  "region": "Asia",
+  "subregion": "Western Asia",
+  "languages": {
+    "ara": "Arabic"
+  },
+  "currencies": {
+    "QAR": {
+      "name": "Qatari riyal",
+      "symbol": "ر.ق"
+    }
+  },
+  "timezones": [
+    "UTC+03:00"
+  ],
+  "borders": [
+    "SAU"
+  ],
+  "flag_emoji": "🇶🇦",
+  "coat_of_arms_svg": "https://mainfacts.com/media/images/coats_of_arms/qa.svg",
+  "maps_google": "https://goo.gl/maps/ZV76Y49z7LLUZ2KQ6",
+  "independent": true,
+  "un_member": true,
+  "landlocked": false,
+  "driving_side": "right",
+  "start_of_week": "sunday",
+  "continents": [
+    "Asia"
+  ],
+  "latlng": [
+    25.5,
+    51.25
+  ],
+  "gini": {}
+}

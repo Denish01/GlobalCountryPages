@@ -1,0 +1,48 @@
+{
+  "iso_code": "RW",
+  "name_common": "Rwanda",
+  "name_official": "Republic of Rwanda",
+  "capital": "Kigali",
+  "population": 14104969,
+  "area_km2": 26338.0,
+  "region": "Africa",
+  "subregion": "Eastern Africa",
+  "languages": {
+    "eng": "English",
+    "fra": "French",
+    "kin": "Kinyarwanda"
+  },
+  "currencies": {
+    "RWF": {
+      "name": "Rwandan franc",
+      "symbol": "Fr"
+    }
+  },
+  "timezones": [
+    "UTC+02:00"
+  ],
+  "borders": [
+    "BDI",
+    "COD",
+    "TZA",
+    "UGA"
+  ],
+  "flag_emoji": "🇷🇼",
+  "coat_of_arms_svg": "https://mainfacts.com/media/images/coats_of_arms/rw.svg",
+  "maps_google": "https://goo.gl/maps/j5xb5r7CLqjYbyP86",
+  "independent": true,
+  "un_member": true,
+  "landlocked": true,
+  "driving_side": "right",
+  "start_of_week": "monday",
+  "continents": [
+    "Africa"
+  ],
+  "latlng": [
+    -2.0,
+    30.0
+  ],
+  "gini": {
+    "2016": 43.7
+  }
+}

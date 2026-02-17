@@ -1,0 +1,50 @@
+{
+  "iso_code": "IQ",
+  "name_common": "Iraq",
+  "name_official": "Republic of Iraq",
+  "capital": "Baghdad",
+  "population": 46118793,
+  "area_km2": 438317.0,
+  "region": "Asia",
+  "subregion": "Western Asia",
+  "languages": {
+    "ara": "Arabic",
+    "arc": "Aramaic",
+    "ckb": "Sorani"
+  },
+  "currencies": {
+    "IQD": {
+      "name": "Iraqi dinar",
+      "symbol": "ع.د"
+    }
+  },
+  "timezones": [
+    "UTC+03:00"
+  ],
+  "borders": [
+    "IRN",
+    "JOR",
+    "KWT",
+    "SAU",
+    "SYR",
+    "TUR"
+  ],
+  "flag_emoji": "🇮🇶",
+  "coat_of_arms_svg": "https://mainfacts.com/media/images/coats_of_arms/iq.svg",
+  "maps_google": "https://goo.gl/maps/iL8Bmy1sUCW9fUk18",
+  "independent": true,
+  "un_member": true,
+  "landlocked": false,
+  "driving_side": "right",
+  "start_of_week": "sunday",
+  "continents": [
+    "Asia"
+  ],
+  "latlng": [
+    33.0,
+    44.0
+  ],
+  "gini": {
+    "2012": 29.5
+  }
+}

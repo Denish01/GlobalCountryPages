@@ -1,0 +1,49 @@
+{
+  "iso_code": "CF",
+  "name_common": "Central African Republic",
+  "name_official": "Central African Republic",
+  "capital": "Bangui",
+  "population": 6470307,
+  "area_km2": 622984.0,
+  "region": "Africa",
+  "subregion": "Middle Africa",
+  "languages": {
+    "fra": "French",
+    "sag": "Sango"
+  },
+  "currencies": {
+    "XAF": {
+      "name": "Central African CFA franc",
+      "symbol": "Fr"
+    }
+  },
+  "timezones": [
+    "UTC+01:00"
+  ],
+  "borders": [
+    "CMR",
+    "TCD",
+    "COD",
+    "COG",
+    "SSD",
+    "SDN"
+  ],
+  "flag_emoji": "🇨🇫",
+  "coat_of_arms_svg": "https://mainfacts.com/media/images/coats_of_arms/cf.svg",
+  "maps_google": "https://goo.gl/maps/51V8dsi2rGYC9n3c9",
+  "independent": true,
+  "un_member": true,
+  "landlocked": true,
+  "driving_side": "right",
+  "start_of_week": "monday",
+  "continents": [
+    "Africa"
+  ],
+  "latlng": [
+    7.0,
+    21.0
+  ],
+  "gini": {
+    "2008": 56.2
+  }
+}

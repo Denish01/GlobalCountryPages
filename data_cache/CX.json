@@ -1,0 +1,39 @@
+{
+  "iso_code": "CX",
+  "name_common": "Christmas Island",
+  "name_official": "Territory of Christmas Island",
+  "capital": "Flying Fish Cove",
+  "population": 1692,
+  "area_km2": 135.0,
+  "region": "Oceania",
+  "subregion": "Australia and New Zealand",
+  "languages": {
+    "eng": "English"
+  },
+  "currencies": {
+    "AUD": {
+      "name": "Australian dollar",
+      "symbol": "$"
+    }
+  },
+  "timezones": [
+    "UTC+07:00"
+  ],
+  "borders": [],
+  "flag_emoji": "🇨🇽",
+  "coat_of_arms_svg": "https://mainfacts.com/media/images/coats_of_arms/cx.svg",
+  "maps_google": "https://goo.gl/maps/ZC17hHsQZpShN5wk9",
+  "independent": false,
+  "un_member": false,
+  "landlocked": false,
+  "driving_side": "left",
+  "start_of_week": "monday",
+  "continents": [
+    "Asia"
+  ],
+  "latlng": [
+    -10.5,
+    105.66666666
+  ],
+  "gini": {}
+}

@@ -1,0 +1,49 @@
+{
+  "iso_code": "PL",
+  "name_common": "Poland",
+  "name_official": "Republic of Poland",
+  "capital": "Warsaw",
+  "population": 37392000,
+  "area_km2": 312679.0,
+  "region": "Europe",
+  "subregion": "Central Europe",
+  "languages": {
+    "pol": "Polish"
+  },
+  "currencies": {
+    "PLN": {
+      "name": "Polish złoty",
+      "symbol": "zł"
+    }
+  },
+  "timezones": [
+    "UTC+01:00"
+  ],
+  "borders": [
+    "BLR",
+    "CZE",
+    "DEU",
+    "LTU",
+    "RUS",
+    "SVK",
+    "UKR"
+  ],
+  "flag_emoji": "🇵🇱",
+  "coat_of_arms_svg": "https://mainfacts.com/media/images/coats_of_arms/pl.svg",
+  "maps_google": "https://goo.gl/maps/gY9Xw4Sf4415P4949",
+  "independent": true,
+  "un_member": true,
+  "landlocked": false,
+  "driving_side": "right",
+  "start_of_week": "monday",
+  "continents": [
+    "Europe"
+  ],
+  "latlng": [
+    52.0,
+    20.0
+  ],
+  "gini": {
+    "2018": 30.2
+  }
+}

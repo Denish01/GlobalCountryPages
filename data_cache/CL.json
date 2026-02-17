@@ -1,0 +1,46 @@
+{
+  "iso_code": "CL",
+  "name_common": "Chile",
+  "name_official": "Republic of Chile",
+  "capital": "Santiago",
+  "population": 20206953,
+  "area_km2": 756102.0,
+  "region": "Americas",
+  "subregion": "South America",
+  "languages": {
+    "spa": "Spanish"
+  },
+  "currencies": {
+    "CLP": {
+      "name": "Chilean peso",
+      "symbol": "$"
+    }
+  },
+  "timezones": [
+    "UTC-06:00",
+    "UTC-04:00"
+  ],
+  "borders": [
+    "ARG",
+    "BOL",
+    "PER"
+  ],
+  "flag_emoji": "🇨🇱",
+  "coat_of_arms_svg": "https://mainfacts.com/media/images/coats_of_arms/cl.svg",
+  "maps_google": "https://goo.gl/maps/XboxyNHh2fAjCPNn9",
+  "independent": true,
+  "un_member": true,
+  "landlocked": false,
+  "driving_side": "right",
+  "start_of_week": "monday",
+  "continents": [
+    "South America"
+  ],
+  "latlng": [
+    -30.0,
+    -71.0
+  ],
+  "gini": {
+    "2017": 44.4
+  }
+}

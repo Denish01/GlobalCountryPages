@@ -1,0 +1,50 @@
+{
+  "iso_code": "ZM",
+  "name_common": "Zambia",
+  "name_official": "Republic of Zambia",
+  "capital": "Lusaka",
+  "population": 19693423,
+  "area_km2": 752612.0,
+  "region": "Africa",
+  "subregion": "Eastern Africa",
+  "languages": {
+    "eng": "English"
+  },
+  "currencies": {
+    "ZMW": {
+      "name": "Zambian kwacha",
+      "symbol": "ZK"
+    }
+  },
+  "timezones": [
+    "UTC+02:00"
+  ],
+  "borders": [
+    "AGO",
+    "BWA",
+    "COD",
+    "MWI",
+    "MOZ",
+    "NAM",
+    "TZA",
+    "ZWE"
+  ],
+  "flag_emoji": "🇿🇲",
+  "coat_of_arms_svg": "https://mainfacts.com/media/images/coats_of_arms/zm.svg",
+  "maps_google": "https://goo.gl/maps/mweBcqvW8TppZW6q9",
+  "independent": true,
+  "un_member": true,
+  "landlocked": true,
+  "driving_side": "left",
+  "start_of_week": "monday",
+  "continents": [
+    "Africa"
+  ],
+  "latlng": [
+    -15.0,
+    30.0
+  ],
+  "gini": {
+    "2015": 57.1
+  }
+}

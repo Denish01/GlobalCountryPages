@@ -1,0 +1,47 @@
+{
+  "iso_code": "XK",
+  "name_common": "Kosovo",
+  "name_official": "Republic of Kosovo",
+  "capital": "Pristina",
+  "population": 1585566,
+  "area_km2": 10908.0,
+  "region": "Europe",
+  "subregion": "Southeast Europe",
+  "languages": {
+    "sqi": "Albanian",
+    "srp": "Serbian"
+  },
+  "currencies": {
+    "EUR": {
+      "name": "euro",
+      "symbol": "€"
+    }
+  },
+  "timezones": [
+    "UTC+01:00"
+  ],
+  "borders": [
+    "ALB",
+    "MKD",
+    "MNE",
+    "SRB"
+  ],
+  "flag_emoji": "🇽🇰",
+  "coat_of_arms_svg": "https://mainfacts.com/media/images/coats_of_arms/xk.svg",
+  "maps_google": "https://goo.gl/maps/CSC4Yc8SWPgburuD9",
+  "independent": true,
+  "un_member": false,
+  "landlocked": true,
+  "driving_side": "right",
+  "start_of_week": "monday",
+  "continents": [
+    "Europe"
+  ],
+  "latlng": [
+    42.666667,
+    21.166667
+  ],
+  "gini": {
+    "2017": 29.0
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "iso_code": "NU",
+  "name_common": "Niue",
+  "name_official": "Niue",
+  "capital": "Alofi",
+  "population": 1681,
+  "area_km2": 260.0,
+  "region": "Oceania",
+  "subregion": "Polynesia",
+  "languages": {
+    "eng": "English",
+    "niu": "Niuean"
+  },
+  "currencies": {
+    "NZD": {
+      "name": "New Zealand dollar",
+      "symbol": "$"
+    }
+  },
+  "timezones": [
+    "UTC-11:00"
+  ],
+  "borders": [],
+  "flag_emoji": "🇳🇺",
+  "coat_of_arms_svg": "",
+  "maps_google": "https://goo.gl/maps/xFgdzs3E55Rk1y8P9",
+  "independent": false,
+  "un_member": false,
+  "landlocked": false,
+  "driving_side": "left",
+  "start_of_week": "monday",
+  "continents": [
+    "Oceania"
+  ],
+  "latlng": [
+    -19.03333333,
+    -169.86666666
+  ],
+  "gini": {}
+}

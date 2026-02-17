@@ -1,0 +1,48 @@
+{
+  "iso_code": "AU",
+  "name_common": "Australia",
+  "name_official": "Commonwealth of Australia",
+  "capital": "Canberra",
+  "population": 27536874,
+  "area_km2": 7692024.0,
+  "region": "Oceania",
+  "subregion": "Australia and New Zealand",
+  "languages": {
+    "eng": "English"
+  },
+  "currencies": {
+    "AUD": {
+      "name": "Australian dollar",
+      "symbol": "$"
+    }
+  },
+  "timezones": [
+    "UTC+05:00",
+    "UTC+06:30",
+    "UTC+07:00",
+    "UTC+08:00",
+    "UTC+09:30",
+    "UTC+10:00",
+    "UTC+10:30",
+    "UTC+11:30"
+  ],
+  "borders": [],
+  "flag_emoji": "🇦🇺",
+  "coat_of_arms_svg": "https://mainfacts.com/media/images/coats_of_arms/au.svg",
+  "maps_google": "https://goo.gl/maps/DcjaDa7UbhnZTndH6",
+  "independent": true,
+  "un_member": true,
+  "landlocked": false,
+  "driving_side": "left",
+  "start_of_week": "monday",
+  "continents": [
+    "Oceania"
+  ],
+  "latlng": [
+    -27.0,
+    133.0
+  ],
+  "gini": {
+    "2014": 34.4
+  }
+}

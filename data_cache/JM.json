@@ -1,0 +1,42 @@
+{
+  "iso_code": "JM",
+  "name_common": "Jamaica",
+  "name_official": "Jamaica",
+  "capital": "Kingston",
+  "population": 2825544,
+  "area_km2": 10991.0,
+  "region": "Americas",
+  "subregion": "Caribbean",
+  "languages": {
+    "eng": "English",
+    "jam": "Jamaican Patois"
+  },
+  "currencies": {
+    "JMD": {
+      "name": "Jamaican dollar",
+      "symbol": "$"
+    }
+  },
+  "timezones": [
+    "UTC-05:00"
+  ],
+  "borders": [],
+  "flag_emoji": "🇯🇲",
+  "coat_of_arms_svg": "https://mainfacts.com/media/images/coats_of_arms/jm.svg",
+  "maps_google": "https://goo.gl/maps/Z8mQ6jxnRQKFwJy9A",
+  "independent": true,
+  "un_member": true,
+  "landlocked": false,
+  "driving_side": "left",
+  "start_of_week": "monday",
+  "continents": [
+    "North America"
+  ],
+  "latlng": [
+    18.25,
+    -77.5
+  ],
+  "gini": {
+    "2004": 45.5
+  }
+}

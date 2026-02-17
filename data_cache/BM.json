@@ -1,0 +1,39 @@
+{
+  "iso_code": "BM",
+  "name_common": "Bermuda",
+  "name_official": "Bermuda",
+  "capital": "Hamilton",
+  "population": 64055,
+  "area_km2": 54.0,
+  "region": "Americas",
+  "subregion": "North America",
+  "languages": {
+    "eng": "English"
+  },
+  "currencies": {
+    "BMD": {
+      "name": "Bermudian dollar",
+      "symbol": "$"
+    }
+  },
+  "timezones": [
+    "UTC-04:00"
+  ],
+  "borders": [],
+  "flag_emoji": "🇧🇲",
+  "coat_of_arms_svg": "https://mainfacts.com/media/images/coats_of_arms/bm.svg",
+  "maps_google": "https://goo.gl/maps/NLsRGNjTzDghTtAJA",
+  "independent": false,
+  "un_member": false,
+  "landlocked": false,
+  "driving_side": "left",
+  "start_of_week": "monday",
+  "continents": [
+    "North America"
+  ],
+  "latlng": [
+    32.33333333,
+    -64.75
+  ],
+  "gini": {}
+}

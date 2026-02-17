@@ -1,0 +1,60 @@
+{
+  "iso_code": "ZW",
+  "name_common": "Zimbabwe",
+  "name_official": "Republic of Zimbabwe",
+  "capital": "Harare",
+  "population": 17073087,
+  "area_km2": 390757.0,
+  "region": "Africa",
+  "subregion": "Southern Africa",
+  "languages": {
+    "bwg": "Chibarwe",
+    "eng": "English",
+    "kck": "Kalanga",
+    "khi": "Khoisan",
+    "ndc": "Ndau",
+    "nde": "Northern Ndebele",
+    "nya": "Chewa",
+    "sna": "Shona",
+    "sot": "Sotho",
+    "toi": "Tonga",
+    "tsn": "Tswana",
+    "tso": "Tsonga",
+    "ven": "Venda",
+    "xho": "Xhosa",
+    "zib": "Zimbabwean Sign Language"
+  },
+  "currencies": {
+    "ZWL": {
+      "name": "Zimbabwean dollar",
+      "symbol": "$"
+    }
+  },
+  "timezones": [
+    "UTC+02:00"
+  ],
+  "borders": [
+    "BWA",
+    "MOZ",
+    "ZAF",
+    "ZMB"
+  ],
+  "flag_emoji": "🇿🇼",
+  "coat_of_arms_svg": "https://mainfacts.com/media/images/coats_of_arms/zw.svg",
+  "maps_google": "https://goo.gl/maps/M26BqdwQctqxXS65A",
+  "independent": true,
+  "un_member": true,
+  "landlocked": true,
+  "driving_side": "left",
+  "start_of_week": "monday",
+  "continents": [
+    "Africa"
+  ],
+  "latlng": [
+    -20.0,
+    30.0
+  ],
+  "gini": {
+    "2019": 50.3
+  }
+}

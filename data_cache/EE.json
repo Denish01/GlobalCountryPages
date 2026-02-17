@@ -1,0 +1,44 @@
+{
+  "iso_code": "EE",
+  "name_common": "Estonia",
+  "name_official": "Republic of Estonia",
+  "capital": "Tallinn",
+  "population": 1369995,
+  "area_km2": 45227.0,
+  "region": "Europe",
+  "subregion": "Northern Europe",
+  "languages": {
+    "est": "Estonian"
+  },
+  "currencies": {
+    "EUR": {
+      "name": "euro",
+      "symbol": "€"
+    }
+  },
+  "timezones": [
+    "UTC+02:00"
+  ],
+  "borders": [
+    "LVA",
+    "RUS"
+  ],
+  "flag_emoji": "🇪🇪",
+  "coat_of_arms_svg": "https://mainfacts.com/media/images/coats_of_arms/ee.svg",
+  "maps_google": "https://goo.gl/maps/6SsynwGUodL1sDvq8",
+  "independent": true,
+  "un_member": true,
+  "landlocked": false,
+  "driving_side": "right",
+  "start_of_week": "monday",
+  "continents": [
+    "Europe"
+  ],
+  "latlng": [
+    59.0,
+    26.0
+  ],
+  "gini": {
+    "2018": 30.3
+  }
+}

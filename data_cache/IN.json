@@ -1,0 +1,50 @@
+{
+  "iso_code": "IN",
+  "name_common": "India",
+  "name_official": "Republic of India",
+  "capital": "New Delhi",
+  "population": 1417492000,
+  "area_km2": 3287263.0,
+  "region": "Asia",
+  "subregion": "Southern Asia",
+  "languages": {
+    "eng": "English",
+    "hin": "Hindi",
+    "tam": "Tamil"
+  },
+  "currencies": {
+    "INR": {
+      "name": "Indian rupee",
+      "symbol": "₹"
+    }
+  },
+  "timezones": [
+    "UTC+05:30"
+  ],
+  "borders": [
+    "BGD",
+    "BTN",
+    "MMR",
+    "CHN",
+    "NPL",
+    "PAK"
+  ],
+  "flag_emoji": "🇮🇳",
+  "coat_of_arms_svg": "https://mainfacts.com/media/images/coats_of_arms/in.svg",
+  "maps_google": "https://goo.gl/maps/WSk3fLwG4vtPQetp7",
+  "independent": true,
+  "un_member": true,
+  "landlocked": false,
+  "driving_side": "left",
+  "start_of_week": "monday",
+  "continents": [
+    "Asia"
+  ],
+  "latlng": [
+    20.0,
+    77.0
+  ],
+  "gini": {
+    "2011": 35.7
+  }
+}

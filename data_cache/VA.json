@@ -1,0 +1,42 @@
+{
+  "iso_code": "VA",
+  "name_common": "Vatican City",
+  "name_official": "Vatican City State",
+  "capital": "Vatican City",
+  "population": 882,
+  "area_km2": 0.49,
+  "region": "Europe",
+  "subregion": "Southern Europe",
+  "languages": {
+    "ita": "Italian",
+    "lat": "Latin"
+  },
+  "currencies": {
+    "EUR": {
+      "name": "euro",
+      "symbol": "€"
+    }
+  },
+  "timezones": [
+    "UTC+01:00"
+  ],
+  "borders": [
+    "ITA"
+  ],
+  "flag_emoji": "🇻🇦",
+  "coat_of_arms_svg": "https://mainfacts.com/media/images/coats_of_arms/va.svg",
+  "maps_google": "https://goo.gl/maps/DTKvw5Bd1QZaDZmE8",
+  "independent": true,
+  "un_member": false,
+  "landlocked": true,
+  "driving_side": "right",
+  "start_of_week": "monday",
+  "continents": [
+    "Europe"
+  ],
+  "latlng": [
+    41.9,
+    12.45
+  ],
+  "gini": {}
+}

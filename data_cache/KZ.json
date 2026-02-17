@@ -1,0 +1,49 @@
+{
+  "iso_code": "KZ",
+  "name_common": "Kazakhstan",
+  "name_official": "Republic of Kazakhstan",
+  "capital": "Astana",
+  "population": 20426568,
+  "area_km2": 2724900.0,
+  "region": "Asia",
+  "subregion": "Central Asia",
+  "languages": {
+    "kaz": "Kazakh",
+    "rus": "Russian"
+  },
+  "currencies": {
+    "KZT": {
+      "name": "Kazakhstani tenge",
+      "symbol": "₸"
+    }
+  },
+  "timezones": [
+    "UTC+05:00",
+    "UTC+06:00"
+  ],
+  "borders": [
+    "CHN",
+    "KGZ",
+    "RUS",
+    "TKM",
+    "UZB"
+  ],
+  "flag_emoji": "🇰🇿",
+  "coat_of_arms_svg": "https://mainfacts.com/media/images/coats_of_arms/kz.svg",
+  "maps_google": "https://goo.gl/maps/8VohJGu7ShuzZYyeA",
+  "independent": true,
+  "un_member": true,
+  "landlocked": true,
+  "driving_side": "right",
+  "start_of_week": "monday",
+  "continents": [
+    "Asia"
+  ],
+  "latlng": [
+    48.0196,
+    66.9237
+  ],
+  "gini": {
+    "2018": 27.8
+  }
+}

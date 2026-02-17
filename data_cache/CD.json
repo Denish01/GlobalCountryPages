@@ -1,0 +1,56 @@
+{
+  "iso_code": "CD",
+  "name_common": "DR Congo",
+  "name_official": "Democratic Republic of the Congo",
+  "capital": "Kinshasa",
+  "population": 112832000,
+  "area_km2": 2344858.0,
+  "region": "Africa",
+  "subregion": "Middle Africa",
+  "languages": {
+    "fra": "French",
+    "kon": "Kikongo",
+    "lin": "Lingala",
+    "lua": "Tshiluba",
+    "swa": "Swahili"
+  },
+  "currencies": {
+    "CDF": {
+      "name": "Congolese franc",
+      "symbol": "FC"
+    }
+  },
+  "timezones": [
+    "UTC+01:00",
+    "UTC+02:00"
+  ],
+  "borders": [
+    "AGO",
+    "BDI",
+    "CAF",
+    "COG",
+    "RWA",
+    "SSD",
+    "TZA",
+    "UGA",
+    "ZMB"
+  ],
+  "flag_emoji": "🇨🇩",
+  "coat_of_arms_svg": "",
+  "maps_google": "https://goo.gl/maps/KfhNVn6VqdZXWu8n9",
+  "independent": true,
+  "un_member": true,
+  "landlocked": false,
+  "driving_side": "right",
+  "start_of_week": "monday",
+  "continents": [
+    "Africa"
+  ],
+  "latlng": [
+    0.0,
+    25.0
+  ],
+  "gini": {
+    "2012": 42.1
+  }
+}

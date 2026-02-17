@@ -1,0 +1,39 @@
+{
+  "iso_code": "AI",
+  "name_common": "Anguilla",
+  "name_official": "Anguilla",
+  "capital": "The Valley",
+  "population": 16010,
+  "area_km2": 91.0,
+  "region": "Americas",
+  "subregion": "Caribbean",
+  "languages": {
+    "eng": "English"
+  },
+  "currencies": {
+    "XCD": {
+      "name": "Eastern Caribbean dollar",
+      "symbol": "$"
+    }
+  },
+  "timezones": [
+    "UTC-04:00"
+  ],
+  "borders": [],
+  "flag_emoji": "🇦🇮",
+  "coat_of_arms_svg": "https://mainfacts.com/media/images/coats_of_arms/ai.svg",
+  "maps_google": "https://goo.gl/maps/3KgLnEyN7amdno2p9",
+  "independent": false,
+  "un_member": false,
+  "landlocked": false,
+  "driving_side": "left",
+  "start_of_week": "monday",
+  "continents": [
+    "North America"
+  ],
+  "latlng": [
+    18.25,
+    -63.16666666
+  ],
+  "gini": {}
+}

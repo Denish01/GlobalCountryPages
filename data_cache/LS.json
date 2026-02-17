@@ -1,0 +1,48 @@
+{
+  "iso_code": "LS",
+  "name_common": "Lesotho",
+  "name_official": "Kingdom of Lesotho",
+  "capital": "Maseru",
+  "population": 2116427,
+  "area_km2": 30355.0,
+  "region": "Africa",
+  "subregion": "Southern Africa",
+  "languages": {
+    "eng": "English",
+    "sot": "Sotho"
+  },
+  "currencies": {
+    "LSL": {
+      "name": "Lesotho loti",
+      "symbol": "L"
+    },
+    "ZAR": {
+      "name": "South African rand",
+      "symbol": "R"
+    }
+  },
+  "timezones": [
+    "UTC+02:00"
+  ],
+  "borders": [
+    "ZAF"
+  ],
+  "flag_emoji": "🇱🇸",
+  "coat_of_arms_svg": "https://mainfacts.com/media/images/coats_of_arms/ls.svg",
+  "maps_google": "https://goo.gl/maps/H8gJi5mL4Cmd1SF28",
+  "independent": true,
+  "un_member": true,
+  "landlocked": true,
+  "driving_side": "left",
+  "start_of_week": "monday",
+  "continents": [
+    "Africa"
+  ],
+  "latlng": [
+    -29.5,
+    28.5
+  ],
+  "gini": {
+    "2017": 44.9
+  }
+}

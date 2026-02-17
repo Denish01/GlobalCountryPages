@@ -1,0 +1,41 @@
+{
+  "iso_code": "CV",
+  "name_common": "Cape Verde",
+  "name_official": "Republic of Cabo Verde",
+  "capital": "Praia",
+  "population": 491233,
+  "area_km2": 4033.0,
+  "region": "Africa",
+  "subregion": "Western Africa",
+  "languages": {
+    "por": "Portuguese"
+  },
+  "currencies": {
+    "CVE": {
+      "name": "Cape Verdean escudo",
+      "symbol": "Esc"
+    }
+  },
+  "timezones": [
+    "UTC-01:00"
+  ],
+  "borders": [],
+  "flag_emoji": "🇨🇻",
+  "coat_of_arms_svg": "https://mainfacts.com/media/images/coats_of_arms/cv.svg",
+  "maps_google": "https://goo.gl/maps/Kc9vy5ChjuiAgMfXA",
+  "independent": true,
+  "un_member": true,
+  "landlocked": false,
+  "driving_side": "right",
+  "start_of_week": "monday",
+  "continents": [
+    "Africa"
+  ],
+  "latlng": [
+    16.5388,
+    -23.0418
+  ],
+  "gini": {
+    "2015": 42.4
+  }
+}

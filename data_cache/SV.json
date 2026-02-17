@@ -1,0 +1,44 @@
+{
+  "iso_code": "SV",
+  "name_common": "El Salvador",
+  "name_official": "Republic of El Salvador",
+  "capital": "San Salvador",
+  "population": 6029976,
+  "area_km2": 21041.0,
+  "region": "Americas",
+  "subregion": "Central America",
+  "languages": {
+    "spa": "Spanish"
+  },
+  "currencies": {
+    "USD": {
+      "name": "United States dollar",
+      "symbol": "$"
+    }
+  },
+  "timezones": [
+    "UTC-06:00"
+  ],
+  "borders": [
+    "GTM",
+    "HND"
+  ],
+  "flag_emoji": "🇸🇻",
+  "coat_of_arms_svg": "https://mainfacts.com/media/images/coats_of_arms/sv.svg",
+  "maps_google": "https://goo.gl/maps/cZnCEi5sEMQtKKcB7",
+  "independent": true,
+  "un_member": true,
+  "landlocked": false,
+  "driving_side": "right",
+  "start_of_week": "monday",
+  "continents": [
+    "North America"
+  ],
+  "latlng": [
+    13.83333333,
+    -88.91666666
+  ],
+  "gini": {
+    "2019": 38.8
+  }
+}

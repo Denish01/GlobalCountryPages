@@ -1,0 +1,44 @@
+{
+  "iso_code": "AE",
+  "name_common": "United Arab Emirates",
+  "name_official": "United Arab Emirates",
+  "capital": "Abu Dhabi",
+  "population": 11294243,
+  "area_km2": 83600.0,
+  "region": "Asia",
+  "subregion": "Western Asia",
+  "languages": {
+    "ara": "Arabic"
+  },
+  "currencies": {
+    "AED": {
+      "name": "United Arab Emirates dirham",
+      "symbol": "د.إ"
+    }
+  },
+  "timezones": [
+    "UTC+04:00"
+  ],
+  "borders": [
+    "OMN",
+    "SAU"
+  ],
+  "flag_emoji": "🇦🇪",
+  "coat_of_arms_svg": "https://mainfacts.com/media/images/coats_of_arms/ae.svg",
+  "maps_google": "https://goo.gl/maps/AZZTDA6GzVAnKMVd8",
+  "independent": true,
+  "un_member": true,
+  "landlocked": false,
+  "driving_side": "right",
+  "start_of_week": "sunday",
+  "continents": [
+    "Asia"
+  ],
+  "latlng": [
+    24.0,
+    54.0
+  ],
+  "gini": {
+    "2018": 26.0
+  }
+}

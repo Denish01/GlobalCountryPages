@@ -1,0 +1,39 @@
+{
+  "iso_code": "TW",
+  "name_common": "Taiwan",
+  "name_official": "Republic of China (Taiwan)",
+  "capital": "Taipei",
+  "population": 23317031,
+  "area_km2": 36197.0,
+  "region": "Asia",
+  "subregion": "Eastern Asia",
+  "languages": {
+    "zho": "Chinese"
+  },
+  "currencies": {
+    "TWD": {
+      "name": "New Taiwan dollar",
+      "symbol": "$"
+    }
+  },
+  "timezones": [
+    "UTC+08:00"
+  ],
+  "borders": [],
+  "flag_emoji": "🇹🇼",
+  "coat_of_arms_svg": "https://mainfacts.com/media/images/coats_of_arms/tw.svg",
+  "maps_google": "https://goo.gl/maps/HgMKFQjNadF3Wa6B6",
+  "independent": false,
+  "un_member": false,
+  "landlocked": false,
+  "driving_side": "right",
+  "start_of_week": "monday",
+  "continents": [
+    "Asia"
+  ],
+  "latlng": [
+    23.5,
+    121.0
+  ],
+  "gini": {}
+}

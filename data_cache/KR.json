@@ -1,0 +1,43 @@
+{
+  "iso_code": "KR",
+  "name_common": "South Korea",
+  "name_official": "Republic of Korea",
+  "capital": "Seoul",
+  "population": 51159889,
+  "area_km2": 100210.0,
+  "region": "Asia",
+  "subregion": "Eastern Asia",
+  "languages": {
+    "kor": "Korean"
+  },
+  "currencies": {
+    "KRW": {
+      "name": "South Korean won",
+      "symbol": "₩"
+    }
+  },
+  "timezones": [
+    "UTC+09:00"
+  ],
+  "borders": [
+    "PRK"
+  ],
+  "flag_emoji": "🇰🇷",
+  "coat_of_arms_svg": "https://mainfacts.com/media/images/coats_of_arms/kr.svg",
+  "maps_google": "https://goo.gl/maps/7ecjaJXefjAQhxjGA",
+  "independent": true,
+  "un_member": true,
+  "landlocked": false,
+  "driving_side": "right",
+  "start_of_week": "monday",
+  "continents": [
+    "Asia"
+  ],
+  "latlng": [
+    37.0,
+    127.5
+  ],
+  "gini": {
+    "2016": 31.4
+  }
+}

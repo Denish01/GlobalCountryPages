@@ -1,0 +1,41 @@
+{
+  "iso_code": "MV",
+  "name_common": "Maldives",
+  "name_official": "Republic of the Maldives",
+  "capital": "Malé",
+  "population": 515132,
+  "area_km2": 300.0,
+  "region": "Asia",
+  "subregion": "Southern Asia",
+  "languages": {
+    "div": "Maldivian"
+  },
+  "currencies": {
+    "MVR": {
+      "name": "Maldivian rufiyaa",
+      "symbol": ".ރ"
+    }
+  },
+  "timezones": [
+    "UTC+05:00"
+  ],
+  "borders": [],
+  "flag_emoji": "🇲🇻",
+  "coat_of_arms_svg": "https://mainfacts.com/media/images/coats_of_arms/mv.svg",
+  "maps_google": "https://goo.gl/maps/MNAWGq9vEdbZ9vUV7",
+  "independent": true,
+  "un_member": true,
+  "landlocked": false,
+  "driving_side": "left",
+  "start_of_week": "sunday",
+  "continents": [
+    "Asia"
+  ],
+  "latlng": [
+    3.25,
+    73.0
+  ],
+  "gini": {
+    "2016": 31.3
+  }
+}

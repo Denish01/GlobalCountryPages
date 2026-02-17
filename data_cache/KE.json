@@ -1,0 +1,48 @@
+{
+  "iso_code": "KE",
+  "name_common": "Kenya",
+  "name_official": "Republic of Kenya",
+  "capital": "Nairobi",
+  "population": 53330978,
+  "area_km2": 580367.0,
+  "region": "Africa",
+  "subregion": "Eastern Africa",
+  "languages": {
+    "eng": "English",
+    "swa": "Swahili"
+  },
+  "currencies": {
+    "KES": {
+      "name": "Kenyan shilling",
+      "symbol": "Sh"
+    }
+  },
+  "timezones": [
+    "UTC+03:00"
+  ],
+  "borders": [
+    "ETH",
+    "SOM",
+    "SSD",
+    "TZA",
+    "UGA"
+  ],
+  "flag_emoji": "🇰🇪",
+  "coat_of_arms_svg": "https://mainfacts.com/media/images/coats_of_arms/ke.svg",
+  "maps_google": "https://goo.gl/maps/Ni9M7wcCxf8bJHLX8",
+  "independent": true,
+  "un_member": true,
+  "landlocked": false,
+  "driving_side": "left",
+  "start_of_week": "monday",
+  "continents": [
+    "Africa"
+  ],
+  "latlng": [
+    1.0,
+    38.0
+  ],
+  "gini": {
+    "2015": 40.8
+  }
+}

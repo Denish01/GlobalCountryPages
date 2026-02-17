@@ -1,0 +1,45 @@
+{
+  "iso_code": "GY",
+  "name_common": "Guyana",
+  "name_official": "Co-operative Republic of Guyana",
+  "capital": "Georgetown",
+  "population": 772975,
+  "area_km2": 214969.0,
+  "region": "Americas",
+  "subregion": "South America",
+  "languages": {
+    "eng": "English"
+  },
+  "currencies": {
+    "GYD": {
+      "name": "Guyanese dollar",
+      "symbol": "$"
+    }
+  },
+  "timezones": [
+    "UTC-04:00"
+  ],
+  "borders": [
+    "BRA",
+    "SUR",
+    "VEN"
+  ],
+  "flag_emoji": "🇬🇾",
+  "coat_of_arms_svg": "https://mainfacts.com/media/images/coats_of_arms/gy.svg",
+  "maps_google": "https://goo.gl/maps/DFsme2xEeugUAsCx5",
+  "independent": true,
+  "un_member": true,
+  "landlocked": false,
+  "driving_side": "left",
+  "start_of_week": "monday",
+  "continents": [
+    "South America"
+  ],
+  "latlng": [
+    5.0,
+    -59.0
+  ],
+  "gini": {
+    "1998": 45.1
+  }
+}

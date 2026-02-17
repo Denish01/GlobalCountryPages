@@ -1,0 +1,39 @@
+{
+  "iso_code": "VG",
+  "name_common": "British Virgin Islands",
+  "name_official": "Virgin Islands",
+  "capital": "Road Town",
+  "population": 39471,
+  "area_km2": 151.0,
+  "region": "Americas",
+  "subregion": "Caribbean",
+  "languages": {
+    "eng": "English"
+  },
+  "currencies": {
+    "USD": {
+      "name": "United States dollar",
+      "symbol": "$"
+    }
+  },
+  "timezones": [
+    "UTC-04:00"
+  ],
+  "borders": [],
+  "flag_emoji": "🇻🇬",
+  "coat_of_arms_svg": "https://mainfacts.com/media/images/coats_of_arms/vg.svg",
+  "maps_google": "https://goo.gl/maps/49C9cSesNVAR9DQk8",
+  "independent": false,
+  "un_member": false,
+  "landlocked": false,
+  "driving_side": "left",
+  "start_of_week": "monday",
+  "continents": [
+    "North America"
+  ],
+  "latlng": [
+    18.431383,
+    -64.62305
+  ],
+  "gini": {}
+}

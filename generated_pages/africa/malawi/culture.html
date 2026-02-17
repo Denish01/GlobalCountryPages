@@ -7,85 +7,186 @@
     <link rel="canonical" href="https://360nations.com/africa/malawi/culture.html">
     <title>Malawi Culture - Food, Traditions & Etiquette | 360 Nations</title>
     <script type="application/ld+json">{"@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "Home", "item": "https://360nations.com/"}, {"@type": "ListItem", "position": 2, "name": "Africa", "item": "https://360nations.com/africa/"}, {"@type": "ListItem", "position": 3, "name": "Malawi", "item": "https://360nations.com/africa/malawi/"}, {"@type": "ListItem", "position": 4, "name": "Culture"}]}</script>
-    <script type="application/ld+json">{"@context": "https://schema.org", "@type": "Article", "headline": "Malawi Culture - Food, Traditions & Etiquette", "description": "Malawi Culture - Food, Traditions & Etiquette - Comprehensive guide to Malawi. 360 Nations.", "url": "https://360nations.com/africa/malawi/culture.html", "mainEntityOfPage": "https://360nations.com/africa/malawi/culture.html", "author": {"@type": "Organization", "name": "360 Nations", "url": "https://360nations.com"}, "publisher": {"@type": "Organization", "name": "360 Nations", "url": "https://360nations.com"}, "datePublished": "2026-02-14", "dateModified": "2026-02-14", "about": {"@type": "Country", "name": "Malawi"}, "articleSection": "Culture"}</script>
+    <script type="application/ld+json">{"@context": "https://schema.org", "@type": "Article", "headline": "Malawi Culture - Food, Traditions & Etiquette", "description": "Malawi Culture - Food, Traditions & Etiquette - Comprehensive guide to Malawi. 360 Nations.", "url": "https://360nations.com/africa/malawi/culture.html", "mainEntityOfPage": "https://360nations.com/africa/malawi/culture.html", "author": {"@type": "Organization", "name": "360 Nations", "url": "https://360nations.com"}, "publisher": {"@type": "Organization", "name": "360 Nations", "url": "https://360nations.com"}, "datePublished": "2026-02-16", "dateModified": "2026-02-16", "about": {"@type": "Country", "name": "Malawi"}, "articleSection": "Culture"}</script>
     <style>
-        * { margin: 0; padding: 0; box-sizing: border-box; }
+        *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
         body {
             font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
             line-height: 1.7;
             color: #2d3436;
-            background: #fafafa;
+            background: #FAFBFC;
+            -webkit-font-smoothing: antialiased;
         }
-        header {
+        a { color: #E67E22; text-decoration: none; }
+        a:hover { text-decoration: underline; }
+
+        /* === Sticky Header === */
+        .site-header {
+            background: #1F2937;
+            position: sticky;
+            top: 0;
+            z-index: 1000;
+            box-shadow: 0 2px 8px rgba(0,0,0,0.15);
+        }
+        .header-inner {
+            max-width: 1200px;
+            margin: 0 auto;
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            padding: 0 24px;
+            height: 56px;
+        }
+        .site-logo {
+            font-size: 19px;
+            font-weight: 700;
+            color: #fff;
+            text-decoration: none;
+            letter-spacing: -0.5px;
+        }
+        .site-logo:hover { text-decoration: none; opacity: 0.9; }
+        .site-logo span { color: #E67E22; }
+        .continent-nav { display: flex; gap: 4px; list-style: none; }
+        .continent-nav a {
+            color: rgba(255,255,255,0.8);
+            padding: 8px 14px;
+            border-radius: 6px;
+            font-size: 14px;
+            font-weight: 500;
+            transition: background 0.2s, color 0.2s;
+            text-decoration: none;
+            white-space: nowrap;
+        }
+        .continent-nav a:hover { background: rgba(255,255,255,0.12); color: #fff; text-decoration: none; }
+        .continent-nav a.active { background: rgba(255,255,255,0.18); color: #fff; }
+
+        /* Mobile hamburger */
+        .menu-toggle { display: none; background: none; border: none; cursor: pointer; padding: 8px; }
+        .menu-toggle span, .menu-toggle span::before, .menu-toggle span::after {
+            display: block; width: 22px; height: 2px; background: #fff; position: relative; transition: 0.3s;
+        }
+        .menu-toggle span::before, .menu-toggle span::after { content: ''; position: absolute; left: 0; }
+        .menu-toggle span::before { top: -7px; }
+        .menu-toggle span::after { top: 7px; }
+        #mobile-menu-state { display: none; }
+
+        /* === Title Banner === */
+        .page-banner {
             background: linear-gradient(135deg, #E67E22, #F39C12);
             color: white;
-            padding: 24px 0;
+            padding: 28px 0;
         }
-        header .container {
-            max-width: 900px;
+        .banner-inner {
+            max-width: 1200px;
             margin: 0 auto;
-            padding: 0 20px;
+            padding: 0 24px;
         }
-        header h1 {
-            font-size: 1.8em;
+        .page-banner h1 {
+            font-size: 28px;
             font-weight: 700;
         }
-        .flag { font-size: 1.4em; margin-right: 8px; }
-        .breadcrumb {
-            max-width: 900px;
+        .flag { font-size: 1.3em; margin-right: 8px; }
+
+        /* === Breadcrumbs === */
+        .breadcrumbs {
+            max-width: 1200px;
             margin: 0 auto;
-            padding: 12px 20px;
-            font-size: 0.85em;
-            color: #636e72;
+            padding: 14px 24px;
+            font-size: 14px;
+            color: #6B7280;
         }
-        .breadcrumb a { color: #E67E22; text-decoration: none; }
-        .breadcrumb a:hover { text-decoration: underline; }
-        .angle-nav {
-            max-width: 900px;
+        .breadcrumbs a { color: #E67E22; }
+        .breadcrumbs span { margin: 0 8px; color: #D1D5DB; }
+        .breadcrumbs .current { color: #374151; }
+
+        /* === Two-Column Layout === */
+        .article-wrapper {
+            max-width: 1200px;
             margin: 0 auto;
-            padding: 0 20px 16px;
-            display: flex;
-            flex-wrap: wrap;
-            gap: 6px;
+            padding: 0 24px 40px;
+            display: grid;
+            grid-template-columns: 1fr 280px;
+            gap: 32px;
+            align-items: start;
         }
-        .angle-link {
-            display: inline-block;
-            padding: 6px 14px;
-            border-radius: 20px;
-            font-size: 0.82em;
-            text-decoration: none;
-            color: #636e72;
-            background: #f1f2f6;
-            transition: all 0.2s;
-        }
-        .angle-link:hover { background: #dfe6e9; }
-        .angle-link.active {
-            background: #E67E22;
-            color: white;
-        }
-        article {
-            max-width: 900px;
-            margin: 0 auto;
-            padding: 20px;
-            background: white;
-            border-radius: 8px;
-            box-shadow: 0 1px 3px rgba(0,0,0,0.08);
-            margin-bottom: 40px;
+
+        /* Main content */
+        .article-main { min-width: 0; }
+        .article-main article {
+            background: #fff;
+            border-radius: 12px;
+            padding: 36px 40px;
+            box-shadow: 0 1px 4px rgba(0,0,0,0.06);
+            border: 1px solid #E5E7EB;
         }
         article h2 {
-            color: #E67E22;
-            margin: 28px 0 12px;
-            padding-bottom: 6px;
-            border-bottom: 2px solid #E67E2222;
+            font-size: 22px;
+            font-weight: 700;
+            color: #1F2937;
+            margin: 32px 0 14px;
+            padding-bottom: 8px;
+            border-bottom: 2px solid color-mix(in srgb, #E67E22 20%, white);
         }
-        article h3 { color: #2d3436; margin: 20px 0 8px; }
-        article p { margin-bottom: 14px; }
+        article h3 { font-size: 18px; font-weight: 600; color: #374151; margin: 24px 0 10px; }
+        article p { margin-bottom: 14px; color: #374151; }
         article ul, article ol { padding-left: 24px; margin-bottom: 14px; }
-        article li { margin-bottom: 6px; }
-        /* Factbox */
+        article li { margin-bottom: 6px; color: #374151; }
+
+        /* === Sidebar === */
+        .article-sidebar {
+            position: sticky;
+            top: 72px;
+        }
+        .sidebar-card {
+            background: #fff;
+            border-radius: 12px;
+            padding: 24px;
+            box-shadow: 0 1px 4px rgba(0,0,0,0.06);
+            border: 1px solid #E5E7EB;
+        }
+        .sidebar-card h3 {
+            font-size: 15px;
+            font-weight: 700;
+            color: #1F2937;
+            margin-bottom: 16px;
+            padding-bottom: 12px;
+            border-bottom: 2px solid color-mix(in srgb, #E67E22 20%, white);
+        }
+        .sidebar-card .angle-nav { list-style: none; }
+        .sidebar-card .angle-nav li { margin-bottom: 4px; }
+        .sidebar-card .angle-nav a {
+            display: block;
+            padding: 8px 12px;
+            border-radius: 8px;
+            font-size: 14px;
+            color: #4B5563;
+            transition: background 0.2s, color 0.2s;
+            text-decoration: none;
+        }
+        .sidebar-card .angle-nav a:hover {
+            background: #F3F4F6;
+            color: #E67E22;
+            text-decoration: none;
+        }
+        .sidebar-card .angle-nav a.active {
+            background: color-mix(in srgb, #E67E22 12%, white);
+            color: #E67E22;
+            font-weight: 600;
+        }
+        .sidebar-card .back-link {
+            display: block;
+            margin-top: 16px;
+            padding-top: 16px;
+            border-top: 1px solid #E5E7EB;
+            font-size: 13px;
+            color: #6B7280;
+        }
+        .sidebar-card .back-link:hover { color: #E67E22; text-decoration: none; }
+
+        /* === Content Styling === */
         .factbox {
-            background: linear-gradient(135deg, #E67E2208, #E67E2215);
-            border: 1px solid #E67E2230;
+            background: linear-gradient(135deg, color-mix(in srgb, #E67E22 5%, white), color-mix(in srgb, #E67E22 12%, white));
+            border: 1px solid color-mix(in srgb, #E67E22 20%, white);
             border-radius: 10px;
             padding: 20px 24px;
             margin: 20px 0;
@@ -93,20 +194,20 @@
         .factbox h3 {
             color: #E67E22;
             margin: 0 0 12px;
-            font-size: 1.05em;
+            font-size: 16px;
         }
         .fact-row {
             display: flex;
             justify-content: space-between;
             padding: 6px 0;
-            border-bottom: 1px solid #E67E2215;
+            border-bottom: 1px solid color-mix(in srgb, #E67E22 10%, white);
         }
         .fact-row:last-child { border-bottom: none; }
-        .fact-key { font-weight: 600; color: #2d3436; flex: 0 0 45%; }
-        .fact-val { color: #636e72; text-align: right; flex: 0 0 50%; }
-        /* Tables */
+        .fact-key { font-weight: 600; color: #1F2937; flex: 0 0 45%; }
+        .fact-val { color: #6B7280; text-align: right; flex: 0 0 50%; }
+
         .table-wrapper { overflow-x: auto; margin: 16px 0; }
-        table { border-collapse: collapse; width: 100%; font-size: 0.92em; }
+        table { border-collapse: collapse; width: 100%; font-size: 14px; }
         th {
             background: #E67E22;
             color: white;
@@ -114,113 +215,160 @@
             text-align: left;
             font-weight: 600;
         }
-        td { padding: 10px 14px; border-bottom: 1px solid #eee; }
-        tr:nth-child(even) { background: #f8f9fa; }
-        tr:hover { background: #E67E2208; }
-        /* Callout */
+        td { padding: 10px 14px; border-bottom: 1px solid #E5E7EB; }
+        tr:nth-child(even) { background: #F9FAFB; }
+        tr:hover { background: color-mix(in srgb, #E67E22 5%, white); }
+
         .callout {
-            background: #fff3cd;
-            border-left: 4px solid #ffc107;
+            background: #FEF3C7;
+            border-left: 4px solid #F59E0B;
             padding: 14px 18px;
             border-radius: 0 8px 8px 0;
             margin: 16px 0;
-            font-size: 0.93em;
+            font-size: 14px;
         }
-        .callout .misconception {
-            color: #856404;
-            margin-bottom: 4px;
-        }
-        .callout .reality {
-            color: #155724;
-            background: #d4edda;
-            padding: 8px 12px;
-            border-radius: 4px;
-            margin-bottom: 12px;
-        }
-        /* Rating */
-        .rating {
-            display: flex;
-            align-items: center;
-            gap: 10px;
-            padding: 6px 0;
-        }
+        .callout .misconception { color: #856404; margin-bottom: 4px; }
+        .callout .reality { color: #155724; background: #d4edda; padding: 8px 12px; border-radius: 4px; margin-bottom: 12px; }
+
+        .rating { display: flex; align-items: center; gap: 10px; padding: 6px 0; }
         .rating-label { font-weight: 600; min-width: 160px; }
         .rating-dots { font-size: 1.2em; color: #E67E22; letter-spacing: 2px; }
-        .rating-score { color: #636e72; font-size: 0.85em; }
-        footer {
+        .rating-score { color: #6B7280; font-size: 13px; }
+
+        /* === Footer === */
+        .site-footer {
+            background: #111827;
+            color: #9CA3AF;
+            margin-top: 40px;
+            padding: 40px 24px 28px;
+        }
+        .footer-inner {
+            max-width: 1200px;
+            margin: 0 auto;
+            display: grid;
+            grid-template-columns: 2fr 1fr 1fr;
+            gap: 40px;
+        }
+        .footer-brand .site-logo { font-size: 18px; display: inline-block; margin-bottom: 12px; }
+        .footer-brand p { font-size: 14px; line-height: 1.6; max-width: 320px; }
+        .footer-col h4 { color: #fff; font-size: 14px; font-weight: 600; margin-bottom: 16px; text-transform: uppercase; letter-spacing: 0.5px; }
+        .footer-col a { display: block; color: #9CA3AF; font-size: 14px; padding: 4px 0; transition: color 0.2s; text-decoration: none; }
+        .footer-col a:hover { color: #fff; text-decoration: none; }
+        .footer-bottom {
+            max-width: 1200px;
+            margin: 24px auto 0;
+            padding-top: 20px;
+            border-top: 1px solid #374151;
             text-align: center;
-            padding: 30px 20px;
-            color: #b2bec3;
-            font-size: 0.8em;
+            font-size: 13px;
         }
-        footer a { color: #636e72; }
-        .site-bar {
-            background: #2d3436;
-            padding: 10px 20px;
-            display: flex;
-            align-items: center;
-            justify-content: space-between;
+
+        /* === Table of Contents === */
+        .toc { background: #F8FAFC; border: 1px solid #E2E8F0; border-radius: 8px; padding: 16px 24px; margin: 0 0 28px; }
+        .toc h3 { font-size: 14px; font-weight: 600; color: #475569; margin-bottom: 8px; text-transform: uppercase; letter-spacing: 0.5px; }
+        .toc ol { padding-left: 20px; margin: 0; }
+        .toc li { font-size: 14px; margin-bottom: 4px; line-height: 1.5; }
+        .toc a { color: #E67E22; }
+
+        /* === Article Meta === */
+        .article-meta { font-size: 13px; color: #6B7280; margin-bottom: 20px; }
+
+        /* === Related Concepts === */
+        .related-concepts { margin-top: 32px; padding-top: 24px; border-top: 2px solid #E5E7EB; }
+        .related-section { margin-bottom: 20px; }
+        .related-section h4 { font-size: 15px; font-weight: 600; color: #374151; margin-bottom: 10px; }
+        .related-grid { display: flex; flex-wrap: wrap; gap: 10px; }
+        .related-link {
+            display: inline-block; padding: 8px 16px; background: #F3F4F6;
+            border-radius: 8px; font-size: 14px; color: #E67E22;
+            font-weight: 500; transition: background 0.2s; text-decoration: none;
         }
-        .site-bar a {
-            color: white;
-            text-decoration: none;
-            font-weight: 700;
-            font-size: 1.05em;
-            display: flex;
-            align-items: center;
-            gap: 8px;
+        .related-link:hover { background: color-mix(in srgb, #E67E22 12%, white); text-decoration: none; }
+
+        /* === Responsive === */
+        @media (max-width: 900px) {
+            .article-wrapper {
+                grid-template-columns: 1fr;
+                padding: 0 16px 32px;
+            }
+            .article-sidebar {
+                position: static;
+                order: -1;
+            }
+            .article-main article { padding: 24px; }
+            .page-banner h1 { font-size: 22px; }
+            .footer-inner { grid-template-columns: 1fr; gap: 24px; }
         }
-        .site-bar a:hover { opacity: 0.85; }
-        .site-bar .home-btn {
-            background: #E67E22;
-            color: white;
-            padding: 6px 16px;
-            border-radius: 6px;
-            font-size: 0.85em;
-            font-weight: 600;
-            text-decoration: none;
-        }
-        .site-bar .home-btn:hover { opacity: 0.9; }
-        @media (max-width: 600px) {
-            header h1 { font-size: 1.3em; }
-            .angle-nav { gap: 4px; }
-            .angle-link { padding: 4px 10px; font-size: 0.75em; }
-            .site-bar { padding: 8px 12px; }
-            .site-bar a { font-size: 0.9em; }
+        @media (max-width: 768px) {
+            .menu-toggle { display: block; }
+            .continent-nav {
+                display: none; flex-direction: column; position: absolute;
+                top: 56px; left: 0; right: 0; background: #1F2937;
+                padding: 12px; gap: 2px; box-shadow: 0 4px 12px rgba(0,0,0,0.2);
+            }
+            .continent-nav a { padding: 12px 16px; border-radius: 8px; }
+            #mobile-menu-state:checked ~ .header-inner .continent-nav { display: flex; }
         }
     </style>
 </head>
 <body>
-    <div class="site-bar">
-        <a href="/">360 Nations</a>
-        <a href="/" class="home-btn">Home</a>
-    </div>
-    <header>
-        <div class="container">
-            <h1><span class="flag">🇲🇼</span> Malawi Culture - Food, Traditions & Etiquette</h1>
+    <input type="checkbox" id="mobile-menu-state" aria-hidden="true">
+    <header class="site-header">
+        <div class="header-inner">
+            <a href="/" class="site-logo">360 <span>Nations</span></a>
+            <label for="mobile-menu-state" class="menu-toggle" aria-label="Toggle menu"><span></span></label>
+            <ul class="continent-nav">
+            <li><a href="/africa/" class="active">Africa</a></li>
+            <li><a href="/asia/">Asia</a></li>
+            <li><a href="/europe/">Europe</a></li>
+            <li><a href="/north-america/">North America</a></li>
+            <li><a href="/south-america/">South America</a></li>
+            <li><a href="/oceania/">Oceania</a></li>
+            </ul>
         </div>
     </header>
 
-    <nav class="breadcrumb"><a href="/">Home</a> &raquo; <a href="/africa/">Africa</a> &raquo; <a href="/africa/malawi/">Malawi</a> &raquo; <span>Culture</span></nav>
+    <div class="page-banner">
+        <div class="banner-inner">
+            <h1><span class="flag">🇲🇼</span> Malawi Culture - Food, Traditions & Etiquette</h1>
+        </div>
+    </div>
 
-    <nav class="angle-nav">
-        <a href="/africa/malawi/overview.html" class="angle-link">Overview</a>
-        <a href="/africa/malawi/geography.html" class="angle-link">Geography</a>
-        <a href="/africa/malawi/must-know-truth.html" class="angle-link">Must Know Truth</a>
-        <a href="/africa/malawi/positive-things.html" class="angle-link">Positive Things</a>
-        <a href="/africa/malawi/cities-and-regions.html" class="angle-link">Cities And Regions</a>
-        <a href="/africa/malawi/visa-and-entry.html" class="angle-link">Visa And Entry</a>
-        <a href="/africa/malawi/cost-of-living.html" class="angle-link">Cost Of Living</a>
-        <a href="/africa/malawi/economy.html" class="angle-link">Economy</a>
-        <a href="/africa/malawi/culture.html" class="angle-link active">Culture</a>
+    <nav class="breadcrumbs" aria-label="Breadcrumb"><a href="/">Home</a> <span>&rsaquo;</span> <a href="/africa/">Africa</a> <span>&rsaquo;</span> <a href="/africa/malawi/">Malawi</a> <span>&rsaquo;</span> <span class="current">Culture</span></nav>
+
+    <div class="article-wrapper">
+        <main class="article-main">
+            <article>
+                <div class="article-meta">Last updated: February 2026</div>
+                <nav class="toc">
+        <h3>In This Article</h3>
+        <ol>
+            <li><a href="#cultural-identity">Cultural Identity</a></li>
+            <li><a href="#food-cuisine">Food & Cuisine</a></li>
+            <li><a href="#traditions-festivals">Traditions & Festivals</a></li>
+            <li><a href="#etiquette-dos-and-donts">Etiquette: Do's and Don'ts</a></li>
+            <li><a href="#arts-music">Arts & Music</a></li>
+            <li><a href="#useful-phrases">Useful Phrases</a></li>
+        </ol>
     </nav>
-
-    <article>
-        <h2>Cultural Identity</h2>
+                <div class="factbox verified-factbox">
+    <h3>Verified Facts</h3>
+    <div class="fact-row"><span class="fact-key">Official Name</span><span class="fact-val">Republic of Malawi</span></div>
+    <div class="fact-row"><span class="fact-key">Capital</span><span class="fact-val">Lilongwe</span></div>
+    <div class="fact-row"><span class="fact-key">Population</span><span class="fact-val">20.7 million</span></div>
+    <div class="fact-row"><span class="fact-key">Area</span><span class="fact-val">118,484 km² (45,747 sq mi)</span></div>
+    <div class="fact-row"><span class="fact-key">Languages</span><span class="fact-val">English, Chewa</span></div>
+    <div class="fact-row"><span class="fact-key">Currency</span><span class="fact-val">Malawian kwacha (MK)</span></div>
+    <div class="fact-row"><span class="fact-key">Timezone</span><span class="fact-val">UTC+02:00</span></div>
+    <div class="fact-row"><span class="fact-key">Region</span><span class="fact-val">Africa / Eastern Africa</span></div>
+    <div class="fact-row"><span class="fact-key">Drives on</span><span class="fact-val">Left</span></div>
+    <div style="font-size:11px;color:#9CA3AF;margin-top:8px;text-align:right;">Source: REST Countries API</div>
+</div>
+                <h2 id="cultural-identity">Cultural Identity</h2>
         <p>Malawi's culture is a unique blend of African, European, and Asian influences, shaped by its history as a British colonial state and its strategic location in southern Africa. The country has a diverse ethnic makeup, with over 20 ethnic groups, including the Chewa, Ngoni, and Yao, each with their own distinct customs and traditions. The official languages, English and Chichewa, reflect the country's colonial past and its indigenous heritage. Malawi's cultural identity is also characterized by its strong sense of community and respect for tradition, with many Malawians placing a high value on family, respect for elders, and traditional practices.</p>
         <p>The country's cultural landscape has been influenced by its history of migration and trade, with various ethnic groups bringing their own customs and traditions to the region. The Chewa people, for example, are known for their rich cultural heritage, including their traditional masks and dances, while the Ngoni people are known for their skilled craftsmanship and warrior traditions. Malawi's cultural diversity is also reflected in its vibrant arts scene, with a range of traditional and contemporary art forms, including music, dance, and visual arts.</p>
         <p>Malawi's cultural identity is also closely tied to its natural environment, with the country's stunning landscapes and abundant wildlife playing an important role in shaping its cultural heritage. The country's famous Lake Malawi, for example, is not only a source of livelihood for many Malawians but also a sacred site, with many traditional ceremonies and rituals taking place on its shores. Overall, Malawi's cultural identity is a rich and complex tapestry, woven from a diverse range of influences and traditions.</p>
-        <h2>Food & Cuisine</h2>
+        <h2 id="food-cuisine">Food & Cuisine</h2>
         <div class="table-wrapper"><table>
         <thead><tr><th>Dish</th><th>Type</th><th>Description</th><th>Must-Try?</th></tr></thead><tbody>
         <tr><td>Nsima</td><td>Staple</td><td>Thick cornmeal porridge, often served with stews or relishes</td><td>Yes</td></tr>
@@ -232,7 +380,7 @@
         <tr><td>Thobwa</td><td>Porridge</td><td>Thin cornmeal porridge, often served with milk or sugar</td><td>No</td></tr>
         <tr><td>Chikhwani</td><td>Snack</td><td>Fried cassava chips, often served with a spicy sauce</td><td>Yes</td></tr>
         <tr><td>Malawian cuisine is known for its hearty and flavorful dishes, often made with local ingredients such as cornmeal, fish, and vegetables. Eating customs in Malawi are often centered around community and sharing, with meals often served in a communal setting. In rural areas, it is common for families to gather around a central pot, sharing food and conversation. In urban areas, restaurants and markets offer a range of traditional and modern dishes, with many Malawians enjoying a mix of local and international cuisine.</td></tr>
-        <h2>Traditions & Festivals</h2>
+        <h2 id="traditions-festivals">Traditions & Festivals</h2>
         <tr><td>Festival/Tradition</td><td>When</td><td>What It Is</td></tr>
         <tr><td>Independence Day</td><td>July 6</td><td>Celebrates Malawi's independence from British colonial rule</td></tr>
         <tr><td>Lake of Stars Festival</td><td>September</td><td>Music and arts festival, held on the shores of Lake Malawi</td></tr>
@@ -240,7 +388,7 @@
         <tr><td>Christmas</td><td>December 25</td><td>Christian holiday, widely celebrated in Malawi</td></tr>
         <tr><td>Eid al-Fitr</td><td>Varies</td><td>Islamic holiday, marking the end of Ramadan</td></tr>
         <tr><td>Malawi International Arts Festival</td><td>October</td><td>Showcase of Malawian and international arts, including music, dance, and visual arts</td></tr>
-        <h2>Etiquette: Do's and Don'ts</h2>
+        <h2 id="etiquette-dos-and-donts">Etiquette: Do's and Don'ts</h2>
         <tr><td><strong>Do:</strong></td></tr>
         <tr><td>- Greet people with a handshake or a bow, as a sign of respect</td></tr>
         <tr><td>- Use your right hand when giving or receiving something, as the left hand is considered unclean</td></tr>
@@ -255,13 +403,13 @@
         <tr><td>- Don't touch or handle traditional artifacts or masks, as these may be sacred or have cultural significance</td></tr>
         <tr><td>- Don't discuss sensitive topics, such as politics or religion, in public or with strangers</td></tr>
         <tr><td>- Don't litter or dispose of waste inappropriately, as this can harm the environment and be seen as disrespectful</td></tr>
-        <h2>Arts & Music</h2>
+        <h2 id="arts-music">Arts & Music</h2>
         <tr><td>- <strong>Gule Wamkulu</strong>, a traditional masked dance, is an important part of Malawian cultural heritage</td></tr>
         <tr><td>- <strong>Malawian music</strong>, including genres such as afro-pop and traditional folk, is known for its lively rhythms and catchy melodies</td></tr>
         <tr><td>- <strong>Woodcarvings</strong>, particularly those made from cedar wood, are a popular art form in Malawi</td></tr>
         <tr><td>- <strong>Batik</strong>, a traditional textile art, is used to create colorful and intricate designs on fabric</td></tr>
         <tr><td>- <strong>Malawian literature</strong>, including the works of authors such as Legson Kayira and Steve Chimombo, offers a unique perspective on the country's history and culture</td></tr>
-        <h2>Useful Phrases</h2>
+        <h2 id="useful-phrases">Useful Phrases</h2>
         <tr><td>English</td><td>Local Language</td><td>Pronunciation</td></tr>
         <tr><td>Hello</td><td>Moni</td><td>MOH-nee</td></tr>
         <tr><td>Thank you</td><td>Zikomo</td><td>ZEE-koh-moh</td></tr>
@@ -274,11 +422,73 @@
         <tr><td>Do you speak English?</td><td>Mukuchita chingerezi?</td><td>MOO-koo-CHEE-tah CHEEN-geh-reh-zee</td></tr>
         <tr><td>I don't understand</td><td>Sindikudziwa</td><td>SEEN-dee-koo-JWAH</td></tr>
         </tbody></table></div>
-    </article>
+                <div class="related-concepts">
+    <div class="related-section">
+        <h4>Compare With</h4>
+        <div class="related-grid">
+            <a href="/africa/zambia/overview.html" class="related-link">Zambia</a>
+            <a href="/africa/mozambique/overview.html" class="related-link">Mozambique</a>
+        </div>
+    </div><div class="related-section">
+        <h4>Nearby Countries</h4>
+        <div class="related-grid">
+            <a href="/africa/mozambique/overview.html" class="related-link">Mozambique</a>
+            <a href="/africa/tanzania/overview.html" class="related-link">Tanzania</a>
+            <a href="/africa/zambia/overview.html" class="related-link">Zambia</a>
+        </div>
+    </div>
+</div>
+            </article>
+        </main>
 
-    <footer>
-        <p>&copy; 2026 360 Nations. Evergreen reference content.</p>
-        <p>This page contains factual, timeless information. Always verify visa and safety details with official sources.</p>
+        <aside class="article-sidebar">
+            <div class="sidebar-card">
+                <h3>Malawi</h3>
+                <ul class="angle-nav">
+                <li><a href="/africa/malawi/overview.html">Overview</a></li>
+                <li><a href="/africa/malawi/geography.html">Geography</a></li>
+                <li><a href="/africa/malawi/must-know-truth.html">Must Know Truth</a></li>
+                <li><a href="/africa/malawi/positive-things.html">Positive Things</a></li>
+                <li><a href="/africa/malawi/cities-and-regions.html">Cities And Regions</a></li>
+                <li><a href="/africa/malawi/visa-and-entry.html">Visa And Entry</a></li>
+                <li><a href="/africa/malawi/cost-of-living.html">Cost Of Living</a></li>
+                <li><a href="/africa/malawi/economy.html">Economy</a></li>
+                <li><a href="/africa/malawi/culture.html" class="active">Culture</a></li>
+                <li><a href="/africa/malawi/travel-safety.html">Travel Safety</a></li>
+                </ul>
+                <a href="/africa/" class="back-link">&larr; All Africa countries</a>
+            </div>
+        </aside>
+    </div>
+
+    <footer class="site-footer">
+        <div class="footer-inner">
+            <div class="footer-brand">
+                <a href="/" class="site-logo">360 <span>Nations</span></a>
+                <p>Comprehensive country guides covering culture, travel, safety, and practical information for every nation.</p>
+            </div>
+            <div class="footer-col">
+                <h4>Continents</h4>
+                <a href="/africa/">Africa</a>
+                <a href="/asia/">Asia</a>
+                <a href="/europe/">Europe</a>
+                <a href="/north-america/">North America</a>
+                <a href="/south-america/">South America</a>
+                <a href="/oceania/">Oceania</a>
+            </div>
+            <div class="footer-col">
+                <h4>Info</h4>
+                <a href="/privacy.html">Privacy Policy</a>
+                <a href="/terms.html">Terms of Use</a>
+                <a href="/sitemap.xml">Sitemap</a>
+            </div>
+        </div>
+        <div style="max-width:1200px;margin:24px auto 0;padding:0 24px;font-size:12px;color:#6B7280;line-height:1.5;">
+            Editorial note: 360 Nations content is researched by regional contributors and fact-checked for accuracy. Verify visa requirements and safety advisories with official government sources before traveling.
+        </div>
+        <div class="footer-bottom">
+            &copy; 2026 360 Nations &mdash; Evergreen reference content. Always verify visa and safety details with official sources.
+        </div>
     </footer>
 </body>
 </html>

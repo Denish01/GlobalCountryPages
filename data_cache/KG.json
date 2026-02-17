@@ -1,0 +1,47 @@
+{
+  "iso_code": "KG",
+  "name_common": "Kyrgyzstan",
+  "name_official": "Kyrgyz Republic",
+  "capital": "Bishkek",
+  "population": 7281800,
+  "area_km2": 199951.0,
+  "region": "Asia",
+  "subregion": "Central Asia",
+  "languages": {
+    "kir": "Kyrgyz",
+    "rus": "Russian"
+  },
+  "currencies": {
+    "KGS": {
+      "name": "Kyrgyzstani som",
+      "symbol": "с"
+    }
+  },
+  "timezones": [
+    "UTC+06:00"
+  ],
+  "borders": [
+    "CHN",
+    "KAZ",
+    "TJK",
+    "UZB"
+  ],
+  "flag_emoji": "🇰🇬",
+  "coat_of_arms_svg": "https://mainfacts.com/media/images/coats_of_arms/kg.svg",
+  "maps_google": "https://goo.gl/maps/SKG8BSMMQVvxkRkB7",
+  "independent": true,
+  "un_member": true,
+  "landlocked": true,
+  "driving_side": "right",
+  "start_of_week": "monday",
+  "continents": [
+    "Asia"
+  ],
+  "latlng": [
+    41.0,
+    75.0
+  ],
+  "gini": {
+    "2019": 29.7
+  }
+}

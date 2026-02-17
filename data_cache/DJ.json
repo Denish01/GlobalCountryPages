@@ -1,0 +1,46 @@
+{
+  "iso_code": "DJ",
+  "name_common": "Djibouti",
+  "name_official": "Republic of Djibouti",
+  "capital": "Djibouti",
+  "population": 1066809,
+  "area_km2": 23200.0,
+  "region": "Africa",
+  "subregion": "Eastern Africa",
+  "languages": {
+    "ara": "Arabic",
+    "fra": "French"
+  },
+  "currencies": {
+    "DJF": {
+      "name": "Djiboutian franc",
+      "symbol": "Fr"
+    }
+  },
+  "timezones": [
+    "UTC+03:00"
+  ],
+  "borders": [
+    "ERI",
+    "ETH",
+    "SOM"
+  ],
+  "flag_emoji": "🇩🇯",
+  "coat_of_arms_svg": "https://mainfacts.com/media/images/coats_of_arms/dj.svg",
+  "maps_google": "https://goo.gl/maps/V1HWfzN3bS1kwf4C6",
+  "independent": true,
+  "un_member": true,
+  "landlocked": false,
+  "driving_side": "right",
+  "start_of_week": "monday",
+  "continents": [
+    "Africa"
+  ],
+  "latlng": [
+    11.5,
+    43.0
+  ],
+  "gini": {
+    "2017": 41.6
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "iso_code": "PR",
+  "name_common": "Puerto Rico",
+  "name_official": "Commonwealth of Puerto Rico",
+  "capital": "San Juan",
+  "population": 3203295,
+  "area_km2": 8870.0,
+  "region": "Americas",
+  "subregion": "Caribbean",
+  "languages": {
+    "eng": "English",
+    "spa": "Spanish"
+  },
+  "currencies": {
+    "USD": {
+      "name": "United States dollar",
+      "symbol": "$"
+    }
+  },
+  "timezones": [
+    "UTC-04:00"
+  ],
+  "borders": [],
+  "flag_emoji": "🇵🇷",
+  "coat_of_arms_svg": "",
+  "maps_google": "https://goo.gl/maps/sygfDbtwn389wu8x5",
+  "independent": false,
+  "un_member": false,
+  "landlocked": false,
+  "driving_side": "right",
+  "start_of_week": "monday",
+  "continents": [
+    "North America"
+  ],
+  "latlng": [
+    18.25,
+    -66.5
+  ],
+  "gini": {}
+}

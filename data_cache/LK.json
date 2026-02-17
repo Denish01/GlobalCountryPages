@@ -1,0 +1,42 @@
+{
+  "iso_code": "LK",
+  "name_common": "Sri Lanka",
+  "name_official": "Democratic Socialist Republic of Sri Lanka",
+  "capital": "Sri Jayawardenepura Kotte",
+  "population": 21763170,
+  "area_km2": 65610.0,
+  "region": "Asia",
+  "subregion": "Southern Asia",
+  "languages": {
+    "sin": "Sinhala",
+    "tam": "Tamil"
+  },
+  "currencies": {
+    "LKR": {
+      "name": "Sri Lankan rupee",
+      "symbol": "Rs  රු"
+    }
+  },
+  "timezones": [
+    "UTC+05:30"
+  ],
+  "borders": [],
+  "flag_emoji": "🇱🇰",
+  "coat_of_arms_svg": "https://mainfacts.com/media/images/coats_of_arms/lk.svg",
+  "maps_google": "https://goo.gl/maps/VkPHoeFSfgzRQCDv8",
+  "independent": true,
+  "un_member": true,
+  "landlocked": false,
+  "driving_side": "left",
+  "start_of_week": "monday",
+  "continents": [
+    "Asia"
+  ],
+  "latlng": [
+    7.0,
+    81.0
+  ],
+  "gini": {
+    "2016": 39.3
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "iso_code": "MZ",
+  "name_common": "Mozambique",
+  "name_official": "Republic of Mozambique",
+  "capital": "Maputo",
+  "population": 34090466,
+  "area_km2": 801590.0,
+  "region": "Africa",
+  "subregion": "Eastern Africa",
+  "languages": {
+    "por": "Portuguese"
+  },
+  "currencies": {
+    "MZN": {
+      "name": "Mozambican metical",
+      "symbol": "MT"
+    }
+  },
+  "timezones": [
+    "UTC+02:00"
+  ],
+  "borders": [
+    "MWI",
+    "ZAF",
+    "SWZ",
+    "TZA",
+    "ZMB",
+    "ZWE"
+  ],
+  "flag_emoji": "🇲🇿",
+  "coat_of_arms_svg": "https://mainfacts.com/media/images/coats_of_arms/mz.svg",
+  "maps_google": "https://goo.gl/maps/xCLcY9fzU6x4Pueu5",
+  "independent": true,
+  "un_member": true,
+  "landlocked": false,
+  "driving_side": "left",
+  "start_of_week": "monday",
+  "continents": [
+    "Africa"
+  ],
+  "latlng": [
+    -18.25,
+    35.0
+  ],
+  "gini": {
+    "2014": 54.0
+  }
+}

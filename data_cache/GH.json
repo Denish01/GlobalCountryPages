@@ -1,0 +1,45 @@
+{
+  "iso_code": "GH",
+  "name_common": "Ghana",
+  "name_official": "Republic of Ghana",
+  "capital": "Accra",
+  "population": 33742380,
+  "area_km2": 238533.0,
+  "region": "Africa",
+  "subregion": "Western Africa",
+  "languages": {
+    "eng": "English"
+  },
+  "currencies": {
+    "GHS": {
+      "name": "Ghanaian cedi",
+      "symbol": "₵"
+    }
+  },
+  "timezones": [
+    "UTC"
+  ],
+  "borders": [
+    "BFA",
+    "CIV",
+    "TGO"
+  ],
+  "flag_emoji": "🇬🇭",
+  "coat_of_arms_svg": "https://mainfacts.com/media/images/coats_of_arms/gh.svg",
+  "maps_google": "https://goo.gl/maps/Avy5RSmdsXFBaiXq8",
+  "independent": true,
+  "un_member": true,
+  "landlocked": false,
+  "driving_side": "right",
+  "start_of_week": "monday",
+  "continents": [
+    "Africa"
+  ],
+  "latlng": [
+    8.0,
+    -2.0
+  ],
+  "gini": {
+    "2016": 43.5
+  }
+}

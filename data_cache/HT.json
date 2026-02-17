@@ -1,0 +1,44 @@
+{
+  "iso_code": "HT",
+  "name_common": "Haiti",
+  "name_official": "Republic of Haiti",
+  "capital": "Port-au-Prince",
+  "population": 11867032,
+  "area_km2": 27750.0,
+  "region": "Americas",
+  "subregion": "Caribbean",
+  "languages": {
+    "fra": "French",
+    "hat": "Haitian Creole"
+  },
+  "currencies": {
+    "HTG": {
+      "name": "Haitian gourde",
+      "symbol": "G"
+    }
+  },
+  "timezones": [
+    "UTC-05:00"
+  ],
+  "borders": [
+    "DOM"
+  ],
+  "flag_emoji": "🇭🇹",
+  "coat_of_arms_svg": "https://mainfacts.com/media/images/coats_of_arms/ht.svg",
+  "maps_google": "https://goo.gl/maps/9o13xtjuUdqFnHbn9",
+  "independent": true,
+  "un_member": true,
+  "landlocked": false,
+  "driving_side": "right",
+  "start_of_week": "monday",
+  "continents": [
+    "North America"
+  ],
+  "latlng": [
+    19.0,
+    -72.41666666
+  ],
+  "gini": {
+    "2012": 41.1
+  }
+}

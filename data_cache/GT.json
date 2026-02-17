@@ -1,0 +1,46 @@
+{
+  "iso_code": "GT",
+  "name_common": "Guatemala",
+  "name_official": "Republic of Guatemala",
+  "capital": "Guatemala City",
+  "population": 18079810,
+  "area_km2": 108889.0,
+  "region": "Americas",
+  "subregion": "Central America",
+  "languages": {
+    "spa": "Spanish"
+  },
+  "currencies": {
+    "GTQ": {
+      "name": "Guatemalan quetzal",
+      "symbol": "Q"
+    }
+  },
+  "timezones": [
+    "UTC-06:00"
+  ],
+  "borders": [
+    "BLZ",
+    "SLV",
+    "HND",
+    "MEX"
+  ],
+  "flag_emoji": "🇬🇹",
+  "coat_of_arms_svg": "https://mainfacts.com/media/images/coats_of_arms/gt.svg",
+  "maps_google": "https://goo.gl/maps/JoRAbem4Hxb9FYbVA",
+  "independent": true,
+  "un_member": true,
+  "landlocked": false,
+  "driving_side": "right",
+  "start_of_week": "monday",
+  "continents": [
+    "North America"
+  ],
+  "latlng": [
+    15.5,
+    -90.25
+  ],
+  "gini": {
+    "2014": 48.3
+  }
+}

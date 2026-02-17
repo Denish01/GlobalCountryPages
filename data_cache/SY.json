@@ -1,0 +1,47 @@
+{
+  "iso_code": "SY",
+  "name_common": "Syria",
+  "name_official": "Syrian Arab Republic",
+  "capital": "Damascus",
+  "population": 25620000,
+  "area_km2": 185180.0,
+  "region": "Asia",
+  "subregion": "Western Asia",
+  "languages": {
+    "ara": "Arabic"
+  },
+  "currencies": {
+    "SYP": {
+      "name": "Syrian pound",
+      "symbol": "£"
+    }
+  },
+  "timezones": [
+    "UTC+02:00"
+  ],
+  "borders": [
+    "IRQ",
+    "ISR",
+    "JOR",
+    "LBN",
+    "TUR"
+  ],
+  "flag_emoji": "🇸🇾",
+  "coat_of_arms_svg": "https://mainfacts.com/media/images/coats_of_arms/sy.svg",
+  "maps_google": "https://goo.gl/maps/Xe3VnFbwdb4nv2SM9",
+  "independent": true,
+  "un_member": true,
+  "landlocked": false,
+  "driving_side": "right",
+  "start_of_week": "monday",
+  "continents": [
+    "Asia"
+  ],
+  "latlng": [
+    35.0,
+    38.0
+  ],
+  "gini": {
+    "2003": 37.5
+  }
+}

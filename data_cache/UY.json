@@ -1,0 +1,44 @@
+{
+  "iso_code": "UY",
+  "name_common": "Uruguay",
+  "name_official": "Oriental Republic of Uruguay",
+  "capital": "Montevideo",
+  "population": 3499451,
+  "area_km2": 181034.0,
+  "region": "Americas",
+  "subregion": "South America",
+  "languages": {
+    "spa": "Spanish"
+  },
+  "currencies": {
+    "UYU": {
+      "name": "Uruguayan peso",
+      "symbol": "$"
+    }
+  },
+  "timezones": [
+    "UTC-03:00"
+  ],
+  "borders": [
+    "ARG",
+    "BRA"
+  ],
+  "flag_emoji": "🇺🇾",
+  "coat_of_arms_svg": "https://mainfacts.com/media/images/coats_of_arms/uy.svg",
+  "maps_google": "https://goo.gl/maps/tiQ9Baekb1jQtDSD9",
+  "independent": true,
+  "un_member": true,
+  "landlocked": false,
+  "driving_side": "right",
+  "start_of_week": "monday",
+  "continents": [
+    "South America"
+  ],
+  "latlng": [
+    -33.0,
+    -56.0
+  ],
+  "gini": {
+    "2019": 39.7
+  }
+}

@@ -7,85 +7,186 @@
     <link rel="canonical" href="https://360nations.com/asia/bahrain/culture.html">
     <title>Bahrain Culture - Food, Traditions & Etiquette | 360 Nations</title>
     <script type="application/ld+json">{"@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "Home", "item": "https://360nations.com/"}, {"@type": "ListItem", "position": 2, "name": "Asia", "item": "https://360nations.com/asia/"}, {"@type": "ListItem", "position": 3, "name": "Bahrain", "item": "https://360nations.com/asia/bahrain/"}, {"@type": "ListItem", "position": 4, "name": "Culture"}]}</script>
-    <script type="application/ld+json">{"@context": "https://schema.org", "@type": "Article", "headline": "Bahrain Culture - Food, Traditions & Etiquette", "description": "Bahrain Culture - Food, Traditions & Etiquette - Comprehensive guide to Bahrain. 360 Nations.", "url": "https://360nations.com/asia/bahrain/culture.html", "mainEntityOfPage": "https://360nations.com/asia/bahrain/culture.html", "author": {"@type": "Organization", "name": "360 Nations", "url": "https://360nations.com"}, "publisher": {"@type": "Organization", "name": "360 Nations", "url": "https://360nations.com"}, "datePublished": "2026-02-11", "dateModified": "2026-02-11", "about": {"@type": "Country", "name": "Bahrain"}, "articleSection": "Culture"}</script>
+    <script type="application/ld+json">{"@context": "https://schema.org", "@type": "Article", "headline": "Bahrain Culture - Food, Traditions & Etiquette", "description": "Bahrain Culture - Food, Traditions & Etiquette - Comprehensive guide to Bahrain. 360 Nations.", "url": "https://360nations.com/asia/bahrain/culture.html", "mainEntityOfPage": "https://360nations.com/asia/bahrain/culture.html", "author": {"@type": "Organization", "name": "360 Nations", "url": "https://360nations.com"}, "publisher": {"@type": "Organization", "name": "360 Nations", "url": "https://360nations.com"}, "datePublished": "2026-02-16", "dateModified": "2026-02-16", "about": {"@type": "Country", "name": "Bahrain"}, "articleSection": "Culture"}</script>
     <style>
-        * { margin: 0; padding: 0; box-sizing: border-box; }
+        *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
         body {
             font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
             line-height: 1.7;
             color: #2d3436;
-            background: #fafafa;
+            background: #FAFBFC;
+            -webkit-font-smoothing: antialiased;
         }
-        header {
+        a { color: #E74C3C; text-decoration: none; }
+        a:hover { text-decoration: underline; }
+
+        /* === Sticky Header === */
+        .site-header {
+            background: #1F2937;
+            position: sticky;
+            top: 0;
+            z-index: 1000;
+            box-shadow: 0 2px 8px rgba(0,0,0,0.15);
+        }
+        .header-inner {
+            max-width: 1200px;
+            margin: 0 auto;
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            padding: 0 24px;
+            height: 56px;
+        }
+        .site-logo {
+            font-size: 19px;
+            font-weight: 700;
+            color: #fff;
+            text-decoration: none;
+            letter-spacing: -0.5px;
+        }
+        .site-logo:hover { text-decoration: none; opacity: 0.9; }
+        .site-logo span { color: #E74C3C; }
+        .continent-nav { display: flex; gap: 4px; list-style: none; }
+        .continent-nav a {
+            color: rgba(255,255,255,0.8);
+            padding: 8px 14px;
+            border-radius: 6px;
+            font-size: 14px;
+            font-weight: 500;
+            transition: background 0.2s, color 0.2s;
+            text-decoration: none;
+            white-space: nowrap;
+        }
+        .continent-nav a:hover { background: rgba(255,255,255,0.12); color: #fff; text-decoration: none; }
+        .continent-nav a.active { background: rgba(255,255,255,0.18); color: #fff; }
+
+        /* Mobile hamburger */
+        .menu-toggle { display: none; background: none; border: none; cursor: pointer; padding: 8px; }
+        .menu-toggle span, .menu-toggle span::before, .menu-toggle span::after {
+            display: block; width: 22px; height: 2px; background: #fff; position: relative; transition: 0.3s;
+        }
+        .menu-toggle span::before, .menu-toggle span::after { content: ''; position: absolute; left: 0; }
+        .menu-toggle span::before { top: -7px; }
+        .menu-toggle span::after { top: 7px; }
+        #mobile-menu-state { display: none; }
+
+        /* === Title Banner === */
+        .page-banner {
             background: linear-gradient(135deg, #E74C3C, #C0392B);
             color: white;
-            padding: 24px 0;
+            padding: 28px 0;
         }
-        header .container {
-            max-width: 900px;
+        .banner-inner {
+            max-width: 1200px;
             margin: 0 auto;
-            padding: 0 20px;
+            padding: 0 24px;
         }
-        header h1 {
-            font-size: 1.8em;
+        .page-banner h1 {
+            font-size: 28px;
             font-weight: 700;
         }
-        .flag { font-size: 1.4em; margin-right: 8px; }
-        .breadcrumb {
-            max-width: 900px;
+        .flag { font-size: 1.3em; margin-right: 8px; }
+
+        /* === Breadcrumbs === */
+        .breadcrumbs {
+            max-width: 1200px;
             margin: 0 auto;
-            padding: 12px 20px;
-            font-size: 0.85em;
-            color: #636e72;
+            padding: 14px 24px;
+            font-size: 14px;
+            color: #6B7280;
         }
-        .breadcrumb a { color: #E74C3C; text-decoration: none; }
-        .breadcrumb a:hover { text-decoration: underline; }
-        .angle-nav {
-            max-width: 900px;
+        .breadcrumbs a { color: #E74C3C; }
+        .breadcrumbs span { margin: 0 8px; color: #D1D5DB; }
+        .breadcrumbs .current { color: #374151; }
+
+        /* === Two-Column Layout === */
+        .article-wrapper {
+            max-width: 1200px;
             margin: 0 auto;
-            padding: 0 20px 16px;
-            display: flex;
-            flex-wrap: wrap;
-            gap: 6px;
+            padding: 0 24px 40px;
+            display: grid;
+            grid-template-columns: 1fr 280px;
+            gap: 32px;
+            align-items: start;
         }
-        .angle-link {
-            display: inline-block;
-            padding: 6px 14px;
-            border-radius: 20px;
-            font-size: 0.82em;
-            text-decoration: none;
-            color: #636e72;
-            background: #f1f2f6;
-            transition: all 0.2s;
-        }
-        .angle-link:hover { background: #dfe6e9; }
-        .angle-link.active {
-            background: #E74C3C;
-            color: white;
-        }
-        article {
-            max-width: 900px;
-            margin: 0 auto;
-            padding: 20px;
-            background: white;
-            border-radius: 8px;
-            box-shadow: 0 1px 3px rgba(0,0,0,0.08);
-            margin-bottom: 40px;
+
+        /* Main content */
+        .article-main { min-width: 0; }
+        .article-main article {
+            background: #fff;
+            border-radius: 12px;
+            padding: 36px 40px;
+            box-shadow: 0 1px 4px rgba(0,0,0,0.06);
+            border: 1px solid #E5E7EB;
         }
         article h2 {
-            color: #E74C3C;
-            margin: 28px 0 12px;
-            padding-bottom: 6px;
-            border-bottom: 2px solid #E74C3C22;
+            font-size: 22px;
+            font-weight: 700;
+            color: #1F2937;
+            margin: 32px 0 14px;
+            padding-bottom: 8px;
+            border-bottom: 2px solid color-mix(in srgb, #E74C3C 20%, white);
         }
-        article h3 { color: #2d3436; margin: 20px 0 8px; }
-        article p { margin-bottom: 14px; }
+        article h3 { font-size: 18px; font-weight: 600; color: #374151; margin: 24px 0 10px; }
+        article p { margin-bottom: 14px; color: #374151; }
         article ul, article ol { padding-left: 24px; margin-bottom: 14px; }
-        article li { margin-bottom: 6px; }
-        /* Factbox */
+        article li { margin-bottom: 6px; color: #374151; }
+
+        /* === Sidebar === */
+        .article-sidebar {
+            position: sticky;
+            top: 72px;
+        }
+        .sidebar-card {
+            background: #fff;
+            border-radius: 12px;
+            padding: 24px;
+            box-shadow: 0 1px 4px rgba(0,0,0,0.06);
+            border: 1px solid #E5E7EB;
+        }
+        .sidebar-card h3 {
+            font-size: 15px;
+            font-weight: 700;
+            color: #1F2937;
+            margin-bottom: 16px;
+            padding-bottom: 12px;
+            border-bottom: 2px solid color-mix(in srgb, #E74C3C 20%, white);
+        }
+        .sidebar-card .angle-nav { list-style: none; }
+        .sidebar-card .angle-nav li { margin-bottom: 4px; }
+        .sidebar-card .angle-nav a {
+            display: block;
+            padding: 8px 12px;
+            border-radius: 8px;
+            font-size: 14px;
+            color: #4B5563;
+            transition: background 0.2s, color 0.2s;
+            text-decoration: none;
+        }
+        .sidebar-card .angle-nav a:hover {
+            background: #F3F4F6;
+            color: #E74C3C;
+            text-decoration: none;
+        }
+        .sidebar-card .angle-nav a.active {
+            background: color-mix(in srgb, #E74C3C 12%, white);
+            color: #E74C3C;
+            font-weight: 600;
+        }
+        .sidebar-card .back-link {
+            display: block;
+            margin-top: 16px;
+            padding-top: 16px;
+            border-top: 1px solid #E5E7EB;
+            font-size: 13px;
+            color: #6B7280;
+        }
+        .sidebar-card .back-link:hover { color: #E74C3C; text-decoration: none; }
+
+        /* === Content Styling === */
         .factbox {
-            background: linear-gradient(135deg, #E74C3C08, #E74C3C15);
-            border: 1px solid #E74C3C30;
+            background: linear-gradient(135deg, color-mix(in srgb, #E74C3C 5%, white), color-mix(in srgb, #E74C3C 12%, white));
+            border: 1px solid color-mix(in srgb, #E74C3C 20%, white);
             border-radius: 10px;
             padding: 20px 24px;
             margin: 20px 0;
@@ -93,20 +194,20 @@
         .factbox h3 {
             color: #E74C3C;
             margin: 0 0 12px;
-            font-size: 1.05em;
+            font-size: 16px;
         }
         .fact-row {
             display: flex;
             justify-content: space-between;
             padding: 6px 0;
-            border-bottom: 1px solid #E74C3C15;
+            border-bottom: 1px solid color-mix(in srgb, #E74C3C 10%, white);
         }
         .fact-row:last-child { border-bottom: none; }
-        .fact-key { font-weight: 600; color: #2d3436; flex: 0 0 45%; }
-        .fact-val { color: #636e72; text-align: right; flex: 0 0 50%; }
-        /* Tables */
+        .fact-key { font-weight: 600; color: #1F2937; flex: 0 0 45%; }
+        .fact-val { color: #6B7280; text-align: right; flex: 0 0 50%; }
+
         .table-wrapper { overflow-x: auto; margin: 16px 0; }
-        table { border-collapse: collapse; width: 100%; font-size: 0.92em; }
+        table { border-collapse: collapse; width: 100%; font-size: 14px; }
         th {
             background: #E74C3C;
             color: white;
@@ -114,80 +215,160 @@
             text-align: left;
             font-weight: 600;
         }
-        td { padding: 10px 14px; border-bottom: 1px solid #eee; }
-        tr:nth-child(even) { background: #f8f9fa; }
-        tr:hover { background: #E74C3C08; }
-        /* Callout */
+        td { padding: 10px 14px; border-bottom: 1px solid #E5E7EB; }
+        tr:nth-child(even) { background: #F9FAFB; }
+        tr:hover { background: color-mix(in srgb, #E74C3C 5%, white); }
+
         .callout {
-            background: #fff3cd;
-            border-left: 4px solid #ffc107;
+            background: #FEF3C7;
+            border-left: 4px solid #F59E0B;
             padding: 14px 18px;
             border-radius: 0 8px 8px 0;
             margin: 16px 0;
-            font-size: 0.93em;
+            font-size: 14px;
         }
-        .callout .misconception {
-            color: #856404;
-            margin-bottom: 4px;
-        }
-        .callout .reality {
-            color: #155724;
-            background: #d4edda;
-            padding: 8px 12px;
-            border-radius: 4px;
-            margin-bottom: 12px;
-        }
-        /* Rating */
-        .rating {
-            display: flex;
-            align-items: center;
-            gap: 10px;
-            padding: 6px 0;
-        }
+        .callout .misconception { color: #856404; margin-bottom: 4px; }
+        .callout .reality { color: #155724; background: #d4edda; padding: 8px 12px; border-radius: 4px; margin-bottom: 12px; }
+
+        .rating { display: flex; align-items: center; gap: 10px; padding: 6px 0; }
         .rating-label { font-weight: 600; min-width: 160px; }
         .rating-dots { font-size: 1.2em; color: #E74C3C; letter-spacing: 2px; }
-        .rating-score { color: #636e72; font-size: 0.85em; }
-        footer {
-            text-align: center;
-            padding: 30px 20px;
-            color: #b2bec3;
-            font-size: 0.8em;
+        .rating-score { color: #6B7280; font-size: 13px; }
+
+        /* === Footer === */
+        .site-footer {
+            background: #111827;
+            color: #9CA3AF;
+            margin-top: 40px;
+            padding: 40px 24px 28px;
         }
-        footer a { color: #636e72; }
-        @media (max-width: 600px) {
-            header h1 { font-size: 1.3em; }
-            .angle-nav { gap: 4px; }
-            .angle-link { padding: 4px 10px; font-size: 0.75em; }
+        .footer-inner {
+            max-width: 1200px;
+            margin: 0 auto;
+            display: grid;
+            grid-template-columns: 2fr 1fr 1fr;
+            gap: 40px;
+        }
+        .footer-brand .site-logo { font-size: 18px; display: inline-block; margin-bottom: 12px; }
+        .footer-brand p { font-size: 14px; line-height: 1.6; max-width: 320px; }
+        .footer-col h4 { color: #fff; font-size: 14px; font-weight: 600; margin-bottom: 16px; text-transform: uppercase; letter-spacing: 0.5px; }
+        .footer-col a { display: block; color: #9CA3AF; font-size: 14px; padding: 4px 0; transition: color 0.2s; text-decoration: none; }
+        .footer-col a:hover { color: #fff; text-decoration: none; }
+        .footer-bottom {
+            max-width: 1200px;
+            margin: 24px auto 0;
+            padding-top: 20px;
+            border-top: 1px solid #374151;
+            text-align: center;
+            font-size: 13px;
+        }
+
+        /* === Table of Contents === */
+        .toc { background: #F8FAFC; border: 1px solid #E2E8F0; border-radius: 8px; padding: 16px 24px; margin: 0 0 28px; }
+        .toc h3 { font-size: 14px; font-weight: 600; color: #475569; margin-bottom: 8px; text-transform: uppercase; letter-spacing: 0.5px; }
+        .toc ol { padding-left: 20px; margin: 0; }
+        .toc li { font-size: 14px; margin-bottom: 4px; line-height: 1.5; }
+        .toc a { color: #E74C3C; }
+
+        /* === Article Meta === */
+        .article-meta { font-size: 13px; color: #6B7280; margin-bottom: 20px; }
+
+        /* === Related Concepts === */
+        .related-concepts { margin-top: 32px; padding-top: 24px; border-top: 2px solid #E5E7EB; }
+        .related-section { margin-bottom: 20px; }
+        .related-section h4 { font-size: 15px; font-weight: 600; color: #374151; margin-bottom: 10px; }
+        .related-grid { display: flex; flex-wrap: wrap; gap: 10px; }
+        .related-link {
+            display: inline-block; padding: 8px 16px; background: #F3F4F6;
+            border-radius: 8px; font-size: 14px; color: #E74C3C;
+            font-weight: 500; transition: background 0.2s; text-decoration: none;
+        }
+        .related-link:hover { background: color-mix(in srgb, #E74C3C 12%, white); text-decoration: none; }
+
+        /* === Responsive === */
+        @media (max-width: 900px) {
+            .article-wrapper {
+                grid-template-columns: 1fr;
+                padding: 0 16px 32px;
+            }
+            .article-sidebar {
+                position: static;
+                order: -1;
+            }
+            .article-main article { padding: 24px; }
+            .page-banner h1 { font-size: 22px; }
+            .footer-inner { grid-template-columns: 1fr; gap: 24px; }
+        }
+        @media (max-width: 768px) {
+            .menu-toggle { display: block; }
+            .continent-nav {
+                display: none; flex-direction: column; position: absolute;
+                top: 56px; left: 0; right: 0; background: #1F2937;
+                padding: 12px; gap: 2px; box-shadow: 0 4px 12px rgba(0,0,0,0.2);
+            }
+            .continent-nav a { padding: 12px 16px; border-radius: 8px; }
+            #mobile-menu-state:checked ~ .header-inner .continent-nav { display: flex; }
         }
     </style>
 </head>
 <body>
-    <header>
-        <div class="container">
-            <h1><span class="flag">🇧🇭</span> Bahrain Culture - Food, Traditions & Etiquette</h1>
+    <input type="checkbox" id="mobile-menu-state" aria-hidden="true">
+    <header class="site-header">
+        <div class="header-inner">
+            <a href="/" class="site-logo">360 <span>Nations</span></a>
+            <label for="mobile-menu-state" class="menu-toggle" aria-label="Toggle menu"><span></span></label>
+            <ul class="continent-nav">
+            <li><a href="/africa/">Africa</a></li>
+            <li><a href="/asia/" class="active">Asia</a></li>
+            <li><a href="/europe/">Europe</a></li>
+            <li><a href="/north-america/">North America</a></li>
+            <li><a href="/south-america/">South America</a></li>
+            <li><a href="/oceania/">Oceania</a></li>
+            </ul>
         </div>
     </header>
 
-    <nav class="breadcrumb"><a href="/">Home</a> &raquo; <a href="/asia/">Asia</a> &raquo; <a href="/asia/bahrain/">Bahrain</a> &raquo; <span>Culture</span></nav>
+    <div class="page-banner">
+        <div class="banner-inner">
+            <h1><span class="flag">🇧🇭</span> Bahrain Culture - Food, Traditions & Etiquette</h1>
+        </div>
+    </div>
 
-    <nav class="angle-nav">
-        <a href="/asia/bahrain/overview.html" class="angle-link">Overview</a>
-        <a href="/asia/bahrain/geography.html" class="angle-link">Geography</a>
-        <a href="/asia/bahrain/must-know-truth.html" class="angle-link">Must Know Truth</a>
-        <a href="/asia/bahrain/positive-things.html" class="angle-link">Positive Things</a>
-        <a href="/asia/bahrain/cities-and-regions.html" class="angle-link">Cities And Regions</a>
-        <a href="/asia/bahrain/visa-and-entry.html" class="angle-link">Visa And Entry</a>
-        <a href="/asia/bahrain/cost-of-living.html" class="angle-link">Cost Of Living</a>
-        <a href="/asia/bahrain/economy.html" class="angle-link">Economy</a>
-        <a href="/asia/bahrain/culture.html" class="angle-link active">Culture</a>
+    <nav class="breadcrumbs" aria-label="Breadcrumb"><a href="/">Home</a> <span>&rsaquo;</span> <a href="/asia/">Asia</a> <span>&rsaquo;</span> <a href="/asia/bahrain/">Bahrain</a> <span>&rsaquo;</span> <span class="current">Culture</span></nav>
+
+    <div class="article-wrapper">
+        <main class="article-main">
+            <article>
+                <div class="article-meta">Last updated: February 2026</div>
+                <nav class="toc">
+        <h3>In This Article</h3>
+        <ol>
+            <li><a href="#cultural-identity">Cultural Identity</a></li>
+            <li><a href="#food-cuisine">Food & Cuisine</a></li>
+            <li><a href="#traditions-festivals">Traditions & Festivals</a></li>
+            <li><a href="#etiquette-dos-and-donts">Etiquette: Do's and Don'ts</a></li>
+            <li><a href="#arts-music">Arts & Music</a></li>
+            <li><a href="#useful-phrases">Useful Phrases</a></li>
+        </ol>
     </nav>
-
-    <article>
-        <h2>Cultural Identity</h2>
+                <div class="factbox verified-factbox">
+    <h3>Verified Facts</h3>
+    <div class="fact-row"><span class="fact-key">Official Name</span><span class="fact-val">Kingdom of Bahrain</span></div>
+    <div class="fact-row"><span class="fact-key">Capital</span><span class="fact-val">Manama</span></div>
+    <div class="fact-row"><span class="fact-key">Population</span><span class="fact-val">1.6 million</span></div>
+    <div class="fact-row"><span class="fact-key">Area</span><span class="fact-val">765.0 km²</span></div>
+    <div class="fact-row"><span class="fact-key">Languages</span><span class="fact-val">Arabic</span></div>
+    <div class="fact-row"><span class="fact-key">Currency</span><span class="fact-val">Bahraini dinar (.د.ب)</span></div>
+    <div class="fact-row"><span class="fact-key">Timezone</span><span class="fact-val">UTC+03:00</span></div>
+    <div class="fact-row"><span class="fact-key">Region</span><span class="fact-val">Asia / Western Asia</span></div>
+    <div class="fact-row"><span class="fact-key">Drives on</span><span class="fact-val">Right</span></div>
+    <div style="font-size:11px;color:#9CA3AF;margin-top:8px;text-align:right;">Source: REST Countries API</div>
+</div>
+                <h2 id="cultural-identity">Cultural Identity</h2>
         <p>Bahrain's culture is a unique blend of traditional and modern elements, shaped by its strategic location in the Persian Gulf. The country's cultural identity is deeply rooted in its Arabic and Islamic heritage, with a strong emphasis on hospitality, respect, and family values. The majority of the population is ethnically Arab, with a significant Shia Muslim community, and a smaller Sunni Muslim community. Arabic is the official language, and it plays a vital role in Bahrain's cultural expression, from literature to music and art.</p>
         <p>Bahrain's cultural landscape has been influenced by its history as a major trading hub, with merchants and travelers from all over the world passing through its ports. This has resulted in a diverse cultural scene, with a mix of traditional and international flavors. The country's cultural identity is also reflected in its traditional clothing, with men wearing the <strong>dishdasha</strong>, a long white robe, and women wearing the <strong>abaya</strong>, a black cloak. Bahrain's cultural diversity is further enriched by its expatriate community, which makes up a significant portion of the population.</p>
         <p>The country's cultural scene is also characterized by its strong sense of community, with many social and cultural events taking place throughout the year. Bahrainis place great importance on family and social relationships, and visitors are often warmly welcomed into local homes and communities. The country's cultural identity is a rich and vibrant tapestry, woven from its history, traditions, and values.</p>
-        <h2>Food & Cuisine</h2>
+        <h2 id="food-cuisine">Food & Cuisine</h2>
         <div class="table-wrapper"><table>
         <thead><tr><th>Dish</th><th>Type</th><th>Description</th><th>Must-Try?</th></tr></thead><tbody>
         <tr><td>Machboos</td><td>Rice dish</td><td>A traditional Bahraini dish made with rice, meat, and spices</td><td>Yes</td></tr>
@@ -199,7 +380,7 @@
         <tr><td>Karak</td><td>Drink</td><td>A sweet, spiced tea made with black tea, milk, and sugar</td><td>Yes</td></tr>
         <tr><td>Jallab</td><td>Drink</td><td>A popular drink made with date syrup, molasses, and rose water</td><td>Yes</td></tr>
         <tr><td>Bahrain's food culture is a reflection of its rich cultural heritage, with a focus on traditional dishes made with local ingredients. Mealtimes are often seen as opportunities to socialize and bond with family and friends, and visitors are often invited to join in. Bahrainis take great pride in their cuisine, and meals are often served with a variety of dishes, including rice, meat, and vegetables. The country's food culture is also influenced by its geographic location, with a focus on seafood and dates.</td></tr>
-        <h2>Traditions & Festivals</h2>
+        <h2 id="traditions-festivals">Traditions & Festivals</h2>
         <tr><td>Festival/Tradition</td><td>When</td><td>What It Is</td></tr>
         <tr><td>Eid al-Fitr</td><td>End of Ramadan</td><td>A celebration marking the end of the holy month of Ramadan</td></tr>
         <tr><td>Eid al-Adha</td><td>10th day of Dhu al-Hijjah</td><td>A celebration marking the willingness of the Prophet Ibrahim to sacrifice his son</td></tr>
@@ -207,7 +388,7 @@
         <tr><td>Ashura</td><td>10th day of Muharram</td><td>A Shia Muslim celebration commemorating the martyrdom of Imam Hussein</td></tr>
         <tr><td>Ramadan</td><td>9th month of the Islamic calendar</td><td>A holy month of fasting and spiritual reflection</td></tr>
         <tr><td>Bahrain Grand Prix</td><td>March</td><td>A Formula One racing event held at the Bahrain International Circuit</td></tr>
-        <h2>Etiquette: Do's and Don'ts</h2>
+        <h2 id="etiquette-dos-and-donts">Etiquette: Do's and Don'ts</h2>
         <tr><td><strong>Do:</strong></td></tr>
         <tr><td>- Respect local customs and traditions, especially during Ramadan</td></tr>
         <tr><td>- Remove your shoes before entering a mosque or a Bahraini home</td></tr>
@@ -222,13 +403,13 @@
         <tr><td>- Point with your feet or touch someone with your feet, as this is considered rude</td></tr>
         <tr><td>- Discuss sensitive topics, such as politics or religion, in public</td></tr>
         <tr><td>- Refuse an offer of food or drink, as this is considered impolite</td></tr>
-        <h2>Arts & Music</h2>
+        <h2 id="arts-music">Arts & Music</h2>
         <tr><td>- <strong>Arabic calligraphy</strong> is a highly revered art form in Bahrain, with many local artists specializing in this traditional craft</td></tr>
         <tr><td>- <strong>Khaleeji music</strong> is a popular genre in Bahrain, characterized by its upbeat rhythms and poetic lyrics</td></tr>
         <tr><td>- <strong>Bahraini pearls</strong> are famous for their high quality and beauty, with many local jewelers creating stunning pieces</td></tr>
         <tr><td>- <strong>Traditional Bahraini architecture</strong> is a unique blend of Arabic and Islamic styles, with many historic buildings and mosques showcasing this style</td></tr>
         <tr><td>- <strong>Bahraini literature</strong> is a rich and diverse field, with many local authors writing in Arabic and English</td></tr>
-        <h2>Useful Phrases</h2>
+        <h2 id="useful-phrases">Useful Phrases</h2>
         <tr><td>English</td><td>Local Language</td><td>Pronunciation</td></tr>
         <tr><td>Hello</td><td>Marhaba</td><td>Mar-ha-ba</td></tr>
         <tr><td>Thank you</td><td>Shukraan</td><td>Shoo-kraan</td></tr>
@@ -242,11 +423,72 @@
         <tr><td>I don't understand</td><td>La afham</td><td>La-af-ham</td></tr>
         <tr><td>Where is...?</td><td>Ayn...?</td><td>Ayn...</td></tr>
         </tbody></table></div>
-    </article>
+                <div class="related-concepts">
+    <div class="related-section">
+        <h4>Compare With</h4>
+        <div class="related-grid">
+            <a href="/asia/qatar/overview.html" class="related-link">Qatar</a>
+            <a href="/asia/kuwait/overview.html" class="related-link">Kuwait</a>
+        </div>
+    </div><div class="related-section">
+        <h4>Nearby Countries</h4>
+        <div class="related-grid">
+            <a href="/asia/saudi-arabia/overview.html" class="related-link">Saudi Arabia</a>
+            <a href="/asia/qatar/overview.html" class="related-link">Qatar</a>
+        </div>
+    </div>
+</div>
+            </article>
+        </main>
 
-    <footer>
-        <p>&copy; 2026 360 Nations. Evergreen reference content.</p>
-        <p>This page contains factual, timeless information. Always verify visa and safety details with official sources.</p>
+        <aside class="article-sidebar">
+            <div class="sidebar-card">
+                <h3>Bahrain</h3>
+                <ul class="angle-nav">
+                <li><a href="/asia/bahrain/overview.html">Overview</a></li>
+                <li><a href="/asia/bahrain/geography.html">Geography</a></li>
+                <li><a href="/asia/bahrain/must-know-truth.html">Must Know Truth</a></li>
+                <li><a href="/asia/bahrain/positive-things.html">Positive Things</a></li>
+                <li><a href="/asia/bahrain/cities-and-regions.html">Cities And Regions</a></li>
+                <li><a href="/asia/bahrain/visa-and-entry.html">Visa And Entry</a></li>
+                <li><a href="/asia/bahrain/cost-of-living.html">Cost Of Living</a></li>
+                <li><a href="/asia/bahrain/economy.html">Economy</a></li>
+                <li><a href="/asia/bahrain/culture.html" class="active">Culture</a></li>
+                <li><a href="/asia/bahrain/travel-safety.html">Travel Safety</a></li>
+                </ul>
+                <a href="/asia/" class="back-link">&larr; All Asia countries</a>
+            </div>
+        </aside>
+    </div>
+
+    <footer class="site-footer">
+        <div class="footer-inner">
+            <div class="footer-brand">
+                <a href="/" class="site-logo">360 <span>Nations</span></a>
+                <p>Comprehensive country guides covering culture, travel, safety, and practical information for every nation.</p>
+            </div>
+            <div class="footer-col">
+                <h4>Continents</h4>
+                <a href="/africa/">Africa</a>
+                <a href="/asia/">Asia</a>
+                <a href="/europe/">Europe</a>
+                <a href="/north-america/">North America</a>
+                <a href="/south-america/">South America</a>
+                <a href="/oceania/">Oceania</a>
+            </div>
+            <div class="footer-col">
+                <h4>Info</h4>
+                <a href="/privacy.html">Privacy Policy</a>
+                <a href="/terms.html">Terms of Use</a>
+                <a href="/sitemap.xml">Sitemap</a>
+            </div>
+        </div>
+        <div style="max-width:1200px;margin:24px auto 0;padding:0 24px;font-size:12px;color:#6B7280;line-height:1.5;">
+            Editorial note: 360 Nations content is researched by regional contributors and fact-checked for accuracy. Verify visa requirements and safety advisories with official government sources before traveling.
+        </div>
+        <div class="footer-bottom">
+            &copy; 2026 360 Nations &mdash; Evergreen reference content. Always verify visa and safety details with official sources.
+        </div>
     </footer>
 </body>
 </html>

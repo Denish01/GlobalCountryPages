@@ -1,0 +1,48 @@
+{
+  "iso_code": "AR",
+  "name_common": "Argentina",
+  "name_official": "Argentine Republic",
+  "capital": "Buenos Aires",
+  "population": 46735004,
+  "area_km2": 2780400.0,
+  "region": "Americas",
+  "subregion": "South America",
+  "languages": {
+    "grn": "Guaraní",
+    "spa": "Spanish"
+  },
+  "currencies": {
+    "ARS": {
+      "name": "Argentine peso",
+      "symbol": "$"
+    }
+  },
+  "timezones": [
+    "UTC-03:00"
+  ],
+  "borders": [
+    "BOL",
+    "BRA",
+    "CHL",
+    "PRY",
+    "URY"
+  ],
+  "flag_emoji": "🇦🇷",
+  "coat_of_arms_svg": "https://mainfacts.com/media/images/coats_of_arms/ar.svg",
+  "maps_google": "https://goo.gl/maps/Z9DXNxhf2o93kvyc6",
+  "independent": true,
+  "un_member": true,
+  "landlocked": false,
+  "driving_side": "right",
+  "start_of_week": "monday",
+  "continents": [
+    "South America"
+  ],
+  "latlng": [
+    -34.0,
+    -64.0
+  ],
+  "gini": {
+    "2019": 42.9
+  }
+}

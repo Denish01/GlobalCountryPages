@@ -1,0 +1,48 @@
+{
+  "iso_code": "BY",
+  "name_common": "Belarus",
+  "name_official": "Republic of Belarus",
+  "capital": "Minsk",
+  "population": 9109280,
+  "area_km2": 207600.0,
+  "region": "Europe",
+  "subregion": "Eastern Europe",
+  "languages": {
+    "bel": "Belarusian",
+    "rus": "Russian"
+  },
+  "currencies": {
+    "BYN": {
+      "name": "Belarusian ruble",
+      "symbol": "Br"
+    }
+  },
+  "timezones": [
+    "UTC+03:00"
+  ],
+  "borders": [
+    "LVA",
+    "LTU",
+    "POL",
+    "RUS",
+    "UKR"
+  ],
+  "flag_emoji": "🇧🇾",
+  "coat_of_arms_svg": "https://mainfacts.com/media/images/coats_of_arms/by.svg",
+  "maps_google": "https://goo.gl/maps/PJUDU3EBPSszCQcu6",
+  "independent": true,
+  "un_member": true,
+  "landlocked": true,
+  "driving_side": "right",
+  "start_of_week": "monday",
+  "continents": [
+    "Europe"
+  ],
+  "latlng": [
+    53.0,
+    28.0
+  ],
+  "gini": {
+    "2019": 25.3
+  }
+}

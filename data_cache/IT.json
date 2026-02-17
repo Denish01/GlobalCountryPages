@@ -1,0 +1,49 @@
+{
+  "iso_code": "IT",
+  "name_common": "Italy",
+  "name_official": "Italian Republic",
+  "capital": "Rome",
+  "population": 58927633,
+  "area_km2": 301336.0,
+  "region": "Europe",
+  "subregion": "Southern Europe",
+  "languages": {
+    "ita": "Italian",
+    "cat": "Catalan"
+  },
+  "currencies": {
+    "EUR": {
+      "name": "euro",
+      "symbol": "€"
+    }
+  },
+  "timezones": [
+    "UTC+01:00"
+  ],
+  "borders": [
+    "AUT",
+    "FRA",
+    "SMR",
+    "SVN",
+    "CHE",
+    "VAT"
+  ],
+  "flag_emoji": "🇮🇹",
+  "coat_of_arms_svg": "https://mainfacts.com/media/images/coats_of_arms/it.svg",
+  "maps_google": "https://goo.gl/maps/8M1K27TDj7StTRTq8",
+  "independent": true,
+  "un_member": true,
+  "landlocked": false,
+  "driving_side": "right",
+  "start_of_week": "monday",
+  "continents": [
+    "Europe"
+  ],
+  "latlng": [
+    42.83333333,
+    12.83333333
+  ],
+  "gini": {
+    "2017": 35.9
+  }
+}

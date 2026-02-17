@@ -1,0 +1,41 @@
+{
+  "iso_code": "MC",
+  "name_common": "Monaco",
+  "name_official": "Principality of Monaco",
+  "capital": "Monaco",
+  "population": 38423,
+  "area_km2": 2.02,
+  "region": "Europe",
+  "subregion": "Western Europe",
+  "languages": {
+    "fra": "French"
+  },
+  "currencies": {
+    "EUR": {
+      "name": "euro",
+      "symbol": "€"
+    }
+  },
+  "timezones": [
+    "UTC+01:00"
+  ],
+  "borders": [
+    "FRA"
+  ],
+  "flag_emoji": "🇲🇨",
+  "coat_of_arms_svg": "https://mainfacts.com/media/images/coats_of_arms/mc.svg",
+  "maps_google": "https://goo.gl/maps/DGpndDot28bYdXYn7",
+  "independent": true,
+  "un_member": true,
+  "landlocked": false,
+  "driving_side": "right",
+  "start_of_week": "monday",
+  "continents": [
+    "Europe"
+  ],
+  "latlng": [
+    43.73333333,
+    7.4
+  ],
+  "gini": {}
+}

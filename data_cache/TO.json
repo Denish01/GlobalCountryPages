@@ -1,0 +1,42 @@
+{
+  "iso_code": "TO",
+  "name_common": "Tonga",
+  "name_official": "Kingdom of Tonga",
+  "capital": "Nuku'alofa",
+  "population": 100179,
+  "area_km2": 747.0,
+  "region": "Oceania",
+  "subregion": "Polynesia",
+  "languages": {
+    "eng": "English",
+    "ton": "Tongan"
+  },
+  "currencies": {
+    "TOP": {
+      "name": "Tongan paʻanga",
+      "symbol": "T$"
+    }
+  },
+  "timezones": [
+    "UTC+13:00"
+  ],
+  "borders": [],
+  "flag_emoji": "🇹🇴",
+  "coat_of_arms_svg": "https://mainfacts.com/media/images/coats_of_arms/to.svg",
+  "maps_google": "https://goo.gl/maps/p5YALBY2QdEzswRo7",
+  "independent": true,
+  "un_member": true,
+  "landlocked": false,
+  "driving_side": "left",
+  "start_of_week": "monday",
+  "continents": [
+    "Oceania"
+  ],
+  "latlng": [
+    -20.0,
+    -175.0
+  ],
+  "gini": {
+    "2015": 37.6
+  }
+}

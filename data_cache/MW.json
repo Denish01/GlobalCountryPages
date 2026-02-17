@@ -1,0 +1,46 @@
+{
+  "iso_code": "MW",
+  "name_common": "Malawi",
+  "name_official": "Republic of Malawi",
+  "capital": "Lilongwe",
+  "population": 20734262,
+  "area_km2": 118484.0,
+  "region": "Africa",
+  "subregion": "Eastern Africa",
+  "languages": {
+    "eng": "English",
+    "nya": "Chewa"
+  },
+  "currencies": {
+    "MWK": {
+      "name": "Malawian kwacha",
+      "symbol": "MK"
+    }
+  },
+  "timezones": [
+    "UTC+02:00"
+  ],
+  "borders": [
+    "MOZ",
+    "TZA",
+    "ZMB"
+  ],
+  "flag_emoji": "🇲🇼",
+  "coat_of_arms_svg": "https://mainfacts.com/media/images/coats_of_arms/mw.svg",
+  "maps_google": "https://goo.gl/maps/mc6z83pW9m98X2Ef6",
+  "independent": true,
+  "un_member": true,
+  "landlocked": true,
+  "driving_side": "left",
+  "start_of_week": "monday",
+  "continents": [
+    "Africa"
+  ],
+  "latlng": [
+    -13.5,
+    34.0
+  ],
+  "gini": {
+    "2016": 44.7
+  }
+}

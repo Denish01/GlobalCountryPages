@@ -1,0 +1,48 @@
+{
+  "iso_code": "BF",
+  "name_common": "Burkina Faso",
+  "name_official": "Burkina Faso",
+  "capital": "Ouagadougou",
+  "population": 24070553,
+  "area_km2": 272967.0,
+  "region": "Africa",
+  "subregion": "Western Africa",
+  "languages": {
+    "fra": "French"
+  },
+  "currencies": {
+    "XOF": {
+      "name": "West African CFA franc",
+      "symbol": "Fr"
+    }
+  },
+  "timezones": [
+    "UTC"
+  ],
+  "borders": [
+    "BEN",
+    "CIV",
+    "GHA",
+    "MLI",
+    "NER",
+    "TGO"
+  ],
+  "flag_emoji": "🇧🇫",
+  "coat_of_arms_svg": "https://mainfacts.com/media/images/coats_of_arms/bf.svg",
+  "maps_google": "https://goo.gl/maps/rKRmpcMbFher2ozb7",
+  "independent": true,
+  "un_member": true,
+  "landlocked": true,
+  "driving_side": "right",
+  "start_of_week": "monday",
+  "continents": [
+    "Africa"
+  ],
+  "latlng": [
+    13.0,
+    -2.0
+  ],
+  "gini": {
+    "2014": 35.3
+  }
+}

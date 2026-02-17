@@ -1,0 +1,48 @@
+{
+  "iso_code": "AF",
+  "name_common": "Afghanistan",
+  "name_official": "Islamic Republic of Afghanistan",
+  "capital": "Kabul",
+  "population": 43844000,
+  "area_km2": 652230.0,
+  "region": "Asia",
+  "subregion": "Southern Asia",
+  "languages": {
+    "prs": "Dari",
+    "pus": "Pashto",
+    "tuk": "Turkmen"
+  },
+  "currencies": {
+    "AFN": {
+      "name": "Afghan afghani",
+      "symbol": "؋"
+    }
+  },
+  "timezones": [
+    "UTC+04:30"
+  ],
+  "borders": [
+    "IRN",
+    "PAK",
+    "TKM",
+    "UZB",
+    "TJK",
+    "CHN"
+  ],
+  "flag_emoji": "🇦🇫",
+  "coat_of_arms_svg": "https://mainfacts.com/media/images/coats_of_arms/af.svg",
+  "maps_google": "https://goo.gl/maps/BXBGw7yUUFknCfva9",
+  "independent": true,
+  "un_member": true,
+  "landlocked": true,
+  "driving_side": "right",
+  "start_of_week": "monday",
+  "continents": [
+    "Asia"
+  ],
+  "latlng": [
+    33.0,
+    65.0
+  ],
+  "gini": {}
+}

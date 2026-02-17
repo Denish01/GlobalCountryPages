@@ -1,0 +1,48 @@
+{
+  "iso_code": "BT",
+  "name_common": "Bhutan",
+  "name_official": "Kingdom of Bhutan",
+  "capital": "Thimphu",
+  "population": 784043,
+  "area_km2": 38394.0,
+  "region": "Asia",
+  "subregion": "Southern Asia",
+  "languages": {
+    "dzo": "Dzongkha"
+  },
+  "currencies": {
+    "BTN": {
+      "name": "Bhutanese ngultrum",
+      "symbol": "Nu."
+    },
+    "INR": {
+      "name": "Indian rupee",
+      "symbol": "₹"
+    }
+  },
+  "timezones": [
+    "UTC+06:00"
+  ],
+  "borders": [
+    "CHN",
+    "IND"
+  ],
+  "flag_emoji": "🇧🇹",
+  "coat_of_arms_svg": "https://mainfacts.com/media/images/coats_of_arms/bt.svg",
+  "maps_google": "https://goo.gl/maps/VEfXXBftTFLUpNgp8",
+  "independent": true,
+  "un_member": true,
+  "landlocked": true,
+  "driving_side": "left",
+  "start_of_week": "monday",
+  "continents": [
+    "Asia"
+  ],
+  "latlng": [
+    27.5,
+    90.5
+  ],
+  "gini": {
+    "2017": 37.4
+  }
+}

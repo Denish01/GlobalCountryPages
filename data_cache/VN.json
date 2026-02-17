@@ -1,0 +1,45 @@
+{
+  "iso_code": "VN",
+  "name_common": "Vietnam",
+  "name_official": "Socialist Republic of Vietnam",
+  "capital": "Hanoi",
+  "population": 101343800,
+  "area_km2": 331212.0,
+  "region": "Asia",
+  "subregion": "South-Eastern Asia",
+  "languages": {
+    "vie": "Vietnamese"
+  },
+  "currencies": {
+    "VND": {
+      "name": "Vietnamese đồng",
+      "symbol": "₫"
+    }
+  },
+  "timezones": [
+    "UTC+07:00"
+  ],
+  "borders": [
+    "KHM",
+    "CHN",
+    "LAO"
+  ],
+  "flag_emoji": "🇻🇳",
+  "coat_of_arms_svg": "https://mainfacts.com/media/images/coats_of_arms/vn.svg",
+  "maps_google": "https://goo.gl/maps/PCpVt9WzdJ9A9nEZ9",
+  "independent": true,
+  "un_member": true,
+  "landlocked": false,
+  "driving_side": "right",
+  "start_of_week": "monday",
+  "continents": [
+    "Asia"
+  ],
+  "latlng": [
+    16.16666666,
+    107.83333333
+  ],
+  "gini": {
+    "2018": 35.7
+  }
+}

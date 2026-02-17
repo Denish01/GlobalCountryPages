@@ -1,0 +1,51 @@
+{
+  "iso_code": "TZ",
+  "name_common": "Tanzania",
+  "name_official": "United Republic of Tanzania",
+  "capital": "Dodoma",
+  "population": 68153004,
+  "area_km2": 947303.0,
+  "region": "Africa",
+  "subregion": "Eastern Africa",
+  "languages": {
+    "eng": "English",
+    "swa": "Swahili"
+  },
+  "currencies": {
+    "TZS": {
+      "name": "Tanzanian shilling",
+      "symbol": "Sh"
+    }
+  },
+  "timezones": [
+    "UTC+03:00"
+  ],
+  "borders": [
+    "BDI",
+    "COD",
+    "KEN",
+    "MWI",
+    "MOZ",
+    "RWA",
+    "UGA",
+    "ZMB"
+  ],
+  "flag_emoji": "🇹🇿",
+  "coat_of_arms_svg": "https://mainfacts.com/media/images/coats_of_arms/tz.svg",
+  "maps_google": "https://goo.gl/maps/NWYMqZYXte4zGZ2Q8",
+  "independent": true,
+  "un_member": true,
+  "landlocked": false,
+  "driving_side": "left",
+  "start_of_week": "monday",
+  "continents": [
+    "Africa"
+  ],
+  "latlng": [
+    -6.0,
+    35.0
+  ],
+  "gini": {
+    "2017": 40.5
+  }
+}

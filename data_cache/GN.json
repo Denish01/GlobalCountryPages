@@ -1,0 +1,48 @@
+{
+  "iso_code": "GN",
+  "name_common": "Guinea",
+  "name_official": "Republic of Guinea",
+  "capital": "Conakry",
+  "population": 14363931,
+  "area_km2": 245857.0,
+  "region": "Africa",
+  "subregion": "Western Africa",
+  "languages": {
+    "fra": "French"
+  },
+  "currencies": {
+    "GNF": {
+      "name": "Guinean franc",
+      "symbol": "Fr"
+    }
+  },
+  "timezones": [
+    "UTC"
+  ],
+  "borders": [
+    "CIV",
+    "GNB",
+    "LBR",
+    "MLI",
+    "SEN",
+    "SLE"
+  ],
+  "flag_emoji": "🇬🇳",
+  "coat_of_arms_svg": "https://mainfacts.com/media/images/coats_of_arms/gn.svg",
+  "maps_google": "https://goo.gl/maps/8J5oM5sA4Ayr1ZYGA",
+  "independent": true,
+  "un_member": true,
+  "landlocked": false,
+  "driving_side": "right",
+  "start_of_week": "monday",
+  "continents": [
+    "Africa"
+  ],
+  "latlng": [
+    11.0,
+    -10.0
+  ],
+  "gini": {
+    "2012": 33.7
+  }
+}

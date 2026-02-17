@@ -1,0 +1,44 @@
+{
+  "iso_code": "FO",
+  "name_common": "Faroe Islands",
+  "name_official": "Faroe Islands",
+  "capital": "Tórshavn",
+  "population": 54885,
+  "area_km2": 1393.0,
+  "region": "Europe",
+  "subregion": "Northern Europe",
+  "languages": {
+    "dan": "Danish",
+    "fao": "Faroese"
+  },
+  "currencies": {
+    "DKK": {
+      "name": "Danish krone",
+      "symbol": "kr"
+    },
+    "FOK": {
+      "name": "Faroese króna",
+      "symbol": "kr"
+    }
+  },
+  "timezones": [
+    "UTC+00:00"
+  ],
+  "borders": [],
+  "flag_emoji": "🇫🇴",
+  "coat_of_arms_svg": "https://mainfacts.com/media/images/coats_of_arms/fo.svg",
+  "maps_google": "https://goo.gl/maps/6sTru4SmHdEVcNkM6",
+  "independent": false,
+  "un_member": false,
+  "landlocked": false,
+  "driving_side": "right",
+  "start_of_week": "monday",
+  "continents": [
+    "Europe"
+  ],
+  "latlng": [
+    62.0,
+    -7.0
+  ],
+  "gini": {}
+}

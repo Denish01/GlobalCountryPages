@@ -1,0 +1,48 @@
+{
+  "iso_code": "UG",
+  "name_common": "Uganda",
+  "name_official": "Republic of Uganda",
+  "capital": "Kampala",
+  "population": 45905417,
+  "area_km2": 241550.0,
+  "region": "Africa",
+  "subregion": "Eastern Africa",
+  "languages": {
+    "eng": "English",
+    "swa": "Swahili"
+  },
+  "currencies": {
+    "UGX": {
+      "name": "Ugandan shilling",
+      "symbol": "Sh"
+    }
+  },
+  "timezones": [
+    "UTC+03:00"
+  ],
+  "borders": [
+    "COD",
+    "KEN",
+    "RWA",
+    "SSD",
+    "TZA"
+  ],
+  "flag_emoji": "🇺🇬",
+  "coat_of_arms_svg": "https://mainfacts.com/media/images/coats_of_arms/ug.svg",
+  "maps_google": "https://goo.gl/maps/Y7812hFiGa8LD9N68",
+  "independent": true,
+  "un_member": true,
+  "landlocked": true,
+  "driving_side": "left",
+  "start_of_week": "monday",
+  "continents": [
+    "Africa"
+  ],
+  "latlng": [
+    1.0,
+    32.0
+  ],
+  "gini": {
+    "2016": 42.8
+  }
+}

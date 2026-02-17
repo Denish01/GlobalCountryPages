@@ -1,0 +1,53 @@
+{
+  "iso_code": "EH",
+  "name_common": "Western Sahara",
+  "name_official": "Sahrawi Arab Democratic Republic",
+  "capital": "El Aaiún",
+  "population": 600904,
+  "area_km2": 266000.0,
+  "region": "Africa",
+  "subregion": "Northern Africa",
+  "languages": {
+    "ber": "Berber",
+    "mey": "Hassaniya",
+    "spa": "Spanish"
+  },
+  "currencies": {
+    "DZD": {
+      "name": "Algerian dinar",
+      "symbol": "دج"
+    },
+    "MAD": {
+      "name": "Moroccan dirham",
+      "symbol": "DH"
+    },
+    "MRU": {
+      "name": "Mauritanian ouguiya",
+      "symbol": "UM"
+    }
+  },
+  "timezones": [
+    "UTC+00:00"
+  ],
+  "borders": [
+    "DZA",
+    "MRT",
+    "MAR"
+  ],
+  "flag_emoji": "🇪🇭",
+  "coat_of_arms_svg": "",
+  "maps_google": "https://goo.gl/maps/7nU3mB69vP6zQp7A8",
+  "independent": false,
+  "un_member": false,
+  "landlocked": false,
+  "driving_side": "right",
+  "start_of_week": "monday",
+  "continents": [
+    "Africa"
+  ],
+  "latlng": [
+    24.5,
+    -13.0
+  ],
+  "gini": {}
+}

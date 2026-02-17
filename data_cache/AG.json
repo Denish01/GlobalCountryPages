@@ -1,0 +1,39 @@
+{
+  "iso_code": "AG",
+  "name_common": "Antigua and Barbuda",
+  "name_official": "Antigua and Barbuda",
+  "capital": "Saint John's",
+  "population": 103603,
+  "area_km2": 442.0,
+  "region": "Americas",
+  "subregion": "Caribbean",
+  "languages": {
+    "eng": "English"
+  },
+  "currencies": {
+    "XCD": {
+      "name": "Eastern Caribbean dollar",
+      "symbol": "$"
+    }
+  },
+  "timezones": [
+    "UTC-04:00"
+  ],
+  "borders": [],
+  "flag_emoji": "🇦🇬",
+  "coat_of_arms_svg": "https://mainfacts.com/media/images/coats_of_arms/ag.svg",
+  "maps_google": "https://goo.gl/maps/fnye4wGJ1RzC9jpX9",
+  "independent": true,
+  "un_member": true,
+  "landlocked": false,
+  "driving_side": "left",
+  "start_of_week": "monday",
+  "continents": [
+    "North America"
+  ],
+  "latlng": [
+    17.05,
+    -61.8
+  ],
+  "gini": {}
+}

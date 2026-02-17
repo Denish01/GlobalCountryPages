@@ -1,0 +1,47 @@
+{
+  "iso_code": "BW",
+  "name_common": "Botswana",
+  "name_official": "Republic of Botswana",
+  "capital": "Gaborone",
+  "population": 2359609,
+  "area_km2": 582000.0,
+  "region": "Africa",
+  "subregion": "Southern Africa",
+  "languages": {
+    "eng": "English",
+    "tsn": "Tswana"
+  },
+  "currencies": {
+    "BWP": {
+      "name": "Botswana pula",
+      "symbol": "P"
+    }
+  },
+  "timezones": [
+    "UTC+02:00"
+  ],
+  "borders": [
+    "NAM",
+    "ZAF",
+    "ZMB",
+    "ZWE"
+  ],
+  "flag_emoji": "🇧🇼",
+  "coat_of_arms_svg": "https://mainfacts.com/media/images/coats_of_arms/bw.svg",
+  "maps_google": "https://goo.gl/maps/E364KeLy6N4JwxwQ8",
+  "independent": true,
+  "un_member": true,
+  "landlocked": true,
+  "driving_side": "left",
+  "start_of_week": "monday",
+  "continents": [
+    "Africa"
+  ],
+  "latlng": [
+    -22.0,
+    24.0
+  ],
+  "gini": {
+    "2015": 53.3
+  }
+}

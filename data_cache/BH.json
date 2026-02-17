@@ -1,0 +1,39 @@
+{
+  "iso_code": "BH",
+  "name_common": "Bahrain",
+  "name_official": "Kingdom of Bahrain",
+  "capital": "Manama",
+  "population": 1594654,
+  "area_km2": 765.0,
+  "region": "Asia",
+  "subregion": "Western Asia",
+  "languages": {
+    "ara": "Arabic"
+  },
+  "currencies": {
+    "BHD": {
+      "name": "Bahraini dinar",
+      "symbol": ".د.ب"
+    }
+  },
+  "timezones": [
+    "UTC+03:00"
+  ],
+  "borders": [],
+  "flag_emoji": "🇧🇭",
+  "coat_of_arms_svg": "https://mainfacts.com/media/images/coats_of_arms/bh.svg",
+  "maps_google": "https://goo.gl/maps/5Zue99Zc6vFBHxzJ7",
+  "independent": true,
+  "un_member": true,
+  "landlocked": false,
+  "driving_side": "right",
+  "start_of_week": "monday",
+  "continents": [
+    "Asia"
+  ],
+  "latlng": [
+    26.0,
+    50.55
+  ],
+  "gini": {}
+}

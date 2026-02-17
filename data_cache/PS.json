@@ -1,0 +1,53 @@
+{
+  "iso_code": "PS",
+  "name_common": "Palestine",
+  "name_official": "State of Palestine",
+  "capital": "Ramallah",
+  "population": 5483450,
+  "area_km2": 6220.0,
+  "region": "Asia",
+  "subregion": "Western Asia",
+  "languages": {
+    "ara": "Arabic"
+  },
+  "currencies": {
+    "EGP": {
+      "name": "Egyptian pound",
+      "symbol": "E£"
+    },
+    "ILS": {
+      "name": "Israeli new shekel",
+      "symbol": "₪"
+    },
+    "JOD": {
+      "name": "Jordanian dinar",
+      "symbol": "JD"
+    }
+  },
+  "timezones": [
+    "UTC+02:00"
+  ],
+  "borders": [
+    "ISR",
+    "EGY",
+    "JOR"
+  ],
+  "flag_emoji": "🇵🇸",
+  "coat_of_arms_svg": "https://mainfacts.com/media/images/coats_of_arms/ps.svg",
+  "maps_google": "https://goo.gl/maps/QvTbkRdmdWEoYAmt5",
+  "independent": false,
+  "un_member": false,
+  "landlocked": false,
+  "driving_side": "right",
+  "start_of_week": "sunday",
+  "continents": [
+    "Asia"
+  ],
+  "latlng": [
+    31.9,
+    35.2
+  ],
+  "gini": {
+    "2016": 33.7
+  }
+}

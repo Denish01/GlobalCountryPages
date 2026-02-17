@@ -1,0 +1,39 @@
+{
+  "iso_code": "SJ",
+  "name_common": "Svalbard and Jan Mayen",
+  "name_official": "Svalbard og Jan Mayen",
+  "capital": "Longyearbyen",
+  "population": 2530,
+  "area_km2": 61399.0,
+  "region": "Europe",
+  "subregion": "Northern Europe",
+  "languages": {
+    "nor": "Norwegian"
+  },
+  "currencies": {
+    "NOK": {
+      "name": "krone",
+      "symbol": "kr"
+    }
+  },
+  "timezones": [
+    "UTC+01:00"
+  ],
+  "borders": [],
+  "flag_emoji": "🇸🇯",
+  "coat_of_arms_svg": "",
+  "maps_google": "https://goo.gl/maps/L2wyyn3cQ16PzQ5J8",
+  "independent": false,
+  "un_member": false,
+  "landlocked": false,
+  "driving_side": "right",
+  "start_of_week": "monday",
+  "continents": [
+    "Europe"
+  ],
+  "latlng": [
+    78.0,
+    20.0
+  ],
+  "gini": {}
+}

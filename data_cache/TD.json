@@ -1,0 +1,49 @@
+{
+  "iso_code": "TD",
+  "name_common": "Chad",
+  "name_official": "Republic of Chad",
+  "capital": "N'Djamena",
+  "population": 19340757,
+  "area_km2": 1284000.0,
+  "region": "Africa",
+  "subregion": "Middle Africa",
+  "languages": {
+    "ara": "Arabic",
+    "fra": "French"
+  },
+  "currencies": {
+    "XAF": {
+      "name": "Central African CFA franc",
+      "symbol": "Fr"
+    }
+  },
+  "timezones": [
+    "UTC+01:00"
+  ],
+  "borders": [
+    "CMR",
+    "CAF",
+    "LBY",
+    "NER",
+    "NGA",
+    "SDN"
+  ],
+  "flag_emoji": "🇹🇩",
+  "coat_of_arms_svg": "https://mainfacts.com/media/images/coats_of_arms/td.svg",
+  "maps_google": "https://goo.gl/maps/ziUdAZ8skuNfx5Hx7",
+  "independent": true,
+  "un_member": true,
+  "landlocked": true,
+  "driving_side": "right",
+  "start_of_week": "monday",
+  "continents": [
+    "Africa"
+  ],
+  "latlng": [
+    15.0,
+    19.0
+  ],
+  "gini": {
+    "2011": 43.3
+  }
+}

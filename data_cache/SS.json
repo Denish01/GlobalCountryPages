@@ -1,0 +1,48 @@
+{
+  "iso_code": "SS",
+  "name_common": "South Sudan",
+  "name_official": "Republic of South Sudan",
+  "capital": "Juba",
+  "population": 15786898,
+  "area_km2": 619745.0,
+  "region": "Africa",
+  "subregion": "Middle Africa",
+  "languages": {
+    "eng": "English"
+  },
+  "currencies": {
+    "SSP": {
+      "name": "South Sudanese pound",
+      "symbol": "£"
+    }
+  },
+  "timezones": [
+    "UTC+03:00"
+  ],
+  "borders": [
+    "CAF",
+    "COD",
+    "ETH",
+    "KEN",
+    "SDN",
+    "UGA"
+  ],
+  "flag_emoji": "🇸🇸",
+  "coat_of_arms_svg": "https://mainfacts.com/media/images/coats_of_arms/ss.svg",
+  "maps_google": "https://goo.gl/maps/Zm1AYCXb9HSNF1P27",
+  "independent": true,
+  "un_member": true,
+  "landlocked": true,
+  "driving_side": "right",
+  "start_of_week": "sunday",
+  "continents": [
+    "Africa"
+  ],
+  "latlng": [
+    7.0,
+    30.0
+  ],
+  "gini": {
+    "2016": 44.1
+  }
+}

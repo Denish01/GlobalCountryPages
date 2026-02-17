@@ -1,0 +1,43 @@
+{
+  "iso_code": "MU",
+  "name_common": "Mauritius",
+  "name_official": "Republic of Mauritius",
+  "capital": "Port Louis",
+  "population": 1243741,
+  "area_km2": 2040.0,
+  "region": "Africa",
+  "subregion": "Eastern Africa",
+  "languages": {
+    "eng": "English",
+    "fra": "French",
+    "mfe": "Mauritian Creole"
+  },
+  "currencies": {
+    "MUR": {
+      "name": "Mauritian rupee",
+      "symbol": "₨"
+    }
+  },
+  "timezones": [
+    "UTC+04:00"
+  ],
+  "borders": [],
+  "flag_emoji": "🇲🇺",
+  "coat_of_arms_svg": "https://mainfacts.com/media/images/coats_of_arms/mu.svg",
+  "maps_google": "https://goo.gl/maps/PpKtZ4W3tir5iGrz7",
+  "independent": true,
+  "un_member": true,
+  "landlocked": false,
+  "driving_side": "left",
+  "start_of_week": "monday",
+  "continents": [
+    "Africa"
+  ],
+  "latlng": [
+    -20.28333333,
+    57.55
+  ],
+  "gini": {
+    "2017": 36.8
+  }
+}

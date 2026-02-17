@@ -1,0 +1,46 @@
+{
+  "iso_code": "LY",
+  "name_common": "Libya",
+  "name_official": "State of Libya",
+  "capital": "Tripoli",
+  "population": 7459000,
+  "area_km2": 1759540.0,
+  "region": "Africa",
+  "subregion": "Northern Africa",
+  "languages": {
+    "ara": "Arabic"
+  },
+  "currencies": {
+    "LYD": {
+      "name": "Libyan dinar",
+      "symbol": "ل.د"
+    }
+  },
+  "timezones": [
+    "UTC+01:00"
+  ],
+  "borders": [
+    "DZA",
+    "TCD",
+    "EGY",
+    "NER",
+    "SDN",
+    "TUN"
+  ],
+  "flag_emoji": "🇱🇾",
+  "coat_of_arms_svg": "https://mainfacts.com/media/images/coats_of_arms/ly.svg",
+  "maps_google": "https://goo.gl/maps/eLgGnaQWcJEdYRMy5",
+  "independent": true,
+  "un_member": true,
+  "landlocked": false,
+  "driving_side": "right",
+  "start_of_week": "sunday",
+  "continents": [
+    "Africa"
+  ],
+  "latlng": [
+    25.0,
+    17.0
+  ],
+  "gini": {}
+}

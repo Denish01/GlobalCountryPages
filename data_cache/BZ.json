@@ -1,0 +1,46 @@
+{
+  "iso_code": "BZ",
+  "name_common": "Belize",
+  "name_official": "Belize",
+  "capital": "Belmopan",
+  "population": 417634,
+  "area_km2": 22966.0,
+  "region": "Americas",
+  "subregion": "Central America",
+  "languages": {
+    "bjz": "Belizean Creole",
+    "eng": "English",
+    "spa": "Spanish"
+  },
+  "currencies": {
+    "BZD": {
+      "name": "Belize dollar",
+      "symbol": "$"
+    }
+  },
+  "timezones": [
+    "UTC-06:00"
+  ],
+  "borders": [
+    "GTM",
+    "MEX"
+  ],
+  "flag_emoji": "🇧🇿",
+  "coat_of_arms_svg": "https://mainfacts.com/media/images/coats_of_arms/bz.svg",
+  "maps_google": "https://goo.gl/maps/jdCccpdLodm1uTmo9",
+  "independent": true,
+  "un_member": true,
+  "landlocked": false,
+  "driving_side": "right",
+  "start_of_week": "monday",
+  "continents": [
+    "North America"
+  ],
+  "latlng": [
+    17.25,
+    -88.75
+  ],
+  "gini": {
+    "1999": 53.3
+  }
+}

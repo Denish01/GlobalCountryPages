@@ -1,0 +1,39 @@
+{
+  "iso_code": "WF",
+  "name_common": "Wallis and Futuna",
+  "name_official": "Territory of the Wallis and Futuna Islands",
+  "capital": "Mata-Utu",
+  "population": 11620,
+  "area_km2": 142.0,
+  "region": "Oceania",
+  "subregion": "Polynesia",
+  "languages": {
+    "fra": "French"
+  },
+  "currencies": {
+    "XPF": {
+      "name": "CFP franc",
+      "symbol": "₣"
+    }
+  },
+  "timezones": [
+    "UTC+12:00"
+  ],
+  "borders": [],
+  "flag_emoji": "🇼🇫",
+  "coat_of_arms_svg": "",
+  "maps_google": "https://goo.gl/maps/CzVqK74QYtbHv65r5",
+  "independent": false,
+  "un_member": false,
+  "landlocked": false,
+  "driving_side": "right",
+  "start_of_week": "monday",
+  "continents": [
+    "Oceania"
+  ],
+  "latlng": [
+    -13.3,
+    -176.2
+  ],
+  "gini": {}
+}

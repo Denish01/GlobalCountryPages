@@ -1,0 +1,45 @@
+{
+  "iso_code": "PG",
+  "name_common": "Papua New Guinea",
+  "name_official": "Independent State of Papua New Guinea",
+  "capital": "Port Moresby",
+  "population": 11781559,
+  "area_km2": 462840.0,
+  "region": "Oceania",
+  "subregion": "Melanesia",
+  "languages": {
+    "eng": "English",
+    "hmo": "Hiri Motu",
+    "tpi": "Tok Pisin"
+  },
+  "currencies": {
+    "PGK": {
+      "name": "Papua New Guinean kina",
+      "symbol": "K"
+    }
+  },
+  "timezones": [
+    "UTC+10:00"
+  ],
+  "borders": [
+    "IDN"
+  ],
+  "flag_emoji": "🇵🇬",
+  "coat_of_arms_svg": "https://mainfacts.com/media/images/coats_of_arms/pg.svg",
+  "maps_google": "https://goo.gl/maps/ChGmzZBjZ3vnBwR2A",
+  "independent": true,
+  "un_member": true,
+  "landlocked": false,
+  "driving_side": "left",
+  "start_of_week": "monday",
+  "continents": [
+    "Oceania"
+  ],
+  "latlng": [
+    -6.0,
+    147.0
+  ],
+  "gini": {
+    "2009": 41.9
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "iso_code": "AO",
+  "name_common": "Angola",
+  "name_official": "Republic of Angola",
+  "capital": "Luanda",
+  "population": 36170961,
+  "area_km2": 1246700.0,
+  "region": "Africa",
+  "subregion": "Middle Africa",
+  "languages": {
+    "por": "Portuguese"
+  },
+  "currencies": {
+    "AOA": {
+      "name": "Angolan kwanza",
+      "symbol": "Kz"
+    }
+  },
+  "timezones": [
+    "UTC+01:00"
+  ],
+  "borders": [
+    "COG",
+    "COD",
+    "ZMB",
+    "NAM"
+  ],
+  "flag_emoji": "🇦🇴",
+  "coat_of_arms_svg": "https://mainfacts.com/media/images/coats_of_arms/ao.svg",
+  "maps_google": "https://goo.gl/maps/q42Qbf1BmQL3fuZg9",
+  "independent": true,
+  "un_member": true,
+  "landlocked": false,
+  "driving_side": "right",
+  "start_of_week": "monday",
+  "continents": [
+    "Africa"
+  ],
+  "latlng": [
+    -12.5,
+    18.5
+  ],
+  "gini": {
+    "2018": 51.3
+  }
+}

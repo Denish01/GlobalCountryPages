@@ -1,0 +1,47 @@
+{
+  "iso_code": "MX",
+  "name_common": "Mexico",
+  "name_official": "United Mexican States",
+  "capital": "Mexico City",
+  "population": 130575786,
+  "area_km2": 1964375.0,
+  "region": "Americas",
+  "subregion": "North America",
+  "languages": {
+    "spa": "Spanish"
+  },
+  "currencies": {
+    "MXN": {
+      "name": "Mexican peso",
+      "symbol": "$"
+    }
+  },
+  "timezones": [
+    "UTC-08:00",
+    "UTC-07:00",
+    "UTC-06:00"
+  ],
+  "borders": [
+    "BLZ",
+    "GTM",
+    "USA"
+  ],
+  "flag_emoji": "🇲🇽",
+  "coat_of_arms_svg": "https://mainfacts.com/media/images/coats_of_arms/mx.svg",
+  "maps_google": "https://goo.gl/maps/s5g7imNPMDEePxzbA",
+  "independent": true,
+  "un_member": true,
+  "landlocked": false,
+  "driving_side": "right",
+  "start_of_week": "monday",
+  "continents": [
+    "North America"
+  ],
+  "latlng": [
+    23.0,
+    -102.0
+  ],
+  "gini": {
+    "2018": 45.4
+  }
+}

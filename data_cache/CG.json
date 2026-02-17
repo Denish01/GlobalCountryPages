@@ -1,0 +1,49 @@
+{
+  "iso_code": "CG",
+  "name_common": "Republic of the Congo",
+  "name_official": "Republic of the Congo",
+  "capital": "Brazzaville",
+  "population": 6142180,
+  "area_km2": 342000.0,
+  "region": "Africa",
+  "subregion": "Middle Africa",
+  "languages": {
+    "fra": "French",
+    "kon": "Kikongo",
+    "lin": "Lingala"
+  },
+  "currencies": {
+    "XAF": {
+      "name": "Central African CFA franc",
+      "symbol": "Fr"
+    }
+  },
+  "timezones": [
+    "UTC+01:00"
+  ],
+  "borders": [
+    "AGO",
+    "CMR",
+    "CAF",
+    "COD",
+    "GAB"
+  ],
+  "flag_emoji": "🇨🇬",
+  "coat_of_arms_svg": "https://mainfacts.com/media/images/coats_of_arms/cd.svg",
+  "maps_google": "https://goo.gl/maps/Phf5dDDKdfCtuBTb6",
+  "independent": true,
+  "un_member": true,
+  "landlocked": false,
+  "driving_side": "right",
+  "start_of_week": "monday",
+  "continents": [
+    "Africa"
+  ],
+  "latlng": [
+    -1.0,
+    15.0
+  ],
+  "gini": {
+    "2011": 48.9
+  }
+}

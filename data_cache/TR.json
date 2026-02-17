@@ -1,0 +1,51 @@
+{
+  "iso_code": "TR",
+  "name_common": "Turkey",
+  "name_official": "Republic of Turkey",
+  "capital": "Ankara",
+  "population": 85664944,
+  "area_km2": 783562.0,
+  "region": "Asia",
+  "subregion": "Western Asia",
+  "languages": {
+    "tur": "Turkish"
+  },
+  "currencies": {
+    "TRY": {
+      "name": "Turkish lira",
+      "symbol": "₺"
+    }
+  },
+  "timezones": [
+    "UTC+03:00"
+  ],
+  "borders": [
+    "ARM",
+    "AZE",
+    "BGR",
+    "GEO",
+    "GRC",
+    "IRN",
+    "IRQ",
+    "SYR"
+  ],
+  "flag_emoji": "🇹🇷",
+  "coat_of_arms_svg": "https://mainfacts.com/media/images/coats_of_arms/tr.svg",
+  "maps_google": "https://goo.gl/maps/dXFFraiUDfcB6Quk6",
+  "independent": true,
+  "un_member": true,
+  "landlocked": false,
+  "driving_side": "right",
+  "start_of_week": "monday",
+  "continents": [
+    "Europe",
+    "Asia"
+  ],
+  "latlng": [
+    39.0,
+    35.0
+  ],
+  "gini": {
+    "2019": 41.9
+  }
+}

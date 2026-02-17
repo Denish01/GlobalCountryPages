@@ -1,0 +1,46 @@
+{
+  "iso_code": "NG",
+  "name_common": "Nigeria",
+  "name_official": "Federal Republic of Nigeria",
+  "capital": "Abuja",
+  "population": 223800000,
+  "area_km2": 923768.0,
+  "region": "Africa",
+  "subregion": "Western Africa",
+  "languages": {
+    "eng": "English"
+  },
+  "currencies": {
+    "NGN": {
+      "name": "Nigerian naira",
+      "symbol": "₦"
+    }
+  },
+  "timezones": [
+    "UTC+01:00"
+  ],
+  "borders": [
+    "BEN",
+    "CMR",
+    "TCD",
+    "NER"
+  ],
+  "flag_emoji": "🇳🇬",
+  "coat_of_arms_svg": "https://mainfacts.com/media/images/coats_of_arms/ng.svg",
+  "maps_google": "https://goo.gl/maps/LTn417qWwBPFszuV9",
+  "independent": true,
+  "un_member": true,
+  "landlocked": false,
+  "driving_side": "right",
+  "start_of_week": "monday",
+  "continents": [
+    "Africa"
+  ],
+  "latlng": [
+    10.0,
+    8.0
+  ],
+  "gini": {
+    "2018": 35.1
+  }
+}

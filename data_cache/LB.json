@@ -1,0 +1,45 @@
+{
+  "iso_code": "LB",
+  "name_common": "Lebanon",
+  "name_official": "Lebanese Republic",
+  "capital": "Beirut",
+  "population": 5490000,
+  "area_km2": 10452.0,
+  "region": "Asia",
+  "subregion": "Western Asia",
+  "languages": {
+    "ara": "Arabic",
+    "fra": "French"
+  },
+  "currencies": {
+    "LBP": {
+      "name": "Lebanese pound",
+      "symbol": "ل.ل"
+    }
+  },
+  "timezones": [
+    "UTC+02:00"
+  ],
+  "borders": [
+    "ISR",
+    "SYR"
+  ],
+  "flag_emoji": "🇱🇧",
+  "coat_of_arms_svg": "https://mainfacts.com/media/images/coats_of_arms/lb.svg",
+  "maps_google": "https://goo.gl/maps/Sz5VCU8UFBqMyTdc9",
+  "independent": true,
+  "un_member": true,
+  "landlocked": false,
+  "driving_side": "right",
+  "start_of_week": "monday",
+  "continents": [
+    "Asia"
+  ],
+  "latlng": [
+    33.83333333,
+    35.83333333
+  ],
+  "gini": {
+    "2011": 31.8
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "iso_code": "FK",
+  "name_common": "Falkland Islands",
+  "name_official": "Falkland Islands",
+  "capital": "Stanley",
+  "population": 3662,
+  "area_km2": 12173.0,
+  "region": "Americas",
+  "subregion": "South America",
+  "languages": {
+    "eng": "English"
+  },
+  "currencies": {
+    "FKP": {
+      "name": "Falkland Islands pound",
+      "symbol": "£"
+    }
+  },
+  "timezones": [
+    "UTC-04:00"
+  ],
+  "borders": [],
+  "flag_emoji": "🇫🇰",
+  "coat_of_arms_svg": "https://mainfacts.com/media/images/coats_of_arms/fk.svg",
+  "maps_google": "https://goo.gl/maps/TZH1x7AGanQKifNk7",
+  "independent": false,
+  "un_member": false,
+  "landlocked": false,
+  "driving_side": "left",
+  "start_of_week": "monday",
+  "continents": [
+    "South America"
+  ],
+  "latlng": [
+    -51.75,
+    -59.0
+  ],
+  "gini": {}
+}

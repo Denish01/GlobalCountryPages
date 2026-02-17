@@ -1,0 +1,45 @@
+{
+  "iso_code": "VE",
+  "name_common": "Venezuela",
+  "name_official": "Bolivarian Republic of Venezuela",
+  "capital": "Caracas",
+  "population": 28517000,
+  "area_km2": 916445.0,
+  "region": "Americas",
+  "subregion": "South America",
+  "languages": {
+    "spa": "Spanish"
+  },
+  "currencies": {
+    "VES": {
+      "name": "Venezuelan bolívar soberano",
+      "symbol": "Bs.S."
+    }
+  },
+  "timezones": [
+    "UTC-04:00"
+  ],
+  "borders": [
+    "BRA",
+    "COL",
+    "GUY"
+  ],
+  "flag_emoji": "🇻🇪",
+  "coat_of_arms_svg": "https://mainfacts.com/media/images/coats_of_arms/ve.svg",
+  "maps_google": "https://goo.gl/maps/KLCwDN8sec7z2kse9",
+  "independent": true,
+  "un_member": true,
+  "landlocked": false,
+  "driving_side": "right",
+  "start_of_week": "monday",
+  "continents": [
+    "South America"
+  ],
+  "latlng": [
+    8.0,
+    -66.0
+  ],
+  "gini": {
+    "2006": 44.8
+  }
+}

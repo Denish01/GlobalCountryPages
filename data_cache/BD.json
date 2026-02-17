@@ -1,0 +1,44 @@
+{
+  "iso_code": "BD",
+  "name_common": "Bangladesh",
+  "name_official": "People's Republic of Bangladesh",
+  "capital": "Dhaka",
+  "population": 169828911,
+  "area_km2": 147570.0,
+  "region": "Asia",
+  "subregion": "Southern Asia",
+  "languages": {
+    "ben": "Bengali"
+  },
+  "currencies": {
+    "BDT": {
+      "name": "Bangladeshi taka",
+      "symbol": "৳"
+    }
+  },
+  "timezones": [
+    "UTC+06:00"
+  ],
+  "borders": [
+    "MMR",
+    "IND"
+  ],
+  "flag_emoji": "🇧🇩",
+  "coat_of_arms_svg": "https://mainfacts.com/media/images/coats_of_arms/bd.svg",
+  "maps_google": "https://goo.gl/maps/op6gmLbHcvv6rLhH6",
+  "independent": true,
+  "un_member": true,
+  "landlocked": false,
+  "driving_side": "left",
+  "start_of_week": "sunday",
+  "continents": [
+    "Asia"
+  ],
+  "latlng": [
+    24.0,
+    90.0
+  ],
+  "gini": {
+    "2016": 32.4
+  }
+}

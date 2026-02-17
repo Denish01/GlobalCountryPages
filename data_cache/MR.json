@@ -1,0 +1,46 @@
+{
+  "iso_code": "MR",
+  "name_common": "Mauritania",
+  "name_official": "Islamic Republic of Mauritania",
+  "capital": "Nouakchott",
+  "population": 4927532,
+  "area_km2": 1030700.0,
+  "region": "Africa",
+  "subregion": "Western Africa",
+  "languages": {
+    "ara": "Arabic"
+  },
+  "currencies": {
+    "MRU": {
+      "name": "Mauritanian ouguiya",
+      "symbol": "UM"
+    }
+  },
+  "timezones": [
+    "UTC"
+  ],
+  "borders": [
+    "DZA",
+    "MLI",
+    "SEN",
+    "ESH"
+  ],
+  "flag_emoji": "🇲🇷",
+  "coat_of_arms_svg": "https://mainfacts.com/media/images/coats_of_arms/mr.svg",
+  "maps_google": "https://goo.gl/maps/im2MmQ5jFjzxWBks5",
+  "independent": true,
+  "un_member": true,
+  "landlocked": false,
+  "driving_side": "right",
+  "start_of_week": "monday",
+  "continents": [
+    "Africa"
+  ],
+  "latlng": [
+    20.0,
+    -12.0
+  ],
+  "gini": {
+    "2014": 32.6
+  }
+}

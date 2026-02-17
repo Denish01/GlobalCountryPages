@@ -1,0 +1,40 @@
+{
+  "iso_code": "PW",
+  "name_common": "Palau",
+  "name_official": "Republic of Palau",
+  "capital": "Ngerulmud",
+  "population": 16733,
+  "area_km2": 459.0,
+  "region": "Oceania",
+  "subregion": "Micronesia",
+  "languages": {
+    "eng": "English",
+    "pau": "Palauan"
+  },
+  "currencies": {
+    "USD": {
+      "name": "United States dollar",
+      "symbol": "$"
+    }
+  },
+  "timezones": [
+    "UTC+09:00"
+  ],
+  "borders": [],
+  "flag_emoji": "🇵🇼",
+  "coat_of_arms_svg": "https://mainfacts.com/media/images/coats_of_arms/pw.svg",
+  "maps_google": "https://goo.gl/maps/MVasQBbUkQP7qQDR9",
+  "independent": true,
+  "un_member": true,
+  "landlocked": false,
+  "driving_side": "right",
+  "start_of_week": "monday",
+  "continents": [
+    "Oceania"
+  ],
+  "latlng": [
+    7.5,
+    134.5
+  ],
+  "gini": {}
+}

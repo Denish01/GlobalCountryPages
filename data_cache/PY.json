@@ -1,0 +1,46 @@
+{
+  "iso_code": "PY",
+  "name_common": "Paraguay",
+  "name_official": "Republic of Paraguay",
+  "capital": "Asunción",
+  "population": 6109644,
+  "area_km2": 406752.0,
+  "region": "Americas",
+  "subregion": "South America",
+  "languages": {
+    "grn": "Guaraní",
+    "spa": "Spanish"
+  },
+  "currencies": {
+    "PYG": {
+      "name": "Paraguayan guaraní",
+      "symbol": "₲"
+    }
+  },
+  "timezones": [
+    "UTC-04:00"
+  ],
+  "borders": [
+    "ARG",
+    "BOL",
+    "BRA"
+  ],
+  "flag_emoji": "🇵🇾",
+  "coat_of_arms_svg": "https://mainfacts.com/media/images/coats_of_arms/py.svg",
+  "maps_google": "https://goo.gl/maps/JtnqG73WJn1Gx6mz6",
+  "independent": true,
+  "un_member": true,
+  "landlocked": true,
+  "driving_side": "right",
+  "start_of_week": "monday",
+  "continents": [
+    "South America"
+  ],
+  "latlng": [
+    -23.0,
+    -58.0
+  ],
+  "gini": {
+    "2019": 45.7
+  }
+}

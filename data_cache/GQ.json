@@ -1,0 +1,44 @@
+{
+  "iso_code": "GQ",
+  "name_common": "Equatorial Guinea",
+  "name_official": "Republic of Equatorial Guinea",
+  "capital": "Malabo",
+  "population": 1668768,
+  "area_km2": 28051.0,
+  "region": "Africa",
+  "subregion": "Middle Africa",
+  "languages": {
+    "fra": "French",
+    "por": "Portuguese",
+    "spa": "Spanish"
+  },
+  "currencies": {
+    "XAF": {
+      "name": "Central African CFA franc",
+      "symbol": "Fr"
+    }
+  },
+  "timezones": [
+    "UTC+01:00"
+  ],
+  "borders": [
+    "CMR",
+    "GAB"
+  ],
+  "flag_emoji": "🇬🇶",
+  "coat_of_arms_svg": "https://mainfacts.com/media/images/coats_of_arms/gq.svg",
+  "maps_google": "https://goo.gl/maps/ucWfFd8aW1FbGMva9",
+  "independent": true,
+  "un_member": true,
+  "landlocked": false,
+  "driving_side": "right",
+  "start_of_week": "monday",
+  "continents": [
+    "Africa"
+  ],
+  "latlng": [
+    2.0,
+    10.0
+  ],
+  "gini": {}
+}

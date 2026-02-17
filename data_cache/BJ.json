@@ -1,0 +1,46 @@
+{
+  "iso_code": "BJ",
+  "name_common": "Benin",
+  "name_official": "Republic of Benin",
+  "capital": "Porto-Novo",
+  "population": 13224860,
+  "area_km2": 112622.0,
+  "region": "Africa",
+  "subregion": "Western Africa",
+  "languages": {
+    "fra": "French"
+  },
+  "currencies": {
+    "XOF": {
+      "name": "West African CFA franc",
+      "symbol": "Fr"
+    }
+  },
+  "timezones": [
+    "UTC+01:00"
+  ],
+  "borders": [
+    "BFA",
+    "NER",
+    "NGA",
+    "TGO"
+  ],
+  "flag_emoji": "🇧🇯",
+  "coat_of_arms_svg": "https://mainfacts.com/media/images/coats_of_arms/bj.svg",
+  "maps_google": "https://goo.gl/maps/uMw1BsHEXQYgVFFu6",
+  "independent": true,
+  "un_member": true,
+  "landlocked": false,
+  "driving_side": "right",
+  "start_of_week": "monday",
+  "continents": [
+    "Africa"
+  ],
+  "latlng": [
+    9.5,
+    2.25
+  ],
+  "gini": {
+    "2015": 47.8
+  }
+}

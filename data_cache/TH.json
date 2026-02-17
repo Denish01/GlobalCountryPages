@@ -1,0 +1,46 @@
+{
+  "iso_code": "TH",
+  "name_common": "Thailand",
+  "name_official": "Kingdom of Thailand",
+  "capital": "Bangkok",
+  "population": 65859640,
+  "area_km2": 513120.0,
+  "region": "Asia",
+  "subregion": "South-Eastern Asia",
+  "languages": {
+    "tha": "Thai"
+  },
+  "currencies": {
+    "THB": {
+      "name": "Thai baht",
+      "symbol": "฿"
+    }
+  },
+  "timezones": [
+    "UTC+07:00"
+  ],
+  "borders": [
+    "MMR",
+    "KHM",
+    "LAO",
+    "MYS"
+  ],
+  "flag_emoji": "🇹🇭",
+  "coat_of_arms_svg": "https://mainfacts.com/media/images/coats_of_arms/th.svg",
+  "maps_google": "https://goo.gl/maps/qeU6uqsfW4nCCwzw9",
+  "independent": true,
+  "un_member": true,
+  "landlocked": false,
+  "driving_side": "left",
+  "start_of_week": "monday",
+  "continents": [
+    "Asia"
+  ],
+  "latlng": [
+    15.0,
+    100.0
+  ],
+  "gini": {
+    "2019": 34.9
+  }
+}

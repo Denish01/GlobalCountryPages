@@ -1,0 +1,43 @@
+{
+  "iso_code": "KP",
+  "name_common": "North Korea",
+  "name_official": "Democratic People's Republic of Korea",
+  "capital": "Pyongyang",
+  "population": 25950000,
+  "area_km2": 120538.0,
+  "region": "Asia",
+  "subregion": "Eastern Asia",
+  "languages": {
+    "kor": "Korean"
+  },
+  "currencies": {
+    "KPW": {
+      "name": "North Korean won",
+      "symbol": "₩"
+    }
+  },
+  "timezones": [
+    "UTC+09:00"
+  ],
+  "borders": [
+    "CHN",
+    "KOR",
+    "RUS"
+  ],
+  "flag_emoji": "🇰🇵",
+  "coat_of_arms_svg": "https://mainfacts.com/media/images/coats_of_arms/kp.svg",
+  "maps_google": "https://goo.gl/maps/9q5T2DMeH5JL7Tky6",
+  "independent": true,
+  "un_member": true,
+  "landlocked": false,
+  "driving_side": "right",
+  "start_of_week": "monday",
+  "continents": [
+    "Asia"
+  ],
+  "latlng": [
+    40.0,
+    127.0
+  ],
+  "gini": {}
+}

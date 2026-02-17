@@ -1,0 +1,43 @@
+{
+  "iso_code": "GM",
+  "name_common": "Gambia",
+  "name_official": "Republic of the Gambia",
+  "capital": "Banjul",
+  "population": 2422712,
+  "area_km2": 10689.0,
+  "region": "Africa",
+  "subregion": "Western Africa",
+  "languages": {
+    "eng": "English"
+  },
+  "currencies": {
+    "GMD": {
+      "name": "dalasi",
+      "symbol": "D"
+    }
+  },
+  "timezones": [
+    "UTC+00:00"
+  ],
+  "borders": [
+    "SEN"
+  ],
+  "flag_emoji": "🇬🇲",
+  "coat_of_arms_svg": "https://mainfacts.com/media/images/coats_of_arms/gm.svg",
+  "maps_google": "https://goo.gl/maps/bbGBCxxtfD2A9Z4m6",
+  "independent": true,
+  "un_member": true,
+  "landlocked": false,
+  "driving_side": "right",
+  "start_of_week": "monday",
+  "continents": [
+    "Africa"
+  ],
+  "latlng": [
+    13.46666666,
+    -16.56666666
+  ],
+  "gini": {
+    "2015": 35.9
+  }
+}

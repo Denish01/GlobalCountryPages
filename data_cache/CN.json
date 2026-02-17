@@ -1,0 +1,58 @@
+{
+  "iso_code": "CN",
+  "name_common": "China",
+  "name_official": "People's Republic of China",
+  "capital": "Beijing",
+  "population": 1408280000,
+  "area_km2": 9706961.0,
+  "region": "Asia",
+  "subregion": "Eastern Asia",
+  "languages": {
+    "zho": "Chinese"
+  },
+  "currencies": {
+    "CNY": {
+      "name": "Chinese yuan",
+      "symbol": "¥"
+    }
+  },
+  "timezones": [
+    "UTC+08:00"
+  ],
+  "borders": [
+    "AFG",
+    "BTN",
+    "MMR",
+    "HKG",
+    "IND",
+    "KAZ",
+    "NPL",
+    "PRK",
+    "KGZ",
+    "LAO",
+    "MAC",
+    "MNG",
+    "PAK",
+    "RUS",
+    "TJK",
+    "VNM"
+  ],
+  "flag_emoji": "🇨🇳",
+  "coat_of_arms_svg": "https://mainfacts.com/media/images/coats_of_arms/cn.svg",
+  "maps_google": "https://goo.gl/maps/p9qC6vgiFRRXzvGi7",
+  "independent": true,
+  "un_member": true,
+  "landlocked": false,
+  "driving_side": "right",
+  "start_of_week": "monday",
+  "continents": [
+    "Asia"
+  ],
+  "latlng": [
+    35.0,
+    105.0
+  ],
+  "gini": {
+    "2016": 38.5
+  }
+}

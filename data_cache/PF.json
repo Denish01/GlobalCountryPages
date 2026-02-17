@@ -1,0 +1,41 @@
+{
+  "iso_code": "PF",
+  "name_common": "French Polynesia",
+  "name_official": "French Polynesia",
+  "capital": "Papeetē",
+  "population": 279500,
+  "area_km2": 4167.0,
+  "region": "Oceania",
+  "subregion": "Polynesia",
+  "languages": {
+    "fra": "French"
+  },
+  "currencies": {
+    "XPF": {
+      "name": "CFP franc",
+      "symbol": "₣"
+    }
+  },
+  "timezones": [
+    "UTC-10:00",
+    "UTC-09:30",
+    "UTC-09:00"
+  ],
+  "borders": [],
+  "flag_emoji": "🇵🇫",
+  "coat_of_arms_svg": "https://mainfacts.com/media/images/coats_of_arms/pf.svg",
+  "maps_google": "https://goo.gl/maps/xgg6BQTRyeQg4e1m6",
+  "independent": false,
+  "un_member": false,
+  "landlocked": false,
+  "driving_side": "right",
+  "start_of_week": "monday",
+  "continents": [
+    "Oceania"
+  ],
+  "latlng": [
+    -17.6797,
+    -149.4068
+  ],
+  "gini": {}
+}

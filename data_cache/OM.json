@@ -1,0 +1,43 @@
+{
+  "iso_code": "OM",
+  "name_common": "Oman",
+  "name_official": "Sultanate of Oman",
+  "capital": "Muscat",
+  "population": 5343630,
+  "area_km2": 309500.0,
+  "region": "Asia",
+  "subregion": "Western Asia",
+  "languages": {
+    "ara": "Arabic"
+  },
+  "currencies": {
+    "OMR": {
+      "name": "Omani rial",
+      "symbol": "ر.ع."
+    }
+  },
+  "timezones": [
+    "UTC+04:00"
+  ],
+  "borders": [
+    "SAU",
+    "ARE",
+    "YEM"
+  ],
+  "flag_emoji": "🇴🇲",
+  "coat_of_arms_svg": "https://mainfacts.com/media/images/coats_of_arms/om.svg",
+  "maps_google": "https://goo.gl/maps/L2BoXoAwDDwWecnw5",
+  "independent": true,
+  "un_member": true,
+  "landlocked": false,
+  "driving_side": "right",
+  "start_of_week": "sunday",
+  "continents": [
+    "Asia"
+  ],
+  "latlng": [
+    21.0,
+    57.0
+  ],
+  "gini": {}
+}

@@ -1,0 +1,44 @@
+{
+  "iso_code": "YE",
+  "name_common": "Yemen",
+  "name_official": "Republic of Yemen",
+  "capital": "Sana'a",
+  "population": 32684503,
+  "area_km2": 527968.0,
+  "region": "Asia",
+  "subregion": "Western Asia",
+  "languages": {
+    "ara": "Arabic"
+  },
+  "currencies": {
+    "YER": {
+      "name": "Yemeni rial",
+      "symbol": "﷼"
+    }
+  },
+  "timezones": [
+    "UTC+03:00"
+  ],
+  "borders": [
+    "OMN",
+    "SAU"
+  ],
+  "flag_emoji": "🇾🇪",
+  "coat_of_arms_svg": "https://mainfacts.com/media/images/coats_of_arms/ye.svg",
+  "maps_google": "https://goo.gl/maps/WCmE76HKcLideQQw7",
+  "independent": true,
+  "un_member": true,
+  "landlocked": false,
+  "driving_side": "right",
+  "start_of_week": "sunday",
+  "continents": [
+    "Asia"
+  ],
+  "latlng": [
+    15.0,
+    48.0
+  ],
+  "gini": {
+    "2014": 36.7
+  }
+}

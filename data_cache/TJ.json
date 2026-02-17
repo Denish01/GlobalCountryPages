@@ -1,0 +1,47 @@
+{
+  "iso_code": "TJ",
+  "name_common": "Tajikistan",
+  "name_official": "Republic of Tajikistan",
+  "capital": "Dushanbe",
+  "population": 10499000,
+  "area_km2": 143100.0,
+  "region": "Asia",
+  "subregion": "Central Asia",
+  "languages": {
+    "rus": "Russian",
+    "tgk": "Tajik"
+  },
+  "currencies": {
+    "TJS": {
+      "name": "Tajikistani somoni",
+      "symbol": "ЅМ"
+    }
+  },
+  "timezones": [
+    "UTC+05:00"
+  ],
+  "borders": [
+    "AFG",
+    "CHN",
+    "KGZ",
+    "UZB"
+  ],
+  "flag_emoji": "🇹🇯",
+  "coat_of_arms_svg": "https://mainfacts.com/media/images/coats_of_arms/tj.svg",
+  "maps_google": "https://goo.gl/maps/8rQgW88jEXijhVb58",
+  "independent": true,
+  "un_member": true,
+  "landlocked": true,
+  "driving_side": "right",
+  "start_of_week": "monday",
+  "continents": [
+    "Asia"
+  ],
+  "latlng": [
+    39.0,
+    71.0
+  ],
+  "gini": {
+    "2015": 34.0
+  }
+}

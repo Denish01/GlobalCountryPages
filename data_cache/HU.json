@@ -1,0 +1,49 @@
+{
+  "iso_code": "HU",
+  "name_common": "Hungary",
+  "name_official": "Hungary",
+  "capital": "Budapest",
+  "population": 9539502,
+  "area_km2": 93028.0,
+  "region": "Europe",
+  "subregion": "Central Europe",
+  "languages": {
+    "hun": "Hungarian"
+  },
+  "currencies": {
+    "HUF": {
+      "name": "Hungarian forint",
+      "symbol": "Ft"
+    }
+  },
+  "timezones": [
+    "UTC+01:00"
+  ],
+  "borders": [
+    "AUT",
+    "HRV",
+    "ROU",
+    "SRB",
+    "SVK",
+    "SVN",
+    "UKR"
+  ],
+  "flag_emoji": "🇭🇺",
+  "coat_of_arms_svg": "https://mainfacts.com/media/images/coats_of_arms/hu.svg",
+  "maps_google": "https://goo.gl/maps/9gfPupm5bffixiFJ6",
+  "independent": true,
+  "un_member": true,
+  "landlocked": true,
+  "driving_side": "right",
+  "start_of_week": "monday",
+  "continents": [
+    "Europe"
+  ],
+  "latlng": [
+    47.0,
+    20.0
+  ],
+  "gini": {
+    "2018": 29.6
+  }
+}

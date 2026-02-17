@@ -1,0 +1,48 @@
+{
+  "iso_code": "ET",
+  "name_common": "Ethiopia",
+  "name_official": "Federal Democratic Republic of Ethiopia",
+  "capital": "Addis Ababa",
+  "population": 111652998,
+  "area_km2": 1104300.0,
+  "region": "Africa",
+  "subregion": "Eastern Africa",
+  "languages": {
+    "amh": "Amharic"
+  },
+  "currencies": {
+    "ETB": {
+      "name": "Ethiopian birr",
+      "symbol": "Br"
+    }
+  },
+  "timezones": [
+    "UTC+03:00"
+  ],
+  "borders": [
+    "DJI",
+    "ERI",
+    "KEN",
+    "SOM",
+    "SSD",
+    "SDN"
+  ],
+  "flag_emoji": "🇪🇹",
+  "coat_of_arms_svg": "https://mainfacts.com/media/images/coats_of_arms/et.svg",
+  "maps_google": "https://goo.gl/maps/2Q4hQWCbhuZLj3fG6",
+  "independent": true,
+  "un_member": true,
+  "landlocked": true,
+  "driving_side": "right",
+  "start_of_week": "monday",
+  "continents": [
+    "Africa"
+  ],
+  "latlng": [
+    8.0,
+    38.0
+  ],
+  "gini": {
+    "2015": 35.0
+  }
+}

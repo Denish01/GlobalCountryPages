@@ -1,0 +1,50 @@
+{
+  "iso_code": "BO",
+  "name_common": "Bolivia",
+  "name_official": "Plurinational State of Bolivia",
+  "capital": "Sucre",
+  "population": 11365333,
+  "area_km2": 1098581.0,
+  "region": "Americas",
+  "subregion": "South America",
+  "languages": {
+    "aym": "Aymara",
+    "grn": "Guaraní",
+    "que": "Quechua",
+    "spa": "Spanish"
+  },
+  "currencies": {
+    "BOB": {
+      "name": "Bolivian boliviano",
+      "symbol": "Bs."
+    }
+  },
+  "timezones": [
+    "UTC-04:00"
+  ],
+  "borders": [
+    "ARG",
+    "BRA",
+    "CHL",
+    "PRY",
+    "PER"
+  ],
+  "flag_emoji": "🇧🇴",
+  "coat_of_arms_svg": "https://mainfacts.com/media/images/coats_of_arms/bo.svg",
+  "maps_google": "https://goo.gl/maps/9DfnyfbxNM2g5U9b9",
+  "independent": true,
+  "un_member": true,
+  "landlocked": true,
+  "driving_side": "right",
+  "start_of_week": "monday",
+  "continents": [
+    "South America"
+  ],
+  "latlng": [
+    -17.0,
+    -65.0
+  ],
+  "gini": {
+    "2019": 41.6
+  }
+}

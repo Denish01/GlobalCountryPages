@@ -1,0 +1,47 @@
+{
+  "iso_code": "TM",
+  "name_common": "Turkmenistan",
+  "name_official": "Turkmenistan",
+  "capital": "Ashgabat",
+  "population": 7057841,
+  "area_km2": 488100.0,
+  "region": "Asia",
+  "subregion": "Central Asia",
+  "languages": {
+    "rus": "Russian",
+    "tuk": "Turkmen"
+  },
+  "currencies": {
+    "TMT": {
+      "name": "Turkmenistan manat",
+      "symbol": "m"
+    }
+  },
+  "timezones": [
+    "UTC+05:00"
+  ],
+  "borders": [
+    "AFG",
+    "IRN",
+    "KAZ",
+    "UZB"
+  ],
+  "flag_emoji": "🇹🇲",
+  "coat_of_arms_svg": "https://mainfacts.com/media/images/coats_of_arms/tm.svg",
+  "maps_google": "https://goo.gl/maps/cgfUcaQHSWKuqeKk9",
+  "independent": true,
+  "un_member": true,
+  "landlocked": true,
+  "driving_side": "right",
+  "start_of_week": "monday",
+  "continents": [
+    "Asia"
+  ],
+  "latlng": [
+    40.0,
+    60.0
+  ],
+  "gini": {
+    "1998": 40.8
+  }
+}

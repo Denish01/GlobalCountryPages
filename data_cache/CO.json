@@ -1,0 +1,47 @@
+{
+  "iso_code": "CO",
+  "name_common": "Colombia",
+  "name_official": "Republic of Colombia",
+  "capital": "Bogotá",
+  "population": 53057212,
+  "area_km2": 1141748.0,
+  "region": "Americas",
+  "subregion": "South America",
+  "languages": {
+    "spa": "Spanish"
+  },
+  "currencies": {
+    "COP": {
+      "name": "Colombian peso",
+      "symbol": "$"
+    }
+  },
+  "timezones": [
+    "UTC-05:00"
+  ],
+  "borders": [
+    "BRA",
+    "ECU",
+    "PAN",
+    "PER",
+    "VEN"
+  ],
+  "flag_emoji": "🇨🇴",
+  "coat_of_arms_svg": "https://mainfacts.com/media/images/coats_of_arms/co.svg",
+  "maps_google": "https://goo.gl/maps/zix9qNFX69E9yZ2M6",
+  "independent": true,
+  "un_member": true,
+  "landlocked": false,
+  "driving_side": "right",
+  "start_of_week": "monday",
+  "continents": [
+    "South America"
+  ],
+  "latlng": [
+    4.0,
+    -72.0
+  ],
+  "gini": {
+    "2019": 51.3
+  }
+}

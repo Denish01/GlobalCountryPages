@@ -1,0 +1,48 @@
+{
+  "iso_code": "UZ",
+  "name_common": "Uzbekistan",
+  "name_official": "Republic of Uzbekistan",
+  "capital": "Tashkent",
+  "population": 37859698,
+  "area_km2": 447400.0,
+  "region": "Asia",
+  "subregion": "Central Asia",
+  "languages": {
+    "rus": "Russian",
+    "uzb": "Uzbek"
+  },
+  "currencies": {
+    "UZS": {
+      "name": "Uzbekistani soʻm",
+      "symbol": "so'm"
+    }
+  },
+  "timezones": [
+    "UTC+05:00"
+  ],
+  "borders": [
+    "AFG",
+    "KAZ",
+    "KGZ",
+    "TJK",
+    "TKM"
+  ],
+  "flag_emoji": "🇺🇿",
+  "coat_of_arms_svg": "https://mainfacts.com/media/images/coats_of_arms/uz.svg",
+  "maps_google": "https://goo.gl/maps/AJpo6MjMx23qSWCz8",
+  "independent": true,
+  "un_member": true,
+  "landlocked": true,
+  "driving_side": "right",
+  "start_of_week": "monday",
+  "continents": [
+    "Asia"
+  ],
+  "latlng": [
+    41.0,
+    64.0
+  ],
+  "gini": {
+    "2003": 35.3
+  }
+}

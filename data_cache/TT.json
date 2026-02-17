@@ -1,0 +1,41 @@
+{
+  "iso_code": "TT",
+  "name_common": "Trinidad and Tobago",
+  "name_official": "Republic of Trinidad and Tobago",
+  "capital": "Port of Spain",
+  "population": 1367764,
+  "area_km2": 5130.0,
+  "region": "Americas",
+  "subregion": "Caribbean",
+  "languages": {
+    "eng": "English"
+  },
+  "currencies": {
+    "TTD": {
+      "name": "Trinidad and Tobago dollar",
+      "symbol": "$"
+    }
+  },
+  "timezones": [
+    "UTC-04:00"
+  ],
+  "borders": [],
+  "flag_emoji": "🇹🇹",
+  "coat_of_arms_svg": "https://mainfacts.com/media/images/coats_of_arms/tt.svg",
+  "maps_google": "https://goo.gl/maps/NrRfDEWoG8FGZqWY7",
+  "independent": true,
+  "un_member": true,
+  "landlocked": false,
+  "driving_side": "left",
+  "start_of_week": "monday",
+  "continents": [
+    "North America"
+  ],
+  "latlng": [
+    10.6918,
+    -61.2225
+  ],
+  "gini": {
+    "1992": 40.3
+  }
+}

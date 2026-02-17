@@ -1,0 +1,49 @@
+{
+  "iso_code": "NE",
+  "name_common": "Niger",
+  "name_official": "Republic of Niger",
+  "capital": "Niamey",
+  "population": 26312034,
+  "area_km2": 1267000.0,
+  "region": "Africa",
+  "subregion": "Western Africa",
+  "languages": {
+    "fra": "French"
+  },
+  "currencies": {
+    "XOF": {
+      "name": "West African CFA franc",
+      "symbol": "Fr"
+    }
+  },
+  "timezones": [
+    "UTC+01:00"
+  ],
+  "borders": [
+    "DZA",
+    "BEN",
+    "BFA",
+    "TCD",
+    "LBY",
+    "MLI",
+    "NGA"
+  ],
+  "flag_emoji": "🇳🇪",
+  "coat_of_arms_svg": "https://mainfacts.com/media/images/coats_of_arms/ne.svg",
+  "maps_google": "https://goo.gl/maps/VKNU2TLsZcgxM49c8",
+  "independent": true,
+  "un_member": true,
+  "landlocked": true,
+  "driving_side": "right",
+  "start_of_week": "monday",
+  "continents": [
+    "Africa"
+  ],
+  "latlng": [
+    16.0,
+    8.0
+  ],
+  "gini": {
+    "2014": 34.3
+  }
+}

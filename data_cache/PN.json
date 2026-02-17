@@ -1,0 +1,39 @@
+{
+  "iso_code": "PN",
+  "name_common": "Pitcairn Islands",
+  "name_official": "Pitcairn Group of Islands",
+  "capital": "Adamstown",
+  "population": 35,
+  "area_km2": 47.0,
+  "region": "Oceania",
+  "subregion": "Polynesia",
+  "languages": {
+    "eng": "English"
+  },
+  "currencies": {
+    "NZD": {
+      "name": "New Zealand dollar",
+      "symbol": "$"
+    }
+  },
+  "timezones": [
+    "UTC-08:00"
+  ],
+  "borders": [],
+  "flag_emoji": "🇵🇳",
+  "coat_of_arms_svg": "",
+  "maps_google": "https://goo.gl/maps/XGJMnMAigXjXcxSa7",
+  "independent": false,
+  "un_member": false,
+  "landlocked": false,
+  "driving_side": "left",
+  "start_of_week": "monday",
+  "continents": [
+    "Oceania"
+  ],
+  "latlng": [
+    -25.06666666,
+    -130.1
+  ],
+  "gini": {}
+}

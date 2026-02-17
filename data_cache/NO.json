@@ -1,0 +1,47 @@
+{
+  "iso_code": "NO",
+  "name_common": "Norway",
+  "name_official": "Kingdom of Norway",
+  "capital": "Oslo",
+  "population": 5606944,
+  "area_km2": 386224.0,
+  "region": "Europe",
+  "subregion": "Northern Europe",
+  "languages": {
+    "nno": "Norwegian Nynorsk",
+    "nob": "Norwegian Bokmål",
+    "smi": "Sami"
+  },
+  "currencies": {
+    "NOK": {
+      "name": "Norwegian krone",
+      "symbol": "kr"
+    }
+  },
+  "timezones": [
+    "UTC+01:00"
+  ],
+  "borders": [
+    "FIN",
+    "SWE",
+    "RUS"
+  ],
+  "flag_emoji": "🇳🇴",
+  "coat_of_arms_svg": "https://mainfacts.com/media/images/coats_of_arms/no.svg",
+  "maps_google": "https://goo.gl/maps/htWRrphA7vNgQNdSA",
+  "independent": true,
+  "un_member": true,
+  "landlocked": false,
+  "driving_side": "right",
+  "start_of_week": "monday",
+  "continents": [
+    "Europe"
+  ],
+  "latlng": [
+    62.0,
+    10.0
+  ],
+  "gini": {
+    "2018": 27.6
+  }
+}

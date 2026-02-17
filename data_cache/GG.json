@@ -1,0 +1,45 @@
+{
+  "iso_code": "GG",
+  "name_common": "Guernsey",
+  "name_official": "Bailiwick of Guernsey",
+  "capital": "St. Peter Port",
+  "population": 64781,
+  "area_km2": 78.0,
+  "region": "Europe",
+  "subregion": "Northern Europe",
+  "languages": {
+    "eng": "English",
+    "fra": "French",
+    "nfr": "Guernésiais"
+  },
+  "currencies": {
+    "GBP": {
+      "name": "British pound",
+      "symbol": "£"
+    },
+    "GGP": {
+      "name": "Guernsey pound",
+      "symbol": "£"
+    }
+  },
+  "timezones": [
+    "UTC+00:00"
+  ],
+  "borders": [],
+  "flag_emoji": "🇬🇬",
+  "coat_of_arms_svg": "https://mainfacts.com/media/images/coats_of_arms/gg.svg",
+  "maps_google": "https://goo.gl/maps/6kXnQU5QvEZMD9VB7",
+  "independent": false,
+  "un_member": false,
+  "landlocked": false,
+  "driving_side": "left",
+  "start_of_week": "monday",
+  "continents": [
+    "Europe"
+  ],
+  "latlng": [
+    49.46666666,
+    -2.58333333
+  ],
+  "gini": {}
+}

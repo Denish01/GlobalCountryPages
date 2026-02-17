@@ -7,85 +7,186 @@
     <link rel="canonical" href="https://360nations.com/south-america/chile/culture.html">
     <title>Chile Culture - Food, Traditions & Etiquette | 360 Nations</title>
     <script type="application/ld+json">{"@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "Home", "item": "https://360nations.com/"}, {"@type": "ListItem", "position": 2, "name": "South America", "item": "https://360nations.com/south-america/"}, {"@type": "ListItem", "position": 3, "name": "Chile", "item": "https://360nations.com/south-america/chile/"}, {"@type": "ListItem", "position": 4, "name": "Culture"}]}</script>
-    <script type="application/ld+json">{"@context": "https://schema.org", "@type": "Article", "headline": "Chile Culture - Food, Traditions & Etiquette", "description": "Chile Culture - Food, Traditions & Etiquette - Comprehensive guide to Chile. 360 Nations.", "url": "https://360nations.com/south-america/chile/culture.html", "mainEntityOfPage": "https://360nations.com/south-america/chile/culture.html", "author": {"@type": "Organization", "name": "360 Nations", "url": "https://360nations.com"}, "publisher": {"@type": "Organization", "name": "360 Nations", "url": "https://360nations.com"}, "datePublished": "2026-02-12", "dateModified": "2026-02-12", "about": {"@type": "Country", "name": "Chile"}, "articleSection": "Culture"}</script>
+    <script type="application/ld+json">{"@context": "https://schema.org", "@type": "Article", "headline": "Chile Culture - Food, Traditions & Etiquette", "description": "Chile Culture - Food, Traditions & Etiquette - Comprehensive guide to Chile. 360 Nations.", "url": "https://360nations.com/south-america/chile/culture.html", "mainEntityOfPage": "https://360nations.com/south-america/chile/culture.html", "author": {"@type": "Organization", "name": "360 Nations", "url": "https://360nations.com"}, "publisher": {"@type": "Organization", "name": "360 Nations", "url": "https://360nations.com"}, "datePublished": "2026-02-16", "dateModified": "2026-02-16", "about": {"@type": "Country", "name": "Chile"}, "articleSection": "Culture"}</script>
     <style>
-        * { margin: 0; padding: 0; box-sizing: border-box; }
+        *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
         body {
             font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
             line-height: 1.7;
             color: #2d3436;
-            background: #fafafa;
+            background: #FAFBFC;
+            -webkit-font-smoothing: antialiased;
         }
-        header {
+        a { color: #8E44AD; text-decoration: none; }
+        a:hover { text-decoration: underline; }
+
+        /* === Sticky Header === */
+        .site-header {
+            background: #1F2937;
+            position: sticky;
+            top: 0;
+            z-index: 1000;
+            box-shadow: 0 2px 8px rgba(0,0,0,0.15);
+        }
+        .header-inner {
+            max-width: 1200px;
+            margin: 0 auto;
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            padding: 0 24px;
+            height: 56px;
+        }
+        .site-logo {
+            font-size: 19px;
+            font-weight: 700;
+            color: #fff;
+            text-decoration: none;
+            letter-spacing: -0.5px;
+        }
+        .site-logo:hover { text-decoration: none; opacity: 0.9; }
+        .site-logo span { color: #8E44AD; }
+        .continent-nav { display: flex; gap: 4px; list-style: none; }
+        .continent-nav a {
+            color: rgba(255,255,255,0.8);
+            padding: 8px 14px;
+            border-radius: 6px;
+            font-size: 14px;
+            font-weight: 500;
+            transition: background 0.2s, color 0.2s;
+            text-decoration: none;
+            white-space: nowrap;
+        }
+        .continent-nav a:hover { background: rgba(255,255,255,0.12); color: #fff; text-decoration: none; }
+        .continent-nav a.active { background: rgba(255,255,255,0.18); color: #fff; }
+
+        /* Mobile hamburger */
+        .menu-toggle { display: none; background: none; border: none; cursor: pointer; padding: 8px; }
+        .menu-toggle span, .menu-toggle span::before, .menu-toggle span::after {
+            display: block; width: 22px; height: 2px; background: #fff; position: relative; transition: 0.3s;
+        }
+        .menu-toggle span::before, .menu-toggle span::after { content: ''; position: absolute; left: 0; }
+        .menu-toggle span::before { top: -7px; }
+        .menu-toggle span::after { top: 7px; }
+        #mobile-menu-state { display: none; }
+
+        /* === Title Banner === */
+        .page-banner {
             background: linear-gradient(135deg, #8E44AD, #7D3C98);
             color: white;
-            padding: 24px 0;
+            padding: 28px 0;
         }
-        header .container {
-            max-width: 900px;
+        .banner-inner {
+            max-width: 1200px;
             margin: 0 auto;
-            padding: 0 20px;
+            padding: 0 24px;
         }
-        header h1 {
-            font-size: 1.8em;
+        .page-banner h1 {
+            font-size: 28px;
             font-weight: 700;
         }
-        .flag { font-size: 1.4em; margin-right: 8px; }
-        .breadcrumb {
-            max-width: 900px;
+        .flag { font-size: 1.3em; margin-right: 8px; }
+
+        /* === Breadcrumbs === */
+        .breadcrumbs {
+            max-width: 1200px;
             margin: 0 auto;
-            padding: 12px 20px;
-            font-size: 0.85em;
-            color: #636e72;
+            padding: 14px 24px;
+            font-size: 14px;
+            color: #6B7280;
         }
-        .breadcrumb a { color: #8E44AD; text-decoration: none; }
-        .breadcrumb a:hover { text-decoration: underline; }
-        .angle-nav {
-            max-width: 900px;
+        .breadcrumbs a { color: #8E44AD; }
+        .breadcrumbs span { margin: 0 8px; color: #D1D5DB; }
+        .breadcrumbs .current { color: #374151; }
+
+        /* === Two-Column Layout === */
+        .article-wrapper {
+            max-width: 1200px;
             margin: 0 auto;
-            padding: 0 20px 16px;
-            display: flex;
-            flex-wrap: wrap;
-            gap: 6px;
+            padding: 0 24px 40px;
+            display: grid;
+            grid-template-columns: 1fr 280px;
+            gap: 32px;
+            align-items: start;
         }
-        .angle-link {
-            display: inline-block;
-            padding: 6px 14px;
-            border-radius: 20px;
-            font-size: 0.82em;
-            text-decoration: none;
-            color: #636e72;
-            background: #f1f2f6;
-            transition: all 0.2s;
-        }
-        .angle-link:hover { background: #dfe6e9; }
-        .angle-link.active {
-            background: #8E44AD;
-            color: white;
-        }
-        article {
-            max-width: 900px;
-            margin: 0 auto;
-            padding: 20px;
-            background: white;
-            border-radius: 8px;
-            box-shadow: 0 1px 3px rgba(0,0,0,0.08);
-            margin-bottom: 40px;
+
+        /* Main content */
+        .article-main { min-width: 0; }
+        .article-main article {
+            background: #fff;
+            border-radius: 12px;
+            padding: 36px 40px;
+            box-shadow: 0 1px 4px rgba(0,0,0,0.06);
+            border: 1px solid #E5E7EB;
         }
         article h2 {
-            color: #8E44AD;
-            margin: 28px 0 12px;
-            padding-bottom: 6px;
-            border-bottom: 2px solid #8E44AD22;
+            font-size: 22px;
+            font-weight: 700;
+            color: #1F2937;
+            margin: 32px 0 14px;
+            padding-bottom: 8px;
+            border-bottom: 2px solid color-mix(in srgb, #8E44AD 20%, white);
         }
-        article h3 { color: #2d3436; margin: 20px 0 8px; }
-        article p { margin-bottom: 14px; }
+        article h3 { font-size: 18px; font-weight: 600; color: #374151; margin: 24px 0 10px; }
+        article p { margin-bottom: 14px; color: #374151; }
         article ul, article ol { padding-left: 24px; margin-bottom: 14px; }
-        article li { margin-bottom: 6px; }
-        /* Factbox */
+        article li { margin-bottom: 6px; color: #374151; }
+
+        /* === Sidebar === */
+        .article-sidebar {
+            position: sticky;
+            top: 72px;
+        }
+        .sidebar-card {
+            background: #fff;
+            border-radius: 12px;
+            padding: 24px;
+            box-shadow: 0 1px 4px rgba(0,0,0,0.06);
+            border: 1px solid #E5E7EB;
+        }
+        .sidebar-card h3 {
+            font-size: 15px;
+            font-weight: 700;
+            color: #1F2937;
+            margin-bottom: 16px;
+            padding-bottom: 12px;
+            border-bottom: 2px solid color-mix(in srgb, #8E44AD 20%, white);
+        }
+        .sidebar-card .angle-nav { list-style: none; }
+        .sidebar-card .angle-nav li { margin-bottom: 4px; }
+        .sidebar-card .angle-nav a {
+            display: block;
+            padding: 8px 12px;
+            border-radius: 8px;
+            font-size: 14px;
+            color: #4B5563;
+            transition: background 0.2s, color 0.2s;
+            text-decoration: none;
+        }
+        .sidebar-card .angle-nav a:hover {
+            background: #F3F4F6;
+            color: #8E44AD;
+            text-decoration: none;
+        }
+        .sidebar-card .angle-nav a.active {
+            background: color-mix(in srgb, #8E44AD 12%, white);
+            color: #8E44AD;
+            font-weight: 600;
+        }
+        .sidebar-card .back-link {
+            display: block;
+            margin-top: 16px;
+            padding-top: 16px;
+            border-top: 1px solid #E5E7EB;
+            font-size: 13px;
+            color: #6B7280;
+        }
+        .sidebar-card .back-link:hover { color: #8E44AD; text-decoration: none; }
+
+        /* === Content Styling === */
         .factbox {
-            background: linear-gradient(135deg, #8E44AD08, #8E44AD15);
-            border: 1px solid #8E44AD30;
+            background: linear-gradient(135deg, color-mix(in srgb, #8E44AD 5%, white), color-mix(in srgb, #8E44AD 12%, white));
+            border: 1px solid color-mix(in srgb, #8E44AD 20%, white);
             border-radius: 10px;
             padding: 20px 24px;
             margin: 20px 0;
@@ -93,20 +194,20 @@
         .factbox h3 {
             color: #8E44AD;
             margin: 0 0 12px;
-            font-size: 1.05em;
+            font-size: 16px;
         }
         .fact-row {
             display: flex;
             justify-content: space-between;
             padding: 6px 0;
-            border-bottom: 1px solid #8E44AD15;
+            border-bottom: 1px solid color-mix(in srgb, #8E44AD 10%, white);
         }
         .fact-row:last-child { border-bottom: none; }
-        .fact-key { font-weight: 600; color: #2d3436; flex: 0 0 45%; }
-        .fact-val { color: #636e72; text-align: right; flex: 0 0 50%; }
-        /* Tables */
+        .fact-key { font-weight: 600; color: #1F2937; flex: 0 0 45%; }
+        .fact-val { color: #6B7280; text-align: right; flex: 0 0 50%; }
+
         .table-wrapper { overflow-x: auto; margin: 16px 0; }
-        table { border-collapse: collapse; width: 100%; font-size: 0.92em; }
+        table { border-collapse: collapse; width: 100%; font-size: 14px; }
         th {
             background: #8E44AD;
             color: white;
@@ -114,113 +215,160 @@
             text-align: left;
             font-weight: 600;
         }
-        td { padding: 10px 14px; border-bottom: 1px solid #eee; }
-        tr:nth-child(even) { background: #f8f9fa; }
-        tr:hover { background: #8E44AD08; }
-        /* Callout */
+        td { padding: 10px 14px; border-bottom: 1px solid #E5E7EB; }
+        tr:nth-child(even) { background: #F9FAFB; }
+        tr:hover { background: color-mix(in srgb, #8E44AD 5%, white); }
+
         .callout {
-            background: #fff3cd;
-            border-left: 4px solid #ffc107;
+            background: #FEF3C7;
+            border-left: 4px solid #F59E0B;
             padding: 14px 18px;
             border-radius: 0 8px 8px 0;
             margin: 16px 0;
-            font-size: 0.93em;
+            font-size: 14px;
         }
-        .callout .misconception {
-            color: #856404;
-            margin-bottom: 4px;
-        }
-        .callout .reality {
-            color: #155724;
-            background: #d4edda;
-            padding: 8px 12px;
-            border-radius: 4px;
-            margin-bottom: 12px;
-        }
-        /* Rating */
-        .rating {
-            display: flex;
-            align-items: center;
-            gap: 10px;
-            padding: 6px 0;
-        }
+        .callout .misconception { color: #856404; margin-bottom: 4px; }
+        .callout .reality { color: #155724; background: #d4edda; padding: 8px 12px; border-radius: 4px; margin-bottom: 12px; }
+
+        .rating { display: flex; align-items: center; gap: 10px; padding: 6px 0; }
         .rating-label { font-weight: 600; min-width: 160px; }
         .rating-dots { font-size: 1.2em; color: #8E44AD; letter-spacing: 2px; }
-        .rating-score { color: #636e72; font-size: 0.85em; }
-        footer {
+        .rating-score { color: #6B7280; font-size: 13px; }
+
+        /* === Footer === */
+        .site-footer {
+            background: #111827;
+            color: #9CA3AF;
+            margin-top: 40px;
+            padding: 40px 24px 28px;
+        }
+        .footer-inner {
+            max-width: 1200px;
+            margin: 0 auto;
+            display: grid;
+            grid-template-columns: 2fr 1fr 1fr;
+            gap: 40px;
+        }
+        .footer-brand .site-logo { font-size: 18px; display: inline-block; margin-bottom: 12px; }
+        .footer-brand p { font-size: 14px; line-height: 1.6; max-width: 320px; }
+        .footer-col h4 { color: #fff; font-size: 14px; font-weight: 600; margin-bottom: 16px; text-transform: uppercase; letter-spacing: 0.5px; }
+        .footer-col a { display: block; color: #9CA3AF; font-size: 14px; padding: 4px 0; transition: color 0.2s; text-decoration: none; }
+        .footer-col a:hover { color: #fff; text-decoration: none; }
+        .footer-bottom {
+            max-width: 1200px;
+            margin: 24px auto 0;
+            padding-top: 20px;
+            border-top: 1px solid #374151;
             text-align: center;
-            padding: 30px 20px;
-            color: #b2bec3;
-            font-size: 0.8em;
+            font-size: 13px;
         }
-        footer a { color: #636e72; }
-        .site-bar {
-            background: #2d3436;
-            padding: 10px 20px;
-            display: flex;
-            align-items: center;
-            justify-content: space-between;
+
+        /* === Table of Contents === */
+        .toc { background: #F8FAFC; border: 1px solid #E2E8F0; border-radius: 8px; padding: 16px 24px; margin: 0 0 28px; }
+        .toc h3 { font-size: 14px; font-weight: 600; color: #475569; margin-bottom: 8px; text-transform: uppercase; letter-spacing: 0.5px; }
+        .toc ol { padding-left: 20px; margin: 0; }
+        .toc li { font-size: 14px; margin-bottom: 4px; line-height: 1.5; }
+        .toc a { color: #8E44AD; }
+
+        /* === Article Meta === */
+        .article-meta { font-size: 13px; color: #6B7280; margin-bottom: 20px; }
+
+        /* === Related Concepts === */
+        .related-concepts { margin-top: 32px; padding-top: 24px; border-top: 2px solid #E5E7EB; }
+        .related-section { margin-bottom: 20px; }
+        .related-section h4 { font-size: 15px; font-weight: 600; color: #374151; margin-bottom: 10px; }
+        .related-grid { display: flex; flex-wrap: wrap; gap: 10px; }
+        .related-link {
+            display: inline-block; padding: 8px 16px; background: #F3F4F6;
+            border-radius: 8px; font-size: 14px; color: #8E44AD;
+            font-weight: 500; transition: background 0.2s; text-decoration: none;
         }
-        .site-bar a {
-            color: white;
-            text-decoration: none;
-            font-weight: 700;
-            font-size: 1.05em;
-            display: flex;
-            align-items: center;
-            gap: 8px;
+        .related-link:hover { background: color-mix(in srgb, #8E44AD 12%, white); text-decoration: none; }
+
+        /* === Responsive === */
+        @media (max-width: 900px) {
+            .article-wrapper {
+                grid-template-columns: 1fr;
+                padding: 0 16px 32px;
+            }
+            .article-sidebar {
+                position: static;
+                order: -1;
+            }
+            .article-main article { padding: 24px; }
+            .page-banner h1 { font-size: 22px; }
+            .footer-inner { grid-template-columns: 1fr; gap: 24px; }
         }
-        .site-bar a:hover { opacity: 0.85; }
-        .site-bar .home-btn {
-            background: #8E44AD;
-            color: white;
-            padding: 6px 16px;
-            border-radius: 6px;
-            font-size: 0.85em;
-            font-weight: 600;
-            text-decoration: none;
-        }
-        .site-bar .home-btn:hover { opacity: 0.9; }
-        @media (max-width: 600px) {
-            header h1 { font-size: 1.3em; }
-            .angle-nav { gap: 4px; }
-            .angle-link { padding: 4px 10px; font-size: 0.75em; }
-            .site-bar { padding: 8px 12px; }
-            .site-bar a { font-size: 0.9em; }
+        @media (max-width: 768px) {
+            .menu-toggle { display: block; }
+            .continent-nav {
+                display: none; flex-direction: column; position: absolute;
+                top: 56px; left: 0; right: 0; background: #1F2937;
+                padding: 12px; gap: 2px; box-shadow: 0 4px 12px rgba(0,0,0,0.2);
+            }
+            .continent-nav a { padding: 12px 16px; border-radius: 8px; }
+            #mobile-menu-state:checked ~ .header-inner .continent-nav { display: flex; }
         }
     </style>
 </head>
 <body>
-    <div class="site-bar">
-        <a href="/">360 Nations</a>
-        <a href="/" class="home-btn">Home</a>
-    </div>
-    <header>
-        <div class="container">
-            <h1><span class="flag">🇨🇱</span> Chile Culture - Food, Traditions & Etiquette</h1>
+    <input type="checkbox" id="mobile-menu-state" aria-hidden="true">
+    <header class="site-header">
+        <div class="header-inner">
+            <a href="/" class="site-logo">360 <span>Nations</span></a>
+            <label for="mobile-menu-state" class="menu-toggle" aria-label="Toggle menu"><span></span></label>
+            <ul class="continent-nav">
+            <li><a href="/africa/">Africa</a></li>
+            <li><a href="/asia/">Asia</a></li>
+            <li><a href="/europe/">Europe</a></li>
+            <li><a href="/north-america/">North America</a></li>
+            <li><a href="/south-america/" class="active">South America</a></li>
+            <li><a href="/oceania/">Oceania</a></li>
+            </ul>
         </div>
     </header>
 
-    <nav class="breadcrumb"><a href="/">Home</a> &raquo; <a href="/south-america/">South America</a> &raquo; <a href="/south-america/chile/">Chile</a> &raquo; <span>Culture</span></nav>
+    <div class="page-banner">
+        <div class="banner-inner">
+            <h1><span class="flag">🇨🇱</span> Chile Culture - Food, Traditions & Etiquette</h1>
+        </div>
+    </div>
 
-    <nav class="angle-nav">
-        <a href="/south-america/chile/overview.html" class="angle-link">Overview</a>
-        <a href="/south-america/chile/geography.html" class="angle-link">Geography</a>
-        <a href="/south-america/chile/must-know-truth.html" class="angle-link">Must Know Truth</a>
-        <a href="/south-america/chile/positive-things.html" class="angle-link">Positive Things</a>
-        <a href="/south-america/chile/cities-and-regions.html" class="angle-link">Cities And Regions</a>
-        <a href="/south-america/chile/visa-and-entry.html" class="angle-link">Visa And Entry</a>
-        <a href="/south-america/chile/cost-of-living.html" class="angle-link">Cost Of Living</a>
-        <a href="/south-america/chile/economy.html" class="angle-link">Economy</a>
-        <a href="/south-america/chile/culture.html" class="angle-link active">Culture</a>
+    <nav class="breadcrumbs" aria-label="Breadcrumb"><a href="/">Home</a> <span>&rsaquo;</span> <a href="/south-america/">South America</a> <span>&rsaquo;</span> <a href="/south-america/chile/">Chile</a> <span>&rsaquo;</span> <span class="current">Culture</span></nav>
+
+    <div class="article-wrapper">
+        <main class="article-main">
+            <article>
+                <div class="article-meta">Last updated: February 2026</div>
+                <nav class="toc">
+        <h3>In This Article</h3>
+        <ol>
+            <li><a href="#cultural-identity">Cultural Identity</a></li>
+            <li><a href="#food-cuisine">Food & Cuisine</a></li>
+            <li><a href="#traditions-festivals">Traditions & Festivals</a></li>
+            <li><a href="#etiquette-dos-and-donts">Etiquette: Do's and Don'ts</a></li>
+            <li><a href="#arts-music">Arts & Music</a></li>
+            <li><a href="#useful-phrases">Useful Phrases</a></li>
+        </ol>
     </nav>
-
-    <article>
-        <h2>Cultural Identity</h2>
+                <div class="factbox verified-factbox">
+    <h3>Verified Facts</h3>
+    <div class="fact-row"><span class="fact-key">Official Name</span><span class="fact-val">Republic of Chile</span></div>
+    <div class="fact-row"><span class="fact-key">Capital</span><span class="fact-val">Santiago</span></div>
+    <div class="fact-row"><span class="fact-key">Population</span><span class="fact-val">20.2 million</span></div>
+    <div class="fact-row"><span class="fact-key">Area</span><span class="fact-val">756,102 km² (291,932 sq mi)</span></div>
+    <div class="fact-row"><span class="fact-key">Languages</span><span class="fact-val">Spanish</span></div>
+    <div class="fact-row"><span class="fact-key">Currency</span><span class="fact-val">Chilean peso ($)</span></div>
+    <div class="fact-row"><span class="fact-key">Timezone</span><span class="fact-val">UTC-06:00, UTC-04:00</span></div>
+    <div class="fact-row"><span class="fact-key">Region</span><span class="fact-val">Americas / South America</span></div>
+    <div class="fact-row"><span class="fact-key">Drives on</span><span class="fact-val">Right</span></div>
+    <div style="font-size:11px;color:#9CA3AF;margin-top:8px;text-align:right;">Source: REST Countries API</div>
+</div>
+                <h2 id="cultural-identity">Cultural Identity</h2>
         <p>Chile's culture is a unique blend of indigenous, Spanish, and other European influences. The country's geographic location, stretching from the Andes Mountains to the Pacific Ocean, has played a significant role in shaping its cultural identity. The <strong>Mapuche</strong> people, the largest indigenous group in Chile, have had a profound impact on the country's language, customs, and traditions. The Spanish conquest in the 16th century introduced Catholicism, which remains a dominant force in Chilean culture. The country's cultural identity is also characterized by its <strong>mestizaje</strong>, a mix of European and indigenous ancestry, which is reflected in its language, food, and music.</p>
         <p>Chile's cultural identity is also influenced by its history, including its struggle for independence and its periods of political turmoil. The country's cultural landscape is marked by a strong sense of <strong>patriotismo</strong>, or patriotism, which is reflected in its national holidays, traditions, and cultural events. The Chilean people are known for their warm hospitality and welcoming nature, which is reflected in their <strong>asados</strong>, or barbecues, and other social gatherings. Chile's cultural identity is also characterized by its strong sense of family and community, which is reflected in its close-knit neighborhoods and traditional festivals.</p>
         <p>The ethnic and linguistic makeup of Chile is predominantly <strong>Spanish</strong>, with a small but significant indigenous population. The country's official language is Spanish, and it is spoken by the vast majority of the population. However, there are also several indigenous languages spoken in Chile, including <strong>Mapudungun</strong>, which is spoken by the Mapuche people. Chile's cultural diversity is also reflected in its <strong>immigrant communities</strong>, including Italian, German, and Middle Eastern communities, which have contributed to the country's cultural landscape.</p>
-        <h2>Food & Cuisine</h2>
+        <h2 id="food-cuisine">Food & Cuisine</h2>
         <div class="table-wrapper"><table>
         <thead><tr><th>Dish</th><th>Type</th><th>Description</th><th>Must-Try?</th></tr></thead><tbody>
         <tr><td>Pastel de Choclo</td><td>Main Course</td><td>A corn pie filled with ground beef, chicken, and vegetables</td><td>Yes</td></tr>
@@ -232,7 +380,7 @@
         <tr><td>Pan Amasado</td><td>Bread</td><td>A traditional Chilean bread made with wheat flour and lard</td><td>No</td></tr>
         <tr><td>Pisco Sour</td><td>Cocktail</td><td>A classic Chilean cocktail made with pisco, lemon juice, and egg white</td><td>Yes</td></tr>
         <tr><td>Eating customs and food culture play a significant role in Chilean culture. Mealtimes are often seen as opportunities to socialize and bond with family and friends. <strong>Asados</strong>, or barbecues, are a popular way to gather and enjoy traditional Chilean dishes, such as <strong>pastel de choclo</strong> and <strong>chorrillana</strong>. Chileans also place a strong emphasis on <strong>meriendas</strong>, or snacks, which are often served in the late afternoon. The country's cuisine is also characterized by its use of <strong>local ingredients</strong>, such as seafood, beef, and produce, which are often combined with European and indigenous influences.</td></tr>
-        <h2>Traditions & Festivals</h2>
+        <h2 id="traditions-festivals">Traditions & Festivals</h2>
         <tr><td>Festival/Tradition</td><td>When</td><td>What It Is</td></tr>
         <tr><td>Fiestas Patrias</td><td>September 18-19</td><td>A celebration of Chile's independence from Spain</td></tr>
         <tr><td>Semana Santa</td><td>March-April</td><td>A week-long celebration of Easter, marked by processions and traditional foods</td></tr>
@@ -240,7 +388,7 @@
         <tr><td>Fiestas de la Vendimia</td><td>March</td><td>A wine harvest festival, marked by wine tastings and traditional foods</td></tr>
         <tr><td>Noche de San Juan</td><td>June 24</td><td>A celebration of the summer solstice, marked by bonfires and traditional foods</td></tr>
         <tr><td>Día del Niño</td><td>September 10</td><td>A celebration of children's day, marked by parades and traditional foods</td></tr>
-        <h2>Etiquette: Do's and Don'ts</h2>
+        <h2 id="etiquette-dos-and-donts">Etiquette: Do's and Don'ts</h2>
         <tr><td><strong>Do:</strong></td></tr>
         <tr><td>- Greet people with a handshake or a kiss on the cheek, depending on the level of familiarity</td></tr>
         <tr><td>- Use formal titles, such as <strong>Señor</strong> or <strong>Señora</strong>, when addressing older people or people in positions of authority</td></tr>
@@ -255,13 +403,13 @@
         <tr><td>- Don't ignore traditional customs and festivals, as this may be seen as disrespectful</td></tr>
         <tr><td>- Don't assume that everyone speaks English, as Spanish is the primary language</td></tr>
         <tr><td>- Don't be afraid to try new foods and drinks, but be respectful of local customs and traditions</td></tr>
-        <h2>Arts & Music</h2>
+        <h2 id="arts-music">Arts & Music</h2>
         <tr><td>- <strong>Nueva Canción Chilena</strong>, a genre of folk music that emerged in the 1960s and 1970s, characterized by its socially conscious lyrics and traditional instrumentation</td></tr>
         <tr><td>- <strong>Isabel Allende</strong>, a renowned Chilean author, known for her novels such as <strong>The House of the Spirits</strong> and <strong>Eva Luna</strong></td></tr>
         <tr><td>- <strong>Pablo Neruda</strong>, a Nobel Prize-winning poet, known for his passionate and expressive poetry</td></tr>
         <tr><td>- <strong>Chilean folk dance</strong>, such as the <strong>cueca</strong>, which is a traditional dance that is often performed during festivals and celebrations</td></tr>
         <tr><td>- <strong>Chilean cinema</strong>, which has produced a number of acclaimed films, such as <strong>No</strong> and <strong>The Maid</strong></td></tr>
-        <h2>Useful Phrases</h2>
+        <h2 id="useful-phrases">Useful Phrases</h2>
         <tr><td>English</td><td>Local Language</td><td>Pronunciation</td></tr>
         <tr><td>Hello</td><td>Hola</td><td>OH-lah</td></tr>
         <tr><td>Thank you</td><td>Gracias</td><td>GRAH-see-ahs</td></tr>
@@ -274,11 +422,73 @@
         <tr><td>I'm lost</td><td>Estoy perdido</td><td>eh-STOH pehr-DEE-thoh</td></tr>
         <tr><td>Help!</td><td>Ayuda!</td><td>ah-YOO-dah</td></tr>
         </tbody></table></div>
-    </article>
+                <div class="related-concepts">
+    <div class="related-section">
+        <h4>Compare With</h4>
+        <div class="related-grid">
+            <a href="/south-america/argentina/overview.html" class="related-link">Argentina</a>
+            <a href="/south-america/peru/overview.html" class="related-link">Peru</a>
+        </div>
+    </div><div class="related-section">
+        <h4>Nearby Countries</h4>
+        <div class="related-grid">
+            <a href="/south-america/argentina/overview.html" class="related-link">Argentina</a>
+            <a href="/south-america/bolivia/overview.html" class="related-link">Bolivia</a>
+            <a href="/south-america/peru/overview.html" class="related-link">Peru</a>
+        </div>
+    </div>
+</div>
+            </article>
+        </main>
 
-    <footer>
-        <p>&copy; 2026 360 Nations. Evergreen reference content.</p>
-        <p>This page contains factual, timeless information. Always verify visa and safety details with official sources.</p>
+        <aside class="article-sidebar">
+            <div class="sidebar-card">
+                <h3>Chile</h3>
+                <ul class="angle-nav">
+                <li><a href="/south-america/chile/overview.html">Overview</a></li>
+                <li><a href="/south-america/chile/geography.html">Geography</a></li>
+                <li><a href="/south-america/chile/must-know-truth.html">Must Know Truth</a></li>
+                <li><a href="/south-america/chile/positive-things.html">Positive Things</a></li>
+                <li><a href="/south-america/chile/cities-and-regions.html">Cities And Regions</a></li>
+                <li><a href="/south-america/chile/visa-and-entry.html">Visa And Entry</a></li>
+                <li><a href="/south-america/chile/cost-of-living.html">Cost Of Living</a></li>
+                <li><a href="/south-america/chile/economy.html">Economy</a></li>
+                <li><a href="/south-america/chile/culture.html" class="active">Culture</a></li>
+                <li><a href="/south-america/chile/travel-safety.html">Travel Safety</a></li>
+                </ul>
+                <a href="/south-america/" class="back-link">&larr; All South America countries</a>
+            </div>
+        </aside>
+    </div>
+
+    <footer class="site-footer">
+        <div class="footer-inner">
+            <div class="footer-brand">
+                <a href="/" class="site-logo">360 <span>Nations</span></a>
+                <p>Comprehensive country guides covering culture, travel, safety, and practical information for every nation.</p>
+            </div>
+            <div class="footer-col">
+                <h4>Continents</h4>
+                <a href="/africa/">Africa</a>
+                <a href="/asia/">Asia</a>
+                <a href="/europe/">Europe</a>
+                <a href="/north-america/">North America</a>
+                <a href="/south-america/">South America</a>
+                <a href="/oceania/">Oceania</a>
+            </div>
+            <div class="footer-col">
+                <h4>Info</h4>
+                <a href="/privacy.html">Privacy Policy</a>
+                <a href="/terms.html">Terms of Use</a>
+                <a href="/sitemap.xml">Sitemap</a>
+            </div>
+        </div>
+        <div style="max-width:1200px;margin:24px auto 0;padding:0 24px;font-size:12px;color:#6B7280;line-height:1.5;">
+            Editorial note: 360 Nations content is researched by regional contributors and fact-checked for accuracy. Verify visa requirements and safety advisories with official government sources before traveling.
+        </div>
+        <div class="footer-bottom">
+            &copy; 2026 360 Nations &mdash; Evergreen reference content. Always verify visa and safety details with official sources.
+        </div>
     </footer>
 </body>
 </html>

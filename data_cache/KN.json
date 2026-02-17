@@ -1,0 +1,39 @@
+{
+  "iso_code": "KN",
+  "name_common": "Saint Kitts and Nevis",
+  "name_official": "Federation of Saint Christopher and Nevis",
+  "capital": "Basseterre",
+  "population": 51320,
+  "area_km2": 261.0,
+  "region": "Americas",
+  "subregion": "Caribbean",
+  "languages": {
+    "eng": "English"
+  },
+  "currencies": {
+    "XCD": {
+      "name": "Eastern Caribbean dollar",
+      "symbol": "$"
+    }
+  },
+  "timezones": [
+    "UTC-04:00"
+  ],
+  "borders": [],
+  "flag_emoji": "🇰🇳",
+  "coat_of_arms_svg": "https://mainfacts.com/media/images/coats_of_arms/kn.svg",
+  "maps_google": "https://goo.gl/maps/qiaVwcLVTXX3eoTNA",
+  "independent": true,
+  "un_member": true,
+  "landlocked": false,
+  "driving_side": "left",
+  "start_of_week": "monday",
+  "continents": [
+    "North America"
+  ],
+  "latlng": [
+    17.33333333,
+    -62.75
+  ],
+  "gini": {}
+}

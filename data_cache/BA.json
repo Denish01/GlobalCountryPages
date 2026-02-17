@@ -1,0 +1,47 @@
+{
+  "iso_code": "BA",
+  "name_common": "Bosnia and Herzegovina",
+  "name_official": "Bosnia and Herzegovina",
+  "capital": "Sarajevo",
+  "population": 3422000,
+  "area_km2": 51209.0,
+  "region": "Europe",
+  "subregion": "Southeast Europe",
+  "languages": {
+    "bos": "Bosnian",
+    "hrv": "Croatian",
+    "srp": "Serbian"
+  },
+  "currencies": {
+    "BAM": {
+      "name": "Bosnia and Herzegovina convertible mark",
+      "symbol": "KM"
+    }
+  },
+  "timezones": [
+    "UTC+01:00"
+  ],
+  "borders": [
+    "HRV",
+    "MNE",
+    "SRB"
+  ],
+  "flag_emoji": "🇧🇦",
+  "coat_of_arms_svg": "https://mainfacts.com/media/images/coats_of_arms/ba.svg",
+  "maps_google": "https://www.google.com/maps/place/Bosnia+and+Herzegovina",
+  "independent": true,
+  "un_member": true,
+  "landlocked": false,
+  "driving_side": "right",
+  "start_of_week": "monday",
+  "continents": [
+    "Europe"
+  ],
+  "latlng": [
+    44.0,
+    18.0
+  ],
+  "gini": {
+    "2011": 33.0
+  }
+}

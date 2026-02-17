@@ -1,0 +1,46 @@
+{
+  "iso_code": "SO",
+  "name_common": "Somalia",
+  "name_official": "Federal Republic of Somalia",
+  "capital": "Mogadishu",
+  "population": 19655000,
+  "area_km2": 637657.0,
+  "region": "Africa",
+  "subregion": "Eastern Africa",
+  "languages": {
+    "ara": "Arabic",
+    "som": "Somali"
+  },
+  "currencies": {
+    "SOS": {
+      "name": "Somali shilling",
+      "symbol": "Sh"
+    }
+  },
+  "timezones": [
+    "UTC+03:00"
+  ],
+  "borders": [
+    "DJI",
+    "ETH",
+    "KEN"
+  ],
+  "flag_emoji": "🇸🇴",
+  "coat_of_arms_svg": "https://mainfacts.com/media/images/coats_of_arms/so.svg",
+  "maps_google": "https://goo.gl/maps/8of8q7D1a8p7R6Fc9",
+  "independent": true,
+  "un_member": true,
+  "landlocked": false,
+  "driving_side": "right",
+  "start_of_week": "monday",
+  "continents": [
+    "Africa"
+  ],
+  "latlng": [
+    10.0,
+    49.0
+  ],
+  "gini": {
+    "2017": 36.8
+  }
+}

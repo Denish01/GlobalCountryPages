@@ -1,0 +1,49 @@
+{
+  "iso_code": "CA",
+  "name_common": "Canada",
+  "name_official": "Canada",
+  "capital": "Ottawa",
+  "population": 41651653,
+  "area_km2": 9984670.0,
+  "region": "Americas",
+  "subregion": "North America",
+  "languages": {
+    "eng": "English",
+    "fra": "French"
+  },
+  "currencies": {
+    "CAD": {
+      "name": "Canadian dollar",
+      "symbol": "$"
+    }
+  },
+  "timezones": [
+    "UTC-08:00",
+    "UTC-07:00",
+    "UTC-06:00",
+    "UTC-05:00",
+    "UTC-04:00",
+    "UTC-03:30"
+  ],
+  "borders": [
+    "USA"
+  ],
+  "flag_emoji": "🇨🇦",
+  "coat_of_arms_svg": "https://mainfacts.com/media/images/coats_of_arms/ca.svg",
+  "maps_google": "https://goo.gl/maps/jmEVLugreeqiZXxbA",
+  "independent": true,
+  "un_member": true,
+  "landlocked": false,
+  "driving_side": "right",
+  "start_of_week": "sunday",
+  "continents": [
+    "North America"
+  ],
+  "latlng": [
+    60.0,
+    -95.0
+  ],
+  "gini": {
+    "2017": 33.3
+  }
+}

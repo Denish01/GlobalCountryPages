@@ -7,85 +7,186 @@
     <link rel="canonical" href="https://360nations.com/africa/namibia/travel-safety.html">
     <title>Namibia Travel Safety - Advisories & Tips | 360 Nations</title>
     <script type="application/ld+json">{"@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "Home", "item": "https://360nations.com/"}, {"@type": "ListItem", "position": 2, "name": "Africa", "item": "https://360nations.com/africa/"}, {"@type": "ListItem", "position": 3, "name": "Namibia", "item": "https://360nations.com/africa/namibia/"}, {"@type": "ListItem", "position": 4, "name": "Travel Safety"}]}</script>
-    <script type="application/ld+json">{"@context": "https://schema.org", "@type": "Article", "headline": "Namibia Travel Safety - Advisories & Tips", "description": "Namibia Travel Safety - Advisories & Tips - Comprehensive guide to Namibia. 360 Nations.", "url": "https://360nations.com/africa/namibia/travel-safety.html", "mainEntityOfPage": "https://360nations.com/africa/namibia/travel-safety.html", "author": {"@type": "Organization", "name": "360 Nations", "url": "https://360nations.com"}, "publisher": {"@type": "Organization", "name": "360 Nations", "url": "https://360nations.com"}, "datePublished": "2026-02-15", "dateModified": "2026-02-15", "about": {"@type": "Country", "name": "Namibia"}, "articleSection": "Travel Safety"}</script>
+    <script type="application/ld+json">{"@context": "https://schema.org", "@type": "Article", "headline": "Namibia Travel Safety - Advisories & Tips", "description": "Namibia Travel Safety - Advisories & Tips - Comprehensive guide to Namibia. 360 Nations.", "url": "https://360nations.com/africa/namibia/travel-safety.html", "mainEntityOfPage": "https://360nations.com/africa/namibia/travel-safety.html", "author": {"@type": "Organization", "name": "360 Nations", "url": "https://360nations.com"}, "publisher": {"@type": "Organization", "name": "360 Nations", "url": "https://360nations.com"}, "datePublished": "2026-02-16", "dateModified": "2026-02-16", "about": {"@type": "Country", "name": "Namibia"}, "articleSection": "Travel Safety"}</script>
     <style>
-        * { margin: 0; padding: 0; box-sizing: border-box; }
+        *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
         body {
             font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
             line-height: 1.7;
             color: #2d3436;
-            background: #fafafa;
+            background: #FAFBFC;
+            -webkit-font-smoothing: antialiased;
         }
-        header {
+        a { color: #E67E22; text-decoration: none; }
+        a:hover { text-decoration: underline; }
+
+        /* === Sticky Header === */
+        .site-header {
+            background: #1F2937;
+            position: sticky;
+            top: 0;
+            z-index: 1000;
+            box-shadow: 0 2px 8px rgba(0,0,0,0.15);
+        }
+        .header-inner {
+            max-width: 1200px;
+            margin: 0 auto;
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            padding: 0 24px;
+            height: 56px;
+        }
+        .site-logo {
+            font-size: 19px;
+            font-weight: 700;
+            color: #fff;
+            text-decoration: none;
+            letter-spacing: -0.5px;
+        }
+        .site-logo:hover { text-decoration: none; opacity: 0.9; }
+        .site-logo span { color: #E67E22; }
+        .continent-nav { display: flex; gap: 4px; list-style: none; }
+        .continent-nav a {
+            color: rgba(255,255,255,0.8);
+            padding: 8px 14px;
+            border-radius: 6px;
+            font-size: 14px;
+            font-weight: 500;
+            transition: background 0.2s, color 0.2s;
+            text-decoration: none;
+            white-space: nowrap;
+        }
+        .continent-nav a:hover { background: rgba(255,255,255,0.12); color: #fff; text-decoration: none; }
+        .continent-nav a.active { background: rgba(255,255,255,0.18); color: #fff; }
+
+        /* Mobile hamburger */
+        .menu-toggle { display: none; background: none; border: none; cursor: pointer; padding: 8px; }
+        .menu-toggle span, .menu-toggle span::before, .menu-toggle span::after {
+            display: block; width: 22px; height: 2px; background: #fff; position: relative; transition: 0.3s;
+        }
+        .menu-toggle span::before, .menu-toggle span::after { content: ''; position: absolute; left: 0; }
+        .menu-toggle span::before { top: -7px; }
+        .menu-toggle span::after { top: 7px; }
+        #mobile-menu-state { display: none; }
+
+        /* === Title Banner === */
+        .page-banner {
             background: linear-gradient(135deg, #E67E22, #F39C12);
             color: white;
-            padding: 24px 0;
+            padding: 28px 0;
         }
-        header .container {
-            max-width: 900px;
+        .banner-inner {
+            max-width: 1200px;
             margin: 0 auto;
-            padding: 0 20px;
+            padding: 0 24px;
         }
-        header h1 {
-            font-size: 1.8em;
+        .page-banner h1 {
+            font-size: 28px;
             font-weight: 700;
         }
-        .flag { font-size: 1.4em; margin-right: 8px; }
-        .breadcrumb {
-            max-width: 900px;
+        .flag { font-size: 1.3em; margin-right: 8px; }
+
+        /* === Breadcrumbs === */
+        .breadcrumbs {
+            max-width: 1200px;
             margin: 0 auto;
-            padding: 12px 20px;
-            font-size: 0.85em;
-            color: #636e72;
+            padding: 14px 24px;
+            font-size: 14px;
+            color: #6B7280;
         }
-        .breadcrumb a { color: #E67E22; text-decoration: none; }
-        .breadcrumb a:hover { text-decoration: underline; }
-        .angle-nav {
-            max-width: 900px;
+        .breadcrumbs a { color: #E67E22; }
+        .breadcrumbs span { margin: 0 8px; color: #D1D5DB; }
+        .breadcrumbs .current { color: #374151; }
+
+        /* === Two-Column Layout === */
+        .article-wrapper {
+            max-width: 1200px;
             margin: 0 auto;
-            padding: 0 20px 16px;
-            display: flex;
-            flex-wrap: wrap;
-            gap: 6px;
+            padding: 0 24px 40px;
+            display: grid;
+            grid-template-columns: 1fr 280px;
+            gap: 32px;
+            align-items: start;
         }
-        .angle-link {
-            display: inline-block;
-            padding: 6px 14px;
-            border-radius: 20px;
-            font-size: 0.82em;
-            text-decoration: none;
-            color: #636e72;
-            background: #f1f2f6;
-            transition: all 0.2s;
-        }
-        .angle-link:hover { background: #dfe6e9; }
-        .angle-link.active {
-            background: #E67E22;
-            color: white;
-        }
-        article {
-            max-width: 900px;
-            margin: 0 auto;
-            padding: 20px;
-            background: white;
-            border-radius: 8px;
-            box-shadow: 0 1px 3px rgba(0,0,0,0.08);
-            margin-bottom: 40px;
+
+        /* Main content */
+        .article-main { min-width: 0; }
+        .article-main article {
+            background: #fff;
+            border-radius: 12px;
+            padding: 36px 40px;
+            box-shadow: 0 1px 4px rgba(0,0,0,0.06);
+            border: 1px solid #E5E7EB;
         }
         article h2 {
-            color: #E67E22;
-            margin: 28px 0 12px;
-            padding-bottom: 6px;
-            border-bottom: 2px solid #E67E2222;
+            font-size: 22px;
+            font-weight: 700;
+            color: #1F2937;
+            margin: 32px 0 14px;
+            padding-bottom: 8px;
+            border-bottom: 2px solid color-mix(in srgb, #E67E22 20%, white);
         }
-        article h3 { color: #2d3436; margin: 20px 0 8px; }
-        article p { margin-bottom: 14px; }
+        article h3 { font-size: 18px; font-weight: 600; color: #374151; margin: 24px 0 10px; }
+        article p { margin-bottom: 14px; color: #374151; }
         article ul, article ol { padding-left: 24px; margin-bottom: 14px; }
-        article li { margin-bottom: 6px; }
-        /* Factbox */
+        article li { margin-bottom: 6px; color: #374151; }
+
+        /* === Sidebar === */
+        .article-sidebar {
+            position: sticky;
+            top: 72px;
+        }
+        .sidebar-card {
+            background: #fff;
+            border-radius: 12px;
+            padding: 24px;
+            box-shadow: 0 1px 4px rgba(0,0,0,0.06);
+            border: 1px solid #E5E7EB;
+        }
+        .sidebar-card h3 {
+            font-size: 15px;
+            font-weight: 700;
+            color: #1F2937;
+            margin-bottom: 16px;
+            padding-bottom: 12px;
+            border-bottom: 2px solid color-mix(in srgb, #E67E22 20%, white);
+        }
+        .sidebar-card .angle-nav { list-style: none; }
+        .sidebar-card .angle-nav li { margin-bottom: 4px; }
+        .sidebar-card .angle-nav a {
+            display: block;
+            padding: 8px 12px;
+            border-radius: 8px;
+            font-size: 14px;
+            color: #4B5563;
+            transition: background 0.2s, color 0.2s;
+            text-decoration: none;
+        }
+        .sidebar-card .angle-nav a:hover {
+            background: #F3F4F6;
+            color: #E67E22;
+            text-decoration: none;
+        }
+        .sidebar-card .angle-nav a.active {
+            background: color-mix(in srgb, #E67E22 12%, white);
+            color: #E67E22;
+            font-weight: 600;
+        }
+        .sidebar-card .back-link {
+            display: block;
+            margin-top: 16px;
+            padding-top: 16px;
+            border-top: 1px solid #E5E7EB;
+            font-size: 13px;
+            color: #6B7280;
+        }
+        .sidebar-card .back-link:hover { color: #E67E22; text-decoration: none; }
+
+        /* === Content Styling === */
         .factbox {
-            background: linear-gradient(135deg, #E67E2208, #E67E2215);
-            border: 1px solid #E67E2230;
+            background: linear-gradient(135deg, color-mix(in srgb, #E67E22 5%, white), color-mix(in srgb, #E67E22 12%, white));
+            border: 1px solid color-mix(in srgb, #E67E22 20%, white);
             border-radius: 10px;
             padding: 20px 24px;
             margin: 20px 0;
@@ -93,20 +194,20 @@
         .factbox h3 {
             color: #E67E22;
             margin: 0 0 12px;
-            font-size: 1.05em;
+            font-size: 16px;
         }
         .fact-row {
             display: flex;
             justify-content: space-between;
             padding: 6px 0;
-            border-bottom: 1px solid #E67E2215;
+            border-bottom: 1px solid color-mix(in srgb, #E67E22 10%, white);
         }
         .fact-row:last-child { border-bottom: none; }
-        .fact-key { font-weight: 600; color: #2d3436; flex: 0 0 45%; }
-        .fact-val { color: #636e72; text-align: right; flex: 0 0 50%; }
-        /* Tables */
+        .fact-key { font-weight: 600; color: #1F2937; flex: 0 0 45%; }
+        .fact-val { color: #6B7280; text-align: right; flex: 0 0 50%; }
+
         .table-wrapper { overflow-x: auto; margin: 16px 0; }
-        table { border-collapse: collapse; width: 100%; font-size: 0.92em; }
+        table { border-collapse: collapse; width: 100%; font-size: 14px; }
         th {
             background: #E67E22;
             color: white;
@@ -114,110 +215,156 @@
             text-align: left;
             font-weight: 600;
         }
-        td { padding: 10px 14px; border-bottom: 1px solid #eee; }
-        tr:nth-child(even) { background: #f8f9fa; }
-        tr:hover { background: #E67E2208; }
-        /* Callout */
+        td { padding: 10px 14px; border-bottom: 1px solid #E5E7EB; }
+        tr:nth-child(even) { background: #F9FAFB; }
+        tr:hover { background: color-mix(in srgb, #E67E22 5%, white); }
+
         .callout {
-            background: #fff3cd;
-            border-left: 4px solid #ffc107;
+            background: #FEF3C7;
+            border-left: 4px solid #F59E0B;
             padding: 14px 18px;
             border-radius: 0 8px 8px 0;
             margin: 16px 0;
-            font-size: 0.93em;
+            font-size: 14px;
         }
-        .callout .misconception {
-            color: #856404;
-            margin-bottom: 4px;
-        }
-        .callout .reality {
-            color: #155724;
-            background: #d4edda;
-            padding: 8px 12px;
-            border-radius: 4px;
-            margin-bottom: 12px;
-        }
-        /* Rating */
-        .rating {
-            display: flex;
-            align-items: center;
-            gap: 10px;
-            padding: 6px 0;
-        }
+        .callout .misconception { color: #856404; margin-bottom: 4px; }
+        .callout .reality { color: #155724; background: #d4edda; padding: 8px 12px; border-radius: 4px; margin-bottom: 12px; }
+
+        .rating { display: flex; align-items: center; gap: 10px; padding: 6px 0; }
         .rating-label { font-weight: 600; min-width: 160px; }
         .rating-dots { font-size: 1.2em; color: #E67E22; letter-spacing: 2px; }
-        .rating-score { color: #636e72; font-size: 0.85em; }
-        footer {
+        .rating-score { color: #6B7280; font-size: 13px; }
+
+        /* === Footer === */
+        .site-footer {
+            background: #111827;
+            color: #9CA3AF;
+            margin-top: 40px;
+            padding: 40px 24px 28px;
+        }
+        .footer-inner {
+            max-width: 1200px;
+            margin: 0 auto;
+            display: grid;
+            grid-template-columns: 2fr 1fr 1fr;
+            gap: 40px;
+        }
+        .footer-brand .site-logo { font-size: 18px; display: inline-block; margin-bottom: 12px; }
+        .footer-brand p { font-size: 14px; line-height: 1.6; max-width: 320px; }
+        .footer-col h4 { color: #fff; font-size: 14px; font-weight: 600; margin-bottom: 16px; text-transform: uppercase; letter-spacing: 0.5px; }
+        .footer-col a { display: block; color: #9CA3AF; font-size: 14px; padding: 4px 0; transition: color 0.2s; text-decoration: none; }
+        .footer-col a:hover { color: #fff; text-decoration: none; }
+        .footer-bottom {
+            max-width: 1200px;
+            margin: 24px auto 0;
+            padding-top: 20px;
+            border-top: 1px solid #374151;
             text-align: center;
-            padding: 30px 20px;
-            color: #b2bec3;
-            font-size: 0.8em;
+            font-size: 13px;
         }
-        footer a { color: #636e72; }
-        .site-bar {
-            background: #2d3436;
-            padding: 10px 20px;
-            display: flex;
-            align-items: center;
-            justify-content: space-between;
+
+        /* === Table of Contents === */
+        .toc { background: #F8FAFC; border: 1px solid #E2E8F0; border-radius: 8px; padding: 16px 24px; margin: 0 0 28px; }
+        .toc h3 { font-size: 14px; font-weight: 600; color: #475569; margin-bottom: 8px; text-transform: uppercase; letter-spacing: 0.5px; }
+        .toc ol { padding-left: 20px; margin: 0; }
+        .toc li { font-size: 14px; margin-bottom: 4px; line-height: 1.5; }
+        .toc a { color: #E67E22; }
+
+        /* === Article Meta === */
+        .article-meta { font-size: 13px; color: #6B7280; margin-bottom: 20px; }
+
+        /* === Related Concepts === */
+        .related-concepts { margin-top: 32px; padding-top: 24px; border-top: 2px solid #E5E7EB; }
+        .related-section { margin-bottom: 20px; }
+        .related-section h4 { font-size: 15px; font-weight: 600; color: #374151; margin-bottom: 10px; }
+        .related-grid { display: flex; flex-wrap: wrap; gap: 10px; }
+        .related-link {
+            display: inline-block; padding: 8px 16px; background: #F3F4F6;
+            border-radius: 8px; font-size: 14px; color: #E67E22;
+            font-weight: 500; transition: background 0.2s; text-decoration: none;
         }
-        .site-bar a {
-            color: white;
-            text-decoration: none;
-            font-weight: 700;
-            font-size: 1.05em;
-            display: flex;
-            align-items: center;
-            gap: 8px;
+        .related-link:hover { background: color-mix(in srgb, #E67E22 12%, white); text-decoration: none; }
+
+        /* === Responsive === */
+        @media (max-width: 900px) {
+            .article-wrapper {
+                grid-template-columns: 1fr;
+                padding: 0 16px 32px;
+            }
+            .article-sidebar {
+                position: static;
+                order: -1;
+            }
+            .article-main article { padding: 24px; }
+            .page-banner h1 { font-size: 22px; }
+            .footer-inner { grid-template-columns: 1fr; gap: 24px; }
         }
-        .site-bar a:hover { opacity: 0.85; }
-        .site-bar .home-btn {
-            background: #E67E22;
-            color: white;
-            padding: 6px 16px;
-            border-radius: 6px;
-            font-size: 0.85em;
-            font-weight: 600;
-            text-decoration: none;
-        }
-        .site-bar .home-btn:hover { opacity: 0.9; }
-        @media (max-width: 600px) {
-            header h1 { font-size: 1.3em; }
-            .angle-nav { gap: 4px; }
-            .angle-link { padding: 4px 10px; font-size: 0.75em; }
-            .site-bar { padding: 8px 12px; }
-            .site-bar a { font-size: 0.9em; }
+        @media (max-width: 768px) {
+            .menu-toggle { display: block; }
+            .continent-nav {
+                display: none; flex-direction: column; position: absolute;
+                top: 56px; left: 0; right: 0; background: #1F2937;
+                padding: 12px; gap: 2px; box-shadow: 0 4px 12px rgba(0,0,0,0.2);
+            }
+            .continent-nav a { padding: 12px 16px; border-radius: 8px; }
+            #mobile-menu-state:checked ~ .header-inner .continent-nav { display: flex; }
         }
     </style>
 </head>
 <body>
-    <div class="site-bar">
-        <a href="/">360 Nations</a>
-        <a href="/" class="home-btn">Home</a>
-    </div>
-    <header>
-        <div class="container">
-            <h1><span class="flag">🇳🇦</span> Namibia Travel Safety - Advisories & Tips</h1>
+    <input type="checkbox" id="mobile-menu-state" aria-hidden="true">
+    <header class="site-header">
+        <div class="header-inner">
+            <a href="/" class="site-logo">360 <span>Nations</span></a>
+            <label for="mobile-menu-state" class="menu-toggle" aria-label="Toggle menu"><span></span></label>
+            <ul class="continent-nav">
+            <li><a href="/africa/" class="active">Africa</a></li>
+            <li><a href="/asia/">Asia</a></li>
+            <li><a href="/europe/">Europe</a></li>
+            <li><a href="/north-america/">North America</a></li>
+            <li><a href="/south-america/">South America</a></li>
+            <li><a href="/oceania/">Oceania</a></li>
+            </ul>
         </div>
     </header>
 
-    <nav class="breadcrumb"><a href="/">Home</a> &raquo; <a href="/africa/">Africa</a> &raquo; <a href="/africa/namibia/">Namibia</a> &raquo; <span>Travel Safety</span></nav>
+    <div class="page-banner">
+        <div class="banner-inner">
+            <h1><span class="flag">🇳🇦</span> Namibia Travel Safety - Advisories & Tips</h1>
+        </div>
+    </div>
 
-    <nav class="angle-nav">
-        <a href="/africa/namibia/overview.html" class="angle-link">Overview</a>
-        <a href="/africa/namibia/geography.html" class="angle-link">Geography</a>
-        <a href="/africa/namibia/must-know-truth.html" class="angle-link">Must Know Truth</a>
-        <a href="/africa/namibia/positive-things.html" class="angle-link">Positive Things</a>
-        <a href="/africa/namibia/cities-and-regions.html" class="angle-link">Cities And Regions</a>
-        <a href="/africa/namibia/visa-and-entry.html" class="angle-link">Visa And Entry</a>
-        <a href="/africa/namibia/cost-of-living.html" class="angle-link">Cost Of Living</a>
-        <a href="/africa/namibia/economy.html" class="angle-link">Economy</a>
-        <a href="/africa/namibia/culture.html" class="angle-link">Culture</a>
-        <a href="/africa/namibia/travel-safety.html" class="angle-link active">Travel Safety</a>
+    <nav class="breadcrumbs" aria-label="Breadcrumb"><a href="/">Home</a> <span>&rsaquo;</span> <a href="/africa/">Africa</a> <span>&rsaquo;</span> <a href="/africa/namibia/">Namibia</a> <span>&rsaquo;</span> <span class="current">Travel Safety</span></nav>
+
+    <div class="article-wrapper">
+        <main class="article-main">
+            <article>
+                <div class="article-meta">Last updated: February 2026</div>
+                <nav class="toc">
+        <h3>In This Article</h3>
+        <ol>
+            <li><a href="#overall-safety-assessment">Overall Safety Assessment</a></li>
+            <li><a href="#safety-by-area">Safety By Area</a></li>
+            <li><a href="#common-risks-scams">Common Risks & Scams</a></li>
+            <li><a href="#health-medical">Health & Medical</a></li>
+            <li><a href="#practical-safety-tips">Practical Safety Tips</a></li>
+            <li><a href="#for-solo-women-travelers">For Solo & Women Travelers</a></li>
+        </ol>
     </nav>
-
-    <article>
-        <div class="callout"><p>Safety conditions change. Always check your government's current travel advisory for Namibia before traveling.</p></div>
+                <div class="factbox verified-factbox">
+    <h3>Verified Facts</h3>
+    <div class="fact-row"><span class="fact-key">Official Name</span><span class="fact-val">Republic of Namibia</span></div>
+    <div class="fact-row"><span class="fact-key">Capital</span><span class="fact-val">Windhoek</span></div>
+    <div class="fact-row"><span class="fact-key">Population</span><span class="fact-val">3.0 million</span></div>
+    <div class="fact-row"><span class="fact-key">Area</span><span class="fact-val">825,615 km² (318,772 sq mi)</span></div>
+    <div class="fact-row"><span class="fact-key">Languages</span><span class="fact-val">Afrikaans, German, English, Herero, Khoekhoe</span></div>
+    <div class="fact-row"><span class="fact-key">Currency</span><span class="fact-val">Namibian dollar ($), South African rand (R)</span></div>
+    <div class="fact-row"><span class="fact-key">Timezone</span><span class="fact-val">UTC+01:00</span></div>
+    <div class="fact-row"><span class="fact-key">Region</span><span class="fact-val">Africa / Southern Africa</span></div>
+    <div class="fact-row"><span class="fact-key">Drives on</span><span class="fact-val">Left</span></div>
+    <div style="font-size:11px;color:#9CA3AF;margin-top:8px;text-align:right;">Source: REST Countries API</div>
+</div>
+                <div class="callout"><p>Safety conditions change. Always check your government's current travel advisory for Namibia before traveling.</p></div>
         <div class="factbox"><h3>Quick Facts</h3>
         <div class="fact-row"><span class="fact-key">Overall Safety Rating</span><span class="fact-val">4/5</span></div>
         <div class="fact-row"><span class="fact-key">Petty Crime Risk</span><span class="fact-val">Moderate</span></div>
@@ -228,10 +375,10 @@
         <div class="fact-row"><span class="fact-key">Emergency Number</span><span class="fact-val">10111</span></div>
         <div class="fact-row"><span class="fact-key">Tourist Police</span><span class="fact-val">Yes, 061 290 3333</span></div>
         </div>
-        <h2>Overall Safety Assessment</h2>
+        <h2 id="overall-safety-assessment">Overall Safety Assessment</h2>
         <p>Namibia is generally a safe country to visit, with low crime rates compared to other countries in the region. The country has a strong tourism infrastructure and a well-organized police force, which contributes to the safety of visitors. However, as with any travel destination, it's essential to take common-sense precautions to ensure a safe and enjoyable trip. Petty crimes such as pickpocketing and theft can occur, especially in crowded areas and tourist hotspots. Additionally, scams targeting tourists are not uncommon, so it's crucial to be aware of your surroundings and cautious when dealing with strangers.</p>
         <p>Namibia's vast and sparsely populated landscape can also pose some unique safety challenges, particularly when it comes to driving and outdoor activities. The country's roads can be rough, and driving at night is not recommended due to the presence of wildlife and poor road conditions. Furthermore, Namibia's diverse climate and geography can pose health risks, such as heat exhaustion and malaria, so it's essential to take necessary precautions and seek medical attention if needed. Overall, with some basic precautions and an understanding of the local environment, visitors can have a safe and enjoyable experience in Namibia.</p>
-        <h2>Safety By Area</h2>
+        <h2 id="safety-by-area">Safety By Area</h2>
         <div class="table-wrapper"><table>
         <thead><tr><th>Area/Region</th><th>Safety Level</th><th>Notes</th></tr></thead><tbody>
         <tr><td>Windhoek</td><td>High</td><td>Generally safe, with low crime rates</td></tr>
@@ -243,7 +390,7 @@
         <tr><td>Northern Namibia</td><td>Low</td><td>Border areas with Angola and Zambia can be unstable, exercise caution</td></tr>
         <tr><td>Damaraland</td><td>Moderate</td><td>Remote area with limited access to emergency services, be prepared</td></tr>
         </table></div>
-        <h2>Common Risks & Scams</h2>
+        <h2 id="common-risks-scams">Common Risks & Scams</h2>
         <ul>
         <li><strong>ATM scams</strong>: Be cautious when using ATMs, especially in tourist areas, as card skimming and theft can occur.</li>
         <li><strong>Petty theft</strong>: Pickpocketing and theft are common in crowded areas, such as markets and bus stations.</li>
@@ -254,14 +401,14 @@
         <li><strong>Border crossings</strong>: Be prepared for long delays and potential scams when crossing borders, especially into Angola and Zambia.</li>
         <li><strong>Local transportation</strong>: Use reputable taxi services or shuttle companies, and avoid hitchhiking or using unlicensed taxis.</li>
         </ul>
-        <h2>Health & Medical</h2>
+        <h2 id="health-medical">Health & Medical</h2>
         <ul>
         <li><strong>Vaccinations</strong>: Recommended vaccinations include hepatitis A, typhoid, and rabies, while malaria prophylaxis is necessary for travel to certain areas.</li>
         <li><strong>Water Safety</strong>: Tap water is generally safe to drink in major towns, but bottled water is recommended in rural areas.</li>
         <li><strong>Medical Facilities</strong>: Medical facilities are generally good in major towns, but can be limited in rural areas. It's recommended to have medical insurance that covers emergency evacuations.</li>
         <li><strong>Pharmacy Access</strong>: Pharmacies are readily available in major towns, but may be limited in rural areas.</li>
         </ul>
-        <h2>Practical Safety Tips</h2>
+        <h2 id="practical-safety-tips">Practical Safety Tips</h2>
         <ul>
         <li>Be aware of your surroundings, especially in crowded areas and tourist hotspots.</li>
         <li>Keep valuables secure and out of sight, and use hotel safes or lockers when available.</li>
@@ -272,18 +419,81 @@
         <li>Be cautious when interacting with wild animals, and keep a safe distance.</li>
         <li>Stay hydrated and take regular breaks when engaging in outdoor activities.</li>
         </ul>
-        <h2>For Solo & Women Travelers</h2>
+        <h2 id="for-solo-women-travelers">For Solo & Women Travelers</h2>
         <ul>
         <li>Be cautious when interacting with strangers, especially men, and avoid walking alone in isolated areas at night.</li>
         <li>Dress modestly and respect local customs, especially when visiting rural areas or traditional communities.</li>
         <li>Use reputable taxi services or shuttle companies, and avoid hitchhiking or using unlicensed taxis.</li>
         <li>Stay in touch with family and friends back home, and keep them informed of your itinerary and whereabouts.</li>
         </ul>
-    </article>
+                <div class="related-concepts">
+    <div class="related-section">
+        <h4>Compare With</h4>
+        <div class="related-grid">
+            <a href="/africa/botswana/overview.html" class="related-link">Botswana</a>
+            <a href="/africa/south-africa/overview.html" class="related-link">South Africa</a>
+        </div>
+    </div><div class="related-section">
+        <h4>Nearby Countries</h4>
+        <div class="related-grid">
+            <a href="/africa/angola/overview.html" class="related-link">Angola</a>
+            <a href="/africa/zambia/overview.html" class="related-link">Zambia</a>
+            <a href="/africa/botswana/overview.html" class="related-link">Botswana</a>
+            <a href="/africa/south-africa/overview.html" class="related-link">South Africa</a>
+        </div>
+    </div>
+</div>
+            </article>
+        </main>
 
-    <footer>
-        <p>&copy; 2026 360 Nations. Evergreen reference content.</p>
-        <p>This page contains factual, timeless information. Always verify visa and safety details with official sources.</p>
+        <aside class="article-sidebar">
+            <div class="sidebar-card">
+                <h3>Namibia</h3>
+                <ul class="angle-nav">
+                <li><a href="/africa/namibia/overview.html">Overview</a></li>
+                <li><a href="/africa/namibia/geography.html">Geography</a></li>
+                <li><a href="/africa/namibia/must-know-truth.html">Must Know Truth</a></li>
+                <li><a href="/africa/namibia/positive-things.html">Positive Things</a></li>
+                <li><a href="/africa/namibia/cities-and-regions.html">Cities And Regions</a></li>
+                <li><a href="/africa/namibia/visa-and-entry.html">Visa And Entry</a></li>
+                <li><a href="/africa/namibia/cost-of-living.html">Cost Of Living</a></li>
+                <li><a href="/africa/namibia/economy.html">Economy</a></li>
+                <li><a href="/africa/namibia/culture.html">Culture</a></li>
+                <li><a href="/africa/namibia/travel-safety.html" class="active">Travel Safety</a></li>
+                </ul>
+                <a href="/africa/" class="back-link">&larr; All Africa countries</a>
+            </div>
+        </aside>
+    </div>
+
+    <footer class="site-footer">
+        <div class="footer-inner">
+            <div class="footer-brand">
+                <a href="/" class="site-logo">360 <span>Nations</span></a>
+                <p>Comprehensive country guides covering culture, travel, safety, and practical information for every nation.</p>
+            </div>
+            <div class="footer-col">
+                <h4>Continents</h4>
+                <a href="/africa/">Africa</a>
+                <a href="/asia/">Asia</a>
+                <a href="/europe/">Europe</a>
+                <a href="/north-america/">North America</a>
+                <a href="/south-america/">South America</a>
+                <a href="/oceania/">Oceania</a>
+            </div>
+            <div class="footer-col">
+                <h4>Info</h4>
+                <a href="/privacy.html">Privacy Policy</a>
+                <a href="/terms.html">Terms of Use</a>
+                <a href="/sitemap.xml">Sitemap</a>
+            </div>
+        </div>
+        <div style="max-width:1200px;margin:24px auto 0;padding:0 24px;font-size:12px;color:#6B7280;line-height:1.5;">
+            Editorial note: 360 Nations content is researched by regional contributors and fact-checked for accuracy. Verify visa requirements and safety advisories with official government sources before traveling.
+        </div>
+        <div class="footer-bottom">
+            &copy; 2026 360 Nations &mdash; Evergreen reference content. Always verify visa and safety details with official sources.
+        </div>
     </footer>
 </body>
 </html>

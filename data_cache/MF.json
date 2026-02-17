@@ -1,0 +1,41 @@
+{
+  "iso_code": "MF",
+  "name_common": "Saint Martin",
+  "name_official": "Saint Martin",
+  "capital": "Marigot",
+  "population": 31496,
+  "area_km2": 53.0,
+  "region": "Americas",
+  "subregion": "Caribbean",
+  "languages": {
+    "fra": "French"
+  },
+  "currencies": {
+    "EUR": {
+      "name": "euro",
+      "symbol": "€"
+    }
+  },
+  "timezones": [
+    "UTC-04:00"
+  ],
+  "borders": [
+    "SXM"
+  ],
+  "flag_emoji": "🇲🇫",
+  "coat_of_arms_svg": "",
+  "maps_google": "https://goo.gl/maps/P9ho9QuJ9EAR28JEA",
+  "independent": false,
+  "un_member": false,
+  "landlocked": false,
+  "driving_side": "right",
+  "start_of_week": "monday",
+  "continents": [
+    "North America"
+  ],
+  "latlng": [
+    18.0708,
+    -63.0501
+  ],
+  "gini": {}
+}

@@ -1,0 +1,45 @@
+{
+  "iso_code": "ER",
+  "name_common": "Eritrea",
+  "name_official": "State of Eritrea",
+  "capital": "Asmara",
+  "population": 3607000,
+  "area_km2": 117600.0,
+  "region": "Africa",
+  "subregion": "Eastern Africa",
+  "languages": {
+    "ara": "Arabic",
+    "eng": "English",
+    "tir": "Tigrinya"
+  },
+  "currencies": {
+    "ERN": {
+      "name": "Eritrean nakfa",
+      "symbol": "Nfk"
+    }
+  },
+  "timezones": [
+    "UTC+03:00"
+  ],
+  "borders": [
+    "DJI",
+    "ETH",
+    "SDN"
+  ],
+  "flag_emoji": "🇪🇷",
+  "coat_of_arms_svg": "https://mainfacts.com/media/images/coats_of_arms/er.svg",
+  "maps_google": "https://goo.gl/maps/HRyqUpnPwwG6jY5j6",
+  "independent": true,
+  "un_member": true,
+  "landlocked": false,
+  "driving_side": "right",
+  "start_of_week": "monday",
+  "continents": [
+    "Africa"
+  ],
+  "latlng": [
+    15.0,
+    39.0
+  ],
+  "gini": {}
+}

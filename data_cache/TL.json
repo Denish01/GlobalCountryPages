@@ -1,0 +1,44 @@
+{
+  "iso_code": "TL",
+  "name_common": "Timor-Leste",
+  "name_official": "Democratic Republic of Timor-Leste",
+  "capital": "Dili",
+  "population": 1391221,
+  "area_km2": 14874.0,
+  "region": "Asia",
+  "subregion": "South-Eastern Asia",
+  "languages": {
+    "por": "Portuguese",
+    "tet": "Tetum"
+  },
+  "currencies": {
+    "USD": {
+      "name": "United States dollar",
+      "symbol": "$"
+    }
+  },
+  "timezones": [
+    "UTC+09:00"
+  ],
+  "borders": [
+    "IDN"
+  ],
+  "flag_emoji": "🇹🇱",
+  "coat_of_arms_svg": "",
+  "maps_google": "https://goo.gl/maps/sFqBC9zjgUXPR1iTA",
+  "independent": true,
+  "un_member": true,
+  "landlocked": false,
+  "driving_side": "left",
+  "start_of_week": "monday",
+  "continents": [
+    "Oceania"
+  ],
+  "latlng": [
+    -8.83333333,
+    125.91666666
+  ],
+  "gini": {
+    "2014": 28.7
+  }
+}

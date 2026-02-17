@@ -1,0 +1,40 @@
+{
+  "iso_code": "AW",
+  "name_common": "Aruba",
+  "name_official": "Aruba",
+  "capital": "Oranjestad",
+  "population": 107566,
+  "area_km2": 180.0,
+  "region": "Americas",
+  "subregion": "Caribbean",
+  "languages": {
+    "nld": "Dutch",
+    "pap": "Papiamento"
+  },
+  "currencies": {
+    "AWG": {
+      "name": "Aruban florin",
+      "symbol": "ƒ"
+    }
+  },
+  "timezones": [
+    "UTC-04:00"
+  ],
+  "borders": [],
+  "flag_emoji": "🇦🇼",
+  "coat_of_arms_svg": "https://mainfacts.com/media/images/coats_of_arms/aw.svg",
+  "maps_google": "https://goo.gl/maps/8hopbQqifHAgyZyg8",
+  "independent": false,
+  "un_member": false,
+  "landlocked": false,
+  "driving_side": "right",
+  "start_of_week": "monday",
+  "continents": [
+    "North America"
+  ],
+  "latlng": [
+    12.5,
+    -69.96666666
+  ],
+  "gini": {}
+}

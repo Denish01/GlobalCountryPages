@@ -1,0 +1,47 @@
+{
+  "iso_code": "KH",
+  "name_common": "Cambodia",
+  "name_official": "Kingdom of Cambodia",
+  "capital": "Phnom Penh",
+  "population": 17577760,
+  "area_km2": 181035.0,
+  "region": "Asia",
+  "subregion": "South-Eastern Asia",
+  "languages": {
+    "khm": "Khmer"
+  },
+  "currencies": {
+    "KHR": {
+      "name": "Cambodian riel",
+      "symbol": "៛"
+    },
+    "USD": {
+      "name": "United States dollar",
+      "symbol": "$"
+    }
+  },
+  "timezones": [
+    "UTC+07:00"
+  ],
+  "borders": [
+    "LAO",
+    "THA",
+    "VNM"
+  ],
+  "flag_emoji": "🇰🇭",
+  "coat_of_arms_svg": "https://mainfacts.com/media/images/coats_of_arms/kh.svg",
+  "maps_google": "https://goo.gl/maps/nztQtFSrUXZymJaW8",
+  "independent": true,
+  "un_member": true,
+  "landlocked": false,
+  "driving_side": "right",
+  "start_of_week": "monday",
+  "continents": [
+    "Asia"
+  ],
+  "latlng": [
+    13.0,
+    105.0
+  ],
+  "gini": {}
+}

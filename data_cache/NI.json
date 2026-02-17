@@ -1,0 +1,44 @@
+{
+  "iso_code": "NI",
+  "name_common": "Nicaragua",
+  "name_official": "Republic of Nicaragua",
+  "capital": "Managua",
+  "population": 6803886,
+  "area_km2": 130373.0,
+  "region": "Americas",
+  "subregion": "Central America",
+  "languages": {
+    "spa": "Spanish"
+  },
+  "currencies": {
+    "NIO": {
+      "name": "Nicaraguan córdoba",
+      "symbol": "C$"
+    }
+  },
+  "timezones": [
+    "UTC-06:00"
+  ],
+  "borders": [
+    "CRI",
+    "HND"
+  ],
+  "flag_emoji": "🇳🇮",
+  "coat_of_arms_svg": "https://mainfacts.com/media/images/coats_of_arms/ni.svg",
+  "maps_google": "https://goo.gl/maps/P77LaEVkKJKXneRC6",
+  "independent": true,
+  "un_member": true,
+  "landlocked": false,
+  "driving_side": "right",
+  "start_of_week": "monday",
+  "continents": [
+    "North America"
+  ],
+  "latlng": [
+    13.0,
+    -85.0
+  ],
+  "gini": {
+    "2014": 46.2
+  }
+}

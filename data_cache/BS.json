@@ -1,0 +1,43 @@
+{
+  "iso_code": "BS",
+  "name_common": "Bahamas",
+  "name_official": "Commonwealth of the Bahamas",
+  "capital": "Nassau",
+  "population": 398165,
+  "area_km2": 13943.0,
+  "region": "Americas",
+  "subregion": "Caribbean",
+  "languages": {
+    "eng": "English"
+  },
+  "currencies": {
+    "BSD": {
+      "name": "Bahamian dollar",
+      "symbol": "$"
+    },
+    "USD": {
+      "name": "United States dollar",
+      "symbol": "$"
+    }
+  },
+  "timezones": [
+    "UTC-05:00"
+  ],
+  "borders": [],
+  "flag_emoji": "🇧🇸",
+  "coat_of_arms_svg": "https://mainfacts.com/media/images/coats_of_arms/bs.svg",
+  "maps_google": "https://goo.gl/maps/1YzRs1BZrG8p8pmVA",
+  "independent": true,
+  "un_member": true,
+  "landlocked": false,
+  "driving_side": "left",
+  "start_of_week": "monday",
+  "continents": [
+    "North America"
+  ],
+  "latlng": [
+    25.0343,
+    -77.3963
+  ],
+  "gini": {}
+}

@@ -1,0 +1,41 @@
+{
+  "iso_code": "SB",
+  "name_common": "Solomon Islands",
+  "name_official": "Solomon Islands",
+  "capital": "Honiara",
+  "population": 750325,
+  "area_km2": 28896.0,
+  "region": "Oceania",
+  "subregion": "Melanesia",
+  "languages": {
+    "eng": "English"
+  },
+  "currencies": {
+    "SBD": {
+      "name": "Solomon Islands dollar",
+      "symbol": "$"
+    }
+  },
+  "timezones": [
+    "UTC+11:00"
+  ],
+  "borders": [],
+  "flag_emoji": "🇸🇧",
+  "coat_of_arms_svg": "https://mainfacts.com/media/images/coats_of_arms/sb.svg",
+  "maps_google": "https://goo.gl/maps/JbPkx86Ywjv8C1n8A",
+  "independent": true,
+  "un_member": true,
+  "landlocked": false,
+  "driving_side": "left",
+  "start_of_week": "monday",
+  "continents": [
+    "Oceania"
+  ],
+  "latlng": [
+    -8.0,
+    159.0
+  ],
+  "gini": {
+    "2012": 37.1
+  }
+}

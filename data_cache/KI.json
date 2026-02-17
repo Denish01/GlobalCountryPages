@@ -1,0 +1,48 @@
+{
+  "iso_code": "KI",
+  "name_common": "Kiribati",
+  "name_official": "Independent and Sovereign Republic of Kiribati",
+  "capital": "South Tarawa",
+  "population": 120740,
+  "area_km2": 811.0,
+  "region": "Oceania",
+  "subregion": "Micronesia",
+  "languages": {
+    "eng": "English",
+    "gil": "Gilbertese"
+  },
+  "currencies": {
+    "AUD": {
+      "name": "Australian dollar",
+      "symbol": "$"
+    },
+    "KID": {
+      "name": "Kiribati dollar",
+      "symbol": "$"
+    }
+  },
+  "timezones": [
+    "UTC+12:00",
+    "UTC+13:00",
+    "UTC+14:00"
+  ],
+  "borders": [],
+  "flag_emoji": "🇰🇮",
+  "coat_of_arms_svg": "https://mainfacts.com/media/images/coats_of_arms/ki.svg",
+  "maps_google": "https://goo.gl/maps/NBfYvrndW4skAimw9",
+  "independent": true,
+  "un_member": true,
+  "landlocked": false,
+  "driving_side": "left",
+  "start_of_week": "monday",
+  "continents": [
+    "Oceania"
+  ],
+  "latlng": [
+    1.41666666,
+    173.0
+  ],
+  "gini": {
+    "2006": 37.0
+  }
+}

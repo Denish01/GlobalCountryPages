@@ -1,0 +1,50 @@
+{
+  "iso_code": "SD",
+  "name_common": "Sudan",
+  "name_official": "Republic of the Sudan",
+  "capital": "Khartoum",
+  "population": 51662000,
+  "area_km2": 1886068.0,
+  "region": "Africa",
+  "subregion": "Northern Africa",
+  "languages": {
+    "ara": "Arabic",
+    "eng": "English"
+  },
+  "currencies": {
+    "SDG": {
+      "name": "Sudanese pound",
+      "symbol": "ج.س"
+    }
+  },
+  "timezones": [
+    "UTC+03:00"
+  ],
+  "borders": [
+    "CAF",
+    "TCD",
+    "EGY",
+    "ERI",
+    "ETH",
+    "LBY",
+    "SSD"
+  ],
+  "flag_emoji": "🇸🇩",
+  "coat_of_arms_svg": "https://mainfacts.com/media/images/coats_of_arms/sd.svg",
+  "maps_google": "https://goo.gl/maps/bNW7YUJCaqR8zcXn7",
+  "independent": true,
+  "un_member": true,
+  "landlocked": false,
+  "driving_side": "right",
+  "start_of_week": "monday",
+  "continents": [
+    "Africa"
+  ],
+  "latlng": [
+    15.0,
+    30.0
+  ],
+  "gini": {
+    "2014": 34.2
+  }
+}

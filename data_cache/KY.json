@@ -1,0 +1,39 @@
+{
+  "iso_code": "KY",
+  "name_common": "Cayman Islands",
+  "name_official": "Cayman Islands",
+  "capital": "George Town",
+  "population": 84738,
+  "area_km2": 264.0,
+  "region": "Americas",
+  "subregion": "Caribbean",
+  "languages": {
+    "eng": "English"
+  },
+  "currencies": {
+    "KYD": {
+      "name": "Cayman Islands dollar",
+      "symbol": "$"
+    }
+  },
+  "timezones": [
+    "UTC-05:00"
+  ],
+  "borders": [],
+  "flag_emoji": "🇰🇾",
+  "coat_of_arms_svg": "https://mainfacts.com/media/images/coats_of_arms/ky.svg",
+  "maps_google": "https://goo.gl/maps/P3ZVXX3LH63t91hL8",
+  "independent": false,
+  "un_member": false,
+  "landlocked": false,
+  "driving_side": "left",
+  "start_of_week": "monday",
+  "continents": [
+    "North America"
+  ],
+  "latlng": [
+    19.3133,
+    -81.2546
+  ],
+  "gini": {}
+}

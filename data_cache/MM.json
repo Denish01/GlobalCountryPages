@@ -1,0 +1,47 @@
+{
+  "iso_code": "MM",
+  "name_common": "Myanmar",
+  "name_official": "Republic of the Union of Myanmar",
+  "capital": "Naypyidaw",
+  "population": 51316756,
+  "area_km2": 676578.0,
+  "region": "Asia",
+  "subregion": "South-Eastern Asia",
+  "languages": {
+    "mya": "Burmese"
+  },
+  "currencies": {
+    "MMK": {
+      "name": "Burmese kyat",
+      "symbol": "Ks"
+    }
+  },
+  "timezones": [
+    "UTC+06:30"
+  ],
+  "borders": [
+    "BGD",
+    "CHN",
+    "IND",
+    "LAO",
+    "THA"
+  ],
+  "flag_emoji": "🇲🇲",
+  "coat_of_arms_svg": "https://mainfacts.com/media/images/coats_of_arms/mm.svg",
+  "maps_google": "https://goo.gl/maps/4jrZyJkDERUfHyp26",
+  "independent": true,
+  "un_member": true,
+  "landlocked": false,
+  "driving_side": "right",
+  "start_of_week": "monday",
+  "continents": [
+    "Asia"
+  ],
+  "latlng": [
+    22.0,
+    98.0
+  ],
+  "gini": {
+    "2017": 30.7
+  }
+}

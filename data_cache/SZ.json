@@ -1,0 +1,49 @@
+{
+  "iso_code": "SZ",
+  "name_common": "Eswatini",
+  "name_official": "Kingdom of Eswatini",
+  "capital": "Mbabane",
+  "population": 1235549,
+  "area_km2": 17364.0,
+  "region": "Africa",
+  "subregion": "Southern Africa",
+  "languages": {
+    "eng": "English",
+    "ssw": "Swazi"
+  },
+  "currencies": {
+    "SZL": {
+      "name": "Swazi lilangeni",
+      "symbol": "L"
+    },
+    "ZAR": {
+      "name": "South African rand",
+      "symbol": "R"
+    }
+  },
+  "timezones": [
+    "UTC+02:00"
+  ],
+  "borders": [
+    "MOZ",
+    "ZAF"
+  ],
+  "flag_emoji": "🇸🇿",
+  "coat_of_arms_svg": "",
+  "maps_google": "https://goo.gl/maps/cUY79eqQihFSE8hV6",
+  "independent": true,
+  "un_member": true,
+  "landlocked": true,
+  "driving_side": "left",
+  "start_of_week": "monday",
+  "continents": [
+    "Africa"
+  ],
+  "latlng": [
+    -26.5,
+    31.5
+  ],
+  "gini": {
+    "2016": 54.6
+  }
+}

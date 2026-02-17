@@ -1,0 +1,41 @@
+{
+  "iso_code": "ST",
+  "name_common": "São Tomé and Príncipe",
+  "name_official": "Democratic Republic of São Tomé and Príncipe",
+  "capital": "São Tomé",
+  "population": 209607,
+  "area_km2": 964.0,
+  "region": "Africa",
+  "subregion": "Middle Africa",
+  "languages": {
+    "por": "Portuguese"
+  },
+  "currencies": {
+    "STN": {
+      "name": "São Tomé and Príncipe dobra",
+      "symbol": "Db"
+    }
+  },
+  "timezones": [
+    "UTC"
+  ],
+  "borders": [],
+  "flag_emoji": "🇸🇹",
+  "coat_of_arms_svg": "https://mainfacts.com/media/images/coats_of_arms/st.svg",
+  "maps_google": "https://goo.gl/maps/9EUppm13RtPX9oF46",
+  "independent": true,
+  "un_member": true,
+  "landlocked": false,
+  "driving_side": "right",
+  "start_of_week": "monday",
+  "continents": [
+    "Africa"
+  ],
+  "latlng": [
+    1.0,
+    7.0
+  ],
+  "gini": {
+    "2017": 56.3
+  }
+}

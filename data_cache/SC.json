@@ -1,0 +1,43 @@
+{
+  "iso_code": "SC",
+  "name_common": "Seychelles",
+  "name_official": "Republic of Seychelles",
+  "capital": "Victoria",
+  "population": 122729,
+  "area_km2": 452.0,
+  "region": "Africa",
+  "subregion": "Eastern Africa",
+  "languages": {
+    "crs": "Seychellois Creole",
+    "eng": "English",
+    "fra": "French"
+  },
+  "currencies": {
+    "SCR": {
+      "name": "Seychellois rupee",
+      "symbol": "₨"
+    }
+  },
+  "timezones": [
+    "UTC+04:00"
+  ],
+  "borders": [],
+  "flag_emoji": "🇸🇨",
+  "coat_of_arms_svg": "https://mainfacts.com/media/images/coats_of_arms/sc.svg",
+  "maps_google": "https://goo.gl/maps/aqCcy2TKh5TV5MAX8",
+  "independent": true,
+  "un_member": true,
+  "landlocked": false,
+  "driving_side": "left",
+  "start_of_week": "monday",
+  "continents": [
+    "Africa"
+  ],
+  "latlng": [
+    -4.58333333,
+    55.66666666
+  ],
+  "gini": {
+    "2018": 32.1
+  }
+}

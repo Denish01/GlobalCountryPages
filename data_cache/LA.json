@@ -1,0 +1,47 @@
+{
+  "iso_code": "LA",
+  "name_common": "Laos",
+  "name_official": "Lao People's Democratic Republic",
+  "capital": "Vientiane",
+  "population": 7647000,
+  "area_km2": 236800.0,
+  "region": "Asia",
+  "subregion": "South-Eastern Asia",
+  "languages": {
+    "lao": "Lao"
+  },
+  "currencies": {
+    "LAK": {
+      "name": "Lao kip",
+      "symbol": "₭"
+    }
+  },
+  "timezones": [
+    "UTC+07:00"
+  ],
+  "borders": [
+    "MMR",
+    "KHM",
+    "CHN",
+    "THA",
+    "VNM"
+  ],
+  "flag_emoji": "🇱🇦",
+  "coat_of_arms_svg": "https://mainfacts.com/media/images/coats_of_arms/la.svg",
+  "maps_google": "https://goo.gl/maps/F3asVB7sRKgSnwbE7",
+  "independent": true,
+  "un_member": true,
+  "landlocked": true,
+  "driving_side": "right",
+  "start_of_week": "monday",
+  "continents": [
+    "Asia"
+  ],
+  "latlng": [
+    18.0,
+    105.0
+  ],
+  "gini": {
+    "2018": 38.8
+  }
+}

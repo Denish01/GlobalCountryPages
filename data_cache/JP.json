@@ -1,0 +1,41 @@
+{
+  "iso_code": "JP",
+  "name_common": "Japan",
+  "name_official": "Japan",
+  "capital": "Tokyo",
+  "population": 123210000,
+  "area_km2": 377930.0,
+  "region": "Asia",
+  "subregion": "Eastern Asia",
+  "languages": {
+    "jpn": "Japanese"
+  },
+  "currencies": {
+    "JPY": {
+      "name": "Japanese yen",
+      "symbol": "¥"
+    }
+  },
+  "timezones": [
+    "UTC+09:00"
+  ],
+  "borders": [],
+  "flag_emoji": "🇯🇵",
+  "coat_of_arms_svg": "https://mainfacts.com/media/images/coats_of_arms/jp.svg",
+  "maps_google": "https://goo.gl/maps/NGTLSCSrA8bMrvnX9",
+  "independent": true,
+  "un_member": true,
+  "landlocked": false,
+  "driving_side": "left",
+  "start_of_week": "monday",
+  "continents": [
+    "Asia"
+  ],
+  "latlng": [
+    36.0,
+    138.0
+  ],
+  "gini": {
+    "2013": 32.9
+  }
+}

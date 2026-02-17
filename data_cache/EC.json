@@ -1,0 +1,45 @@
+{
+  "iso_code": "EC",
+  "name_common": "Ecuador",
+  "name_official": "Republic of Ecuador",
+  "capital": "Quito",
+  "population": 18103660,
+  "area_km2": 276841.0,
+  "region": "Americas",
+  "subregion": "South America",
+  "languages": {
+    "spa": "Spanish"
+  },
+  "currencies": {
+    "USD": {
+      "name": "United States dollar",
+      "symbol": "$"
+    }
+  },
+  "timezones": [
+    "UTC-06:00",
+    "UTC-05:00"
+  ],
+  "borders": [
+    "COL",
+    "PER"
+  ],
+  "flag_emoji": "🇪🇨",
+  "coat_of_arms_svg": "https://mainfacts.com/media/images/coats_of_arms/ec.svg",
+  "maps_google": "https://goo.gl/maps/TbX8hUW4gcbRPZiK7",
+  "independent": true,
+  "un_member": true,
+  "landlocked": false,
+  "driving_side": "right",
+  "start_of_week": "monday",
+  "continents": [
+    "South America"
+  ],
+  "latlng": [
+    -2.0,
+    -77.5
+  ],
+  "gini": {
+    "2019": 45.7
+  }
+}

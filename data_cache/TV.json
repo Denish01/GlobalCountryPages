@@ -1,0 +1,46 @@
+{
+  "iso_code": "TV",
+  "name_common": "Tuvalu",
+  "name_official": "Tuvalu",
+  "capital": "Funafuti",
+  "population": 10643,
+  "area_km2": 26.0,
+  "region": "Oceania",
+  "subregion": "Polynesia",
+  "languages": {
+    "eng": "English",
+    "tvl": "Tuvaluan"
+  },
+  "currencies": {
+    "AUD": {
+      "name": "Australian dollar",
+      "symbol": "$"
+    },
+    "TVD": {
+      "name": "Tuvaluan dollar",
+      "symbol": "$"
+    }
+  },
+  "timezones": [
+    "UTC+12:00"
+  ],
+  "borders": [],
+  "flag_emoji": "🇹🇻",
+  "coat_of_arms_svg": "https://mainfacts.com/media/images/coats_of_arms/tv.svg",
+  "maps_google": "https://goo.gl/maps/LbuUxtkgm1dfN1Pn6",
+  "independent": true,
+  "un_member": true,
+  "landlocked": false,
+  "driving_side": "left",
+  "start_of_week": "monday",
+  "continents": [
+    "Oceania"
+  ],
+  "latlng": [
+    -8.0,
+    178.0
+  ],
+  "gini": {
+    "2010": 39.1
+  }
+}

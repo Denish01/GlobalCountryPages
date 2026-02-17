@@ -1,0 +1,40 @@
+{
+  "iso_code": "MH",
+  "name_common": "Marshall Islands",
+  "name_official": "Republic of the Marshall Islands",
+  "capital": "Majuro",
+  "population": 42418,
+  "area_km2": 181.0,
+  "region": "Oceania",
+  "subregion": "Micronesia",
+  "languages": {
+    "eng": "English",
+    "mah": "Marshallese"
+  },
+  "currencies": {
+    "USD": {
+      "name": "United States dollar",
+      "symbol": "$"
+    }
+  },
+  "timezones": [
+    "UTC+12:00"
+  ],
+  "borders": [],
+  "flag_emoji": "🇲🇭",
+  "coat_of_arms_svg": "https://mainfacts.com/media/images/coats_of_arms/mh.svg",
+  "maps_google": "https://goo.gl/maps/A4xLi1XvcX88gi3W8",
+  "independent": true,
+  "un_member": true,
+  "landlocked": false,
+  "driving_side": "right",
+  "start_of_week": "monday",
+  "continents": [
+    "Oceania"
+  ],
+  "latlng": [
+    9.0,
+    168.0
+  ],
+  "gini": {}
+}

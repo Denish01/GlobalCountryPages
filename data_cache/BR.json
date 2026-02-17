@@ -1,0 +1,55 @@
+{
+  "iso_code": "BR",
+  "name_common": "Brazil",
+  "name_official": "Federative Republic of Brazil",
+  "capital": "Brasília",
+  "population": 213421037,
+  "area_km2": 8515767.0,
+  "region": "Americas",
+  "subregion": "South America",
+  "languages": {
+    "por": "Portuguese"
+  },
+  "currencies": {
+    "BRL": {
+      "name": "Brazilian real",
+      "symbol": "R$"
+    }
+  },
+  "timezones": [
+    "UTC-05:00",
+    "UTC-04:00",
+    "UTC-03:00",
+    "UTC-02:00"
+  ],
+  "borders": [
+    "ARG",
+    "BOL",
+    "COL",
+    "GUF",
+    "GUY",
+    "PRY",
+    "PER",
+    "SUR",
+    "URY",
+    "VEN"
+  ],
+  "flag_emoji": "🇧🇷",
+  "coat_of_arms_svg": "https://mainfacts.com/media/images/coats_of_arms/br.svg",
+  "maps_google": "https://goo.gl/maps/waCKk21HeeqFzkNC9",
+  "independent": true,
+  "un_member": true,
+  "landlocked": false,
+  "driving_side": "right",
+  "start_of_week": "sunday",
+  "continents": [
+    "South America"
+  ],
+  "latlng": [
+    -10.0,
+    -55.0
+  ],
+  "gini": {
+    "2019": 53.4
+  }
+}

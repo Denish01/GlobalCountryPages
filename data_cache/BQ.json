@@ -1,0 +1,41 @@
+{
+  "iso_code": "BQ",
+  "name_common": "Caribbean Netherlands",
+  "name_official": "Bonaire, Sint Eustatius and Saba",
+  "capital": "Kralendijk",
+  "population": 31980,
+  "area_km2": 328.0,
+  "region": "Americas",
+  "subregion": "Caribbean",
+  "languages": {
+    "eng": "English",
+    "nld": "Dutch",
+    "pap": "Papiamento"
+  },
+  "currencies": {
+    "USD": {
+      "name": "United States dollar",
+      "symbol": "$"
+    }
+  },
+  "timezones": [
+    "UTC-04:00"
+  ],
+  "borders": [],
+  "flag_emoji": "🇧🇶",
+  "coat_of_arms_svg": "https://mainfacts.com/media/images/coats_of_arms/bq.svg",
+  "maps_google": "https://goo.gl/maps/4XVes1P6uEDTz77WA",
+  "independent": false,
+  "un_member": false,
+  "landlocked": false,
+  "driving_side": "right",
+  "start_of_week": "monday",
+  "continents": [
+    "North America"
+  ],
+  "latlng": [
+    12.18,
+    -68.25
+  ],
+  "gini": {}
+}

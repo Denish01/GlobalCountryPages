@@ -1,0 +1,41 @@
+{
+  "iso_code": "LC",
+  "name_common": "Saint Lucia",
+  "name_official": "Saint Lucia",
+  "capital": "Castries",
+  "population": 184100,
+  "area_km2": 616.0,
+  "region": "Americas",
+  "subregion": "Caribbean",
+  "languages": {
+    "eng": "English"
+  },
+  "currencies": {
+    "XCD": {
+      "name": "Eastern Caribbean dollar",
+      "symbol": "$"
+    }
+  },
+  "timezones": [
+    "UTC-04:00"
+  ],
+  "borders": [],
+  "flag_emoji": "🇱🇨",
+  "coat_of_arms_svg": "https://mainfacts.com/media/images/coats_of_arms/lc.svg",
+  "maps_google": "https://goo.gl/maps/4HhJ2jkPdSL9BPRcA",
+  "independent": true,
+  "un_member": true,
+  "landlocked": false,
+  "driving_side": "left",
+  "start_of_week": "monday",
+  "continents": [
+    "North America"
+  ],
+  "latlng": [
+    13.88333333,
+    -60.96666666
+  ],
+  "gini": {
+    "2016": 51.2
+  }
+}

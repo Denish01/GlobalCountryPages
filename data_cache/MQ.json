@@ -1,0 +1,39 @@
+{
+  "iso_code": "MQ",
+  "name_common": "Martinique",
+  "name_official": "Martinique",
+  "capital": "Fort-de-France",
+  "population": 349925,
+  "area_km2": 1128.0,
+  "region": "Americas",
+  "subregion": "Caribbean",
+  "languages": {
+    "fra": "French"
+  },
+  "currencies": {
+    "EUR": {
+      "name": "euro",
+      "symbol": "€"
+    }
+  },
+  "timezones": [
+    "UTC-04:00"
+  ],
+  "borders": [],
+  "flag_emoji": "🇲🇶",
+  "coat_of_arms_svg": "https://mainfacts.com/media/images/coats_of_arms/mq.svg",
+  "maps_google": "https://goo.gl/maps/87ER7sDAFU7JjcvR6",
+  "independent": false,
+  "un_member": false,
+  "landlocked": false,
+  "driving_side": "right",
+  "start_of_week": "monday",
+  "continents": [
+    "North America"
+  ],
+  "latlng": [
+    14.666667,
+    -61.0
+  ],
+  "gini": {}
+}

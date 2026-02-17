@@ -1,0 +1,45 @@
+{
+  "iso_code": "GA",
+  "name_common": "Gabon",
+  "name_official": "Gabonese Republic",
+  "capital": "Libreville",
+  "population": 2469296,
+  "area_km2": 267668.0,
+  "region": "Africa",
+  "subregion": "Middle Africa",
+  "languages": {
+    "fra": "French"
+  },
+  "currencies": {
+    "XAF": {
+      "name": "Central African CFA franc",
+      "symbol": "Fr"
+    }
+  },
+  "timezones": [
+    "UTC+01:00"
+  ],
+  "borders": [
+    "CMR",
+    "COG",
+    "GNQ"
+  ],
+  "flag_emoji": "🇬🇦",
+  "coat_of_arms_svg": "https://mainfacts.com/media/images/coats_of_arms/ga.svg",
+  "maps_google": "https://goo.gl/maps/vyRSkqw1H1fnq4ry6",
+  "independent": true,
+  "un_member": true,
+  "landlocked": false,
+  "driving_side": "right",
+  "start_of_week": "monday",
+  "continents": [
+    "Africa"
+  ],
+  "latlng": [
+    -1.0,
+    11.75
+  ],
+  "gini": {
+    "2017": 38.0
+  }
+}

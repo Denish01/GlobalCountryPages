@@ -1,0 +1,39 @@
+{
+  "iso_code": "YT",
+  "name_common": "Mayotte",
+  "name_official": "Department of Mayotte",
+  "capital": "Mamoudzou",
+  "population": 320901,
+  "area_km2": 374.0,
+  "region": "Africa",
+  "subregion": "Eastern Africa",
+  "languages": {
+    "fra": "French"
+  },
+  "currencies": {
+    "EUR": {
+      "name": "euro",
+      "symbol": "€"
+    }
+  },
+  "timezones": [
+    "UTC+03:00"
+  ],
+  "borders": [],
+  "flag_emoji": "🇾🇹",
+  "coat_of_arms_svg": "",
+  "maps_google": "https://goo.gl/maps/1e7MXmfBwQv3TQGF7",
+  "independent": false,
+  "un_member": false,
+  "landlocked": false,
+  "driving_side": "right",
+  "start_of_week": "monday",
+  "continents": [
+    "Africa"
+  ],
+  "latlng": [
+    -12.83333333,
+    45.16666666
+  ],
+  "gini": {}
+}

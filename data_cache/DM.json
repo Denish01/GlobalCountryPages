@@ -1,0 +1,39 @@
+{
+  "iso_code": "DM",
+  "name_common": "Dominica",
+  "name_official": "Commonwealth of Dominica",
+  "capital": "Roseau",
+  "population": 67408,
+  "area_km2": 751.0,
+  "region": "Americas",
+  "subregion": "Caribbean",
+  "languages": {
+    "eng": "English"
+  },
+  "currencies": {
+    "XCD": {
+      "name": "Eastern Caribbean dollar",
+      "symbol": "$"
+    }
+  },
+  "timezones": [
+    "UTC-04:00"
+  ],
+  "borders": [],
+  "flag_emoji": "🇩🇲",
+  "coat_of_arms_svg": "https://mainfacts.com/media/images/coats_of_arms/dm.svg",
+  "maps_google": "https://goo.gl/maps/HSKdHYpFC8oHHuyV7",
+  "independent": true,
+  "un_member": true,
+  "landlocked": false,
+  "driving_side": "left",
+  "start_of_week": "monday",
+  "continents": [
+    "North America"
+  ],
+  "latlng": [
+    15.41666666,
+    -61.33333333
+  ],
+  "gini": {}
+}

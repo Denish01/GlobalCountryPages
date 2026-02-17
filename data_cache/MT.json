@@ -1,0 +1,42 @@
+{
+  "iso_code": "MT",
+  "name_common": "Malta",
+  "name_official": "Republic of Malta",
+  "capital": "Valletta",
+  "population": 574250,
+  "area_km2": 316.0,
+  "region": "Europe",
+  "subregion": "Southern Europe",
+  "languages": {
+    "eng": "English",
+    "mlt": "Maltese"
+  },
+  "currencies": {
+    "EUR": {
+      "name": "euro",
+      "symbol": "€"
+    }
+  },
+  "timezones": [
+    "UTC+01:00"
+  ],
+  "borders": [],
+  "flag_emoji": "🇲🇹",
+  "coat_of_arms_svg": "https://mainfacts.com/media/images/coats_of_arms/mt.svg",
+  "maps_google": "https://goo.gl/maps/skXCqguxDxxEKVk47",
+  "independent": true,
+  "un_member": true,
+  "landlocked": false,
+  "driving_side": "left",
+  "start_of_week": "monday",
+  "continents": [
+    "Europe"
+  ],
+  "latlng": [
+    35.9375,
+    14.3754
+  ],
+  "gini": {
+    "2018": 28.7
+  }
+}

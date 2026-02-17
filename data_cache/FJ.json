@@ -1,0 +1,43 @@
+{
+  "iso_code": "FJ",
+  "name_common": "Fiji",
+  "name_official": "Republic of Fiji",
+  "capital": "Suva",
+  "population": 900869,
+  "area_km2": 18272.0,
+  "region": "Oceania",
+  "subregion": "Melanesia",
+  "languages": {
+    "eng": "English",
+    "fij": "Fijian",
+    "hif": "Fiji Hindi"
+  },
+  "currencies": {
+    "FJD": {
+      "name": "Fijian dollar",
+      "symbol": "$"
+    }
+  },
+  "timezones": [
+    "UTC+12:00"
+  ],
+  "borders": [],
+  "flag_emoji": "🇫🇯",
+  "coat_of_arms_svg": "https://mainfacts.com/media/images/coats_of_arms/fj.svg",
+  "maps_google": "https://goo.gl/maps/r9fhDqoLZdg1zmE99",
+  "independent": true,
+  "un_member": true,
+  "landlocked": false,
+  "driving_side": "left",
+  "start_of_week": "monday",
+  "continents": [
+    "Oceania"
+  ],
+  "latlng": [
+    -17.7134,
+    178.065
+  ],
+  "gini": {
+    "2013": 36.7
+  }
+}

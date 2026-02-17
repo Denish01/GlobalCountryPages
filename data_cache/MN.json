@@ -1,0 +1,45 @@
+{
+  "iso_code": "MN",
+  "name_common": "Mongolia",
+  "name_official": "Mongolia",
+  "capital": "Ulan Bator",
+  "population": 3544835,
+  "area_km2": 1564110.0,
+  "region": "Asia",
+  "subregion": "Eastern Asia",
+  "languages": {
+    "mon": "Mongolian"
+  },
+  "currencies": {
+    "MNT": {
+      "name": "Mongolian tögrög",
+      "symbol": "₮"
+    }
+  },
+  "timezones": [
+    "UTC+07:00",
+    "UTC+08:00"
+  ],
+  "borders": [
+    "CHN",
+    "RUS"
+  ],
+  "flag_emoji": "🇲🇳",
+  "coat_of_arms_svg": "https://mainfacts.com/media/images/coats_of_arms/mn.svg",
+  "maps_google": "https://goo.gl/maps/A1X7bMCKThBDNjzH6",
+  "independent": true,
+  "un_member": true,
+  "landlocked": true,
+  "driving_side": "right",
+  "start_of_week": "monday",
+  "continents": [
+    "Asia"
+  ],
+  "latlng": [
+    46.0,
+    105.0
+  ],
+  "gini": {
+    "2018": 32.7
+  }
+}

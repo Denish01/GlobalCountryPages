@@ -1,0 +1,49 @@
+{
+  "iso_code": "DZ",
+  "name_common": "Algeria",
+  "name_official": "People's Democratic Republic of Algeria",
+  "capital": "Algiers",
+  "population": 47400000,
+  "area_km2": 2381741.0,
+  "region": "Africa",
+  "subregion": "Northern Africa",
+  "languages": {
+    "ara": "Arabic"
+  },
+  "currencies": {
+    "DZD": {
+      "name": "Algerian dinar",
+      "symbol": "د.ج"
+    }
+  },
+  "timezones": [
+    "UTC+01:00"
+  ],
+  "borders": [
+    "TUN",
+    "LBY",
+    "NER",
+    "ESH",
+    "MRT",
+    "MLI",
+    "MAR"
+  ],
+  "flag_emoji": "🇩🇿",
+  "coat_of_arms_svg": "https://mainfacts.com/media/images/coats_of_arms/dz.svg",
+  "maps_google": "https://goo.gl/maps/RsAyAfyaiNVb8DpW8",
+  "independent": true,
+  "un_member": true,
+  "landlocked": false,
+  "driving_side": "right",
+  "start_of_week": "sunday",
+  "continents": [
+    "Africa"
+  ],
+  "latlng": [
+    28.0,
+    3.0
+  ],
+  "gini": {
+    "2011": 27.6
+  }
+}

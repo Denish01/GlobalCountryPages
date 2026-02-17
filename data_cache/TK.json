@@ -1,0 +1,41 @@
+{
+  "iso_code": "TK",
+  "name_common": "Tokelau",
+  "name_official": "Tokelau",
+  "capital": "Fakaofo",
+  "population": 2608,
+  "area_km2": 12.0,
+  "region": "Oceania",
+  "subregion": "Polynesia",
+  "languages": {
+    "eng": "English",
+    "smo": "Samoan",
+    "tkl": "Tokelauan"
+  },
+  "currencies": {
+    "NZD": {
+      "name": "New Zealand dollar",
+      "symbol": "$"
+    }
+  },
+  "timezones": [
+    "UTC+13:00"
+  ],
+  "borders": [],
+  "flag_emoji": "🇹🇰",
+  "coat_of_arms_svg": "",
+  "maps_google": "https://goo.gl/maps/Ap5qN8qien6pT9UN6",
+  "independent": false,
+  "un_member": false,
+  "landlocked": false,
+  "driving_side": "left",
+  "start_of_week": "monday",
+  "continents": [
+    "Oceania"
+  ],
+  "latlng": [
+    -9.0,
+    -172.0
+  ],
+  "gini": {}
+}

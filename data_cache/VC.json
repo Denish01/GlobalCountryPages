@@ -1,0 +1,39 @@
+{
+  "iso_code": "VC",
+  "name_common": "Saint Vincent and the Grenadines",
+  "name_official": "Saint Vincent and the Grenadines",
+  "capital": "Kingstown",
+  "population": 110872,
+  "area_km2": 389.0,
+  "region": "Americas",
+  "subregion": "Caribbean",
+  "languages": {
+    "eng": "English"
+  },
+  "currencies": {
+    "XCD": {
+      "name": "Eastern Caribbean dollar",
+      "symbol": "$"
+    }
+  },
+  "timezones": [
+    "UTC-04:00"
+  ],
+  "borders": [],
+  "flag_emoji": "🇻🇨",
+  "coat_of_arms_svg": "https://mainfacts.com/media/images/coats_of_arms/vc.svg",
+  "maps_google": "https://goo.gl/maps/wMbnMqjG37FMnrwf7",
+  "independent": true,
+  "un_member": true,
+  "landlocked": false,
+  "driving_side": "left",
+  "start_of_week": "monday",
+  "continents": [
+    "North America"
+  ],
+  "latlng": [
+    13.25,
+    -61.2
+  ],
+  "gini": {}
+}

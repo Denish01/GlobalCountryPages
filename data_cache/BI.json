@@ -1,0 +1,46 @@
+{
+  "iso_code": "BI",
+  "name_common": "Burundi",
+  "name_official": "Republic of Burundi",
+  "capital": "Gitega",
+  "population": 12332788,
+  "area_km2": 27834.0,
+  "region": "Africa",
+  "subregion": "Eastern Africa",
+  "languages": {
+    "fra": "French",
+    "run": "Kirundi"
+  },
+  "currencies": {
+    "BIF": {
+      "name": "Burundian franc",
+      "symbol": "Fr"
+    }
+  },
+  "timezones": [
+    "UTC+02:00"
+  ],
+  "borders": [
+    "COD",
+    "RWA",
+    "TZA"
+  ],
+  "flag_emoji": "🇧🇮",
+  "coat_of_arms_svg": "https://mainfacts.com/media/images/coats_of_arms/bi.svg",
+  "maps_google": "https://goo.gl/maps/RXPWoRrB9tfrJpUG7",
+  "independent": true,
+  "un_member": true,
+  "landlocked": true,
+  "driving_side": "right",
+  "start_of_week": "monday",
+  "continents": [
+    "Africa"
+  ],
+  "latlng": [
+    -3.5,
+    30.0
+  ],
+  "gini": {
+    "2013": 38.6
+  }
+}
