@@ -1,0 +1,85 @@
+---
+title: "Turkmenistan Culture - Food, Traditions & Etiquette"
+entity: "Turkmenistan"
+iso_code: "TM"
+continent: "asia"
+angle: "culture"
+date: "2026-02-17"
+---
+
+# Turkmenistan Culture - Food, Traditions & Etiquette
+
+Turkmenistan's culture is a unique blend of traditional and modern elements, shaped by its strategic location at the crossroads of Europe and Asia, with a rich heritage of nomadic tribes, Islamic influences, and Soviet-era legacies.
+
+[SECTION] Cultural Identity [/SECTION]
+Turkmenistan's culture is defined by its **Turkmen** ethnic group, which makes up the majority of the population, with smaller groups of Uzbeks, Russians, and Kazakhs. The country's cultural identity is deeply rooted in its nomadic past, with a strong emphasis on hospitality, respect for elders, and a deep connection to the land and traditional ways of life. The Turkmen language, a member of the Turkic language family, is the official language and an important part of the country's cultural heritage. Islamic traditions also play a significant role in shaping the country's culture, with many Turkmen people practicing a moderate form of Islam.
+
+The country's cultural landscape has been influenced by various conquerors and empires throughout history, including the ancient Silk Road, the Mongols, and the Soviet Union. This has resulted in a unique blend of traditional and modern elements, with modern Ashgabat, the capital city, featuring a mix of Soviet-era architecture, modern skyscrapers, and traditional bazaars. The Turkmen people are known for their warm hospitality and welcoming nature, with visitors often being greeted with traditional tea and bread.
+
+The traditional Turkmen way of life is centered around the family and the community, with a strong emphasis on respect for elders and traditional values. The country's cultural identity is also reflected in its traditional clothing, music, and dance, with the **Turkmen carpet** being a famous example of the country's rich cultural heritage.
+
+[SECTION] Food & Cuisine [/SECTION]
+| Dish | Type | Description | Must-Try? |
+| --- | --- | --- | --- |
+| Plov | Main Course | A traditional dish made with rice, meat, and vegetables | Yes |
+| Shashlik | BBQ | Skewers of marinated meat, typically served with bread and onions | Yes |
+| Manty | Dumplings | Steamed dumplings filled with meat and onions | Yes |
+| Shurpa | Soup | A hearty soup made with meat, noodles, and vegetables | Yes |
+| Gutap | Pastry | A traditional pastry filled with meat, onions, and spices | Yes |
+| Kibinai | Pastry | A type of pastry filled with meat, onions, and spices, typically served as a snack | Yes |
+| Chak-Chak | Dessert | A traditional dessert made with honey, flour, and eggs | Yes |
+| Komuz | Drink | A traditional drink made with fermented milk | No |
+
+Eating customs in Turkmenistan are centered around traditional dishes and hospitality, with mealtimes often being seen as opportunities to socialize and build relationships. Visitors are often invited to share meals with local families, where they can experience the country's traditional cuisine and hospitality firsthand. Food is typically served in a **ruznama**, a traditional setting where guests sit on the floor and eat from a low table.
+
+[SECTION] Traditions & Festivals [/SECTION]
+| Festival/Tradition | When | What It Is |
+| --- | --- | --- |
+| Nowruz | March 20-21 | A traditional New Year celebration, marking the beginning of spring |
+| Eid al-Fitr | Variable | A celebration marking the end of Ramadan, the Islamic holy month of fasting |
+| Turkmen Independence Day | October 27 | A national holiday commemorating the country's independence from the Soviet Union |
+| Neutrality Day | December 12 | A national holiday commemorating the country's declaration of neutrality |
+| Flag Day | February 19 | A national holiday commemorating the adoption of the country's flag |
+| Melon Festival | August | A traditional festival celebrating the harvest of melons, a staple crop in Turkmenistan |
+
+[SECTION] Etiquette: Do's and Don'ts [/SECTION]
+**Do:**
+- Respect traditional customs and dress modestly, especially when visiting mosques or rural areas
+- Remove your shoes when entering a traditional home or mosque
+- Use your right hand when eating or giving/receiving something
+- Learn a few basic phrases in Turkmen, such as **"Merhaba"** (hello) and **"Rahmet"** (thank you)
+- Show respect for elders and traditional authority figures
+- Be prepared to participate in traditional tea ceremonies and hospitality customs
+
+**Don't:**
+- Publicly display affection or intimacy, as this is considered impolite in Turkmen culture
+- Take pictures of people or sensitive areas without permission
+- Discuss politics or sensitive topics, especially with strangers
+- Touch or point at people with your left hand, as this is considered rude
+- Refuse hospitality or food offered by your host, as this is considered impolite
+- Walk in front of someone who is praying or show disrespect to Islamic traditions
+
+[SECTION] Arts & Music [/SECTION]
+- **Turkmen carpets** are a famous example of the country's rich cultural heritage, known for their intricate designs and vibrant colors
+- **Mugam music** is a traditional genre of music, characterized by complex melodies and rhythms
+- **Turkmen literature** is known for its rich oral traditions and epic poems, such as the **"Gorogly"** epic
+- **Film** is a relatively new art form in Turkmenistan, but the country has produced several notable films, including **"The White Ship"**
+- **Traditional dance**, such as the **"Kushtdepdi"** dance, is an important part of Turkmen cultural heritage, often performed at weddings and other celebrations
+
+[SECTION] Useful Phrases [/SECTION]
+| English | Local Language | Pronunciation |
+| --- | --- | --- |
+| Hello | Merhaba | Meh-rah-bah |
+| Thank you | Rahmet | Rah-met |
+| Please | Ýalvarýark | Yal-vah-rark |
+| Yes / No | Hawa / Ýok | Hah-wah / Yohk |
+| How much? | Näçe | Nah-cheh |
+| Goodbye | Sag bol | Sahg-bohl |
+| Excuse me | Üzür dilerim | Oo-zur dee-leh-reem |
+| Where is...? | Näçe ýer? | Nah-cheh yehr |
+| I don't understand | Düşünmok | Doosh-nmohk |
+| Help! | Kömek! | Koh-mek |
+
+---
+
+*Evergreen reference content. Verify time-sensitive details with official sources.*

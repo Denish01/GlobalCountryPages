@@ -1,0 +1,58 @@
+---
+title: "East Timor Geography - Location, Terrain & Climate"
+entity: "East Timor"
+iso_code: "TL"
+continent: "asia"
+angle: "geography"
+date: "2026-02-17"
+---
+
+# East Timor Geography - Location, Terrain & Climate
+
+East Timor is a sovereign country located in Southeast Asia, situated on the eastern half of the island of Timor, bordered by Indonesia to the west, and surrounded by the Timor Sea to the south, the Wetar Strait to the north, and the Ombai Strait to the northeast.
+
+[FACTBOX]
+Land Area: 14,874 km², about the size of Hawaii
+Highest Point: Tatamailau, 2,963 meters
+Lowest Point: Timor Sea, 0 meters
+Coastline: 706 km
+Borders: Indonesia
+Climate Type: tropical
+[/FACTBOX]
+
+[SECTION] Location & Borders [/SECTION]
+East Timor is situated on the eastern half of the island of Timor, which is part of the Malay Archipelago. The country shares a border with Indonesia to the west, and is surrounded by several bodies of water, including the Timor Sea to the south, the Wetar Strait to the north, and the Ombai Strait to the northeast. The country's unique geography has played a significant role in shaping its history, culture, and economy.
+
+The island of Timor has been a point of contention between East Timor and Indonesia for many years, with the two countries having a complex and often tumultuous relationship. The border between East Timor and Indonesia is approximately 228 kilometers long, and has been a source of tension and conflict in the past. Despite these challenges, East Timor has made significant progress in recent years, and is working to develop its economy and improve the lives of its citizens.
+
+[SECTION] Terrain & Landscape [/SECTION]
+East Timor's terrain is characterized by a mix of rugged mountains, rolling hills, and coastal plains. The country's highest point is **Tatamailau**, which is located in the central part of the island and rises to an elevation of 2,963 meters. The mountains are covered in dense **tropical forests**, which are home to a wide variety of flora and fauna. The country's coastline is approximately 706 kilometers long, and features a mix of sandy beaches, rocky shores, and coral reefs.
+
+The **Nino Konis Santana National Park** is a protected area that covers a significant portion of the country's eastern tip, and is home to a wide variety of unique and endemic species. The park features a mix of **forests**, **grasslands**, and **wetlands**, and is an important habitat for many **birds**, **reptiles**, and **mammals**. East Timor's terrain and landscape are not only beautiful, but also play a critical role in supporting the country's economy and ecosystem.
+
+The country's **rivers** and **streams** are an important source of fresh water, and are used for irrigation, drinking water, and other purposes. The **Laclo River** is one of the country's most important waterways, and flows through the capital city of **Dili** before emptying into the **Timor Sea**. East Timor's terrain and landscape are diverse and complex, and offer a wide range of opportunities for **hiking**, **birdwatching**, and other outdoor activities.
+
+[SECTION] Climate By Season [/SECTION]
+[TABLE]
+| Season | Months | Temperature Range | Rainfall | Conditions |
+| --- | --- | --- | --- | --- |
+| Dry | May to October | 20-30°C | low | dry and sunny |
+| Wet | November to April | 20-35°C | high | hot and humid |
+| Transitional | April to May | 20-30°C | moderate | variable |
+| Cool | June to August | 15-25°C | low | cool and dry |
+[/TABLE]
+
+[SECTION] Best Time To Visit [/SECTION]
+[CALLOUT] Best months: May to October. Why: The dry season offers the best weather for outdoor activities, with dry and sunny conditions making it ideal for hiking, birdwatching, and other pursuits. Avoid: November to April, as the wet season can make roads and trails impassable, and the hot and humid conditions can be uncomfortable. [/CALLOUT]
+
+[SECTION] Natural Highlights [/SECTION]
+- The **Nino Konis Santana National Park** is a protected area that covers a significant portion of the country's eastern tip, and is home to a wide variety of unique and endemic species.
+- The **Tatamailau** mountain is the country's highest point, and offers stunning views of the surrounding landscape.
+- The **Laclo River** is one of the country's most important waterways, and flows through the capital city of **Dili** before emptying into the **Timor Sea**.
+- The **Atauro Island** is a small island located off the coast of **Dili**, and is known for its beautiful beaches and coral reefs.
+- The **Baucau District** is a region of rugged mountains and scenic valleys, and is home to a wide variety of flora and fauna.
+- The **Timor Sea** is a body of water that surrounds the country, and is home to a wide variety of marine life, including **whales**, **dolphins**, and **sea turtles**.
+
+---
+
+*Evergreen reference content. Verify time-sensitive details with official sources.*

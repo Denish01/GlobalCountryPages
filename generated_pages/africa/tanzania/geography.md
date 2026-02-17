@@ -1,0 +1,58 @@
+---
+title: "Tanzania Geography - Location, Terrain & Climate"
+entity: "Tanzania"
+iso_code: "TZ"
+continent: "africa"
+angle: "geography"
+date: "2026-02-17"
+---
+
+# Tanzania Geography - Location, Terrain & Climate
+
+Tanzania is a sovereign country located in East Africa, bordered by several countries and featuring a diverse geography that includes mountains, deserts, forests, and coastlines along the Indian Ocean.
+
+[FACTBOX]
+Land Area: 947,303 km², about the size of Texas and California combined
+Highest Point: Mount Kilimanjaro, 5,895 meters
+Lowest Point: Lake Tanganyika, 262 meters
+Coastline: 1,424 km
+Borders: Kenya, Uganda, Rwanda, Burundi, DR Congo, Zambia, Malawi, Mozambique
+Climate Type: tropical
+[/FACTBOX]
+
+[SECTION] Location & Borders [/SECTION]
+Tanzania is situated in the eastern part of Africa, with its mainland territory located between the **Indian Ocean** to the east and the **African Great Lakes** to the west. The country shares borders with eight neighboring countries: Kenya and Uganda to the north, Rwanda, Burundi, and the Democratic Republic of the Congo to the west, and Zambia, Malawi, and Mozambique to the south. Tanzania's strategic location has made it an important hub for trade and cultural exchange in the region.
+
+The country's geography is also characterized by its proximity to several major bodies of water, including Lake Victoria, Lake Tanganyika, and the Indian Ocean. The **Zanzibar Archipelago**, a semi-autonomous region of Tanzania, is located off the coast of the mainland and consists of several islands, including **Unguja** and **Pemba**. The archipelago is known for its beautiful beaches, coral reefs, and historic Stone Town, a UNESCO World Heritage Site.
+
+[SECTION] Terrain & Landscape [/SECTION]
+Tanzania's terrain is diverse and varied, with different regions featuring distinct landscapes and geological formations. The country's highest point is **Mount Kilimanjaro**, a dormant volcano and the highest peak in Africa, which is located in the northeastern part of the country. The mountain is a popular destination for hikers and climbers, and its snow-capped peak is a prominent feature of the Tanzanian landscape.
+
+The **Serengeti National Park** and the **Ngorongoro Conservation Area** are two of Tanzania's most famous natural attractions, known for their abundant wildlife and diverse ecosystems. The Serengeti is home to the **Great Migration**, a massive movement of wildebeests, zebras, and other animals that takes place every year. The Ngorongoro Conservation Area, on the other hand, features a large **caldera**, a volcanic crater that is home to a wide range of wildlife, including lions, elephants, and giraffes.
+
+Tanzania's coastline along the Indian Ocean is characterized by beautiful beaches, coral reefs, and mangrove forests. The **Tanga Coast** and the **Dar es Salaam Coast** are two of the country's most popular beach destinations, known for their clear waters, white sand beaches, and vibrant marine life. The **Usambara Mountains** and the **Uluguru Mountains** are two of Tanzania's most prominent mountain ranges, featuring lush forests, scenic valleys, and traditional villages.
+
+[SECTION] Climate By Season [/SECTION]
+[TABLE]
+| Season | Months | Temperature Range | Rainfall | Conditions |
+| --- | --- | --- | --- | --- |
+| Dry Season | June to October | 20-30°C | low | clear skies, dry weather |
+| Wet Season | November to May | 20-30°C | high | heavy rainfall, flooding |
+| Cool Season | June to August | 15-25°C | low | mild temperatures, dry weather |
+| Hot Season | September to November | 25-35°C | low | high temperatures, dry weather |
+[/TABLE]
+
+[SECTION] Best Time To Visit [/SECTION]
+[CALLOUT] Best months: June to October. Why: The dry season offers the best weather conditions for wildlife viewing and outdoor activities, with clear skies and dry weather. Avoid: The wet season, from November to May, when heavy rainfall and flooding can make travel difficult and uncomfortable. [/CALLOUT]
+
+[SECTION] Natural Highlights [/SECTION]
+- **Serengeti National Park**: a world-famous wildlife reserve known for the Great Migration and its abundant lion population.
+- **Mount Kilimanjaro**: the highest peak in Africa and a popular destination for hikers and climbers.
+- **Ngorongoro Conservation Area**: a UNESCO World Heritage Site featuring a large caldera and diverse wildlife.
+- **Zanzibar Archipelago**: a semi-autonomous region with beautiful beaches, coral reefs, and historic Stone Town.
+- **Lake Tanganyika**: the second-deepest lake in the world and a popular destination for fishing and boating.
+- **Tarangire National Park**: a wildlife reserve known for its large elephant population and scenic savannas.
+
+---
+
+*Evergreen reference content. Verify time-sensitive details with official sources.*

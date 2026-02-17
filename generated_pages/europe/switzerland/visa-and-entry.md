@@ -1,0 +1,66 @@
+---
+title: "Switzerland Visa & Entry Requirements"
+entity: "Switzerland"
+iso_code: "CH"
+continent: "europe"
+angle: "visa-and-entry"
+date: "2026-02-17"
+---
+
+# Switzerland Visa & Entry Requirements
+
+To determine if you need a visa for Switzerland, it's essential to check the specific requirements based on your nationality and the purpose of your visit.
+
+[CALLOUT] Visa rules change frequently. Always verify current requirements with the official embassy or consulate of Switzerland before traveling. [/CALLOUT]
+
+[SECTION] Visa Policy Overview [/SECTION]
+Switzerland has a moderate visa policy, allowing citizens of over 100 countries to enter the country without a visa for a certain period. The country is a member of the Schengen Area, which means that visitors can travel to other Schengen countries without the need for additional visas. The visa-free policy allows nationals of eligible countries to stay in Switzerland for up to 90 days within a 180-day period. Switzerland's visa policy is designed to facilitate travel while maintaining national security and immigration control.
+
+The visa policy is based on the principle of reciprocity, which means that countries that have a similar visa policy towards Swiss citizens are more likely to have a favorable visa policy towards their nationals. Switzerland also has a points-based system for assessing visa applications, which takes into account factors such as the applicant's education, work experience, and language skills. The country's visa policy is regularly reviewed and updated to ensure that it remains effective and efficient.
+
+[SECTION] Requirements By Nationality [/SECTION]
+| Nationality | Visa Required? | Type | Max Stay | Notes |
+| --- | --- | --- | --- | --- |
+| US Citizens | No | Tourist | 90 days | No visa required for tourism or business stays up to 90 days |
+| UK Citizens | No | Tourist | 90 days | No visa required for tourism or business stays up to 90 days, but may need to register with the authorities |
+| EU Citizens | No | Free Movement | Unlimited | EU citizens have the right to live and work in Switzerland, but may need to register with the authorities |
+| Canadian Citizens | No | Tourist | 90 days | No visa required for tourism or business stays up to 90 days |
+| Australian Citizens | No | Tourist | 90 days | No visa required for tourism or business stays up to 90 days |
+| Indian Citizens | Yes | Tourist eVisa | 30 days | Must apply for a tourist eVisa online before arrival |
+| Chinese Citizens | Yes | Tourist Visa | 30 days | Must apply for a tourist visa at a Swiss embassy or consulate before arrival |
+
+[SECTION] By Visitor Type [/SECTION]
+**Tourists:** Visitors who plan to stay in Switzerland for tourism purposes can enter the country without a visa if they are nationals of eligible countries. The typical stay for tourists is up to 90 days, and extensions are possible in exceptional cases. Tourists must have a valid passport, proof of sufficient funds, and health insurance that covers them for the duration of their stay.
+**Business Travelers:** Business travelers who plan to attend meetings, conferences, or trade fairs in Switzerland can enter the country without a visa if they are nationals of eligible countries. They must have a valid passport, an invitation letter from a Swiss company, and proof of sufficient funds. Business travelers may need to register with the authorities if they plan to stay in Switzerland for more than 90 days.
+**Students:** International students who plan to study in Switzerland must apply for a student visa at a Swiss embassy or consulate before arrival. They must have a valid passport, proof of enrollment at a Swiss university, and sufficient funds to support themselves during their stay. The duration of the student visa depends on the length of the study program.
+**Workers:** Workers who plan to take up employment in Switzerland must apply for a work visa at a Swiss embassy or consulate before arrival. They must have a valid passport, a job offer from a Swiss employer, and meet the requirements for the specific occupation. The work visa is usually issued for a specific period, and the worker must register with the authorities and obtain a residence permit.
+
+[SECTION] Documents Checklist [/SECTION]
+1. Valid passport with at least six months' validity
+2. Completed visa application form (if required)
+3. Recent passport-sized photos
+4. Proof of sufficient funds (e.g., bank statement, cash)
+5. Health insurance that covers the duration of stay
+6. Invitation letter from a Swiss company (for business travelers)
+7. Proof of enrollment at a Swiss university (for students)
+8. Job offer from a Swiss employer (for workers)
+9. Police certificate (for certain nationalities or occupations)
+10. Medical certificate (for certain nationalities or occupations)
+
+[SECTION] Entry Points & Procedures [/SECTION]
+The main airports in Switzerland are Zurich Airport, Geneva Airport, and Bern Airport, which receive international flights from around the world. Visitors can also enter Switzerland by land or sea through its borders with neighboring countries. When arriving in Switzerland, visitors must go through immigration and customs controls, where they will be asked to present their travel documents and declare any goods they are bringing with them. The immigration officer may also ask questions about the purpose of the visit, the length of stay, and the visitor's plans while in Switzerland.
+
+Visitors who require a visa must apply for it at a Swiss embassy or consulate before arrival. They will need to submit their application and supporting documents, and may be required to attend an interview. The processing time for visa applications can vary depending on the nationality and the purpose of the visit. Visitors who are eligible for a visa-free stay must ensure that they meet the requirements and have the necessary documents before arriving in Switzerland.
+
+[SECTION] Common Mistakes To Avoid [/SECTION]
+- Not checking the visa requirements before traveling to Switzerland
+- Not having a valid passport with at least six months' validity
+- Not having sufficient funds to support the stay
+- Not having health insurance that covers the duration of stay
+- Not registering with the authorities if required
+- Not declaring goods when arriving in Switzerland, which can result in fines or penalties
+- Not applying for a visa or work permit if required, which can result in deportation or a ban from entering Switzerland.
+
+---
+
+*Evergreen reference content. Verify time-sensitive details with official sources.*

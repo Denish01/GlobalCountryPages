@@ -1,0 +1,64 @@
+---
+title: "Tonga Visa & Entry Requirements"
+entity: "Tonga"
+iso_code: "TO"
+continent: "oceania"
+angle: "visa-and-entry"
+date: "2026-02-17"
+---
+
+# Tonga Visa & Entry Requirements
+
+To enter Tonga, citizens of certain countries may need a visa, while others can enter visa-free or obtain a visa on arrival, depending on their nationality and purpose of visit.
+
+[CALLOUT] Visa rules change frequently. Always verify current requirements with the official embassy or consulate of Tonga before traveling. [/CALLOUT]
+
+[SECTION] Visa Policy Overview [/SECTION]
+Tonga has a moderate visa policy, with a mix of visa-free access, visa on arrival, and required visas for different nationalities. Citizens of over 30 countries can enter Tonga visa-free, while others can obtain a visa on arrival or need to apply for a visa in advance. The visa policy is designed to balance the need to control immigration with the desire to promote tourism and economic development.
+
+Tonga's visa policy is also influenced by its membership in regional organizations, such as the Pacific Islands Forum, and its relationships with other countries in the region. The country has a relatively simple visa application process, with most visas being issued for a single entry and a stay of up to 31 days. However, the visa requirements and regulations can change, so it is essential to check with the Tongan embassy or consulate for the latest information.
+
+[SECTION] Requirements By Nationality [/SECTION]
+[TABLE]
+| Nationality | Visa Required? | Type | Max Stay | Notes |
+| --- | --- | --- | --- | --- |
+| US Citizens | No | Visa-free | 31 days | Can extend stay up to 6 months |
+| UK Citizens | No | Visa-free | 31 days | Can extend stay up to 6 months |
+| EU Citizens | No | Visa-free | 31 days | Can extend stay up to 6 months |
+| Canadian Citizens | No | Visa-free | 31 days | Can extend stay up to 6 months |
+| Australian Citizens | No | Visa-free | 31 days | Can extend stay up to 6 months |
+| Indian Citizens | Yes | Visa required | 30 days | Must apply in advance |
+| Chinese Citizens | Yes | Visa required | 30 days | Must apply in advance |
+[/TABLE]
+
+[SECTION] By Visitor Type [/SECTION]
+**Tourists:** Tourists can enter Tonga visa-free for up to 31 days, with the option to extend their stay up to 6 months. They must have a valid passport, proof of onward travel, and sufficient funds for their stay. **Business Travelers:** Business travelers may need to obtain a visa in advance, depending on the purpose and duration of their visit. They must provide an invitation letter from a Tongan company, proof of business activities, and other supporting documents. **Students:** Students must obtain a student visa, which requires proof of enrollment in a Tongan educational institution, a valid passport, and sufficient funds for their stay. The student visa is usually issued for the duration of the study program. **Workers:** Workers must obtain a work visa, which requires a sponsorship from a Tongan employer, a valid passport, and other supporting documents. The work visa is usually issued for a specific period, and the worker must comply with Tongan labor laws and regulations.
+
+[SECTION] Documents Checklist [/SECTION]
+1. A valid passport with at least 6 months' validity
+2. Completed visa application form (if required)
+3. Recent passport-sized photos
+4. Proof of onward travel (e.g., return ticket or travel itinerary)
+5. Proof of sufficient funds (e.g., cash, traveler's checks, or credit cards)
+6. Health insurance that covers the duration of stay
+7. Proof of accommodation (e.g., hotel reservation or letter of invitation)
+8. Police certificate (if required for certain types of visas)
+9. Medical certificate (if required for certain types of visas)
+10. Other supporting documents (e.g., birth certificate, marriage certificate, or divorce decree)
+
+[SECTION] Entry Points & Procedures [/SECTION]
+The main entry points to Tonga are Fua'amotu International Airport (TBU) and the ports of Nukualofa and Neiafu. Upon arrival, visitors must go through immigration and customs procedures, which include presenting their travel documents, completing a customs declaration form, and paying any applicable fees. Visitors must also declare any restricted or prohibited goods, such as firearms, explosives, or narcotics. The immigration officer may ask questions about the purpose of visit, accommodation, and onward travel plans.
+
+Tonga has a relatively straightforward entry process, but visitors must ensure they have all the required documents and comply with the regulations. The immigration officer may refuse entry to visitors who do not meet the requirements or pose a risk to national security or public health. In such cases, the visitor may be required to return to their country of origin or be detained for further processing.
+
+[SECTION] Common Mistakes To Avoid [/SECTION]
+- Not checking the visa requirements and regulations before traveling to Tonga
+- Not having a valid passport with at least 6 months' validity
+- Not providing sufficient proof of onward travel or accommodation
+- Not declaring restricted or prohibited goods
+- Not complying with Tongan customs and immigration regulations
+- Not having adequate health insurance that covers the duration of stay
+
+---
+
+*Evergreen reference content. Verify time-sensitive details with official sources.*

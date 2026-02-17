@@ -1,48 +1,48 @@
 {
   "version": "1.0",
-  "last_updated": "2026-02-16T05:10:59.607615",
+  "last_updated": "2026-02-17T05:04:59.522961",
   "continents": {
     "asia": {
       "entities": 52,
-      "pages_generated": 430,
-      "pages_total": 572,
+      "pages_generated": 502,
+      "pages_total": 1560,
       "status": "in_progress"
     },
     "europe": {
       "entities": 53,
-      "pages_generated": 459,
-      "pages_total": 583,
+      "pages_generated": 493,
+      "pages_total": 1590,
       "status": "in_progress"
     },
     "africa": {
       "entities": 58,
-      "pages_generated": 530,
-      "pages_total": 638,
+      "pages_generated": 588,
+      "pages_total": 1740,
       "status": "in_progress"
     },
     "north-america": {
       "entities": 41,
-      "pages_generated": 273,
-      "pages_total": 451,
+      "pages_generated": 282,
+      "pages_total": 1230,
       "status": "in_progress"
     },
     "south-america": {
       "entities": 15,
-      "pages_generated": 113,
-      "pages_total": 165,
+      "pages_generated": 122,
+      "pages_total": 450,
       "status": "in_progress"
     },
     "oceania": {
       "entities": 25,
-      "pages_generated": 149,
-      "pages_total": 275,
+      "pages_generated": 167,
+      "pages_total": 750,
       "status": "in_progress"
     }
   },
   "totals": {
     "entities_complete": 0,
     "entities_total": 244,
-    "pages_generated": 1954,
+    "pages_generated": 2154,
     "pages_estimated": 18000
   }
 }
