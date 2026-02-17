@@ -1863,12 +1863,12 @@ def build_html(entity, angle_id, title, content, breadcrumbs=None, enriched_data
         article h2 {{
             font-size: 22px;
             font-weight: 700;
-            color: #1F2937;
+            color: {colors['primary']};
             margin: 32px 0 14px;
             padding-bottom: 8px;
             border-bottom: 2px solid color-mix(in srgb, {colors['primary']} 20%, white);
         }}
-        article h3 {{ font-size: 18px; font-weight: 600; color: #374151; margin: 24px 0 10px; }}
+        article h3 {{ font-size: 18px; font-weight: 600; color: {colors['primary']}; margin: 24px 0 10px; }}
         article p {{ margin-bottom: 14px; color: #374151; }}
         article ul, article ol {{ padding-left: 24px; margin-bottom: 14px; }}
         article li {{ margin-bottom: 6px; color: #374151; }}
