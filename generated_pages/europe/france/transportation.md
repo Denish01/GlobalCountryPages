@@ -1,0 +1,66 @@
+---
+title: "Getting Around France — Transport & Travel Guide"
+entity: "France"
+iso_code: "FR"
+continent: "europe"
+angle: "transportation"
+date: "2026-02-17"
+---
+
+# Getting Around France — Transport & Travel Guide
+
+To get around in France, you can use a variety of transportation options, including trains, buses, domestic flights, and ride-hailing services, as well as drive on the country's well-maintained roads.
+
+[FACTBOX]
+Main International Airport(s): Paris Charles de Gaulle Airport (CDG), Paris Orly Airport (ORY)
+Domestic Air Network: extensive
+Rail Network: extensive
+Drives On: right
+Road Quality: good
+Ride-Hailing Apps: Uber, Bolt, local alternatives
+[/FACTBOX]
+
+[SECTION] Getting There [/SECTION]
+France is easily accessible by air, with two main international airports in Paris: Paris Charles de Gaulle Airport (CDG) and Paris Orly Airport (ORY). Both airports offer direct flights to numerous destinations around the world, including major hubs in Europe, North America, Asia, and Africa. If you prefer to travel by land, you can enter France by car or bus from its neighboring countries, including Belgium, Luxembourg, Germany, Switzerland, Italy, Monaco, Spain, and Andorra. The country has a well-developed network of highways and roads, making it convenient to drive into France from other European countries.
+
+In addition to its airports and land borders, France is also accessible by sea, with several major ports along its coastline, including the port of Le Havre, the port of Marseille, and the port of Calais. These ports receive ferries and cruise ships from the UK, Ireland, and other European countries, offering a convenient way to travel to France by sea. Furthermore, France has a comprehensive network of international bus services, including companies like Eurolines and FlixBus, which connect the country to major cities across Europe.
+
+[SECTION] Domestic Flights [/SECTION]
+France has an extensive domestic air network, with several airlines operating flights within the country. The main domestic airlines in France are **Air France**, **Transavia**, and **Hop!**, which offer flights to numerous destinations, including major cities like Paris, Lyon, Nice, and Bordeaux. You can book domestic flights online through the airlines' websites or through travel agencies, and it's recommended to book in advance to get the best prices. Approximate costs for domestic flights in France range from $50 to $200, depending on the route and time of booking.
+
+[SECTION] Trains & Rail [/SECTION]
+France has an extensive and well-developed rail network, with **SNCF** (Société Nationale des Chemins de Fer Français) being the main operator. The country is famous for its **TGV (Train à Grande Vitesse)**, a high-speed train that connects major cities like Paris, Lyon, and Marseille. The TGV network is modern, efficient, and relatively affordable, with prices starting from around $30 for a one-way ticket. You can book train tickets online through the SNCF website or at train stations, and it's recommended to book in advance to secure the best prices. Additionally, France has a comprehensive network of regional trains, which connect smaller towns and villages to major cities.
+
+[SECTION] Buses & Coaches [/SECTION]
+France has a well-developed network of intercity buses, with several companies operating across the country. The main bus companies in France are **FlixBus**, **Eurolines**, and **Ouibus**, which offer affordable and convenient travel options to numerous destinations. Bus travel in France is generally cheaper than train travel, with prices starting from around $10 for a one-way ticket. You can book bus tickets online through the companies' websites or at bus stations, and it's recommended to book in advance to secure the best prices. The quality of bus services in France is generally good, with modern and comfortable vehicles operating on most routes.
+
+[SECTION] City Transport [/SECTION]
+| Mode | Available In | Cost (USD) | Notes |
+| --- | --- | --- | --- |
+| Metro/Subway | Paris, Lyon, Marseille, Nice | $2-$3 | Efficient and comprehensive networks |
+| City Bus | Most cities | $2-$3 | Frequent services, but can be slower than metro |
+| Taxi | Everywhere | $2-$3/km | Available at taxi ranks or by booking in advance |
+| Ride-Hailing | Major cities | $10-$20 | Uber, Bolt, and local alternatives available |
+| Bike-Sharing | Paris, Lyon, Marseille | $2-$3/day | Convenient and affordable way to get around cities |
+
+[SECTION] Driving [/SECTION]
+- To drive in France, you need a valid **driver's license** from your home country or an **International Driving Permit**.
+- France has a well-maintained network of roads, with **high-speed highways** connecting major cities.
+- **Fuel costs** in France are relatively high, with prices starting from around $1.50 per liter.
+- **Car rental** companies are widely available in France, with major companies like **Europcar** and **Hertz** operating at airports and city centers.
+- When driving in France, be aware of **toll roads**, which can be expensive, and **parking restrictions**, which can be strict in city centers.
+- Additionally, be aware of **road signs** and **traffic laws**, which can be different from those in your home country.
+
+[SECTION] Transport Tips [/SECTION]
+- Always **validate your train ticket** before boarding, as fines can be imposed for unvalidated tickets.
+- Be aware of **pickpocketing** and **scams** in tourist areas, especially in major cities like Paris.
+- Download the **SNCF** app to book and manage your train tickets, and the **Citymapper** app to navigate city transport.
+- Consider purchasing a **Navigo** pass for unlimited travel on public transport in Paris.
+- Be prepared for **strikes** and **disruptions** to public transport, which can occur occasionally in France.
+- Always **carry a map** or use a **GPS device** when driving in rural areas, as signage can be limited.
+- Be aware of **road closures** and **construction**, which can cause delays and disruptions to your journey.
+- Consider **purchasing travel insurance** to cover unexpected disruptions or cancellations to your travel plans.
+
+---
+
+*Evergreen reference content. Verify time-sensitive details with official sources.*

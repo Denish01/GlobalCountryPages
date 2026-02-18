@@ -1,0 +1,66 @@
+---
+title: "South Sudan Education — Schools, Universities & Student Guide"
+entity: "South Sudan"
+iso_code: "SS"
+continent: "africa"
+angle: "education"
+date: "2026-02-17"
+---
+
+# South Sudan Education — Schools, Universities & Student Guide
+
+The education system in South Sudan is still developing and faces significant challenges, but it offers various opportunities for students to pursue their academic goals, with a growing number of universities and international schools available. 
+
+[FACTBOX]
+Literacy Rate: 40%
+School System: 8 years of compulsory education
+Language of Instruction: English
+Academic Calendar: 9 months
+International Schools: limited
+Top University Ranking: ranked among the lowest globally
+[/FACTBOX]
+
+[SECTION] Education System Overview [/SECTION]
+The education system in South Sudan is structured into three main levels: primary, secondary, and tertiary education. Primary education is compulsory and lasts for eight years, followed by four years of secondary education. Tertiary education is provided by universities and other institutions, with a focus on fields such as **agriculture**, **medicine**, and **engineering**. The quality of education in South Sudan varies significantly, with public schools often facing challenges such as limited resources and inadequate infrastructure, while private schools tend to offer better facilities and more qualified teachers.
+
+The public education system in South Sudan is free, but many students opt for private schools due to the perceived higher quality of education. However, private schools are often expensive and inaccessible to many students, particularly those from rural areas. The government has implemented various initiatives to improve the education system, including the introduction of **free primary education** and the construction of new schools. Despite these efforts, the education system in South Sudan still faces significant challenges, including a lack of qualified teachers, inadequate infrastructure, and limited resources.
+
+The education system in South Sudan is also affected by the country's **conflict** and **displacement**, which have led to the destruction of schools and the displacement of students and teachers. As a result, many students have been forced to drop out of school, and the overall quality of education has suffered. However, efforts are being made to rebuild and improve the education system, with a focus on increasing access to education, particularly for **girls** and **disadvantaged groups**.
+
+[SECTION] Top Universities [/SECTION]
+[TABLE]
+| University | Location | Known For | Est. Tuition (USD/year) |
+| --- | --- | --- | --- |
+| University of Juba | Juba | **Agriculture**, **Medicine** | 1,000 |
+| Upper Nile University | Malakal | **Engineering**, **Business** | 800 |
+| Rumbek University | Rumbek | **Education**, **Law** | 600 |
+| Catholic University of South Sudan | Juba | **Theology**, **Social Sciences** | 1,200 |
+| Dr. John Garang Memorial University of Science and Technology | Bor | **Science**, **Technology** | 1,000 |
+| University of Bahr El Ghazal | Wau | **Agriculture**, **Veterinary Medicine** | 800 |
+[/TABLE]
+
+[SECTION] International Schools [/SECTION]
+- International schools in South Sudan are limited, but they offer a range of curricula, including **International Baccalaureate (IB)**, **British**, and **American** programs.
+- The **Juba International School** is one of the most well-known international schools in the country, offering a **British** curriculum to students from nursery to secondary level.
+- The **American International School of Juba** offers an **American** curriculum to students from kindergarten to grade 12.
+- International schools in South Sudan are often expensive, with tuition fees ranging from $5,000 to $15,000 per year.
+- These schools are usually located in major cities such as Juba and Wau, and they cater to the children of **expatriates** and **diplomats**.
+
+[SECTION] Studying as a Foreigner [/SECTION]
+- To study in South Sudan, foreign students need to obtain a **student visa**, which can be obtained from the South Sudanese embassy or consulate in their home country.
+- Foreign students are required to have a good command of **English**, which is the language of instruction in most universities.
+- There are limited **scholarships** available for foreign students, but some universities offer financial assistance to international students.
+- The cost of living in South Sudan is relatively high, with **accommodation** and **food** being the main expenses for students.
+- Foreign students are advised to take necessary **precautions** to ensure their safety, particularly in areas affected by **conflict** and **crime**.
+- The **Ministry of Education** provides information and guidance to foreign students on the admission process and requirements for studying in South Sudan.
+
+[SECTION] Education Quality & Challenges [/SECTION]
+- One of the major challenges facing the education system in South Sudan is the lack of **qualified teachers**, particularly in rural areas.
+- The education system is also affected by **poor infrastructure**, including inadequate school buildings, limited resources, and lack of **technology**.
+- **Conflict** and **displacement** have had a significant impact on the education system, with many schools being destroyed or closed due to **fighting**.
+- The government has implemented various **reforms** to improve the education system, including the introduction of **free primary education** and the construction of new schools.
+- Despite these efforts, the education system in South Sudan still faces significant challenges, including **corruption**, **inequality**, and **limited access** to education, particularly for **girls** and **disadvantaged groups**.
+
+---
+
+*Evergreen reference content. Verify time-sensitive details with official sources.*

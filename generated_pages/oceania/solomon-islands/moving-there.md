@@ -1,0 +1,71 @@
+---
+title: "Moving to Solomon Islands — Visas, Residency & Expat Guide"
+entity: "Solomon Islands"
+iso_code: "SB"
+continent: "oceania"
+angle: "moving-there"
+date: "2026-02-17"
+---
+
+# Moving to Solomon Islands — Visas, Residency & Expat Guide
+
+To move to the Solomon Islands, you should start by researching the country's visa options, relocation process, and expat community, as well as preparing for the unique challenges and opportunities that this Pacific island nation has to offer.
+
+[SECTION] Why People Move to Solomon Islands [/SECTION]
+The Solomon Islands is a hidden gem for expats, offering a unique blend of traditional Pacific Island culture and modern amenities. Many people are drawn to the country's stunning natural beauty, with its crystal-clear waters, coral reefs, and lush rainforests. The islands also offer a relatively low cost of living and a relaxed, tropical lifestyle, making it an attractive destination for retirees, digital nomads, and families. Expats in the Solomon Islands are a diverse group, with many coming from Australia, New Zealand, and other Pacific Island nations, as well as from Europe and North America. The quality of life in the Solomon Islands is generally good, with modern amenities and services available in the capital city of Honiara, although the pace of life can be slower and more relaxed than in larger cities.
+
+The Solomon Islands also offers a range of opportunities for outdoor enthusiasts, with activities such as diving, snorkeling, and fishing available in the surrounding waters. The islands are also home to a number of traditional villages and communities, offering a unique glimpse into Pacific Island culture and history. Despite its many attractions, the Solomon Islands is still a relatively off-the-beaten-path destination, and expats who move there can expect to experience a unique and rewarding cultural immersion.
+
+Overall, the Solomon Islands is a great destination for expats who are looking for a relaxed, tropical lifestyle and a chance to experience a unique and traditional Pacific Island culture. With its stunning natural beauty, modern amenities, and welcoming communities, the Solomon Islands is an attractive destination for anyone looking to relocate to the Pacific.
+
+[SECTION] Visa & Residency Options [/SECTION]
+[TABLE]
+| Visa Type | Duration | Requirements | Cost (USD) | Path to PR? |
+| --- | --- | --- | --- | --- |
+| Tourist | Up to 3 months | Valid passport, proof of onward travel | $50 | No |
+| Work Visa | Up to 2 years | Job offer, qualifications, medical certificate | $200 | Yes |
+| Business/Investor | Up to 2 years | Business plan, investment capital, police clearance | $500 | Yes |
+| Retirement | Up to 5 years | Proof of income, medical certificate, police clearance | $100 | No |
+| Student | Up to 2 years | Acceptance letter, proof of funds, medical certificate | $50 | No |
+| Digital Nomad | Up to 1 year | Proof of income, medical certificate, police clearance | $100 | No |
+[/TABLE]
+
+[SECTION] Relocation Checklist [/SECTION]
+1. Research the Solomon Islands and its culture to prepare for your move
+2. Determine which type of visa is required for your stay and gather the necessary documents
+3. Find a place to live, either by renting a house or apartment or by purchasing a property
+4. Arrange for transportation to the Solomon Islands, either by flying into Honiara or by taking a boat from a neighboring country
+5. Open a bank account and transfer your money to the Solomon Islands
+6. Arrange for health insurance and any necessary medical vaccinations
+7. Register with the local authorities and obtain any necessary permits or licenses
+8. Find a job or start a business, if applicable
+9. Connect with the expat community and join local social groups
+10. Learn about the local customs and traditions to avoid unintended offense
+11. Plan for emergencies, such as natural disasters or medical evacuations
+12. Stay up-to-date with the latest news and developments in the Solomon Islands
+
+[SECTION] Expat Communities [/SECTION]
+- The majority of expats in the Solomon Islands live in the capital city of Honiara, where there are a number of social groups and clubs
+- The Solomon Islands Expats Facebook group is a great place to connect with other expats and get advice and information about living in the country
+- The Honiara Yacht Club is a popular spot for expats to socialize and meet new people
+- The Solomon Islands Hash House Harriers is a social running group that meets regularly and welcomes new members
+- The Australian and New Zealand high commissions also offer support and resources for expats from these countries
+
+[SECTION] Banking & Finances [/SECTION]
+- Opening a bank account in the Solomon Islands can be a relatively straightforward process, with a number of banks offering services to expats
+- The Solomon Islands dollar is the local currency, although Australian dollars and other major currencies are also widely accepted
+- Credit cards and ATMs are available in Honiara, although cash is still the preferred method of payment in many places
+- Money transfers can be arranged through banks or money transfer services, although fees can be high
+- It is also possible to use online banking and financial services, although internet connectivity can be limited in some areas
+
+[SECTION] Challenges & Honest Advice [/SECTION]
+- **Culture shock** can be a significant challenge for expats in the Solomon Islands, particularly in rural areas where traditional customs and practices are still prevalent
+- The **bureaucracy** in the Solomon Islands can be slow and frustrating, particularly when dealing with government agencies or official paperwork
+- **Language barriers** can also be a challenge, particularly outside of Honiara where English may not be widely spoken
+- The **heat and humidity** can be intense, particularly during the summer months
+- **Internet connectivity** can be limited, particularly in rural areas
+- **Malaria and other diseases** are also a risk in the Solomon Islands, and expats should take necessary precautions to protect themselves. [CALLOUT] It is essential to research and understand these challenges before making the decision to move to the Solomon Islands. [RATING] Overall, the Solomon Islands is a great destination for expats who are looking for a relaxed, tropical lifestyle and a chance to experience a unique and traditional Pacific Island culture, and we would rate it 4/5.
+
+---
+
+*Evergreen reference content. Verify time-sensitive details with official sources.*

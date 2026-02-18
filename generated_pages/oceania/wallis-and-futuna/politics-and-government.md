@@ -1,0 +1,74 @@
+---
+title: "Wallis and Futuna Politics & Government — System, Leaders & Stability"
+entity: "Wallis and Futuna"
+iso_code: "WF"
+continent: "oceania"
+angle: "politics-and-government"
+date: "2026-02-17"
+---
+
+# Wallis and Futuna Politics & Government — System, Leaders & Stability
+
+Wallis and Futuna is governed as an overseas collectivity of France, with a political system that combines elements of French and local traditions. 
+
+[FACTBOX]
+Government Type: Overseas collectivity
+Head of State: President of France, currently Emmanuel Macron
+Head of Government: Administrator Superior, currently Thierry Queffelec
+Legislature: Territorial Assembly, unicameral with 20 seats
+Legal System: Civil law
+Political Stability Index: 1.5/5, reflecting the territory's dependence on France and limited autonomy
+Corruption Index: 72/100, ranking 21st globally according to Transparency International
+[/FACTBOX]
+
+[SECTION] Political System [/SECTION]
+The political system of Wallis and Futuna is based on the principles of **democracy** and **decentralization**, with the territory having a degree of autonomy in managing its internal affairs. The **separation of powers** is ensured by the existence of the executive, legislative, and judicial branches, although the French government retains significant authority over the territory. The government of Wallis and Futuna is headed by the Administrator Superior, who is appointed by the French government and is responsible for representing the French state in the territory. The Territorial Assembly, composed of 20 members elected by universal suffrage, has the power to pass laws on matters such as **education**, **health**, and **infrastructure**.
+
+The political system of Wallis and Futuna is also characterized by a strong sense of **traditional leadership**, with the **kings** of the three traditional kingdoms of Wallis, Sigave, and Alo playing an important role in the territory's social and cultural life. These traditional leaders are recognized by the French government and are involved in the decision-making process, particularly on matters related to **customary law** and **land ownership**. The territory's **unitary system** of government means that there is a single level of government, with the Territorial Assembly and the Administrator Superior responsible for making decisions on behalf of the territory.
+
+The political system of Wallis and Futuna is designed to balance the territory's autonomy with its dependence on France, and to ensure that the territory's **cultural identity** is preserved. The system is based on the principles of **participation** and **consultation**, with the Territorial Assembly and the Administrator Superior working together to make decisions that reflect the interests of the territory and its people. The territory's political system is also subject to the **French Constitution**, which guarantees the rights and freedoms of the territory's citizens.
+
+[SECTION] Government Structure [/SECTION]
+[TABLE]
+| Branch | Institution | Head/Leader | Role |
+| --- | --- | --- | --- |
+| Executive | Administrator Superior | Thierry Queffelec | Head of government, represents the French state |
+| Legislative | Territorial Assembly | Nivaleta Iloai | Unicameral legislature, passes laws on internal matters |
+| Judicial | Court of Appeal | President of the Court of Appeal | Ensures the application of French and local law |
+[/TABLE]
+
+[SECTION] Major Political Parties [/SECTION]
+[TABLE]
+| Party | Position | Leader | Seats | Notes |
+| --- | --- | --- | --- | --- |
+| Union pour la Démocratie Française | Center-right | Nivaleta Iloai | 10 | Supports closer ties with France |
+| Rassemblement pour la République | Center-right | Mikaele Kulimoetoke | 6 | Emphasizes the importance of traditional leadership |
+| Front National | Far-right | None | 2 | Advocates for greater autonomy from France |
+| Divers gauche | Left-wing | None | 1 | Favors increased social spending and environmental protection |
+| Divers droite | Right-wing | None | 1 | Supports economic liberalization and reduced government intervention |
+[/TABLE]
+
+[SECTION] Elections [/SECTION]
+- The electoral system of Wallis and Futuna is based on **universal suffrage**, with all citizens over the age of 18 having the right to vote.
+- Elections to the Territorial Assembly are held every five years, with the most recent election taking place in 2020.
+- The **voter participation** rate is generally high, with over 80% of eligible voters casting their ballots in the last election.
+- The next election is scheduled to take place in 2025, although the exact date has not been announced.
+
+[SECTION] Political Stability & Challenges [/SECTION]
+- The current **political climate** in Wallis and Futuna is relatively stable, with the territory benefiting from its close relationship with France.
+- However, the territory faces **key issues** such as high levels of **unemployment** and **poverty**, which can create social and economic tensions.
+- The territory is also vulnerable to **regional dynamics**, including the impact of **climate change** on its fragile ecosystem.
+- The **freedom indices** of Wallis and Futuna are generally positive, with the territory scoring well on measures such as **press freedom** and **human rights**.
+- However, the territory's **corruption index** is a concern, with the territory ranking 21st globally according to Transparency International.
+- The territory's **dependence on France** can also create tensions, particularly in relation to issues such as **fishing rights** and **economic development**.
+
+[SECTION] Foreign Relations [/SECTION]
+- Wallis and Futuna is a member of several **international organizations**, including the **United Nations** and the **Pacific Community**.
+- The territory has a **diplomatic stance** that is closely aligned with that of France, although it also maintains its own relationships with other Pacific island nations.
+- The territory is a signatory to several **regional agreements**, including the **Pacific Islands Forum** and the **South Pacific Regional Environment Programme**.
+- The territory's **key alliances** are with France and other Pacific island nations, although it also has relationships with other countries such as **Australia** and **New Zealand**.
+- The territory's **foreign policy** is focused on promoting its own interests and **cultural identity**, while also contributing to regional stability and cooperation.
+
+---
+
+*Evergreen reference content. Verify time-sensitive details with official sources.*

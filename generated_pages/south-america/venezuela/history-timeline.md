@@ -1,0 +1,76 @@
+---
+title: "Venezuela History — Key Events & Timeline"
+entity: "Venezuela"
+iso_code: "VE"
+continent: "south-america"
+angle: "history-timeline"
+date: "2026-02-17"
+---
+
+# Venezuela History — Key Events & Timeline
+
+The history of Venezuela is a complex and multifaceted narrative that spans over a thousand years, from the earliest known indigenous cultures to the modern era of independence and political upheaval.
+
+[SECTION] Historical Overview [/SECTION]
+Venezuela's history began with the arrival of indigenous peoples, including the **Timoto-Cuica** and **Caquetío** tribes, who inhabited the region for thousands of years before the arrival of European colonizers. The pre-colonial era was marked by the development of complex societies, with trade networks and agricultural systems. In 1498, **Christopher Columbus** arrived on the coast of Venezuela, and the region became a Spanish colony. The colonial period was marked by the exploitation of native peoples, the introduction of African slaves, and the establishment of a **Catholic** hierarchy. As the Spanish Empire declined, Venezuelan nationalists began to push for independence, and in 1821, the country declared its independence from Spain.
+
+The 19th century was marked by a series of civil wars, foreign interventions, and authoritarian regimes. The country's economy was largely based on **agriculture**, with coffee, cocoa, and sugar being major exports. In the early 20th century, Venezuela discovered **oil**, which became a major driver of the country's economy. The oil boom brought rapid modernization and urbanization, but also led to increased inequality and corruption. In the mid-20th century, Venezuela experienced a period of democratic stability, with the election of **Rómulo Betancourt** as president. However, the country's politics have been marked by instability and authoritarianism, with the rise of **Hugo Chávez** and the **Bolivarian Revolution** in the late 20th century.
+
+The modern era has seen significant challenges for Venezuela, including economic crisis, hyperinflation, and a massive migration of citizens to other countries. The country's politics have been marked by controversy and polarization, with the opposition and the government engaging in a series of conflicts and power struggles. Despite these challenges, Venezuela remains a country with a rich cultural heritage and a strong sense of national identity. The country's history has been shaped by its indigenous, African, and European roots, and its people continue to struggle for a more just and equitable society.
+
+Venezuela's history is also marked by its complex relationships with its neighbors, including **Colombia**, **Brazil**, and **Guyana**. The country has been involved in a series of border disputes and territorial claims, and has also played a key role in regional organizations such as the **Organization of American States**. Today, Venezuela continues to navigate its place in the world, seeking to balance its relationships with other countries while also addressing its internal challenges and conflicts.
+
+[SECTION] Timeline of Key Events [/SECTION]
+1. **1000 BC** - The **Timoto-Cuica** and **Caquetío** tribes establish themselves in the region, developing complex societies and trade networks.
+2. **1498** - **Christopher Columbus** arrives on the coast of Venezuela, marking the beginning of European colonization.
+3. **1522** - The Spanish establish the first permanent settlement in Venezuela, at **Cumaná**.
+4. **1810** - The Venezuelan War of Independence begins, with **Simón Bolívar** playing a key role in the struggle for independence.
+5. **1821** - Venezuela declares its independence from Spain, with **Simón Bolívar** as its first president.
+6. **1830** - The **Gran Colombia** dissolves, and Venezuela becomes an independent country.
+7. **1870** - The **Federal War** breaks out, a civil war that lasts for three years and results in the death of thousands of people.
+8. **1908** - The **Venezuelan oil industry** is established, with the discovery of oil in the **Maracaibo Basin**.
+9. **1945** - The **Democratic Action** party is founded, and **Rómulo Betancourt** becomes a key figure in Venezuelan politics.
+10. **1959** - **Rómulo Betancourt** is elected president, marking the beginning of a period of democratic stability in Venezuela.
+11. **1976** - The **Venezuelan economy** begins to experience significant growth, driven by the oil industry.
+12. **1989** - The **Caracazo** riots break out, a wave of protests and violence that results in the death of hundreds of people.
+13. **1992** - **Hugo Chávez** leads a failed coup attempt against the government of **Carlos Andrés Pérez**.
+14. **1998** - **Hugo Chávez** is elected president, marking the beginning of the **Bolivarian Revolution**.
+15. **2013** - **Hugo Chávez** dies, and **Nicolás Maduro** becomes president, leading to a period of increased authoritarianism and economic crisis.
+16. **2017** - The **Venezuelan constitutional crisis** breaks out, with the opposition and the government engaging in a series of conflicts and power struggles.
+17. **2018** - The **Venezuelan presidential election** is held, with **Nicolás Maduro** winning a second term as president.
+18. **2019** - The **Venezuelan presidential crisis** breaks out, with the opposition and the government engaging in a series of conflicts and power struggles.
+19. **2020** - The **COVID-19 pandemic** hits Venezuela, exacerbating the country's economic and humanitarian crisis.
+20. **2022** - The **Venezuelan government** and opposition engage in a series of talks, seeking to find a solution to the country's political and economic crisis.
+
+[SECTION] Founding & Formation [/SECTION]
+Venezuela became an independent country in 1821, after a long and bloody struggle for independence. The country's founding fathers, including **Simón Bolívar** and **José Antonio Páez**, played a key role in shaping the country's early years. The **Gran Colombia**, a short-lived republic that included present-day Venezuela, Colombia, and Ecuador, was established in 1819, but it dissolved in 1830, and Venezuela became an independent country. The country's early years were marked by a series of civil wars and power struggles, but it eventually established a stable government and began to develop its economy.
+
+The country's formation was also shaped by its geography and natural resources. Venezuela is a country with a diverse geography, including **mountains**, **plains**, and **coastal regions**. The country is also rich in natural resources, including **oil**, **gas**, and **minerals**. The country's economy has been driven by the export of these resources, and its politics have been shaped by the struggles for control of these resources. Today, Venezuela continues to navigate its complex history and geography, seeking to build a more just and equitable society.
+
+[SECTION] Colonial & Independence Period [/SECTION]
+The colonial period in Venezuela was marked by the exploitation of native peoples and the introduction of African slaves. The Spanish established a series of **missions** and **colonies** in the region, and the country became a major producer of **cacao**, **coffee**, and **tobacco**. The **Catholic Church** played a key role in the colonial period, and the country's culture was shaped by its **indigenous**, **African**, and **European** roots. As the Spanish Empire declined, Venezuelan nationalists began to push for independence, and in 1810, the **Venezuelan War of Independence** broke out.
+
+The independence movement was led by a series of key figures, including **Simón Bolívar**, **José Antonio Páez**, and **Francisco de Miranda**. The war was marked by a series of battles and sieges, and it lasted for over a decade. In 1821, Venezuela declared its independence from Spain, and **Simón Bolívar** became the country's first president. The country's early years were marked by a series of power struggles and civil wars, but it eventually established a stable government and began to develop its economy. The colonial and independence periods had a lasting impact on Venezuela, shaping its culture, politics, and economy.
+
+The colonial period also had a profound impact on the country's **demography** and **economy**. The introduction of African slaves and the exploitation of native peoples led to a significant shift in the country's population, and the country's economy was shaped by the export of natural resources. The **encomienda system**, which allowed Spanish colonizers to exploit native labor, was established in the region, and it had a lasting impact on the country's social and economic structures. Today, Venezuela continues to grapple with the legacy of the colonial period, seeking to build a more just and equitable society.
+
+[SECTION] Modern Era [/SECTION]
+The modern era in Venezuela has been marked by significant challenges and changes. The country's economy has been driven by the export of **oil**, and it has experienced rapid modernization and urbanization. However, the country has also faced significant challenges, including **inequality**, **corruption**, and **authoritarianism**. The **Bolivarian Revolution**, led by **Hugo Chávez**, has had a profound impact on the country, shaping its politics, economy, and culture. The country has also experienced a series of **economic crises**, including **hyperinflation** and **food shortages**, and it has been marked by significant **humanitarian** challenges.
+
+The modern era has also seen significant changes in the country's **politics** and **society**. The **Bolivarian Revolution** has led to a significant shift in the country's politics, with the establishment of a **socialist** government and the promotion of **participatory democracy**. The country has also experienced a series of **social movements**, including the **student movement** and the **labor movement**, which have played a key role in shaping the country's politics and society. Today, Venezuela continues to navigate its complex history and geography, seeking to build a more just and equitable society.
+
+The country's modern era has also been shaped by its **relationships** with other countries. Venezuela has played a key role in regional organizations such as the **Organization of American States** and the **Bolivarian Alliance for the Peoples of Our America**, and it has sought to promote **regional integration** and **cooperation**. The country has also experienced a series of **conflicts** with its neighbors, including **Colombia** and **Guyana**, and it has sought to promote **peace** and **stability** in the region.
+
+[SECTION] Historical Figures [/SECTION]
+[TABLE]
+| Name | Period | Role | Significance |
+| --- | --- | --- | --- |
+| Simón Bolívar | 1783-1830 | Military leader, president | Led the Venezuelan War of Independence, established the Gran Colombia |
+| José Antonio Páez | 1790-1873 | Military leader, president | Played a key role in the Venezuelan War of Independence, served as president of Venezuela |
+| Rómulo Betancourt | 1908-1981 | Politician, president | Served as president of Venezuela, played a key role in the country's democratic transition |
+| Hugo Chávez | 1954-2013 | Politician, president | Led the Bolivarian Revolution, served as president of Venezuela |
+| Nicolás Maduro | 1962-present
+
+---
+
+*Evergreen reference content. Verify time-sensitive details with official sources.*

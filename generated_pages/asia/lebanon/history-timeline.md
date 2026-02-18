@@ -1,0 +1,69 @@
+---
+title: "Lebanon History — Key Events & Timeline"
+entity: "Lebanon"
+iso_code: "LB"
+continent: "asia"
+angle: "history-timeline"
+date: "2026-02-17"
+---
+
+# Lebanon History — Key Events & Timeline
+
+The history of Lebanon is a complex and multifaceted narrative that spans thousands of years, from the earliest known civilizations to the modern era, marked by various periods of colonialism, independence, and conflict. 
+
+[SECTION] Historical Overview [/SECTION]
+Lebanon's history dates back to the **Neolithic period**, around 8000 BC, with the discovery of ancient settlements and archaeological sites such as Byblos and Sidon. The region was later inhabited by the **Phoenicians**, a seafaring people who established a powerful civilization and played a significant role in the development of the **alphabet** and **navigation**. The Phoenicians were followed by various conquerors, including the **Assyrians**, **Persians**, and **Romans**, each leaving their mark on the region's culture and architecture. In the 7th century AD, Lebanon was conquered by the **Arabs**, who introduced **Islam** and the **Arabic language**, which would eventually become the dominant language and religion in the region.
+
+The **Ottoman Empire** took control of Lebanon in the 16th century and ruled the region for nearly 400 years, during which time the **Maronite Christians** and **Druze** communities developed and flourished. The Ottoman period was marked by a decline in Lebanon's economic and cultural significance, but the region remained an important center of trade and commerce. In the late 19th and early 20th centuries, Lebanon underwent a period of **nationalism** and **modernization**, with the emergence of various intellectual and political movements that sought to promote Lebanese identity and independence.
+
+The **French mandate** period, which lasted from 1920 to 1946, had a profound impact on Lebanon's development, with the French introducing **Western-style education** and **infrastructure**. However, the period was also marked by **sectarian tensions** and **political instability**, which would continue to plague the country in the years to come. Lebanon gained independence in 1946, but the country's early years were marked by **power struggles** and **conflict**, including the **Civil War** of 1958 and the **Palestinian refugee crisis**.
+
+In recent years, Lebanon has faced numerous challenges, including **economic crisis**, **political instability**, and **regional conflict**, but the country remains a significant cultural and economic hub in the Middle East. Despite its complex and often tumultuous history, Lebanon has managed to maintain a unique and diverse cultural identity, with a strong emphasis on **education**, **arts**, and **hospitality**.
+
+[SECTION] Timeline of Key Events [/SECTION]
+1. **3000 BC** - The Phoenicians establish a powerful civilization in Lebanon, known for their advanced navigation and trade skills. The Phoenicians play a significant role in the development of the alphabet and the spread of literacy throughout the region.
+2. **634 AD** - The Arabs conquer Lebanon, introducing Islam and the Arabic language, which would eventually become the dominant language and religion in the region.
+3. **1516** - The Ottoman Empire takes control of Lebanon, ruling the region for nearly 400 years and leaving a lasting impact on the country's culture and architecture.
+4. **1860** - The Maronite Christians and Druze communities clash in a series of violent conflicts, marking the beginning of a long period of sectarian tensions in Lebanon.
+5. **1920** - The French mandate period begins, with the French introducing Western-style education and infrastructure, but also exacerbating sectarian tensions and political instability.
+6. **1943** - Lebanon gains independence from France, with the country's first president, **Bechara El-Khoury**, playing a key role in the country's early development.
+7. **1948** - The Palestinian refugee crisis begins, with hundreds of thousands of Palestinians fleeing to Lebanon after the establishment of the State of Israel.
+8. **1958** - The Civil War breaks out in Lebanon, with the country's various sectarian groups clashing in a series of violent conflicts.
+9. **1975** - The Lebanese Civil War begins, pitting the country's Christian and Muslim communities against each other in a brutal and devastating conflict.
+10. **1982** - Israel invades Lebanon, leading to a prolonged occupation and a significant escalation of the conflict.
+11. **1989** - The **Taif Agreement** is signed, marking the beginning of a long process of reconciliation and reconstruction in Lebanon.
+12. **1990** - The Lebanese Civil War officially comes to an end, with the country beginning a slow and difficult process of rebuilding and recovery.
+13. **2005** - The **Cedar Revolution** takes place, with hundreds of thousands of Lebanese protesting against Syrian occupation and demanding greater freedom and democracy.
+14. **2006** - The **July War** breaks out, with Israel launching a military campaign against Hezbollah in southern Lebanon.
+15. **2011** - The **Syrian Civil War** begins, with Lebanon playing a significant role in the conflict and facing numerous challenges, including a massive influx of refugees and a significant escalation of sectarian tensions.
+
+[SECTION] Founding & Formation [/SECTION]
+Lebanon's modern state was formed in 1920, when the French established the **State of Greater Lebanon**, which included the current territory of Lebanon, as well as parts of modern-day Syria. The country's founding was marked by a complex and often contentious process, with various sectarian groups vying for power and influence. The **Maronite Christians** played a significant role in the country's early development, with the community's leader, **Bechara El-Khoury**, serving as the country's first president.
+
+The **National Pact** of 1943, which established the principles of **sectarian power-sharing** and **confessionalism**, played a significant role in shaping Lebanon's modern identity and politics. The pact, which was negotiated by the country's various sectarian leaders, established a system of government in which different communities would be represented in proportion to their numbers, with the **Maronite Christians** holding the presidency, the **Sunni Muslims** holding the premiership, and the **Shiite Muslims** holding the speakership of parliament.
+
+[SECTION] Colonial & Independence Period [/SECTION]
+Lebanon's colonial history began in the 16th century, when the **Ottoman Empire** took control of the region. The Ottoman period was marked by a decline in Lebanon's economic and cultural significance, but the region remained an important center of trade and commerce. In the late 19th and early 20th centuries, Lebanon underwent a period of **nationalism** and **modernization**, with the emergence of various intellectual and political movements that sought to promote Lebanese identity and independence.
+
+The **French mandate** period, which lasted from 1920 to 1946, had a profound impact on Lebanon's development, with the French introducing **Western-style education** and **infrastructure**. However, the period was also marked by **sectarian tensions** and **political instability**, which would continue to plague the country in the years to come. Lebanon gained independence in 1946, with the country's first president, **Bechara El-Khoury**, playing a key role in the country's early development.
+
+[SECTION] Modern Era [/SECTION]
+In the decades following independence, Lebanon experienced a period of rapid **economic growth** and **modernization**, with the country becoming a major center of **finance** and **commerce** in the Middle East. However, the country's development was also marked by **sectarian tensions** and **political instability**, which would eventually lead to the outbreak of the **Lebanese Civil War** in 1975. The war, which lasted for 15 years and caused widespread destruction and loss of life, had a profound impact on Lebanon's development and identity.
+
+In recent years, Lebanon has faced numerous challenges, including **economic crisis**, **political instability**, and **regional conflict**, but the country remains a significant cultural and economic hub in the Middle East. Despite its complex and often tumultuous history, Lebanon has managed to maintain a unique and diverse cultural identity, with a strong emphasis on **education**, **arts**, and **hospitality**. The country continues to play an important role in regional and international affairs, with its strategic location and **diverse economy** making it an important partner for countries around the world.
+
+[SECTION] Historical Figures [/SECTION]
+[TABLE]
+| Name | Period | Role | Significance |
+| --- | --- | --- | --- |
+| Bechara El-Khoury | 1943-1952 | President | First president of Lebanon, played a key role in the country's early development |
+| Camille Chamoun | 1952-1958 | President | Played a significant role in the country's modernization and development, but also faced criticism for his handling of the 1958 Civil War |
+| Fuad Chehab | 1958-1964 | President | Introduced a number of significant reforms, including the establishment of a new constitution and the promotion of economic development |
+| Pierre Gemayel | 1936-1984 | Politician | Founder of the **Kataeb Party**, played a significant role in the country's politics and development |
+| Rafic Hariri | 1992-2004 | Prime Minister | Played a key role in the country's post-war reconstruction and development, but was assassinated in 2005 |
+| Hassan Nasrallah | 1992-present | Leader of Hezbollah | Has played a significant role in the country's politics and development, particularly in the areas of **security** and **foreign policy** |
+| Walid Jumblatt | 1977-present | Politician | Leader of the **Progressive Socialist Party**, has played a significant role in the country's politics and development, particularly in the areas of **sectarian relations** and **regional affairs** |
+
+---
+
+*Evergreen reference content. Verify time-sensitive details with official sources.*

@@ -1,0 +1,65 @@
+---
+title: "Getting Around Cameroon — Transport & Travel Guide"
+entity: "Cameroon"
+iso_code: "CM"
+continent: "africa"
+angle: "transportation"
+date: "2026-02-17"
+---
+
+# Getting Around Cameroon — Transport & Travel Guide
+
+To get around in Cameroon, you can use a combination of domestic flights, trains, buses, and city transport options, including taxis and ride-hailing services, although the quality and availability of these options can vary greatly depending on the region and city.
+
+[FACTBOX]
+Main International Airport(s): Douala International Airport (DLA), Yaounde Nsimalen International Airport (NSI)
+Domestic Air Network: limited
+Rail Network: limited
+Drives On: right
+Road Quality: poor
+Ride-Hailing Apps: local alternatives such as Easy Taxi, Allo Taxi
+[/FACTBOX]
+
+[SECTION] Getting There [/SECTION]
+Cameroon has two main international airports, Douala International Airport and Yaounde Nsimalen International Airport, which receive flights from major airlines in Europe, Africa, and the Middle East. Direct flights to Cameroon are available from hubs such as Paris, Brussels, and Istanbul, while overland entry points are available from neighboring countries such as Nigeria, Chad, and the Central African Republic. Travelers can also enter Cameroon by sea, with the port city of Douala being a major entry point for cargo and passenger ships.
+
+The main border crossings are well-connected to the capital city Yaounde and the economic hub of Douala, with buses and taxis readily available to transport passengers to their final destinations. However, overland travel can be challenging due to poor road conditions and the risk of banditry and kidnapping in certain areas. It is essential to research and plan carefully before embarking on any overland journey in Cameroon.
+
+[SECTION] Domestic Flights [/SECTION]
+Domestic flights in Cameroon are limited, with only a few airlines operating within the country. **Camair-Co** is the national carrier, offering flights between Yaounde, Douala, and other major cities such as Bamenda and Garoua. Booking domestic flights can be done online or through local travel agencies, and prices vary depending on the route and time of year. A one-way ticket from Yaounde to Douala can cost around $100-$200, while a ticket from Yaounde to Bamenda can cost around $150-$300. It is recommended to book in advance to secure the best prices and availability.
+
+[SECTION] Trains & Rail [/SECTION]
+Cameroon's rail network is limited, with only a few routes available, including the main line from Yaounde to Douala and the branch line from Yaounde to Ngaoundere. The rail network is operated by **Camrail**, a state-owned company, and the quality of the trains and tracks is generally poor. There are no high-speed options available, and journeys can be slow and uncomfortable. Booking train tickets can be done at the train station or through local travel agencies, and prices vary depending on the route and class of service. A one-way ticket from Yaounde to Douala can cost around $10-$20 in second class, while a ticket in first class can cost around $20-$50.
+
+[SECTION] Buses & Coaches [/SECTION]
+Bus travel is a popular mode of transportation in Cameroon, with many companies operating intercity routes. **Union des Transporteurs du Cameroun (UTC)** is one of the main bus companies, offering services between major cities such as Yaounde, Douala, and Bamenda. The quality of the buses and roads varies greatly, and journeys can be slow and uncomfortable. Prices are generally affordable, with a one-way ticket from Yaounde to Douala costing around $10-$20. It is recommended to book in advance to secure the best prices and availability, and to research the bus company and route before traveling.
+
+[SECTION] City Transport [/SECTION]
+| Mode | Available In | Cost (USD) | Notes |
+| --- | --- | --- | --- |
+| City Bus | Yaounde, Douala | $0.50-$1.00 | Limited routes and frequencies |
+| Taxi | Everywhere | $5-$10/km | Metered taxis available in major cities |
+| Ride-Hailing | Douala, Yaounde | $5-$10 | Local alternatives such as Easy Taxi, Allo Taxi |
+| Tuk-tuk/Rickshaw | Some cities | $1-$2 | Limited availability and safety concerns |
+
+[SECTION] Driving [/SECTION]
+- A valid driver's license is required to drive in Cameroon, and international driver's licenses are accepted.
+- Road conditions in Cameroon are generally poor, with many roads being unpaved and poorly maintained.
+- Fuel costs are relatively high, with gasoline prices averaging around $1.50 per liter.
+- Car rental companies are available in major cities such as Yaounde and Douala, but prices are generally high and the quality of the vehicles can vary.
+- Driving in Cameroon can be hazardous, with many pedestrians, cyclists, and animals on the roads, and a high risk of accidents and banditry.
+- It is recommended to drive during the day and to avoid traveling at night, especially in rural areas.
+
+[SECTION] Transport Tips [/SECTION]
+- Research and plan carefully before embarking on any journey in Cameroon, especially overland travel.
+- Be aware of the risk of scams and banditry, especially in rural areas and at border crossings.
+- Use reputable taxi and bus companies, and always agree on the price before starting the journey.
+- Download local ride-hailing apps such as Easy Taxi and Allo Taxi to book taxis and cars.
+- Keep valuables secure and out of sight, especially in crowded areas and public transport.
+- Learn some basic French and English phrases to communicate with locals and transport providers.
+- Be prepared for delays and cancellations, especially during the rainy season or due to mechanical issues.
+- Consider hiring a local guide or driver for longer journeys or to explore rural areas.
+
+---
+
+*Evergreen reference content. Verify time-sensitive details with official sources.*

@@ -1,0 +1,80 @@
+---
+title: "Yemen Healthcare — Hospitals, Insurance & Medical Guide"
+entity: "Yemen"
+iso_code: "YE"
+continent: "asia"
+angle: "healthcare"
+date: "2026-02-17"
+---
+
+# Yemen Healthcare — Hospitals, Insurance & Medical Guide
+
+Healthcare in Yemen is a complex and challenging system, with a mixed model that includes both public and private providers, but faces significant difficulties due to the ongoing conflict and economic crisis.
+
+[FACTBOX]
+Healthcare System: Mixed
+Quality Rating: 2/5
+Emergency Number: 199
+Hospital Standard: Basic
+Insurance Required: recommended
+Pharmacy Access: limited
+[/FACTBOX]
+
+[SECTION] Healthcare Overview [/SECTION]
+The healthcare system in Yemen is structured around a mix of public and private providers, with the Ministry of Public Health and Population overseeing the public sector. However, the system faces significant challenges, including a shortage of trained healthcare professionals, limited resources, and inadequate infrastructure. The quality of care varies significantly between urban and rural areas, with urban areas generally having better access to healthcare services. In rural areas, healthcare facilities are often basic and lack essential equipment and supplies. The public sector provides healthcare services to the majority of the population, but the quality of care is often compromised due to the lack of resources and infrastructure.
+
+The private sector, on the other hand, offers higher-quality healthcare services, but is often unaffordable for the majority of the population. Many private hospitals and clinics are located in urban areas, and offer a range of specialized services, including cardiology, oncology, and orthopedics. However, the cost of these services is often prohibitively expensive for many Yemenis, and the majority of the population relies on the public sector for healthcare. Despite these challenges, there are efforts underway to improve the healthcare system in Yemen, including the development of new healthcare facilities and the training of healthcare professionals.
+
+The ongoing conflict in Yemen has had a devastating impact on the healthcare system, with many healthcare facilities damaged or destroyed, and a significant shortage of medical supplies and equipment. The crisis has also led to a significant increase in the number of people in need of humanitarian assistance, including healthcare services. As a result, the healthcare system in Yemen is facing significant challenges in meeting the needs of the population, and there is a need for continued support and investment in the sector to improve the quality and accessibility of healthcare services.
+
+[SECTION] Hospitals & Clinics [/SECTION]
+[TABLE]
+| Facility | Location | Type | Specialties | English-Speaking |
+| --- | --- | --- | --- | --- |
+| Al-Thawra Hospital | Sanaa | Public | General medicine, surgery, pediatrics | Limited |
+| Al-Sabah Hospital | Sanaa | Private | Cardiology, oncology, orthopedics | Yes |
+| Yemen International Hospital | Sanaa | Private | General medicine, surgery, pediatrics | Yes |
+| Aden Hospital | Aden | Public | General medicine, surgery, pediatrics | Limited |
+| Al-Gamhouri Hospital | Aden | Private | Cardiology, oncology, orthopedics | Yes |
+| Taiz Hospital | Taiz | Public | General medicine, surgery, pediatrics | Limited |
+[/TABLE]
+
+[SECTION] Health Insurance [/SECTION]
+- **Private health insurance** is recommended for foreigners and expatriates, as it provides access to higher-quality healthcare services and can help to cover the cost of medical treatment.
+- **Local insurance options** are available, but may not provide the same level of coverage as international insurance plans.
+- **Expatriate health insurance** plans are available, and can provide comprehensive coverage for medical treatment, including evacuation and repatriation.
+- The **cost of health insurance** in Yemen can vary significantly, depending on the type of plan and the level of coverage.
+- **Government-sponsored health insurance** is available for some citizens, but the coverage is often limited and the quality of care can vary significantly.
+- It is **recommended** that visitors and expatriates have a comprehensive health insurance plan that covers them for the duration of their stay in Yemen.
+
+[SECTION] Pharmacies & Medications [/SECTION]
+- **Medications** are available in Yemen, but the availability of certain medications can be limited, especially in rural areas.
+- **Prescription requirements** vary, but many medications are available over-the-counter.
+- **Common brands** of medications are available, but the quality and authenticity of some medications can be a concern.
+- **Costs** of medications can vary significantly, depending on the type and quality of the medication.
+- **Pharmacy access** is limited in rural areas, and many people rely on traditional remedies and herbal medicines.
+
+[SECTION] Vaccinations & Health Risks [/SECTION]
+- **Required vaccinations** for travel to Yemen include hepatitis A, typhoid, and meningitis.
+- **Recommended vaccinations** include hepatitis B, rabies, and influenza.
+- **Endemic diseases** in Yemen include malaria, dengue fever, and cholera.
+- **Water safety** is a concern, and visitors are advised to drink bottled or filtered water.
+- **Food safety** is also a concern, and visitors are advised to avoid eating undercooked meat and raw vegetables.
+- **Cholera outbreaks** have occurred in Yemen, and visitors are advised to take precautions to avoid infection.
+
+[SECTION] Medical Tourism [/SECTION]
+- **Medical tourism** is not a significant industry in Yemen, due to the ongoing conflict and lack of infrastructure.
+- **Popular procedures** are not well-established, but some private hospitals offer specialized services such as cardiology and orthopedics.
+- **Accredited hospitals** are limited, but some private hospitals have international accreditation.
+- **Cost savings** can be significant, but the quality of care and availability of specialized services can be a concern.
+
+[SECTION] Emergency Procedures [/SECTION]
+- In the event of an **emergency**, visitors should call the emergency number (199) or seek assistance from a nearby hospital or clinic.
+- **Ambulance reliability** can be a concern, and visitors are advised to have a backup plan in case of an emergency.
+- **Nearest hospitals** can be identified through a mapping app or by asking locals for directions.
+- **Insurance claims** can be complex, and visitors are advised to have a comprehensive insurance plan that covers them for emergency medical treatment.
+- **Evacuation** may be necessary in some cases, and visitors are advised to have a plan in place for emergency evacuation.
+
+---
+
+*Evergreen reference content. Verify time-sensitive details with official sources.*

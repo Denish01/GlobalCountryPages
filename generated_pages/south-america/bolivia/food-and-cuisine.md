@@ -1,0 +1,87 @@
+---
+title: "Bolivia Food Guide — Dishes, Street Food & Dining"
+entity: "Bolivia"
+iso_code: "BO"
+continent: "south-america"
+angle: "food-and-cuisine"
+date: "2026-02-17"
+---
+
+# Bolivia Food Guide — Dishes, Street Food & Dining
+
+To experience the best of Bolivian cuisine, you should try dishes like **Salteñas**, **Humitas**, and **Papitas a la Huancaina**, which showcase the country's unique blend of indigenous, Spanish, and African influences. 
+
+[FACTBOX]
+Staple Foods: maize, potatoes, rice, beans
+National Dish: Salteñas, a type of savory pastry filled with meat, vegetables, and spices
+Meal Times: breakfast from 7-10 am, lunch from 12-2 pm, dinner from 6-9 pm
+Tipping at Restaurants: 5-10% of the total bill
+Dietary Notes: vegetarian-friendly options are available, but may be limited in rural areas
+[/FACTBOX]
+
+[SECTION] Food Culture Overview [/SECTION]
+Bolivian cuisine is a rich and diverse reflection of the country's cultural heritage, with influences from its indigenous peoples, Spanish colonizers, and African slaves. The cuisine is characterized by the use of local ingredients such as maize, potatoes, and beans, which are often combined with meats like beef, pork, and chicken. Regional variations are also significant, with the highlands, valleys, and lowlands each having their own unique culinary traditions. In the highlands, for example, dishes like **Thimpu**, a hearty stew made with maize, potatoes, and meat, are popular, while in the lowlands, **Surubí**, a type of catfish, is a staple ingredient.
+
+The country's cuisine is also shaped by its cultural festivals and celebrations, such as the **Alasita** fair, which takes place in La Paz and features traditional foods like **Tawa**, a type of fried dough. Additionally, the **Ch'alla** ceremony, which involves the offering of food and drink to the gods, is an important part of Bolivian culinary culture. Overall, Bolivian cuisine is a vibrant and flavorful reflection of the country's history, culture, and geography.
+
+Bolivian cuisine has also been influenced by its neighbors, including Peru, Chile, and Argentina, which has introduced dishes like **Ceviche** and **Asado** to the country. However, Bolivian cuisine has also maintained its unique character, with dishes like **Anticuchos**, which are grilled beef heart skewers, and **Humitas**, which are steamed corn pudding.
+
+[SECTION] Must-Try Dishes [/SECTION]
+[TABLE]
+| Dish | Type | Description | Where to Find |
+| --- | --- | --- | --- |
+| Salteñas | Savory pastry | A type of empanada filled with meat, vegetables, and spices | La Paz, Sucre |
+| Humitas | Steamed corn pudding | A traditional dish made with fresh corn, onions, and spices | Cochabamba, Santa Cruz |
+| Papitas a la Huancaina | Potato dish | Boiled potatoes topped with a spicy cheese sauce, lettuce, and olives | Huancayo, La Paz |
+| Anticuchos | Grilled beef heart skewers | A popular street food made with marinated beef heart, grilled to perfection | La Paz, Cochabamba |
+| Silpancho | Grilled beef dish | A thin cut of beef grilled to perfection, served with rice, beans, and salad | La Paz, Santa Cruz |
+| Ch'arki | Dried meat | A type of dried and salted meat, often served with potatoes, beans, and rice | Oruro, Potosí |
+| Lechon | Roasted pork | A traditional dish made with roasted pork, often served with boiled potatoes and vegetables | Sucre, Cochabamba |
+| Picante de Pollo | Spicy chicken stew | A hearty stew made with chicken, potatoes, and spices | La Paz, El Alto |
+| Cuñape | Cheese bread | A type of bread filled with melted cheese, often served as a snack or side dish | La Paz, Sucre |
+| Tawa | Fried dough | A type of fried dough, often served with a sweet or savory filling | La Paz, Cochabamba |
+[/TABLE]
+
+[SECTION] Street Food & Snacks [/SECTION]
+- **Papas rellenas**, stuffed potatoes filled with meat, vegetables, and spices, $1-2 USD
+- **Empanadas**, savory pastries filled with meat, cheese, or vegetables, $1-2 USD
+- **Churros**, fried dough pastry coated with sugar, $0.50-1 USD
+- **Fresh fruit**, a variety of fresh fruits like bananas, oranges, and apples, $0.50-1 USD
+- **Arroz con leche**, a sweet rice pudding, $1-2 USD
+- **Tamales**, steamed corn dough filled with meat, cheese, or vegetables, $1-2 USD
+- **Cuy**, roasted guinea pig, $5-10 USD
+- **Ch'arki**, dried and salted meat, $2-5 USD
+
+[SECTION] Drinks [/SECTION]
+- **Coca tea**, a traditional tea made with coca leaves, $0.50-1 USD
+- **Fresh juice**, a variety of fresh juices like orange, banana, and mango, $1-2 USD
+- **Beer**, a variety of local beers like **Paceña** and **Huari**, $2-5 USD
+- **Wine**, a variety of local wines from the **Tarija** region, $5-10 USD
+- **Chicha**, a traditional drink made with fermented corn, $1-2 USD
+- **Api**, a traditional drink made with purple corn, $1-2 USD
+
+[SECTION] Dining Customs [/SECTION]
+- **Eating with your hands** is generally not accepted, except for certain traditional dishes like **Anticuchos**
+- **Tipping** is not mandatory, but 5-10% of the total bill is appreciated
+- **Reservations** are not always necessary, but recommended for popular restaurants
+- **Dress code** is generally casual, but formal attire may be required for high-end restaurants
+- **Trying new foods** is highly encouraged, as Bolivian cuisine is known for its unique flavors and ingredients
+- **Learning some Spanish** is highly recommended, as it will enhance your dining experience and allow you to communicate with locals
+
+[SECTION] Where to Eat [/SECTION]
+- **Markets**, like the **Mercado de las Brujas** in La Paz, offer a variety of traditional foods and drinks
+- **Food courts**, like the **Food Court** in the **Galileo** mall in Santa Cruz, offer a variety of international and local cuisine
+- **Restaurants**, like **Gustu** in La Paz, offer a fine dining experience with traditional Bolivian cuisine
+- **Cafes**, like **Cafe de la Paz** in La Paz, offer a variety of coffee, pastries, and light meals
+- **Street food stalls**, like those found in **El Alto**, offer a variety of traditional street foods and snacks
+
+[SECTION] Food Markets & Food Experiences [/SECTION]
+- **Mercado de las Brujas**, La Paz, a market that offers a variety of traditional foods, drinks, and handicrafts
+- **Feria de Alasita**, La Paz, a fair that takes place in January and features traditional foods, drinks, and handicrafts
+- **Mercado Central**, Sucre, a market that offers a variety of fresh produce, meats, and traditional foods
+- **Gustu**, La Paz, a restaurant that offers a fine dining experience with traditional Bolivian cuisine
+- **Casa de la Abuela**, Cochabamba, a restaurant that offers a variety of traditional Bolivian dishes in a cozy, family-friendly atmosphere
+
+---
+
+*Evergreen reference content. Verify time-sensitive details with official sources.*

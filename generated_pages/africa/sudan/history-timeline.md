@@ -1,0 +1,74 @@
+---
+title: "Sudan History — Key Events & Timeline"
+entity: "Sudan"
+iso_code: "SD"
+continent: "africa"
+angle: "history-timeline"
+date: "2026-02-17"
+---
+
+# Sudan History — Key Events & Timeline
+
+The history of Sudan is a complex and diverse narrative that spans thousands of years, from ancient civilizations to modern-day nation-building. 
+
+[SECTION] Historical Overview [/SECTION]
+The history of Sudan dates back to the ancient **Kingdom of Kush**, which flourished around 2000 BCE and was known for its powerful rulers and advanced architecture. The kingdom played a significant role in the regional trade and cultural exchange, with its capital, **Meroe**, being a major center of learning and commerce. In the 7th century CE, **Islam** was introduced to the region, and it gradually became an integral part of Sudanese culture. The **Funj Sultanate**, which emerged in the 16th century, marked the beginning of a new era in Sudanese history, characterized by the rise of Islamic kingdoms and the decline of the Christian kingdoms in the region.
+
+The **Turco-Egyptian** period, which began in the 19th century, saw Sudan come under the control of **Egypt**, with the **British** later becoming the dominant power in the region. This period was marked by significant economic and social changes, including the introduction of modern infrastructure and the expansion of education. The **Mahdist State**, which emerged in the late 19th century, was a brief but significant period in Sudanese history, marked by a rebellion against the **Turco-Egyptian** rule and the establishment of a theocratic state. The **Anglo-Egyptian Condominium**, which was established in 1898, marked the beginning of a new era in Sudanese history, with the **British** and **Egyptians** jointly ruling the country.
+
+In the 20th century, Sudan began to move towards independence, with the **Sudanese** people demanding self-rule and an end to colonial domination. The country finally gained its independence in 1956, with **Ismail al-Azhari** becoming the first prime minister of Sudan. Since then, Sudan has faced numerous challenges, including civil wars, economic crises, and political instability. Despite these challenges, the country has made significant progress in recent years, with the **Comprehensive Peace Agreement** of 2005 marking a major milestone in the country's history.
+
+The modern era in Sudan has been marked by significant political and economic changes, including the **secession of South Sudan** in 2011 and the **overthrow of President Omar al-Bashir** in 2019. Today, Sudan is a **sovereign state**, with a diverse population and a rich cultural heritage. The country continues to face significant challenges, including poverty, inequality, and political instability, but it also has tremendous potential for growth and development.
+
+[SECTION] Timeline of Key Events [/SECTION]
+1. **2000 BCE** - The **Kingdom of Kush** emerges, marking the beginning of a new era in Sudanese history. The kingdom plays a significant role in regional trade and cultural exchange.
+2. **7th century CE** - **Islam** is introduced to the region, and it gradually becomes an integral part of Sudanese culture.
+3. **16th century** - The **Funj Sultanate** emerges, marking the beginning of a new era in Sudanese history.
+4. **1820** - The **Turco-Egyptian** period begins, with Sudan coming under the control of **Egypt**.
+5. **1881** - The **Mahdist State** emerges, marked by a rebellion against the **Turco-Egyptian** rule.
+6. **1898** - The **Anglo-Egyptian Condominium** is established, with the **British** and **Egyptians** jointly ruling the country.
+7. **1956** - Sudan gains its independence, with **Ismail al-Azhari** becoming the first prime minister.
+8. **1969** - **Gaafar Nimeiry** seizes power, marking the beginning of a new era in Sudanese politics.
+9. **1972** - The **Addis Ababa Agreement** is signed, bringing an end to the **First Sudanese Civil War**.
+10. **1983** - The **Second Sudanese Civil War** breaks out, marking a new era of conflict in the country.
+11. **1989** - **Omar al-Bashir** seizes power, marking the beginning of a new era in Sudanese politics.
+12. **2005** - The **Comprehensive Peace Agreement** is signed, marking a major milestone in the country's history.
+13. **2011** - **South Sudan** secedes from Sudan, becoming an independent country.
+14. **2013** - Protests break out in **Khartoum**, demanding reform and an end to **President al-Bashir's** rule.
+15. **2019** - **President al-Bashir** is overthrown, marking a new era in Sudanese politics.
+16. **2020** - A new **transitional government** is established, marking a significant milestone in the country's transition to democracy.
+17. **2020** - The **Sudanese** government and the **Sudan People's Liberation Movement-North** sign a **peace agreement**, marking a major step towards peace in the country.
+18. **2021** - The **United States** removes Sudan from its list of **state sponsors of terrorism**, marking a significant development in the country's relations with the international community.
+19. **2021** - The **Sudanese** government launches a series of economic reforms, aimed at stimulating growth and development.
+20. **2022** - The **Sudanese** government and the **International Monetary Fund** sign an agreement, aimed at supporting the country's economic development.
+
+[SECTION] Founding & Formation [/SECTION]
+Sudan became the entity it is today through a complex process of colonization, independence, and nation-building. The country's **founding fathers**, including **Ismail al-Azhari** and **Abdullah Khalil**, played a significant role in shaping the country's early years. The **Anglo-Egyptian Condominium**, which was established in 1898, marked the beginning of a new era in Sudanese history, with the **British** and **Egyptians** jointly ruling the country. The **Sudanese** people, however, demanded self-rule and an end to colonial domination, leading to the country's independence in 1956.
+
+The **independence movement** in Sudan was marked by significant challenges, including the **First Sudanese Civil War**, which broke out in the 1950s. The war was fought between the **Sudanese** government and the **Anyanya** rebel group, which was seeking independence for the **southern region**. The war ended with the **Addis Ababa Agreement** in 1972, which granted **autonomy** to the **southern region**. The **Second Sudanese Civil War**, which broke out in the 1980s, was marked by significant violence and displacement, leading to the **Comprehensive Peace Agreement** in 2005.
+
+[SECTION] Colonial & Independence Period [/SECTION]
+The **colonial period** in Sudan was marked by significant changes, including the introduction of modern infrastructure and the expansion of education. The **Turco-Egyptian** period, which began in the 19th century, saw Sudan come under the control of **Egypt**, with the **British** later becoming the dominant power in the region. The **Anglo-Egyptian Condominium**, which was established in 1898, marked the beginning of a new era in Sudanese history, with the **British** and **Egyptians** jointly ruling the country. The **Sudanese** people, however, demanded self-rule and an end to colonial domination, leading to the country's independence in 1956.
+
+The **independence movement** in Sudan was marked by significant challenges, including the **First Sudanese Civil War**, which broke out in the 1950s. The war was fought between the **Sudanese** government and the **Anyanya** rebel group, which was seeking independence for the **southern region**. The war ended with the **Addis Ababa Agreement** in 1972, which granted **autonomy** to the **southern region**. The **Sudanese** government, led by **Ismail al-Azhari**, played a significant role in shaping the country's early years, including the establishment of a **parliamentary system** and the promotion of **economic development**.
+
+[SECTION] Modern Era [/SECTION]
+The modern era in Sudan has been marked by significant political and economic changes, including the **secession of South Sudan** in 2011 and the **overthrow of President Omar al-Bashir** in 2019. The country has faced numerous challenges, including **poverty**, **inequality**, and **political instability**, but it has also made significant progress in recent years. The **Comprehensive Peace Agreement** of 2005 marked a major milestone in the country's history, bringing an end to the **Second Sudanese Civil War** and paving the way for **democratic reforms**. The **transitional government**, which was established in 2020, has played a significant role in shaping the country's future, including the promotion of **democratic reforms** and the **protection of human rights**.
+
+The **Sudanese** economy has also undergone significant changes in recent years, including the **diversification of the economy** and the **promotion of foreign investment**. The country has significant **natural resources**, including **oil** and **gas**, which have played a major role in the country's economic development. The **Sudanese** government has also invested heavily in **infrastructure**, including **roads**, **bridges**, and **ports**, which have improved the country's connectivity and facilitated trade.
+
+[SECTION] Historical Figures [/SECTION]
+[TABLE]
+| Name | Period | Role | Significance |
+| --- | --- | --- | --- |
+| Ismail al-Azhari | 1956-1958 | Prime Minister | First prime minister of Sudan, played a significant role in shaping the country's early years |
+| Gaafar Nimeiry | 1969-1985 | President | Seized power in 1969, introduced socialist policies, and played a significant role in shaping the country's politics |
+| Omar al-Bashir | 1989-2019 | President | Seized power in 1989, introduced **Islamic law**, and played a significant role in shaping the country's politics |
+| Abdullah Khalil | 1956-1958 | Prime Minister | Played a significant role in shaping the country's early years, including the establishment of a **parliamentary system** |
+| John Garang | 1983-2005 | Rebel Leader | Led the **Sudan People's Liberation Army**, played a significant role in the **Second Sudanese Civil War**, and was a key figure in the **Comprehensive Peace Agreement** |
+| Sadiq al-Mahdi | 1966-1967, 1986-1989 | Prime Minister | Played a significant role in shaping the country's politics, including the introduction of **democratic reforms** |
+| Khalil Osman Mahgoub | 1971-1972 | Prime Minister | Played a significant role in shaping the country's politics, including the negotiation of the **Addis Ababa Agreement** |
+
+---
+
+*Evergreen reference content. Verify time-sensitive details with official sources.*

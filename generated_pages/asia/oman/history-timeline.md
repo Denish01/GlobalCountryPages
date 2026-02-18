@@ -1,0 +1,70 @@
+---
+title: "Oman History — Key Events & Timeline"
+entity: "Oman"
+iso_code: "OM"
+continent: "asia"
+angle: "history-timeline"
+date: "2026-02-17"
+---
+
+# Oman History — Key Events & Timeline
+
+The history of Oman is a rich and diverse tapestry that spans over 5,000 years, from the ancient **Magan civilization** to the modern era of independence and development.
+
+[SECTION] Historical Overview [/SECTION]
+Oman's history began with the ancient Magan civilization, which flourished around 2500 BCE and was known for its copper production and trade. The region was later influenced by various powers, including the **Persians**, **Greeks**, and **Romans**, before the arrival of **Islam** in the 7th century CE. The **Portuguese** colonized Oman in the 16th century, but were later expelled by the **Yaruba dynasty**, which ruled the country from 1624 to 1749. The **Al Said dynasty**, which still rules Oman today, came to power in 1749 and has played a significant role in shaping the country's history. In the 20th century, Oman gained independence from **British** protection and has since developed into a modern, prosperous nation.
+
+The ancient and medieval periods in Oman were marked by a series of **trading empires**, including the **Omani Empire**, which stretched from the **Gulf of Oman** to the coast of **East Africa**. The Omani Empire was a major power in the region, with a strong navy and a thriving economy based on trade and commerce. However, the empire declined in the 19th century, and Oman became a **British protectorate** in 1891. The British played a significant role in shaping Oman's modern history, providing protection and guidance to the country until it gained independence in 1971.
+
+In the modern era, Oman has experienced rapid development and growth, driven by the vision of **Sultan Qaboos bin Said Al Said**, who ruled the country from 1970 until his death in 2020. Under Sultan Qaboos' leadership, Oman has become a modern, prosperous nation, with a strong economy based on **oil and gas production**, as well as **tourism** and **manufacturing**. The country has also played a significant role in regional and international affairs, with a focus on **diplomacy** and **peace-building**.
+
+Oman's history is also marked by a rich cultural heritage, with a unique blend of **Arab**, **Persian**, and **African** influences. The country is home to a number of historic sites, including the **Al Jalali and Al Mirani forts**, which date back to the 16th century, and the **Sultan Qaboos Grand Mosque**, which is one of the largest mosques in the world. Oman's cultural heritage is also reflected in its traditional **music**, **dance**, and **crafts**, which are still practiced and celebrated today.
+
+[SECTION] Timeline of Key Events [/SECTION]
+1. **2500 BCE** - The Magan civilization flourishes in the region, known for its copper production and trade. The Magan civilization is considered one of the earliest known civilizations in the region.
+2. **630 CE** - Islam arrives in Oman, introduced by the Prophet Muhammad's companion, **Amr ibn al-As**. The arrival of Islam had a significant impact on the region, shaping the culture and society of Oman.
+3. **1507** - The Portuguese colonize Oman, establishing a series of forts and trading posts along the coast. The Portuguese colonization of Oman lasted for over a century, until they were expelled by the Yaruba dynasty.
+4. **1650** - The Yaruba dynasty expels the Portuguese from Oman, marking the beginning of a new era of independence. The Yaruba dynasty played a significant role in shaping Oman's history, establishing a strong and stable government.
+5. **1749** - The Al Said dynasty comes to power in Oman, with **Imam Ahmad bin Said Al Busaidi** as the first ruler. The Al Said dynasty has ruled Oman ever since, with a focus on stability and development.
+6. **1891** - Oman becomes a British protectorate, with the British providing protection and guidance to the country. The British protectorate lasted for over 80 years, until Oman gained independence in 1971.
+7. **1970** - **Sultan Qaboos bin Said Al Said** comes to power in Oman, marking the beginning of a new era of modernization and development. Sultan Qaboos played a significant role in shaping Oman's modern history, driving the country's development and growth.
+8. **1971** - Oman gains independence from British protection, with Sultan Qaboos as the country's first ruler. Oman's independence marked the beginning of a new era of self-governance and development.
+9. **1972** - Oman joins the **Arab League**, marking its entry into regional and international affairs. Oman's membership in the Arab League has played a significant role in shaping the country's foreign policy and diplomacy.
+10. **1981** - Oman joins the **Gulf Cooperation Council (GCC)**, a regional organization aimed at promoting economic and security cooperation. Oman's membership in the GCC has played a significant role in shaping the country's economic and security policies.
+11. **1996** - Oman signs a **border agreement** with the UAE, resolving a long-standing dispute over the **al-Buraimi oasis**. The border agreement marked an important milestone in Oman's relations with its neighbors.
+12. **2000** - Oman introduces a **new constitution**, which establishes the country as a **monarchy** with a **consultative council**. The new constitution marked an important step in Oman's development, establishing a framework for governance and representation.
+13. **2011** - Oman experiences a series of **protests and demonstrations**, as part of the **Arab Spring**. The protests marked an important turning point in Oman's history, highlighting the need for reform and development.
+14. **2013** - Oman signs a **free trade agreement** with the US, aimed at promoting economic cooperation and trade. The free trade agreement marked an important milestone in Oman's economic development, opening up new opportunities for trade and investment.
+15. **2020** - Sultan Qaboos bin Said Al Said passes away, marking the end of an era in Omani history. Sultan Qaboos' legacy continues to shape Oman's development and growth, with a focus on stability, diplomacy, and economic development.
+
+[SECTION] Founding & Formation [/SECTION]
+Oman's founding and formation are closely tied to the **Al Said dynasty**, which has ruled the country since 1749. The dynasty was founded by **Imam Ahmad bin Said Al Busaidi**, who played a significant role in shaping Oman's history and development. The Al Said dynasty has been marked by a series of strong and wise leaders, including **Sultan Qaboos bin Said Al Said**, who ruled the country from 1970 until his death in 2020. Under the Al Said dynasty, Oman has developed into a modern, prosperous nation, with a strong economy and a rich cultural heritage.
+
+The founding and formation of Oman are also closely tied to the country's **geography** and **natural resources**. Oman is located on the southeastern coast of the **Arabian Peninsula**, with a long coastline along the **Gulf of Oman**. The country is rich in **oil and gas reserves**, which have driven the country's economic development and growth. Oman's unique geography and natural resources have played a significant role in shaping the country's history and development, with a focus on trade, commerce, and diplomacy.
+
+[SECTION] Colonial & Independence Period [/SECTION]
+Oman's colonial and independence period are marked by a series of significant events and milestones. The country was colonized by the **Portuguese** in the 16th century, but was later expulsed by the **Yaruba dynasty**. The **British** played a significant role in Oman's modern history, providing protection and guidance to the country until it gained independence in 1971. The British colonial period was marked by a series of **treaties and agreements**, which established Oman as a British protectorate.
+
+Oman's independence movement was led by **Sultan Qaboos bin Said Al Said**, who played a significant role in shaping the country's modern history. Sultan Qaboos was a key figure in Oman's independence movement, working closely with the British to negotiate the country's independence. The **independence agreement** was signed in 1971, marking the beginning of a new era of self-governance and development in Oman. Since independence, Oman has developed into a modern, prosperous nation, with a strong economy and a rich cultural heritage.
+
+[SECTION] Modern Era [/SECTION]
+Oman's modern era is marked by a series of significant events and milestones, including the country's **independence** in 1971 and the **accession** of **Sultan Qaboos bin Said Al Said** in 1970. Under Sultan Qaboos' leadership, Oman has experienced rapid development and growth, driven by the country's **oil and gas reserves**. The country has also played a significant role in regional and international affairs, with a focus on **diplomacy** and **peace-building**.
+
+In recent years, Oman has continued to develop and grow, with a focus on **diversification** and **sustainability**. The country has invested heavily in **tourism** and **manufacturing**, aiming to reduce its dependence on oil and gas exports. Oman has also played a significant role in regional and international affairs, hosting a series of **diplomatic meetings** and **conferences**. The country's **foreign policy** is focused on promoting **peace** and **stability** in the region, with a strong emphasis on **diplomacy** and **cooperation**.
+
+[SECTION] Historical Figures [/SECTION]
+[TABLE]
+| Name | Period | Role | Significance |
+| --- | --- | --- | --- |
+| Imam Ahmad bin Said Al Busaidi | 1749-1783 | Founder of the Al Said dynasty | Played a significant role in shaping Oman's history and development |
+| Sultan Qaboos bin Said Al Said | 1970-2020 | Ruler of Oman | Led the country to independence and drove its modern development and growth |
+| Amr ibn al-As | 630-633 | Companion of the Prophet Muhammad | Introduced Islam to Oman and played a significant role in shaping the country's early history |
+| Ahmad bin Said Al Busaidi | 1749-1783 | Imam of Oman | Led the country to independence from the Persians and established the Al Said dynasty |
+| Said bin Sultan Al Busaidi | 1806-1856 | Sultan of Oman | Played a significant role in shaping Oman's modern history, including the country's relations with the British |
+| Faisal bin Turki Al Said | 1888-1913 | Sultan of Oman | Led the country through a period of significant change and development, including the introduction of modern education and infrastructure |
+| Taimur bin Faisal Al Said | 1913-1932 | Sultan of Oman | Played a significant role in shaping Oman's modern history, including the country's relations with the British and the development of the country's oil and gas reserves |
+[/TABLE]
+
+---
+
+*Evergreen reference content. Verify time-sensitive details with official sources.*

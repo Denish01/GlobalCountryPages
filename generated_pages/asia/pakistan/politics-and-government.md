@@ -1,0 +1,77 @@
+---
+title: "Pakistan Politics & Government — System, Leaders & Stability"
+entity: "Pakistan"
+iso_code: "PK"
+continent: "asia"
+angle: "politics-and-government"
+date: "2026-02-17"
+---
+
+# Pakistan Politics & Government — System, Leaders & Stability
+
+Pakistan is governed as a federal parliamentary republic with a democratic system, where the **President** serves as the head of state and the **Prime Minister** as the head of government.
+
+[FACTBOX]
+Government Type: Federal Parliamentary Republic
+Head of State: President - Arif Alvi
+Head of Government: Prime Minister - Shehbaz Sharif
+Legislature: National Assembly, bicameral with 342 seats in the National Assembly and 104 seats in the Senate
+Legal System: Mixed, with elements of common law, civil law, and sharia law
+Political Stability Index: ranked 140 out of 163 countries in the 2022 Global Peace Index
+Corruption Index: ranked 140 out of 180 countries in the 2022 Corruption Perceptions Index by Transparency International
+[/FACTBOX]
+
+[SECTION] Political System [/SECTION]
+Pakistan's government is based on the principle of **separation of powers**, with the legislative, executive, and judicial branches functioning independently. The **federal system** allows for a division of power between the central government and the four provinces, with each province having its own elected government. The **parliamentary system** gives the **National Assembly** the power to elect the **Prime Minister**, who is then responsible for appointing the cabinet. The **President** serves as the head of state, but has limited powers, with most executive authority resting with the **Prime Minister**. Pakistan's political system is designed to provide a balance of power and representation to all regions and communities.
+
+The **Constitution of Pakistan**, adopted in 1973, provides the framework for the country's government and politics. It establishes the principles of **sovereignty**, **democracy**, and **social justice**, and outlines the powers and responsibilities of each branch of government. The **Constitution** also guarantees certain **fundamental rights**, including freedom of speech, assembly, and association, as well as the right to education and healthcare.
+
+Pakistan's **political culture** is characterized by a strong sense of national identity and a commitment to **Islamic values**. The country's **political parties** play a significant role in shaping the government and policies, with the **Pakistan Muslim League (Nawaz)** and the **Pakistan Tehreek-e-Insaf** being two of the main parties. The **military** has also played a significant role in Pakistan's politics, with several **military coups** having taken place in the country's history.
+
+[SECTION] Government Structure [/SECTION]
+[TABLE]
+| Branch | Institution | Head/Leader | Role |
+| --- | --- | --- | --- |
+| Executive | Cabinet | Prime Minister | Head of Government, responsible for policy-making and implementation |
+| Executive | Presidency | President | Head of State, ceremonial and symbolic role |
+| Legislative | National Assembly | Speaker | Elected representatives, responsible for law-making and oversight |
+| Legislative | Senate | Chairman | Elected representatives, responsible for law-making and oversight |
+| Judicial | Supreme Court | Chief Justice | Highest court, responsible for interpreting the Constitution and laws |
+[/TABLE]
+
+[SECTION] Major Political Parties [/SECTION]
+[TABLE]
+| Party | Position | Leader | Seats | Notes |
+| --- | --- | --- | --- | --- |
+| Pakistan Muslim League (Nawaz) | Center-right | Shehbaz Sharif | 84 | One of the main parties, known for its conservative and nationalist stance |
+| Pakistan Tehreek-e-Insaf | Center-right | Imran Khan | 156 | Main opposition party, known for its anti-corruption and populist platform |
+| Pakistan Peoples Party | Center-left | Bilawal Bhutto Zardari | 55 | One of the main parties, known for its liberal and progressive stance |
+| Muttahida Qaumi Movement | Center-right | Khalid Maqbool Siddiqui | 7 | Regional party, known for its advocacy for the rights of the Muhajir community |
+| Jamaat-e-Islami | Islamist | Sirajul Haq | 1 | Islamist party, known for its conservative and religious stance |
+[/TABLE]
+
+[SECTION] Elections [/SECTION]
+- The electoral system in Pakistan is based on a **first-past-the-post** system, where the candidate with the most votes wins the seat.
+- Elections are held every five years for the **National Assembly** and the **provincial assemblies**.
+- The last general election was held in 2018, with the **Pakistan Tehreek-e-Insaf** emerging as the largest party.
+- The next general election is scheduled to be held in 2023, with the **Electoral Commission of Pakistan** responsible for overseeing the process.
+- Voter participation in Pakistan is relatively low, with an average turnout of around 50% in recent elections.
+
+[SECTION] Political Stability & Challenges [/SECTION]
+- Pakistan's political climate is characterized by a high level of **polarization** and **instability**, with frequent changes in government and a strong role for the military.
+- The country faces several key challenges, including **terrorism**, **corruption**, and **economic instability**.
+- The **Kashmir dispute** with India remains a major regional issue, with Pakistan advocating for the right to self-determination for the Kashmiri people.
+- The **Afghanistan conflict** also has a significant impact on Pakistan's politics, with the country playing a key role in regional efforts to stabilize Afghanistan.
+- Pakistan's **human rights record** is a source of concern, with issues such as **freedom of speech** and **women's rights** being major challenges.
+- The country's **economic stability** is also a concern, with a large **trade deficit** and a high level of **public debt**.
+
+[SECTION] Foreign Relations [/SECTION]
+- Pakistan is a member of several international organizations, including the **United Nations**, the **Commonwealth of Nations**, and the **Organization of Islamic Cooperation**.
+- The country has a **strategic alliance** with **China**, with the two countries cooperating on several key projects, including the **China-Pakistan Economic Corridor**.
+- Pakistan's relations with **India** are tense, with the two countries having a long-standing dispute over **Kashmir** and several other issues.
+- The country also has a **complex relationship** with the **United States**, with the two countries cooperating on several key issues, including **counter-terrorism** and **regional stability**.
+- Pakistan is also a member of the **Shanghai Cooperation Organization**, which aims to promote regional cooperation and stability in **Central Asia** and **South Asia**.
+
+---
+
+*Evergreen reference content. Verify time-sensitive details with official sources.*

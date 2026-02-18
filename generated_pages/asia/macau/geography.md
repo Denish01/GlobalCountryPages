@@ -1,0 +1,61 @@
+---
+title: "Macau Geography - Location, Terrain & Climate"
+entity: "Macau"
+iso_code: "MO"
+continent: "asia"
+angle: "geography"
+date: "2026-02-17"
+---
+
+# Macau Geography - Location, Terrain & Climate
+
+Macau is a special administrative region of China located on the western bank of the Pearl River Delta, bordered by China to the north and east, and Hong Kong to the west, with a unique blend of Portuguese and Chinese cultures.
+
+[FACTBOX]
+Land Area: 30 km², about the size of the island of Manhattan
+Highest Point: Alto de Coloane, 172 meters
+Lowest Point: South China Sea, 0 meters
+Coastline: 41 km
+Borders: China, Hong Kong
+Climate Type: subtropical
+[/FACTBOX]
+
+[SECTION] Location & Borders [/SECTION]
+Macau is situated on the southern coast of China, approximately 60 kilometers west of Hong Kong, and is comprised of the Macau Peninsula, Taipa Island, and Coloane Island. The region is bordered by the South China Sea to the south and west, and by China's Guangdong Province to the north and east. Macau's strategic location has made it an important trading center and cultural hub for centuries, with its ports and waterways connecting it to the rest of Asia and the world.
+
+The borders of Macau are defined by its coastline, which stretches for 41 kilometers, and by its land border with China, which is approximately 8.7 kilometers long. The region's proximity to Hong Kong and China has facilitated the exchange of people, goods, and ideas, and has contributed to its unique cultural identity. Macau is also connected to the Chinese mainland by several bridges and tunnels, including the Lotus Bridge, which links the region to the city of Zhuhai in Guangdong Province.
+
+[SECTION] Terrain & Landscape [/SECTION]
+Macau's terrain is generally flat, with some hills and mountains on the islands of Taipa and Coloane. The highest point in Macau is Alto de Coloane, which is located on the island of Coloane and rises to an elevation of 172 meters. The region's coastline is characterized by sandy beaches, rocky shores, and mangrove swamps, and is home to a diverse range of marine life. The city of Macau is densely populated, with a mix of modern skyscrapers, historic buildings, and traditional neighborhoods.
+
+The islands of Taipa and Coloane are connected to the Macau Peninsula by several bridges and causeways, and are home to a range of natural and cultural attractions. The islands are also characterized by their rural landscapes, with rolling hills, villages, and farmland. The region's natural landscape has been shaped by its geological history, with Macau being located in a seismically active area and having been affected by several major earthquakes and typhoons over the years.
+
+The urban landscape of Macau is dominated by the city of Macau, which is a major tourist destination and gaming center. The city is known for its historic architecture, including the Ruins of St. Paul's, the Senado Square, and the A-Ma Temple, which are all UNESCO World Heritage Sites. The city is also home to several modern casinos, hotels, and resorts, including the Venetian Macao, the City of Dreams, and the Wynn Macau.
+
+[SECTION] Terrain & Landscape [/SECTION] continued
+In addition to its urban and natural landscapes, Macau is also home to several parks and gardens, including the Luis de Camoes Garden, the Floralia Garden, and the Taipa Grande Nature Park. These parks provide a peaceful escape from the hustle and bustle of city life and offer a range of recreational activities, including walking, jogging, and picnic areas.
+
+[SECTION] Climate By Season [/SECTION]
+[TABLE]
+| Season | Months | Temperature Range | Rainfall | Conditions |
+| --- | --- | --- | --- | --- |
+| Spring | March to May | 18-25°C | 100-200 mm | Humid, sunny |
+| Summer | June to August | 25-32°C | 200-400 mm | Hot, humid, rainy |
+| Autumn | September to November | 18-25°C | 100-200 mm | Mild, sunny |
+| Winter | December to February | 10-18°C | 50-100 mm | Cool, dry |
+[/TABLE]
+
+[SECTION] Best Time To Visit [/SECTION]
+[CALLOUT] Best months: October to December. Why: The weather is mild and sunny, making it ideal for outdoor activities and sightseeing. Avoid: July and August, when the weather is hot and humid, and the region is prone to typhoons. [/CALLOUT]
+
+[SECTION] Natural Highlights [/SECTION]
+- The **Guia Hill** is a popular hiking spot, offering stunning views of the city and the surrounding landscape.
+- The **Coloane Island** is home to several beaches, including the popular Hac Sa Beach and the more secluded Cheoc Van Beach.
+- The **Taipa Grande Nature Park** is a protected area that provides a habitat for a range of flora and fauna, including several species of birds and butterflies.
+- The **A-Ma Temple** is a historic temple that is dedicated to the goddess Mazu and offers stunning views of the surrounding coastline.
+- The **Luis de Camoes Garden** is a peaceful park that is dedicated to the Portuguese poet Luis de Camoes and features a range of plants and flowers.
+- The **South China Sea** is a popular spot for water sports, including surfing, kayaking, and sailing.
+
+---
+
+*Evergreen reference content. Verify time-sensitive details with official sources.*

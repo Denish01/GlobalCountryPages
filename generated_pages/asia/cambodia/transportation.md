@@ -1,0 +1,66 @@
+---
+title: "Getting Around Cambodia — Transport & Travel Guide"
+entity: "Cambodia"
+iso_code: "KH"
+continent: "asia"
+angle: "transportation"
+date: "2026-02-17"
+---
+
+# Getting Around Cambodia — Transport & Travel Guide
+
+To get around in Cambodia, you can use a combination of domestic flights, trains, buses, taxis, ride-hailing apps, and rental cars, depending on your budget, time constraints, and personal preferences.
+
+[FACTBOX]
+Main International Airport(s): Phnom Penh International Airport (PNH), Siem Reap International Airport (REP)
+Domestic Air Network: limited
+Rail Network: limited
+Drives On: right
+Road Quality: poor
+Ride-Hailing Apps: Grab, PassApp
+[/FACTBOX]
+
+[SECTION] Getting There [/SECTION]
+Cambodia has two main international airports, Phnom Penh International Airport (PNH) and Siem Reap International Airport (REP), which receive direct flights from major hubs in Asia, including Bangkok, Ho Chi Minh City, and Kuala Lumpur. You can also enter Cambodia overland from Thailand, Laos, or Vietnam, with popular border crossings including Poipet, Koh Kong, and Bavet. If you're coming from neighboring countries, bus and taxi services are readily available, while train connections are limited.
+
+Phnom Penh International Airport is the largest airport in Cambodia, serving as a hub for domestic and international flights. Siem Reap International Airport, on the other hand, is a popular entry point for tourists visiting the famous Angkor Wat temple complex. Both airports offer a range of amenities, including currency exchange, restaurants, and car rental services. Overland entry points are also convenient, with many bus companies and taxi services operating from the border towns to major cities in Cambodia.
+
+[SECTION] Domestic Flights [/SECTION]
+Domestic flights in Cambodia are limited, with only a few airlines operating routes between Phnom Penh, Siem Reap, and Sihanoukville. **Cambodia Angkor Air** and **Bassaka Air** are two of the main domestic airlines, offering daily flights between these destinations. Booking in advance is recommended, especially during peak travel seasons, and approximate costs range from $50 to $200 for a one-way ticket, depending on the route and airline. You can book domestic flights online or through a local travel agent.
+
+[SECTION] Trains & Rail [/SECTION]
+Cambodia's rail network is limited, with only a few routes operating between Phnom Penh, Battambang, and Sihanoukville. The **Royal Railway** is the national railway company, offering passenger services on these routes. However, the rail network is not extensive, and trains are not always reliable or frequent. There are no high-speed options, and booking is usually done at the train station or through a local travel agent. If you're looking for a scenic and leisurely way to travel, trains can be a good option, but be prepared for delays and limited amenities.
+
+[SECTION] Buses & Coaches [/SECTION]
+Bus travel is a popular and affordable way to get around Cambodia, with many companies operating intercity routes. **Giant Ibis** and **Sorya Transportation** are two of the main bus companies, offering daily services between major cities, including Phnom Penh, Siem Reap, and Sihanoukville. Bus quality varies, but many companies offer air-conditioned vehicles and comfortable seating. Costs are relatively low, ranging from $5 to $20 for a one-way ticket, depending on the route and company.
+
+[SECTION] City Transport [/SECTION]
+| Mode | Available In | Cost (USD) | Notes |
+| --- | --- | --- | --- |
+| City Bus | Phnom Penh | $0.50 | Limited routes |
+| Taxi | everywhere | $5-10 | Metered taxis available in major cities |
+| Ride-Hailing | Phnom Penh, Siem Reap | $3-5 | Grab and PassApp available |
+| Tuk-tuk/Rickshaw | everywhere | $5-10 | Negotiable fares |
+| Motorcycle Taxi | everywhere | $2-5 | Negotiable fares |
+
+[SECTION] Driving [/SECTION]
+- To drive in Cambodia, you'll need a valid international driver's license or a local license, which can be obtained through a driving school or the Ministry of Public Works and Transport.
+- Road conditions in Cambodia are generally poor, with many roads being unpaved or poorly maintained.
+- Fuel costs are relatively low, with gasoline and diesel available at many stations throughout the country.
+- Car rental companies are available in major cities, including Phnom Penh and Siem Reap, but be sure to research and choose a reputable company.
+- Hazards on the road include aggressive driving, poor road conditions, and a lack of traffic enforcement.
+- It's recommended to drive defensively and cautiously, especially in rural areas where road conditions are poor and traffic rules are often ignored.
+
+[SECTION] Transport Tips [/SECTION]
+- Be aware of scams, especially when taking taxis or ride-hailing services, and always agree on a fare before departing.
+- Payment methods vary, but cash is king in Cambodia, and many businesses do not accept credit or debit cards.
+- Download the **Grab** or **PassApp** ride-hailing apps for convenient transportation in major cities.
+- Be mindful of your belongings, especially in crowded areas or tourist hotspots, and keep an eye on your luggage at all times.
+- Learn some basic Khmer phrases, such as "hello" (សួស្តី) and "thank you" (អរគុណ), to help you navigate and interact with locals.
+- Respect local customs and traditions, especially when visiting temples or attending cultural events.
+- Stay safe by avoiding traveling alone at night and using reputable transportation services.
+- Consider purchasing travel insurance to cover unexpected medical or travel-related expenses.
+
+---
+
+*Evergreen reference content. Verify time-sensitive details with official sources.*

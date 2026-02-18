@@ -1,0 +1,79 @@
+---
+title: "Mayotte Cities & Regions Guide"
+entity: "Mayotte"
+iso_code: "YT"
+continent: "africa"
+angle: "cities-and-regions"
+date: "2026-02-17"
+---
+
+# Mayotte Cities & Regions Guide
+
+Mayotte is divided into 17 communes, with the largest city being Mamoudzou, which also serves as the capital, and the territory is further organized into several regions, each with its unique character and attractions.
+
+[FACTBOX]
+Administrative Divisions: 17 communes
+Largest City: Mamoudzou, 57,281
+Capital: Mamoudzou
+Number of Cities Over 1M: 0
+[/FACTBOX]
+
+[SECTION] How Mayotte Is Divided [/SECTION]
+Mayotte is an overseas department and region of France, located in the Indian Ocean, and its administrative structure is divided into 17 communes, which are grouped into the departments of Mayotte. The territory is further organized into several regions, each with its own unique character and attractions. The communes are the basic administrative units, responsible for providing local services such as education, healthcare, and infrastructure. The departments, on the other hand, are responsible for implementing national policies and providing support to the communes.
+
+The administrative structure of Mayotte is designed to provide a high level of autonomy to the local communities, while also ensuring that the territory is well-integrated into the French administrative system. This structure has been in place since Mayotte became an overseas department of France in 2011, and it has helped to promote economic development, improve living standards, and enhance the overall quality of life for the people of Mayotte.
+
+[SECTION] Major Cities [/SECTION]
+**Mamoudzou** (57,281)
+Role: capital, economic hub
+Known For: its vibrant markets, historic landmarks, and stunning natural beauty
+Best For: visitors interested in history, culture, and outdoor activities
+
+**Koungou** (26,488)
+Role: economic hub, port city
+Known For: its beautiful beaches, vibrant nightlife, and historic fortifications
+Best For: visitors looking for a mix of relaxation, entertainment, and cultural experiences
+
+**Dzaoudzi** (17,831)
+Role: former capital, cultural center
+Known For: its historic architecture, vibrant markets, and stunning ocean views
+Best For: visitors interested in history, culture, and scenic beauty
+
+**Dembeni** (10,141)
+Role: economic hub, agricultural center
+Known For: its fertile soil, beautiful landscapes, and traditional farming practices
+Best For: visitors interested in agriculture, nature, and rural life
+
+**Sada** (11,802)
+Role: economic hub, port city
+Known For: its beautiful beaches, vibrant markets, and historic landmarks
+Best For: visitors looking for a mix of relaxation, entertainment, and cultural experiences
+
+[SECTION] Key Regions [/SECTION]
+[TABLE]
+| Region | Character | Known For | Major City |
+| --- | --- | --- | --- |
+| Grande-Terre | mountainous, scenic | beautiful landscapes, hiking trails | Mamoudzou |
+| Petite-Terre | flat, coastal | beautiful beaches, vibrant nightlife | Dzaoudzi |
+| Northern Region | rural, agricultural | fertile soil, traditional farming | Dembeni |
+| Southern Region | urban, economic | vibrant markets, historic landmarks | Koungou |
+| Eastern Region | coastal, scenic | stunning ocean views, beautiful beaches | Sada |
+| Western Region | mountainous, rural | beautiful landscapes, hiking trails | Acoua |
+| Central Region | urban, economic | vibrant markets, historic landmarks | Mamoudzou |
+| Coastal Region | coastal, scenic | beautiful beaches, vibrant nightlife | Dzaoudzi |
+[/TABLE]
+
+[SECTION] Regional Differences [/SECTION]
+- The Grande-Terre region is known for its mountainous terrain, scenic beauty, and outdoor recreational opportunities, making it a popular destination for hikers and nature lovers.
+- The Petite-Terre region is characterized by its flat, coastal terrain, beautiful beaches, and vibrant nightlife, making it a popular destination for tourists and partygoers.
+- The Northern Region is a rural, agricultural area, known for its fertile soil, traditional farming practices, and beautiful landscapes, making it a popular destination for visitors interested in agriculture and rural life.
+- The Southern Region is an urban, economic hub, known for its vibrant markets, historic landmarks, and stunning natural beauty, making it a popular destination for visitors interested in culture, history, and outdoor activities.
+
+[SECTION] Getting Around [/SECTION]
+Mayotte has a well-developed transportation network, with several options available for getting around the territory. The most convenient way to travel is by car, with several rental companies available at the airport and in the major cities. The roads are generally in good condition, but driving can be challenging, especially in the rural areas. There are also several bus companies that operate throughout the territory, providing a affordable and convenient way to travel. Additionally, there are several domestic flights available, connecting the major cities and regions. The territory is also home to several ports, with regular ferry services connecting Mayotte to the neighboring islands and the mainland.
+
+The best way to get around Mayotte depends on your budget, time, and personal preferences. If you're looking for a convenient and flexible way to travel, renting a car is a good option. If you're on a budget, taking the bus is a affordable and convenient way to get around. If you're short on time, taking a domestic flight is a good option. Whatever your choice, Mayotte has a well-developed transportation network that makes it easy to get around and explore the territory.
+
+---
+
+*Evergreen reference content. Verify time-sensitive details with official sources.*

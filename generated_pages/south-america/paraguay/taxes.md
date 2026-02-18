@@ -1,0 +1,69 @@
+---
+title: "Paraguay Tax Guide — Income, Corporate & VAT Rates"
+entity: "Paraguay"
+iso_code: "PY"
+continent: "south-america"
+angle: "taxes"
+date: "2026-02-17"
+---
+
+# Paraguay Tax Guide — Income, Corporate & VAT Rates
+
+The tax rates in Paraguay range from 8% to 30% for personal income, 10% for corporate tax, and 10% for value-added tax, with various deductions, allowances, and exemptions available for residents and non-residents. 
+
+[CALLOUT] Tax laws change frequently. Always consult a qualified tax professional for advice specific to your situation. This is a general guide only. [/CALLOUT]
+
+[FACTBOX]
+Income Tax Range: 8% - 30%
+Corporate Tax: 10%
+VAT/GST: 10%
+Capital Gains Tax: 20% or included in income
+Tax Year: Jan-Dec
+Tax Treaty Network: 15 countries
+[/FACTBOX]
+
+[SECTION] Tax System Overview [/SECTION]
+Paraguay has a **territorial taxation** system, which means that only income earned within the country is subject to tax, with some exceptions for foreign-sourced income. To be considered a tax resident in Paraguay, an individual must have a permanent home in the country, be present in the country for more than 183 days in a calendar year, or have a spouse or children who are tax residents. The tax system in Paraguay is relatively straightforward, with a focus on simplicity and ease of compliance.
+
+The country's tax laws are governed by the **National Tax Administration**, which is responsible for collecting taxes, enforcing tax laws, and providing guidance to taxpayers. The tax year in Paraguay runs from January to December, and taxpayers are required to file their tax returns by the end of April of the following year. The country has a network of tax treaties with 15 countries, which helps to reduce double taxation and promote international trade and investment.
+
+[SECTION] Personal Income Tax [/SECTION]
+| Income Bracket (PYG) | Tax Rate |
+| --- | --- |
+| 0 - 5,000,000 | 8% |
+| 5,000,001 - 10,000,000 | 12% |
+| 10,000,001 - 20,000,000 | 18% |
+| 20,000,001 - 30,000,000 | 25% |
+| 30,000,001 and above | 30% |
+Taxpayers in Paraguay are entitled to various deductions and allowances, including a personal exemption, deductions for mortgage interest and charitable donations, and a credit for foreign taxes paid. Tax returns must be filed electronically, and taxpayers are required to pay any tax due by the end of April of the following year. Failure to file or pay taxes on time can result in penalties and interest charges.
+
+[SECTION] Corporate & Business Tax [/SECTION]
+- The **corporate tax rate** in Paraguay is 10%, which applies to all companies, including foreign companies with a permanent establishment in the country.
+- Small businesses with annual turnover of less than PYG 50 million may be eligible for a reduced tax rate of 5%.
+- Paraguay has several **free zones**, which offer tax exemptions and other incentives to companies that establish operations in these areas.
+- Companies must register with the tax authority and obtain a tax identification number in order to conduct business in Paraguay.
+- Foreign companies must also register with the **National Registry of Commerce** and obtain a commercial license.
+
+[SECTION] VAT / Sales Tax [/SECTION]
+- The **standard VAT rate** in Paraguay is 10%, which applies to most goods and services.
+- A reduced rate of 5% applies to certain basic necessities, such as food, clothing, and healthcare services.
+- Some goods and services, such as financial services and education, are exempt from VAT.
+- Tourists may be eligible for a **tax refund** on certain purchases, such as hotel accommodations and tourist services.
+
+[SECTION] For Expats & Foreign Workers [/SECTION]
+- Foreign workers who are tax residents in Paraguay are subject to tax on their worldwide income, including income earned outside of Paraguay.
+- Non-resident foreign workers are subject to tax only on their Paraguayan-sourced income.
+- Paraguay has **double taxation treaties** with 15 countries, which help to reduce double taxation and fiscal evasion.
+- Foreign workers must obtain a **tax identification number** and register with the tax authority in order to work in Paraguay.
+- Foreign workers may be required to pay **social security contributions**, which provide access to healthcare and other benefits.
+- Remittances of foreign currency are subject to a **withholding tax** of 10%, which can be reduced or eliminated under certain circumstances.
+
+[SECTION] Crypto & Investment Income [/SECTION]
+- Investment income, such as **dividends** and **interest**, is subject to tax at a rate of 20%.
+- **Capital gains** are taxed at a rate of 20%, or may be included in income tax at the taxpayer's marginal rate.
+- **Cryptocurrency** transactions are subject to tax, including gains from the sale of cryptocurrency, which are taxed as capital gains.
+- Taxpayers must report their investment income and cryptocurrency transactions on their tax return, and pay any tax due by the end of April of the following year.
+
+---
+
+*Evergreen reference content. Verify time-sensitive details with official sources.*

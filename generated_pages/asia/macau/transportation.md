@@ -1,0 +1,65 @@
+---
+title: "Getting Around Macau — Transport & Travel Guide"
+entity: "Macau"
+iso_code: "MO"
+continent: "asia"
+angle: "transportation"
+date: "2026-02-17"
+---
+
+# Getting Around Macau — Transport & Travel Guide
+
+To get around in Macau, you can use a variety of transportation options including buses, taxis, and ride-hailing apps, as well as walk or take a bike in this compact special administrative region of China.
+
+[FACTBOX]
+Main International Airport(s): Macau International Airport (MFM)
+Domestic Air Network: limited
+Rail Network: none
+Drives On: left
+Road Quality: good
+Ride-Hailing Apps: Didi Chuxing, Grab, local alternatives
+[/FACTBOX]
+
+[SECTION] Getting There [/SECTION]
+Macau International Airport (MFM) is the main entry point for travelers visiting Macau, with direct flights from major cities in Asia, including Beijing, Shanghai, and Taipei. You can also reach Macau by ferry from Hong Kong or Guangzhou, with frequent sailings throughout the day. The ferry terminal is located in the Outer Harbour area of Macau, and the journey takes around 60-90 minutes from Hong Kong. Additionally, you can enter Macau by land from mainland China, with the main border crossing located at the Portas do Cerco, which connects Macau to the city of Zhuhai.
+
+The most convenient way to get to Macau from Hong Kong is by ferry, with services operated by TurboJET and Cotai Water Jet. You can book tickets online in advance, and the journey takes around 60 minutes. Alternatively, you can take a bus or taxi from the Hong Kong-Zhuhai-Macau Bridge, which connects the three cities. The bridge is around 55 kilometers long and takes around 30-40 minutes to cross by car. There are also bus services available from major cities in Guangdong Province, including Guangzhou and Shenzhen.
+
+[SECTION] Domestic Flights [/SECTION]
+Macau has a limited domestic air network, with most flights connecting to major cities in mainland China. The main domestic airline is Air Macau, which operates flights to cities such as Beijing, Shanghai, and Chengdu. You can book flights online or through a travel agent, and prices vary depending on the route and time of year. A one-way ticket from Macau to Beijing, for example, can cost around $200-$300. It's worth noting that Macau is a small region, and most domestic flights are short-haul, with flight times ranging from 1-3 hours.
+
+[SECTION] Trains & Rail [/SECTION]
+Macau does not have a rail network, and the only way to travel by train is to take a bus or taxi to the nearby city of Zhuhai in mainland China, where you can connect to the high-speed rail network. From Zhuhai, you can take a train to major cities in China, including Guangzhou, Shanghai, and Beijing. The high-speed rail network in China is extensive and modern, with frequent departures throughout the day. You can book tickets online or at the train station, and prices vary depending on the route and class of service.
+
+[SECTION] Buses & Coaches [/SECTION]
+Macau has an extensive network of buses and coaches, with services operated by several companies, including Transmac and TCM. Buses are a convenient and affordable way to get around Macau, with fares starting from around $1. You can pay the fare in cash when you board the bus, or use a rechargeable smart card. There are also bus services available to nearby cities in mainland China, including Zhuhai and Guangzhou. The bus journey from Macau to Zhuhai takes around 30-40 minutes, and costs around $5-$10.
+
+[SECTION] City Transport [/SECTION]
+| Mode | Available In | Cost (USD) | Notes |
+| --- | --- | --- | --- |
+| Metro/Subway | none | - | Macau does not have a metro or subway system |
+| City Bus | Macau | $0.50-$1.50 | frequent services throughout the day |
+| Taxi | everywhere | $3-$5/km | metered fares, with a minimum charge of $3 |
+| Ride-Hailing | Macau | $5-$10 | available through Didi Chuxing and Grab |
+| Tuk-tuk/Rickshaw | none | - | not available in Macau |
+
+[SECTION] Driving [/SECTION]
+- To drive in Macau, you need to have a valid driver's license from your home country or an International Driving Permit.
+- The road quality in Macau is generally good, with well-maintained roads and highways.
+- Fuel costs in Macau are relatively high, with gasoline prices around $1.50 per liter.
+- Car rental companies are available in Macau, with prices starting from around $40 per day for a compact car.
+- When driving in Macau, be aware of the traffic rules and regulations, including the requirement to drive on the left-hand side of the road.
+- Be careful when driving at night, as the roads can be narrow and winding, and there may be pedestrians and cyclists on the road.
+
+[SECTION] Transport Tips [/SECTION]
+- When taking a taxi, make sure to use a metered fare, and check the meter before you start your journey.
+- Be aware of **traffic scams**, where taxi drivers may take you on a longer route to increase the fare.
+- Download the **Didi Chuxing** or **Grab** app to book a ride-hailing service, which can be more convenient and affordable than a taxi.
+- When using public transportation, be prepared for **crowds** and **long queues**, especially during peak hours.
+- Consider purchasing a **rechargeable smart card** for use on buses and other public transportation, which can be more convenient and cost-effective than paying in cash.
+- Be mindful of your **personal belongings**, especially in crowded areas and tourist hotspots, and take necessary precautions to prevent **pickpocketing** or **theft**.
+- Learn some basic **Cantonese phrases**, such as "hello" (nei ho) and "thank you" (m goi), which can help you communicate with locals and enhance your travel experience.
+
+---
+
+*Evergreen reference content. Verify time-sensitive details with official sources.*

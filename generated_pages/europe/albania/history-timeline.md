@@ -1,0 +1,65 @@
+---
+title: "Albania History — Key Events & Timeline"
+entity: "Albania"
+iso_code: "AL"
+continent: "europe"
+angle: "history-timeline"
+date: "2026-02-17"
+---
+
+# Albania History — Key Events & Timeline
+
+The history of Albania is a complex and fascinating narrative that spans thousands of years, from the earliest known civilizations to the modern era, with key events shaping the country into the sovereign state it is today.
+
+[SECTION] Historical Overview [/SECTION]
+Albania's history began with the **Illyrians**, an ancient civilization that inhabited the region from the 8th century BC. The Illyrians were a group of tribes that lived in the western part of the Balkan Peninsula, and their culture and traditions had a significant impact on the development of the region. In the 2nd century BC, Albania was conquered by the **Romans**, who introduced their language, culture, and administrative systems to the region. The Roman Empire had a profound impact on Albania, leaving behind a legacy of architecture, law, and governance that can still be seen today. With the decline of the Roman Empire, Albania was invaded by various barbarian tribes, including the **Visigoths** and the **Ottomans**, who introduced **Islam** to the region. The Ottoman Empire ruled Albania for nearly 500 years, during which time the country developed a unique cultural identity that blended Islamic and Christian traditions.
+
+In the 19th century, Albania began to experience a national awakening, with the emergence of a movement for **independence**. This movement was led by figures such as **Ismail Qemali**, who declared Albania's independence from the Ottoman Empire in 1912. The country then became a **principality**, with **William of Wied** as its first ruler. However, this period of independence was short-lived, as Albania was soon occupied by **Austria-Hungary** during World War I. After the war, Albania became a **republic**, with **Ahmet Zogu** as its first president. Zogu's rule was marked by a series of reforms, including the introduction of a new **constitution** and the establishment of a **parliament**.
+
+In the 20th century, Albania experienced a period of significant turmoil, including a **communist** revolution led by **Enver Hoxha**, who ruled the country from 1944 until his death in 1985. Hoxha's regime was marked by a series of **purges** and **repression**, during which time many Albanians were imprisoned or executed for their perceived disloyalty to the regime. With the fall of communism in the late 1980s, Albania began to transition towards a **democratic** system, with the introduction of **multi-party elections** and a new **constitution**. Today, Albania is a **sovereign state**, with a growing economy and a rich cultural heritage.
+
+The country's history has been marked by a series of significant events, including the **Balkan Wars**, the **World Wars**, and the **Cold War**. These events have had a profound impact on the development of Albania, shaping its politics, economy, and culture. Despite these challenges, Albania has emerged as a strong and independent nation, with a unique cultural identity and a deep sense of national pride.
+
+[SECTION] Timeline of Key Events [/SECTION]
+1. **8th century BC** - The Illyrians establish themselves in the region, developing a distinct culture and tradition. The Illyrians were a group of tribes that lived in the western part of the Balkan Peninsula.
+2. **2nd century BC** - Albania is conquered by the Romans, who introduce their language, culture, and administrative systems to the region. The Roman Empire had a profound impact on Albania, leaving behind a legacy of architecture, law, and governance.
+3. **5th century AD** - The Roman Empire declines, and Albania is invaded by various barbarian tribes, including the Visigoths. The Visigoths were a Germanic tribe that played a significant role in the development of the region.
+4. **14th century** - The Ottoman Empire conquers Albania, introducing Islam to the region. The Ottoman Empire ruled Albania for nearly 500 years, during which time the country developed a unique cultural identity that blended Islamic and Christian traditions.
+5. **1878** - The League of Prizren is established, marking the beginning of the Albanian national awakening. The League of Prizren was a nationalist organization that aimed to promote Albanian independence and self-determination.
+6. **1912** - Albania declares its independence from the Ottoman Empire, with Ismail Qemali as its first leader. Qemali was a key figure in the Albanian national movement, and his declaration of independence marked the beginning of a new era for the country.
+7. **1914** - Albania becomes a principality, with William of Wied as its first ruler. Wied was a German prince who was appointed as the ruler of Albania by the Great Powers.
+8. **1916** - Albania is occupied by Austria-Hungary during World War I. The occupation had a significant impact on the country, leading to widespread destruction and loss of life.
+9. **1920** - Albania becomes a republic, with Ahmet Zogu as its first president. Zogu was a key figure in Albanian politics, and his presidency marked the beginning of a new era for the country.
+10. **1939** - Albania is invaded by Italy, marking the beginning of World War II in the region. The invasion had a significant impact on the country, leading to widespread destruction and loss of life.
+11. **1944** - Enver Hoxha leads a communist revolution, establishing a socialist government in Albania. Hoxha's regime was marked by a series of purges and repression, during which time many Albanians were imprisoned or executed for their perceived disloyalty to the regime.
+12. **1946** - Albania becomes a socialist republic, with Enver Hoxha as its leader. Hoxha's regime was marked by a series of significant events, including the establishment of a new constitution and the introduction of a planned economy.
+13. **1960** - Albania breaks off relations with the Soviet Union, aligning itself with China. The break had a significant impact on the country, leading to a period of isolation and economic stagnation.
+14. **1985** - Enver Hoxha dies, marking the beginning of a transition towards democracy in Albania. Hoxha's death marked the end of an era for Albania, and the country began to transition towards a more democratic system.
+15. **1991** - Albania holds its first multi-party elections, marking the beginning of a new era of democracy. The elections were a significant milestone for the country, marking the beginning of a new era of freedom and self-determination.
+16. **1997** - Albania experiences a period of civil unrest, with the emergence of armed groups and a breakdown in law and order. The unrest had a significant impact on the country, leading to widespread destruction and loss of life.
+17. **1999** - Albania joins the United Nations, marking its integration into the international community. The membership had a significant impact on the country, leading to increased cooperation and diplomatic relations with other countries.
+18. **2009** - Albania joins NATO, marking its integration into the Western security alliance. The membership had a significant impact on the country, leading to increased cooperation and security guarantees with other countries.
+19. **2014** - Albania applies for membership in the European Union, marking its commitment to European integration. The application had a significant impact on the country, leading to increased cooperation and economic integration with other European countries.
+20. **2020** - Albania experiences a significant earthquake, with widespread damage and loss of life. The earthquake had a significant impact on the country, leading to a major humanitarian response and reconstruction effort.
+
+[SECTION] Founding & Formation [/SECTION]
+Albania's founding and formation as a modern state are closely tied to the national awakening movement of the 19th century. This movement, led by figures such as Ismail Qemali, sought to promote Albanian independence and self-determination. In 1912, Albania declared its independence from the Ottoman Empire, with Qemali as its first leader. The country then became a principality, with William of Wied as its first ruler. However, this period of independence was short-lived, as Albania was soon occupied by Austria-Hungary during World War I. After the war, Albania became a republic, with Ahmet Zogu as its first president.
+
+The early years of Albania's independence were marked by a series of challenges, including the need to establish a stable government and economy. The country faced significant opposition from neighboring countries, including Greece and Yugoslavia, which sought to annex Albanian territory. Despite these challenges, Albania was able to maintain its independence and sovereignty, thanks in part to the support of the international community. Today, Albania is a sovereign state, with a growing economy and a rich cultural heritage. The country continues to face challenges, including corruption and organized crime, but it has made significant progress in recent years, with the introduction of reforms and the promotion of democratic values.
+
+[SECTION] Colonial & Independence Period [/SECTION]
+Albania's colonial history is closely tied to the Ottoman Empire, which ruled the country for nearly 500 years. During this period, Albania developed a unique cultural identity that blended Islamic and Christian traditions. The Ottoman Empire introduced **Islam** to the region, which had a profound impact on the development of Albanian culture and society. Despite the challenges of Ottoman rule, Albania was able to maintain its independence and sovereignty, thanks in part to the support of the international community.
+
+The Albanian independence movement emerged in the 19th century, with the establishment of the League of Prizren in 1878. This movement, led by figures such as Ismail Qemali, sought to promote Albanian independence and self-determination. In 1912, Albania declared its independence from the Ottoman Empire, with Qemali as its first leader. The country then became a principality, with William of Wied as its first ruler. However, this period of independence was short-lived, as Albania was soon occupied by Austria-Hungary during World War I.
+
+[SECTION] Colonial & Independence Period Continued [/SECTION]
+After World War I, Albania became a republic, with Ahmet Zogu as its first president. Zogu's rule was marked by a series of reforms, including the introduction of a new **constitution** and the establishment of a **parliament**. However, Zogu's regime was also marked by a series of challenges, including opposition from neighboring countries and internal power struggles. Despite these challenges, Albania was able to maintain its independence and sovereignty, thanks in part to the support of the international community.
+
+During World War II, Albania was invaded by Italy, which had a significant impact on the country. The invasion led to widespread destruction and loss of life, and the country was forced to adopt a series of **fascist** policies. However, Albania was also able to resist the invasion, thanks in part to the emergence of a **partisan** movement led by Enver Hoxha. Hoxha's movement was able to drive the Italians out of the country, and Albania was eventually liberated by the Allies.
+
+[SECTION] Modern Era [/SECTION]
+In the modern era, Albania has experienced a period of significant transformation, with the introduction of democratic reforms and the promotion of economic development. The country has made significant progress in recent years, with the introduction of a new **constitution** and the establishment of a **multi-party system**. Albania has also joined a number of international organizations, including the **United Nations** and **NATO**, and has applied for membership in
+
+---
+
+*Evergreen reference content. Verify time-sensitive details with official sources.*

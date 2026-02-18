@@ -1,0 +1,66 @@
+---
+title: "Latvia Education — Schools, Universities & Student Guide"
+entity: "Latvia"
+iso_code: "LV"
+continent: "europe"
+angle: "education"
+date: "2026-02-17"
+---
+
+# Latvia Education — Schools, Universities & Student Guide
+
+The education system in Latvia is well-structured and offers a wide range of opportunities for students, with a strong emphasis on **academic excellence** and **language skills**.
+
+[FACTBOX]
+Literacy Rate: 99.9%
+School System: 12 years of compulsory education
+Language of Instruction: Latvian
+Academic Calendar: September to June
+International Schools: available
+Top University Ranking: ranked among the top 500 universities globally
+[/FACTBOX]
+
+[SECTION] Education System Overview [/SECTION]
+The education system in Latvia is divided into three main stages: primary, secondary, and tertiary education. Primary education lasts for six years, starting from the age of six, and is compulsory for all children. Secondary education is divided into two stages: lower secondary education, which lasts for three years, and upper secondary education, which lasts for three years. Tertiary education is provided by universities and colleges, and offers a wide range of academic programs. The quality of education in Latvia is generally high, with a strong emphasis on **mathematics**, **science**, and **languages**. Public education is free and widely available, while private education is also an option for those who can afford it.
+
+The education system in Latvia is overseen by the Ministry of Education and Science, which is responsible for setting educational policies and standards. The ministry also provides funding for public education and supports the development of private education. In recent years, there has been a growing trend towards **internationalization** of education in Latvia, with many universities and colleges offering programs in English and other languages.
+
+Overall, the education system in Latvia is well-structured and offers a wide range of opportunities for students. However, there are some challenges, such as a lack of funding for public education and a shortage of qualified teachers in certain subjects. Despite these challenges, Latvia has made significant progress in recent years in improving the quality of education and increasing access to education for all.
+
+[SECTION] Top Universities [/SECTION]
+[TABLE]
+| University | Location | Known For | Est. Tuition (USD/year) |
+| --- | --- | --- | --- |
+| University of Latvia | Riga | **social sciences**, **humanities** | 2,500 |
+| Riga Technical University | Riga | **engineering**, **technology** | 3,000 |
+| Latvia University of Life Sciences and Technologies | Jelgava | **agriculture**, **forestry** | 2,000 |
+| Riga Stradins University | Riga | **medicine**, **health sciences** | 5,000 |
+| Daugavpils University | Daugavpils | **social sciences**, **humanities** | 1,500 |
+| Liepaja University | Liepaja | **arts**, **humanities** | 2,000 |
+[/TABLE]
+
+[SECTION] International Schools [/SECTION]
+- International schools are available in major cities, such as Riga and Daugavpils, offering a range of curricula, including **International Baccalaureate (IB)**, **British**, and **American**.
+- The cost of attending an international school in Latvia can range from 2,000 to 10,000 USD per year, depending on the school and the program.
+- Many international schools in Latvia offer a range of extracurricular activities, such as sports, music, and art.
+- Some international schools in Latvia also offer boarding facilities for students who need to live away from home.
+- The availability of international schools in Latvia has increased in recent years, making it easier for foreign students to access education in the country.
+
+[SECTION] Studying as a Foreigner [/SECTION]
+- To study in Latvia, foreign students need to obtain a **student visa**, which can be applied for at the Latvian embassy or consulate in their home country.
+- Foreign students are required to have a good command of **Latvian** or **English**, depending on the program they are applying for.
+- There are several **scholarships** available for foreign students, including the Latvian Government Scholarship and the Erasmus Mundus Scholarship.
+- The cost of living in Latvia is relatively low, with **rent** starting from 200 USD per month and **food** starting from 3 USD per meal.
+- Foreign students can also work part-time while studying in Latvia, with a **work permit** required for non-EU citizens.
+- The **application process** for foreign students typically starts in the spring, with deadlines varying depending on the university and program.
+
+[SECTION] Education Quality & Challenges [/SECTION]
+- One of the strengths of the education system in Latvia is its **emphasis on language skills**, with many students speaking multiple languages, including Latvian, English, and Russian.
+- However, one of the challenges facing the education system in Latvia is a **shortage of qualified teachers** in certain subjects, such as mathematics and science.
+- Another challenge is the **lack of funding** for public education, which can limit the resources available to schools and universities.
+- Despite these challenges, Latvia has made significant progress in recent years in **improving the quality of education** and increasing access to education for all.
+- The education system in Latvia is also **adapting to the needs of the economy**, with a growing focus on **STEM education** and **vocational training**.
+
+---
+
+*Evergreen reference content. Verify time-sensitive details with official sources.*

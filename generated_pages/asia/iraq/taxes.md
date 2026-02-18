@@ -1,0 +1,69 @@
+---
+title: "Iraq Tax Guide — Income, Corporate & VAT Rates"
+entity: "Iraq"
+iso_code: "IQ"
+continent: "asia"
+angle: "taxes"
+date: "2026-02-17"
+---
+
+# Iraq Tax Guide — Income, Corporate & VAT Rates
+
+The tax rates in Iraq range from 3% to 15% for personal income tax, with a corporate tax rate of 15%, and a value-added tax (VAT) rate of 10% on certain goods and services. 
+
+[CALLOUT] Tax laws change frequently. Always consult a qualified tax professional for advice specific to your situation. This is a general guide only. [/CALLOUT]
+
+[FACTBOX]
+Income Tax Range: 3% - 15%
+Corporate Tax: 15%
+VAT/GST: 10%
+Capital Gains Tax: included in income
+Tax Year: Jan-Dec
+Tax Treaty Network: 10 countries
+[/FACTBOX]
+
+[SECTION] Tax System Overview [/SECTION]
+Iraq's tax system is based on **territorial taxation**, where individuals and companies are taxed on their income earned within the country, regardless of their residency status. However, residents are also subject to tax on their worldwide income, with certain exceptions and deductions available. The residency rules for tax purposes in Iraq are based on the individual's physical presence in the country, with individuals considered residents if they have been present in Iraq for more than 183 days in a calendar year.
+
+The Iraqi tax system is governed by the **Income Tax Law No. 113 of 1982**, which has undergone several amendments over the years. The law sets out the rules and regulations for the taxation of individuals and companies, including the tax rates, exemptions, and deductions available. The tax authority responsible for administering the tax system in Iraq is the **General Commission for Taxes**, which is responsible for collecting taxes, auditing tax returns, and providing tax guidance to taxpayers.
+
+[SECTION] Personal Income Tax [/SECTION]
+| Income Bracket (IQD) | Tax Rate |
+| --- | --- |
+| 0 - 5,000,000 | 3% |
+| 5,000,001 - 10,000,000 | 5% |
+| 10,000,001 - 20,000,000 | 10% |
+| 20,000,001 - 50,000,000 | 12% |
+| above 50,000,000 | 15% |
+The personal income tax rates in Iraq are progressive, with higher income earners paying a higher tax rate. Taxpayers are also eligible for certain **deductions and allowances**, such as a personal allowance of IQD 5 million, and deductions for mortgage interest, charitable donations, and education expenses. Tax returns must be filed annually, and taxpayers are required to pay their taxes in installments throughout the year.
+
+[SECTION] Corporate & Business Tax [/SECTION]
+- The corporate tax rate in Iraq is 15% of taxable profits, with certain exemptions and deductions available for **small and medium-sized enterprises**.
+- Companies operating in **free zones** are exempt from corporate tax for a period of 10 years, and are also eligible for other incentives such as exemption from customs duties and taxes.
+- Companies are required to **register with the General Commission for Taxes** and obtain a tax identification number in order to operate in Iraq.
+- Companies are also required to **submit annual tax returns** and pay their taxes in installments throughout the year.
+- The Iraqi government offers various **incentives for foreign investment**, including tax exemptions, subsidies, and other forms of support.
+
+[SECTION] VAT / Sales Tax [/SECTION]
+- The standard **VAT rate** in Iraq is 10%, which applies to most goods and services.
+- Certain goods and services are exempt from VAT, such as basic foodstuffs, healthcare services, and education.
+- A **reduced VAT rate** of 5% applies to certain goods and services, such as telecommunications services and hotel accommodations.
+- There are no **tourist refund schemes** available in Iraq, and VAT is not refundable to tourists or visitors.
+
+[SECTION] For Expats & Foreign Workers [/SECTION]
+- **Tax residency rules** apply to individuals who have been present in Iraq for more than 183 days in a calendar year, and are subject to tax on their worldwide income.
+- Iraq has **double taxation treaties** with several countries, including Turkey, Iran, and Kuwait, which can help to reduce or eliminate double taxation.
+- Foreign workers are required to **register with the General Commission for Taxes** and obtain a tax identification number in order to work in Iraq.
+- Foreign workers are also required to **pay social security contributions**, which are used to fund social security benefits such as pensions and healthcare.
+- Foreign workers are subject to **remittance rules**, which require them to transfer a certain percentage of their salary to their home country.
+- Foreign workers may also be eligible for **tax credits** or **tax deductions** on their foreign-earned income.
+
+[SECTION] Crypto & Investment Income [/SECTION]
+- **Investment income**, such as dividends, interest, and capital gains, is subject to tax in Iraq, and is included in the taxpayer's taxable income.
+- **Cryptocurrency** is considered a **commodity** in Iraq, and is subject to tax on any gains or profits realized from its sale or exchange.
+- **Dividends** received by Iraqi residents are subject to a **withholding tax** of 10%, which can be reduced or eliminated under certain double taxation treaties.
+- **Capital gains tax** is included in the taxpayer's taxable income, and is subject to tax at the applicable tax rate.
+
+---
+
+*Evergreen reference content. Verify time-sensitive details with official sources.*

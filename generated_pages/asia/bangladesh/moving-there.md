@@ -1,0 +1,71 @@
+---
+title: "Moving to Bangladesh — Visas, Residency & Expat Guide"
+entity: "Bangladesh"
+iso_code: "BD"
+continent: "asia"
+angle: "moving-there"
+date: "2026-02-17"
+---
+
+# Moving to Bangladesh — Visas, Residency & Expat Guide
+
+To move to Bangladesh, you will need to navigate the country's visa and residency options, understand the local culture and way of life, and prepare yourself for the challenges and opportunities that come with living in a developing country.
+
+[SECTION] Why People Move to Bangladesh [/SECTION]
+Bangladesh is a country with a rich cultural heritage and a growing economy, attracting expats from around the world who are drawn to its **low cost of living**, **friendly people**, and **opportunities for career advancement**. The majority of expats in Bangladesh are from India, the United States, and the United Kingdom, and they are often employed in the **garment industry**, **development sector**, or **education**. The quality of life in Bangladesh can be challenging, with **traffic congestion**, **power outages**, and **limited access to healthcare** being common complaints, but many expats find the **warm hospitality** and **resilience of the Bangladeshi people** to be rewarding and inspiring.
+
+Despite the challenges, Bangladesh offers a unique and rewarding experience for expats, with a **vibrant cultural scene**, **delicious cuisine**, and **opportunities to make a positive impact**. The country is also home to a growing number of **expat communities**, with many social clubs, organizations, and online forums available to help newcomers settle in and connect with others. Whether you are moving to Bangladesh for work, study, or retirement, it is essential to be prepared for the **culture shock** and **bureaucratic hurdles** that can come with living in a developing country.
+
+The demographics of expats in Bangladesh are diverse, with people from all over the world living and working in the country. However, the majority of expats are from Asia, with many coming from India, China, and Japan. The expat community in Bangladesh is relatively small, but it is growing, with many new arrivals coming to the country each year. To make the most of your experience in Bangladesh, it is essential to be open-minded, flexible, and willing to learn about the local culture and way of life.
+
+[SECTION] Visa & Residency Options [/SECTION]
+[TABLE]
+| Visa Type | Duration | Requirements | Cost (USD) | Path to PR? |
+| --- | --- | --- | --- | --- |
+| Tourist | Up to 30 days | Valid passport, return ticket, proof of funds | 50-100 | No |
+| Work Visa | Up to 2 years | Job offer, employer sponsorship, degree and experience | 100-500 | Yes |
+| Business/Investor | Up to 5 years | Business plan, investment proof, police certificate | 500-1000 | Yes |
+| Retirement | Up to 5 years | Proof of pension, health insurance, police certificate | 100-500 | No |
+| Student | Up to 5 years | Admission letter, proof of funds, health insurance | 50-200 | No |
+| Digital Nomad | Up to 1 year | Proof of income, health insurance, police certificate | 100-500 | No |
+[/TABLE]
+
+[SECTION] Relocation Checklist [/SECTION]
+1. Research the cost of living in Bangladesh and create a budget
+2. Apply for a visa and ensure you have all necessary documentation
+3. Find accommodation in a safe and convenient location
+4. Open a bank account and transfer funds to Bangladesh
+5. Register with the local authorities and obtain a tax identification number
+6. Find a job or start a business, if applicable
+7. Enroll in a health insurance plan and research local healthcare options
+8. Learn some basic Bengali phrases and about the local culture
+9. Connect with other expats and join social clubs or organizations
+10. Plan for emergencies and have a contingency plan in place
+11. Bring essential items, such as clothing and electronics, that may be difficult to find in Bangladesh
+12. Stay up-to-date with local news and events to stay informed about any changes or developments that may affect your life in Bangladesh
+
+[SECTION] Expat Communities [/SECTION]
+- The **Gulshan** and **Banani** areas of Dhaka are popular with expats, with many restaurants, bars, and social clubs
+- The **Dhaka Expats** Facebook group is a great resource for connecting with other expats and finding information about events and activities
+- The **Bangladesh Expatriate Association** is a social club that organizes events and activities for expats
+- The **International School Dhaka** is a popular school for expat children, with a diverse student body and international curriculum
+- The **Dhaka Hash House Harriers** is a social running club that organizes weekly runs and social events
+
+[SECTION] Banking & Finances [/SECTION]
+- Opening a bank account in Bangladesh can be a straightforward process, with many banks offering services in English
+- **Money transfers** can be made through banks or money transfer services, such as Western Union or MoneyGram
+- The **Bangladeshi taka** is the local currency, and it is best to exchange currency at a bank or reputable currency exchange
+- **Credit cards** are widely accepted in major cities, but cash is still the preferred method of payment
+- **Taxes** can be complex, and it is recommended to consult with a tax professional to ensure compliance with local regulations
+
+[SECTION] Challenges & Honest Advice [/SECTION]
+- **Culture shock** can be a significant challenge for expats in Bangladesh, with the country's **crowded streets**, **noise**, and **bureaucratic systems** being overwhelming at times
+- **Language barriers** can also be a challenge, with many Bangladeshis speaking limited English, especially outside of major cities
+- **Traffic congestion** is a major problem in Dhaka, with **gridlock** and **air pollution** being common complaints
+- **Power outages** can occur, especially during the summer months, and it is essential to have a **backup power source**, such as a generator or UPS
+- **Healthcare** can be limited, especially outside of major cities, and it is essential to have a **health insurance plan** that covers evacuation to a nearby country, if necessary
+- **Corruption** can be a problem, and it is essential to be aware of the **local customs** and **regulations** to avoid any issues.
+
+---
+
+*Evergreen reference content. Verify time-sensitive details with official sources.*

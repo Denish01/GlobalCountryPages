@@ -1,0 +1,70 @@
+---
+title: "South Korea History — Key Events & Timeline"
+entity: "South Korea"
+iso_code: "KR"
+continent: "asia"
+angle: "history-timeline"
+date: "2026-02-17"
+---
+
+# South Korea History — Key Events & Timeline
+
+The history of South Korea is a complex and fascinating narrative that spans thousands of years, from the ancient kingdoms of the Korean Peninsula to the modern, high-tech nation it is today.
+
+[SECTION] Historical Overview [/SECTION]
+The history of South Korea begins with the establishment of the **Gojoseon** kingdom in 2333 BCE, which is considered the first Korean state. This ancient kingdom was followed by the **Three Kingdoms of Korea**, which included Goguryeo, Baekje, and Silla, and lasted from 57 BCE to 668 CE. The Three Kingdoms period was marked by frequent conflicts and power struggles, but also saw the development of a unique Korean culture and the introduction of **Buddhism** from China. In the 14th century, the **Joseon Dynasty** was established, which ruled Korea for nearly 500 years and saw the development of a distinctive Korean culture, including the creation of the **Hangul** alphabet.
+
+The Joseon Dynasty was followed by the **Japanese colonial period**, which lasted from 1910 to 1945 and had a profound impact on Korean society and culture. During this period, the Korean language and culture were suppressed, and many Koreans were forced to adopt Japanese customs and language. After Japan's defeat in World War II, Korea was divided into two zones, with the Soviet Union controlling the north and the United States controlling the south. This division ultimately led to the establishment of two separate governments, with the **Democratic People's Republic of Korea** (North Korea) in the north and the **Republic of Korea** (South Korea) in the south.
+
+In the decades following the **Korean War**, South Korea experienced rapid economic growth and industrialization, transforming itself into one of the world's leading economies. Today, South Korea is a **democratic** country with a high standard of living and a unique culture that blends traditional and modern elements. The country continues to play an important role in regional and global affairs, and its history and culture remain an important part of its identity.
+
+The modern era has seen significant advancements in South Korea's economy, politics, and culture, with the country becoming a major player in the global economy and a leader in technology and innovation. South Korea's history has been marked by periods of conflict and division, but also by periods of rapid growth and transformation, and its people continue to shape the country's future with their resilience, determination, and creativity.
+
+[SECTION] Timeline of Key Events [/SECTION]
+1. **2333 BCE** - The **Gojoseon** kingdom is established, considered the first Korean state. This ancient kingdom marked the beginning of Korean history and laid the foundation for the development of Korean culture and society.
+2. **57 BCE** - The **Three Kingdoms of Korea** period begins, which includes Goguryeo, Baekje, and Silla. This period saw the development of a unique Korean culture and the introduction of **Buddhism** from China.
+3. **668 CE** - The **Three Kingdoms of Korea** period ends with the unification of the peninsula under the Silla kingdom. This unification marked the beginning of a new era in Korean history and laid the foundation for the development of a unified Korean state.
+4. **1392** - The **Joseon Dynasty** is established, which rules Korea for nearly 500 years. This dynasty saw the development of a distinctive Korean culture, including the creation of the **Hangul** alphabet.
+5. **1592** - The **Imjin War** breaks out, in which Japan invades Korea. This war had a profound impact on Korean society and culture, and marked the beginning of a period of conflict and division.
+6. **1910** - Japan annexes Korea, beginning the **Japanese colonial period**. This period saw the suppression of the Korean language and culture, and the forced adoption of Japanese customs and language.
+7. **1945** - Japan is defeated in World War II, and Korea is divided into two zones. This division ultimately led to the establishment of two separate governments, with the **Democratic People's Republic of Korea** (North Korea) in the north and the **Republic of Korea** (South Korea) in the south.
+8. **1948** - The **Republic of Korea** (South Korea) is established, with **Syngman Rhee** as its first president. This marked the beginning of a new era in Korean history and laid the foundation for the development of a modern, democratic state.
+9. **1950** - The **Korean War** breaks out, in which North Korean forces, backed by China and the Soviet Union, invade South Korea. This war had a profound impact on Korean society and culture, and marked the beginning of a period of conflict and division.
+10. **1953** - The **Korean War** ends with the signing of the **Armistice Agreement**. This agreement marked the beginning of a new era in Korean history and laid the foundation for the development of a modern, peaceful state.
+11. **1960** - The **April Revolution** takes place, in which students and citizens protest against the government. This revolution marked the beginning of a new era in Korean history and laid the foundation for the development of a modern, democratic state.
+12. **1961** - The **May 16 coup** takes place, in which **Park Chung-hee** seizes power. This coup marked the beginning of a period of authoritarian rule and laid the foundation for the development of a modern, industrialized state.
+13. **1987** - The **June Democracy Movement** takes place, in which citizens protest for democratic reforms. This movement marked the beginning of a new era in Korean history and laid the foundation for the development of a modern, democratic state.
+14. **1992** - South Korea and North Korea sign the **Joint Declaration of the Denuclearization of the Korean Peninsula**. This agreement marked the beginning of a new era in Korean history and laid the foundation for the development of a modern, peaceful state.
+15. **2018** - The **Inter-Korean Summit** takes place, in which the leaders of North and South Korea meet to discuss peace and denuclearization. This summit marked the beginning of a new era in Korean history and laid the foundation for the development of a modern, peaceful state.
+
+[SECTION] Founding & Formation [/SECTION]
+The founding of South Korea is a complex and multifaceted process that involved the interaction of various historical, cultural, and political factors. The country's early history was marked by the establishment of the **Gojoseon** kingdom, which is considered the first Korean state. This ancient kingdom laid the foundation for the development of Korean culture and society, and its legacy continues to shape the country's identity and sense of self. The **Joseon Dynasty**, which ruled Korea for nearly 500 years, also played a significant role in shaping the country's culture and society, and its legacy continues to be felt today.
+
+The modern state of South Korea was established in 1948, with **Syngman Rhee** as its first president. The country's early years were marked by conflict and division, including the **Korean War**, which broke out in 1950 and lasted for three years. The war had a profound impact on Korean society and culture, and marked the beginning of a period of conflict and division that continues to this day. Despite these challenges, South Korea has made significant progress in recent decades, and has become a major player in the global economy and a leader in technology and innovation.
+
+[SECTION] Colonial & Independence Period [/SECTION]
+The colonial period in Korea was marked by the **Japanese colonial period**, which lasted from 1910 to 1945. During this period, the Korean language and culture were suppressed, and many Koreans were forced to adopt Japanese customs and language. The **March 1st Movement**, which took place in 1919, was a major milestone in the independence movement, and marked the beginning of a new era in Korean history. The movement, which was led by **Kim Koo** and other Korean nationalists, called for independence from Japan and the establishment of a Korean government.
+
+The independence movement was led by a number of key figures, including **Syngman Rhee**, who would later become the first president of South Korea. The movement was marked by periods of conflict and division, including the **Korean War**, which broke out in 1950 and lasted for three years. Despite these challenges, the independence movement ultimately succeeded in establishing a modern, democratic state, and its legacy continues to shape the country's identity and sense of self.
+
+[SECTION] Modern Era [/SECTION]
+The modern era in South Korea has been marked by significant advancements in the country's economy, politics, and culture. The country has become a major player in the global economy, and has made significant progress in terms of technological innovation and economic development. The **Five-Year Economic Development Plans**, which were introduced in the 1960s, played a significant role in driving the country's economic growth and development. The plans, which were implemented by **Park Chung-hee** and other Korean leaders, focused on rapid industrialization and economic growth, and helped to transform the country into one of the world's leading economies.
+
+In recent decades, South Korea has continued to make significant progress in terms of economic development and technological innovation. The country has become a leader in the global tech industry, and has made significant investments in areas such as **artificial intelligence**, **biotechnology**, and **renewable energy**. The country has also made significant progress in terms of democratic development, and has become a major player in regional and global affairs. The **Inter-Korean Summit**, which took place in 2018, marked a significant milestone in the country's relations with North Korea, and has helped to pave the way for further cooperation and dialogue between the two countries.
+
+[SECTION] Historical Figures [/SECTION]
+[TABLE]
+| Name | Period | Role | Significance |
+| --- | --- | --- | --- |
+| Syngman Rhee | 1875-1965 | First president of South Korea | Led the country to independence and established the modern state |
+| Park Chung-hee | 1917-1979 | President of South Korea | Played a key role in driving the country's economic growth and development |
+| Kim Koo | 1876-1949 | Korean nationalist | Led the independence movement and played a key role in the March 1st Movement |
+| Sejong the Great | 1397-1450 | King of the Joseon Dynasty | Created the Hangul alphabet and played a key role in shaping Korean culture and society |
+| Gwanggaeto the Great | 374-413 | King of Goguryeo | Expanded the kingdom's borders and played a key role in shaping Korean history and culture |
+| Jeong Do-jeon | 1342-1398 | Founder of the Joseon Dynasty | Played a key role in establishing the dynasty and shaping Korean culture and society |
+| Yun Poson | 1878-1944 | Korean independence activist | Played a key role in the independence movement and was executed by the Japanese for his activism |
+[/TABLE]
+
+---
+
+*Evergreen reference content. Verify time-sensitive details with official sources.*

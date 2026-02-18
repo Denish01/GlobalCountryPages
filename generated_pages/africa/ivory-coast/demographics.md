@@ -1,0 +1,82 @@
+---
+title: "Ivory Coast Demographics — Population, Ethnicity & Religion"
+entity: "Ivory Coast"
+iso_code: "CI"
+continent: "africa"
+angle: "demographics"
+date: "2026-02-17"
+---
+
+# Ivory Coast Demographics — Population, Ethnicity & Religion
+
+The Ivory Coast is home to a diverse population of approximately 31.7 million people, with a mix of ethnic groups, languages, and religions that contribute to the country's rich cultural heritage.
+
+[FACTBOX]
+Total Population: 31.7 million
+Population Growth Rate: 2.3%
+Median Age: 20.1 years
+Urban Population: 54%
+Population Density: 98 per km2
+Life Expectancy: 58 years
+Fertility Rate: 4.4 children per woman
+[/FACTBOX]
+
+[SECTION] Population Overview [/SECTION]
+The Ivory Coast has a relatively large population, with a growth rate of 2.3% per annum. This growth is driven by a high total fertility rate of 4.4 children per woman, which is one of the highest in the world. The population is relatively young, with a median age of 20.1 years, and is expected to continue growing in the coming years. The country's urban population is approximately 54%, with many people migrating to cities such as Abidjan and Yamoussoukro in search of better economic opportunities. Urbanization is a significant trend in the Ivory Coast, with many people moving from rural areas to cities in search of work, education, and healthcare.
+
+The Ivory Coast's population is also characterized by a high level of migration, both within the country and across its borders. Many people migrate to neighboring countries such as Ghana and Liberia in search of work, while others move to Europe and other parts of the world in search of better economic opportunities. This migration has contributed to the country's cultural diversity, with many people bringing new ideas, customs, and traditions back to the Ivory Coast.
+
+The Ivory Coast's population is also affected by a number of challenges, including poverty, lack of access to education and healthcare, and high levels of infant mortality. These challenges are particularly pronounced in rural areas, where many people lack access to basic services such as clean water, sanitation, and electricity. The government and international organizations are working to address these challenges, with a focus on improving access to education, healthcare, and economic opportunities.
+
+[SECTION] Ethnic Groups [/SECTION]
+[TABLE]
+| Ethnic Group | Percentage | Region | Notes |
+| --- | --- | --- | --- |
+| Akan | 28% | Southeast | Largest ethnic group in the country |
+| Baule | 23% | Central | Known for their skilled craftsmen and traders |
+| Senufo | 15% | North | Agricultural people with a strong tradition of masks and sculpture |
+| Malinke | 12% | Northwest | Part of the larger Mande ethnic group |
+| Bete | 8% | West | Known for their skilled farmers and hunters |
+| Dioula | 5% | Northwest | Muslim traders and merchants |
+[/TABLE]
+The Ivory Coast is home to a diverse range of ethnic groups, with over 60 different groups represented in the country. The Akan people are the largest ethnic group, making up approximately 28% of the population, followed by the Baule and Senufo people. These ethnic groups have their own distinct cultures, languages, and traditions, and contribute to the country's rich cultural diversity. The Ivory Coast's ethnic diversity is also reflected in its cuisine, music, and art, with many different styles and traditions represented.
+
+[SECTION] Languages [/SECTION]
+- **French** is the official language of the Ivory Coast, and is widely spoken in government, education, and business.
+- Regional languages such as **Baule** and **Senufo** are also widely spoken, particularly in rural areas.
+- **Dioula** is a widely spoken trade language, particularly in the north of the country.
+- **English** is becoming increasingly popular, particularly among young people and in business.
+- **Local languages** such as **Akan** and **Bete** are also spoken, particularly in rural areas.
+
+[SECTION] Religions [/SECTION]
+[TABLE]
+| Religion | Percentage | Notes |
+| --- | --- | --- |
+| Islam | 40% | Predominantly Sunni |
+| Christianity | 33% | Predominantly Catholic |
+| Traditional | 12% | Animist and ancestor worship |
+| Other | 15% | Includes Bahai, Hindu, and other minority religions |
+[/TABLE]
+The Ivory Coast is a religiously diverse country, with a mix of Islam, Christianity, and traditional religions represented. Approximately 40% of the population is Muslim, with the majority being Sunni, while 33% is Christian, with the majority being Catholic. Traditional religions, including animist and ancestor worship, are also widely practiced, particularly in rural areas. The country has a long tradition of religious tolerance, with many people practicing multiple faiths simultaneously.
+
+[SECTION] Age Distribution [/SECTION]
+[TABLE]
+| Age Group | Percentage | Implications |
+| --- | --- | --- |
+| 0-14 | 40% | High dependency ratio, with many children requiring education and healthcare |
+| 15-24 | 22% | High levels of unemployment and migration among young people |
+| 25-54 | 30% | Working-age population, with many people contributing to the economy |
+| 55-64 | 5% | Aging population, with many people requiring healthcare and social support |
+| 65+ | 3% | Elderly population, with many people requiring care and support |
+[/TABLE]
+
+[SECTION] Urbanization & Major Cities [/SECTION]
+- The Ivory Coast has a relatively high level of urbanization, with approximately 54% of the population living in cities.
+- **Abidjan** is the largest city, with a population of over 5 million people, and is the economic and cultural hub of the country.
+- **Yamoussoukro** is the capital city, with a population of approximately 300,000 people, and is home to many government institutions and international organizations.
+- **San-Pedro** and **Daloa** are other major cities, with populations of over 200,000 people, and are important centers of trade and commerce.
+- The Ivory Coast's cities are experiencing rapid growth, with many people migrating from rural areas in search of work, education, and healthcare.
+
+---
+
+*Evergreen reference content. Verify time-sensitive details with official sources.*

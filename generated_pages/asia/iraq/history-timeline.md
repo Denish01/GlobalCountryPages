@@ -1,0 +1,64 @@
+---
+title: "Iraq History — Key Events & Timeline"
+entity: "Iraq"
+iso_code: "IQ"
+continent: "asia"
+angle: "history-timeline"
+date: "2026-02-17"
+---
+
+# Iraq History — Key Events & Timeline
+
+The history of Iraq is a rich and complex narrative that spans thousands of years, from the ancient civilizations of Mesopotamia to the modern era of independence and conflict.
+
+[SECTION] Historical Overview [/SECTION]
+Iraq's history began with the **Sumerians**, who established some of the world's first cities in Mesopotamia around 4500 BC. The Sumerians made significant contributions to the development of writing, governance, and architecture, and their legacy can still be seen in the many ancient ruins that dot the Iraqi landscape. As the centuries passed, Iraq was ruled by a succession of powerful empires, including the **Akkadians**, **Babylonians**, and **Assyrians**, each of which left its own unique mark on the region. In the 7th century AD, Iraq was conquered by the **Arabs**, who introduced **Islam** and established the city of **Baghdad** as a major center of learning and culture.
+
+In the 13th century, Iraq was invaded by the **Mongols**, who devastated the region and destroyed many of its cities. The Mongols were eventually driven out by the **Ottoman Empire**, which ruled Iraq for nearly 400 years. During this period, Iraq became a major center of trade and commerce, and the city of Baghdad was rebuilt and restored to its former glory. However, the Ottoman Empire began to decline in the 19th century, and Iraq was eventually colonized by **Britain** after World War I. The British established a monarchy in Iraq, with **King Faisal II** as the country's first ruler.
+
+Iraq gained its independence from Britain in 1932, but the country's early years were marked by instability and conflict. In 1958, a revolution overthrew the monarchy and established a republic, with **Abd al-Karim Qasim** as the country's first president. Qasim was eventually overthrown by the **Ba'ath Party**, which ruled Iraq with an iron fist for nearly 40 years. The Ba'ath Party was led by **Saddam Hussein**, who became president in 1979 and ruled the country until his overthrow in 2003. Since then, Iraq has been rebuilding and recovering from the devastation of war and sanctions, and the country is slowly beginning to establish itself as a major player in the region.
+
+In recent years, Iraq has faced numerous challenges, including the rise of **ISIS** and the ongoing struggle to establish a stable and effective government. Despite these challenges, Iraq remains a country with a rich history and a strong cultural heritage, and its people are working to build a brighter future for themselves and their children. The country's strategic location at the heart of the Middle East makes it an important player in regional politics, and its vast oil reserves make it a crucial component of the global energy market.
+
+[SECTION] Timeline of Key Events [/SECTION]
+1. **4500 BC** - The Sumerians establish some of the world's first cities in Mesopotamia, including Ur and Uruk. The Sumerians develop a system of writing, known as cuneiform, and make significant contributions to the development of governance and architecture.
+2. **2300 BC** - The Akkadians establish a powerful empire in Mesopotamia, which lasts for over 100 years. The Akkadians are known for their military prowess and their ability to unify the various city-states of Mesopotamia.
+3. **1800 BC** - The Babylonians establish a major empire in Mesopotamia, which lasts for over 500 years. The Babylonians are known for their contributions to law, governance, and architecture, and their city of Babylon becomes one of the largest and most prosperous cities in the ancient world.
+4. **612 BC** - The Assyrians establish a powerful empire in Mesopotamia, which lasts for over 200 years. The Assyrians are known for their military prowess and their ability to conquer and assimilate the various cultures of the region.
+5. **632 AD** - The Arabs conquer Mesopotamia and introduce Islam to the region. The Arabs establish the city of Baghdad as a major center of learning and culture, and the city becomes a hub of intellectual and artistic activity.
+6. **1258 AD** - The Mongols invade Mesopotamia and destroy many of its cities, including Baghdad. The Mongols are eventually driven out by the Ottoman Empire, which establishes a new era of stability and prosperity in the region.
+7. **1534 AD** - The Ottoman Empire conquers Mesopotamia and establishes a province in Baghdad. The Ottomans rule Mesopotamia for nearly 400 years, and the region becomes a major center of trade and commerce.
+8. **1918 AD** - The British conquer Mesopotamia from the Ottoman Empire and establish a mandate over the region. The British establish a monarchy in Iraq, with King Faisal II as the country's first ruler.
+9. **1932 AD** - Iraq gains its independence from Britain and becomes a sovereign state. The country's early years are marked by instability and conflict, as various factions and interest groups vie for power.
+10. **1958 AD** - A revolution overthrows the monarchy and establishes a republic in Iraq. The revolution is led by Abd al-Karim Qasim, who becomes the country's first president.
+11. **1968 AD** - The Ba'ath Party seizes power in Iraq and establishes a socialist government. The Ba'ath Party is led by Saddam Hussein, who becomes president in 1979 and rules the country with an iron fist for nearly 25 years.
+12. **1980 AD** - Iraq invades Iran, starting a brutal and devastating war that lasts for eight years. The war has a profound impact on the region, and it sets the stage for the conflicts that will follow in the decades to come.
+13. **1990 AD** - Iraq invades Kuwait, leading to a coalition of countries launching a military campaign to liberate the emirate. The war is a major turning point in the region, and it marks the beginning of a new era of conflict and instability.
+14. **2003 AD** - The United States and its allies invade Iraq, overthrowing Saddam Hussein and establishing a new government. The invasion is a major turning point in the region, and it sets the stage for the conflicts that will follow in the decades to come.
+15. **2011 AD** - The United States withdraws its troops from Iraq, marking the end of the occupation. The withdrawal is a major milestone in the country's history, and it marks the beginning of a new era of independence and self-determination.
+16. **2014 AD** - ISIS launches a surprise attack on Iraq, capturing large swaths of territory and declaring a caliphate. The attack is a major turning point in the region, and it marks the beginning of a new era of conflict and instability.
+17. **2017 AD** - Iraqi forces, backed by the United States and its allies, launch a campaign to retake Mosul from ISIS. The campaign is a major success, and it marks a significant turning point in the fight against ISIS.
+18. **2018 AD** - Iraq holds parliamentary elections, which are seen as a major step towards establishing a stable and effective government. The elections are a major milestone in the country's history, and they mark the beginning of a new era of democracy and self-determination.
+19. **2019 AD** - Protests break out across Iraq, calling for reforms and an end to corruption. The protests are a major challenge to the government, and they mark a significant turning point in the country's history.
+20. **2020 AD** - Iraq's government announces plans to hold early elections, in response to the protests and demands for reform. The announcement is a major milestone in the country's history, and it marks the beginning of a new era of democracy and self-determination.
+
+[SECTION] Founding & Formation [/SECTION]
+Iraq as we know it today is a relatively modern creation, established in the aftermath of World War I. The country was formed from the Ottoman provinces of Baghdad, Basra, and Mosul, which were merged together to create a single entity. The new state was initially ruled by the British, who established a monarchy with King Faisal II as the country's first ruler. However, the monarchy was short-lived, and in 1958 a revolution overthrew the king and established a republic. The republic was led by Abd al-Karim Qasim, who became the country's first president and established a socialist government.
+
+The formation of Iraq was a complex and often contentious process, with different factions and interest groups vying for power and influence. The country's early years were marked by instability and conflict, as the new government struggled to establish its authority and provide basic services to its citizens. Despite these challenges, Iraq was able to make significant progress in the decades that followed, establishing a strong economy and a relatively stable government. However, the country's development was disrupted by a series of conflicts, including the Iran-Iraq War and the Gulf War, which had a devastating impact on the country and its people.
+
+[SECTION] Colonial & Independence Period [/SECTION]
+Iraq's colonial history began in 1918, when the British conquered Mesopotamia from the Ottoman Empire. The British established a mandate over the region, which they ruled for over a decade before granting Iraq its independence in 1932. During this period, the British established a monarchy in Iraq, with King Faisal II as the country's first ruler. However, the monarchy was short-lived, and in 1958 a revolution overthrew the king and established a republic. The republic was led by Abd al-Karim Qasim, who became the country's first president and established a socialist government.
+
+The independence movement in Iraq was led by a group of nationalist leaders, who were determined to establish a sovereign state and free the country from British colonial rule. The movement was marked by a series of protests and demonstrations, which eventually led to the British granting Iraq its independence. However, the country's early years were marked by instability and conflict, as different factions and interest groups vied for power and influence. The Ba'ath Party, which was established in the 1940s, played a significant role in the independence movement, and its leaders would eventually go on to dominate Iraqi politics for decades to come.
+
+Iraq's colonial history has had a lasting impact on the country, shaping its politics, economy, and culture. The legacy of colonialism can still be seen in the country's institutions, laws, and social structures, and it continues to influence the country's relationships with other nations. The experience of colonialism also helped to shape the country's national identity, as Iraqis struggled to establish a sense of self and define their place in the world.
+
+[SECTION] Modern Era [/SECTION]
+Since the overthrow of Saddam Hussein in 2003, Iraq has been rebuilding and recovering from the devastation of war and sanctions. The country has made significant progress in recent years, establishing a new government and rebuilding its economy. However, Iraq still faces many challenges, including the ongoing struggle to establish a stable and effective government, and the threat of terrorism and insurgency. The country is also working to rebuild its infrastructure, including its roads, bridges, and public buildings, and to provide basic services such as electricity, water, and healthcare to its citizens.
+
+Despite these challenges, Iraq remains a country with a rich history and a strong cultural heritage. The country is home to many ancient ruins and historical sites, including the city of Babylon and the ancient city of Ur
+
+---
+
+*Evergreen reference content. Verify time-sensitive details with official sources.*

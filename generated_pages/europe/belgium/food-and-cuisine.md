@@ -1,0 +1,87 @@
+---
+title: "Belgium Food Guide — Dishes, Street Food & Dining"
+entity: "Belgium"
+iso_code: "BE"
+continent: "europe"
+angle: "food-and-cuisine"
+date: "2026-02-17"
+---
+
+# Belgium Food Guide — Dishes, Street Food & Dining
+
+When visiting Belgium, be sure to indulge in the country's renowned cuisine, which features a mix of hearty dishes, sweet treats, and high-quality **chocolate** and **beer**.
+
+[FACTBOX]
+Staple Foods: potatoes, waffles, endives, chocolate
+National Dish: Waterzooi, a creamy stew made with fish or chicken, vegetables, and potatoes
+Meal Times: 7:00-9:00 am for breakfast, 12:00-2:00 pm for lunch, 6:00-9:00 pm for dinner
+Tipping at Restaurants: 5-10% of the total bill
+Dietary Notes: vegetarian-friendly options are available, but may be limited in traditional restaurants, halal and kosher options can be found in larger cities
+[/FACTBOX]
+
+[SECTION] Food Culture Overview [/SECTION]
+Belgian cuisine is defined by its rich flavors, high-quality ingredients, and **regional variations**. The country's strategic location at the crossroads of Europe has influenced its culinary traditions, with **French**, **Dutch**, and **German** cuisines all playing a role. Belgian cuisine is known for its hearty dishes, such as stews and meatballs, which are often made with **local ingredients** like **beer** and **mustard**. The country is also famous for its **sweet treats**, including **waffles**, **chocolate**, and **speculoos** (a spiced cookie).
+
+Belgian cuisine varies by region, with **Flemish** cuisine in the north being known for its hearty meat dishes, and **Walloon** cuisine in the south being famous for its **game meats** and **mushrooms**. The country's **coastal region** is also known for its **fresh seafood**, particularly **mussels** and **shrimp**. Belgian cuisine is often associated with **comfort food**, and meals are typically served in a **cozy atmosphere**, with an emphasis on **local ingredients** and **traditional cooking methods**.
+
+Belgian cuisine has a strong focus on **quality ingredients**, and the country is home to a number of **high-quality food products**, including **chocolate**, **beer**, and **cheese**. The country's **culinary scene** is also influenced by its **cultural heritage**, with many traditional dishes being served at **festivals** and **special occasions**. Visitors to Belgium can experience the country's rich culinary traditions by trying **local specialties**, visiting **food markets**, and dining at **traditional restaurants**.
+
+[SECTION] Must-Try Dishes [/SECTION]
+[TABLE]
+| Dish | Type | Description | Where to Find |
+| --- | --- | --- | --- |
+| Waterzooi | Stew | Creamy stew made with fish or chicken, vegetables, and potatoes | Traditional restaurants in Ghent and Bruges |
+| Moules-Frites | Seafood | Mussels cooked in white wine and served with fries | Coastal restaurants, particularly in Ostend |
+| Carbonade Flamande | Stew | Beef stew made with onions, mustard, and dark beer | Traditional restaurants in Brussels and Flanders |
+| Waffles | Dessert | Light and crispy waffles, often served with whipped cream and chocolate | Waffle stands and cafes in Brussels and Bruges |
+| Frikadellen | Meatballs | Meatballs made with beef and pork, served with potatoes and vegetables | Traditional restaurants in Flanders and Wallonia |
+| Vol-au-Vent | Pastry | Flaky pastry filled with chicken, mushrooms, and cream | Traditional restaurants in Brussels and Wallonia |
+| Stoemp | Side dish | Mashed potatoes with vegetables and sometimes meat or fish | Traditional restaurants in Flanders and Wallonia |
+| Speculoos | Cookie | Spiced cookie, often served with coffee or tea | Bakeries and cafes throughout the country |
+| Eel in Green Sauce | Seafood | Eel cooked in a green herb sauce, served with potatoes and vegetables | Traditional restaurants in Flanders and Wallonia |
+| Tarte Tatin | Dessert | Caramelized apple tart, often served with whipped cream | Bakeries and cafes throughout the country |
+[/TABLE]
+
+[SECTION] Street Food & Snacks [/SECTION]
+- **Frites** (fries) - a Belgian staple, often served with a variety of sauces, $3-$5
+- **Waffles** - a popular street food, often topped with whipped cream, chocolate, and fruit, $5-$7
+- **Speculoos** - a spiced cookie, often served with coffee or tea, $2-$3
+- **Churros** - fried dough pastry, often coated in sugar and served with chocolate sauce, $4-$6
+- **Croquettes** - deep-fried balls filled with meat, fish, or vegetables, $4-$6
+- **Poffertjes** - mini pancakes, often served with butter and powdered sugar, $5-$7
+- **Kibbeling** - deep-fried fish pieces, often served with tartar sauce, $6-$8
+- **Ossenworst** - a type of sausage, often served with mustard and pickles, $5-$7
+
+[SECTION] Drinks [/SECTION]
+- **Beer** - Belgium is famous for its high-quality beers, with over 1,000 varieties to choose from, $5-$10
+- **Jenever** - a traditional Belgian spirit, often flavored with juniper berries, $8-$12
+- **Hot Chocolate** - a rich and creamy hot chocolate, often made with high-quality Belgian chocolate, $4-$6
+- **Coffee** - a strong and rich coffee culture, with many cafes serving high-quality coffee, $2-$4
+- **Fresh Juice** - a variety of fresh juices, often made with local fruits and vegetables, $4-$6
+- **Soda** - a variety of sodas, including traditional Belgian flavors like **Cola** and **Orangina**, $3-$5
+
+[SECTION] Dining Customs [/SECTION]
+- **Table manners** - it is customary to keep your hands visible on the table, and to not leave the table until everyone has finished eating
+- **Tipping** - 5-10% of the total bill is customary, but not required
+- **Reservations** - it is recommended to make reservations at popular restaurants, especially on weekends
+- **Dress code** - dress codes vary by restaurant, but it is generally recommended to dress smartly for dinner
+- **Eating etiquette** - it is customary to wait for the host to indicate where to sit, and to not start eating until everyone has been served
+- **Payment** - credit cards are widely accepted, but it is recommended to have some cash on hand, especially at smaller restaurants and cafes
+
+[SECTION] Where to Eat [/SECTION]
+- **Traditional restaurants** - serving classic Belgian dishes like Waterzooi and Carbonade Flamande
+- **Seafood restaurants** - serving fresh seafood, particularly in coastal areas
+- **Waffle stands** - serving freshly made waffles, often topped with whipped cream and chocolate
+- **Food markets** - offering a variety of fresh produce, meats, and specialty foods
+- **Cafes** - serving coffee, hot chocolate, and pastries, often in a cozy atmosphere
+
+[SECTION] Food Markets & Food Experiences [/SECTION]
+- **Grand Place Christmas Market** - a festive market in the heart of Brussels, offering a variety of food and drink stalls
+- **Bruges Market** - a historic market in the center of Bruges, offering a variety of fresh produce, meats, and specialty foods
+- **Antwerp Food Market** - a bustling market in the heart of Antwerp, offering a variety of international cuisine
+- **Ghent Food Festival** - a annual festival celebrating Belgian cuisine, with a variety of food and drink stalls
+- **Belgian Chocolate Workshop** - a hands-on workshop where visitors can learn to make their own Belgian chocolate creations
+
+---
+
+*Evergreen reference content. Verify time-sensitive details with official sources.*

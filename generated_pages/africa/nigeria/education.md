@@ -1,0 +1,67 @@
+---
+title: "Nigeria Education — Schools, Universities & Student Guide"
+entity: "Nigeria"
+iso_code: "NG"
+continent: "africa"
+angle: "education"
+date: "2026-02-17"
+---
+
+# Nigeria Education — Schools, Universities & Student Guide
+
+The education system in Nigeria is a complex and multifaceted structure, with a wide range of options available for students, from primary to tertiary levels, with both public and private institutions offering varying degrees of quality and accessibility.
+
+[FACTBOX]
+Literacy Rate: 59.6%
+School System: 9 years of compulsory education
+Language of Instruction: English
+Academic Calendar: 10 months
+International Schools: available
+Top University Ranking: ranked among the top 1000 universities globally
+[/FACTBOX]
+
+[SECTION] Education System Overview [/SECTION]
+The education system in Nigeria is divided into three main levels: primary, secondary, and tertiary. Primary education, which is compulsory for all children, lasts for six years and is followed by three years of junior secondary school. Students who complete junior secondary school can then proceed to senior secondary school, which lasts for three years and culminates in the **West African Senior School Certificate Examination (WASSCE)**. The quality of education in Nigeria varies widely, with public schools often struggling with inadequate funding and resources, while private schools tend to offer higher standards of education but at a significantly higher cost. The government has implemented various initiatives to improve the quality of education, including the introduction of **free primary education** and the establishment of **teacher training programs**.
+
+The tertiary education system in Nigeria consists of universities, polytechnics, and colleges of education. The country has a total of 43 federal universities, 52 state universities, and 79 private universities, offering a wide range of academic programs. However, the quality of tertiary education in Nigeria is often criticized, with many institutions facing challenges such as inadequate funding, outdated curriculum, and lack of infrastructure. Despite these challenges, Nigerian universities have made significant strides in recent years, with some institutions ranking among the top 1000 universities globally.
+
+The education system in Nigeria is also characterized by a significant disparity between public and private institutions. While public schools are often underfunded and overcrowded, private schools tend to offer better facilities, more qualified teachers, and smaller class sizes. This has resulted in a significant gap in the quality of education between students from wealthy families and those from disadvantaged backgrounds. To address this issue, the government has implemented policies such as the **National Education Policy**, which aims to promote equal access to quality education for all Nigerians.
+
+[SECTION] Top Universities [/SECTION]
+[TABLE]
+| University | Location | Known For | Est. Tuition (USD/year) |
+| --- | --- | --- | --- |
+| University of Lagos | Lagos | Engineering, Law, Medicine | 2,500 |
+| University of Ibadan | Ibadan | Arts, Humanities, Social Sciences | 2,000 |
+| Covenant University | Ota | Business, Engineering, Computer Science | 4,000 |
+| University of Nigeria | Nsukka | Agriculture, Veterinary Medicine, Engineering | 1,500 |
+| Obafemi Awolowo University | Ile-Ife | Arts, Humanities, Social Sciences | 2,500 |
+| American University of Nigeria | Yola | Business, Engineering, Computer Science | 6,000 |
+| Ahmadu Bello University | Zaria | Agriculture, Veterinary Medicine, Engineering | 1,000 |
+[/TABLE]
+
+[SECTION] International Schools [/SECTION]
+- International schools are available in major cities such as Lagos, Abuja, and Port Harcourt, offering a range of curricula including **International Baccalaureate (IB)**, **British GCSE**, and **American High School Diploma**.
+- The cost of attending an international school in Nigeria can range from $5,000 to $20,000 per year, depending on the school and the curriculum.
+- Some popular international schools in Nigeria include the **American International School** in Lagos, the **British International School** in Abuja, and the **International School** in Port Harcourt.
+- These schools often have modern facilities, qualified teachers, and a diverse student body, making them a popular choice for expatriate families and wealthy Nigerians.
+- International schools in Nigeria often have a strong focus on **extracurricular activities**, such as sports, music, and art, which can provide students with a well-rounded education.
+
+[SECTION] Studying as a Foreigner [/SECTION]
+- To study in Nigeria, foreign students must obtain a **student visa**, which can be applied for at the Nigerian embassy or consulate in their home country.
+- Foreign students must also meet the **language requirements** of their chosen institution, which may include English language proficiency tests such as **TOEFL** or **IELTS**.
+- Scholarships are available for foreign students, including the **Federal Government Scholarship** and the **Commonwealth Scholarship**.
+- The cost of living in Nigeria can vary depending on the location, with cities like Lagos and Abuja tend to be more expensive than smaller towns and rural areas.
+- Foreign students can expect to pay around $500 to $1,000 per month for accommodation, food, and other living expenses, depending on their lifestyle and location.
+- [CALLOUT] It is essential for foreign students to research their institution and location thoroughly before applying to study in Nigeria, to ensure that they are prepared for the unique challenges and opportunities that the country presents.
+
+[SECTION] Education Quality & Challenges [/SECTION]
+- One of the significant challenges facing the education system in Nigeria is the **shortage of qualified teachers**, particularly in rural areas.
+- The education system in Nigeria also faces challenges such as **outdated curriculum**, **inadequate infrastructure**, and **insufficient funding**.
+- Despite these challenges, the education system in Nigeria has made significant strides in recent years, with improvements in **literacy rates** and **enrollment numbers**.
+- The government has also implemented initiatives such as the **National Education Policy** and the **Teacher Training Program**, aimed at improving the quality of education and addressing the shortage of qualified teachers.
+- [RATING] 3/5, the education system in Nigeria has the potential to provide students with a high-quality education, but it is often hindered by challenges such as inadequate funding and infrastructure.
+
+---
+
+*Evergreen reference content. Verify time-sensitive details with official sources.*

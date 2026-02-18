@@ -1,0 +1,79 @@
+---
+title: "Kenya Real Estate — Property, Prices & Buying Guide"
+entity: "Kenya"
+iso_code: "KE"
+continent: "africa"
+angle: "real-estate"
+date: "2026-02-17"
+---
+
+# Kenya Real Estate — Property, Prices & Buying Guide
+
+Foreigners can buy property in Kenya, with the country offering a relatively straightforward process for international investors, and the property market is characterized by a mix of modern and traditional housing options. 
+
+[FACTBOX]
+Can Foreigners Buy?: Yes
+Average Price (Capital, per sqm): $1,200 USD
+Rental Yield: 5-7%
+Property Tax: 0.1-0.2% 
+Popular Areas: Nairobi, Mombasa, Kisumu
+[/FACTBOX]
+
+[SECTION] Market Overview [/SECTION]
+The Kenyan property market has experienced significant growth in recent years, driven by a combination of factors including a growing middle class, urbanization, and government investment in infrastructure. The market is characterized by a mix of modern and traditional housing options, with prices varying widely depending on location, size, and amenities. In urban areas such as Nairobi, the demand for housing is high, and the market is dominated by apartments and townhouses. In contrast, rural areas tend to have more traditional housing options, such as single-family homes and farmhouses. The price trajectory of the Kenyan property market has been upward, with prices increasing by around 10-15% per annum in recent years.
+
+The current market conditions are favorable for investors, with a range of financing options available and a relatively stable economy. However, the market is not without its challenges, and investors need to be aware of the risks associated with investing in Kenya, including corruption, bureaucracy, and infrastructure challenges. Despite these challenges, the Kenyan property market offers a range of opportunities for investors, from luxury apartments in Nairobi to commercial properties in Mombasa.
+
+The urban-rural divide is also a key factor in the Kenyan property market, with urban areas tend to have more modern and expensive housing options, while rural areas tend to have more traditional and affordable options. This divide is driven by a range of factors, including access to education, healthcare, and employment opportunities. As a result, investors need to carefully consider the location and type of property they invest in, as well as the local market conditions and trends.
+
+[SECTION] Prices by Area [/SECTION]
+[TABLE]
+| Area/City | Buy (per sqm, USD) | Rent (monthly, USD) | Type |
+| --- | --- | --- | --- |
+| Nairobi | 1,200 | 500-1,000 | Apartment |
+| Mombasa | 800 | 300-600 | Townhouse |
+| Kisumu | 600 | 200-400 | Single-family home |
+| Eldoret | 500 | 150-300 | Farmhouse |
+| Nakuru | 400 | 100-200 | Apartment |
+| Malindi | 350 | 80-150 | Beach house |
+| Thika | 300 | 60-120 | Townhouse |
+| Machakos | 250 | 40-80 | Single-family home |
+[/TABLE]
+
+[SECTION] Foreign Ownership Rules [/SECTION]
+- Foreigners can buy property in Kenya, but they must comply with the country's laws and regulations, including registering with the Kenya Revenue Authority and obtaining a PIN number.
+- Foreigners can own property in their own name, but they may also consider using a company structure or leasehold agreement to minimize taxes and bureaucratic hurdles.
+- Foreigners must obtain a permit from the Ministry of Lands and Physical Planning to purchase property, and they must also comply with the country's foreign exchange regulations.
+- Foreigners are subject to the same property taxes and rates as Kenyan citizens, and they must also comply with the country's environmental and zoning regulations.
+- Foreigners should seek the advice of a qualified lawyer or real estate agent to ensure they comply with all the necessary laws and regulations.
+
+[SECTION] Buying Process [/SECTION]
+1. Research the market and identify a property that meets your needs and budget.
+2. Contact a real estate agent or lawyer to assist with the purchase process.
+3. Conduct due diligence on the property, including a title search and inspection.
+4. Negotiate the price and terms of the sale with the seller.
+5. Sign a sale agreement and pay a deposit to secure the property.
+6. Obtain a permit from the Ministry of Lands and Physical Planning.
+7. Register the property with the Kenya Revenue Authority and obtain a PIN number.
+8. Complete the transfer of ownership and pay the balance of the purchase price.
+9. Obtain a certificate of ownership and register the property with the relevant authorities.
+10. Consider hiring a property manager to manage the property and handle any issues that may arise.
+
+[SECTION] Rental Market [/SECTION]
+- The rental market in Kenya is relatively buoyant, with high demand for housing in urban areas.
+- Tenants typically sign a one-year lease, with the option to renew for a further year.
+- The deposit is usually equivalent to one or two months' rent, and tenants are responsible for paying their own utilities and maintenance costs.
+- Furnished properties are relatively rare, and tenants often prefer to rent unfurnished properties to minimize costs.
+- The landlord-tenant relationship is governed by the **Rent Restriction Act**, which sets out the rights and obligations of both parties.
+
+[SECTION] Investment Tips [/SECTION]
+- Consider investing in emerging areas such as **Kiambu** and **Kajiado**, which offer relatively affordable prices and high potential for growth.
+- Be aware of the risks associated with investing in Kenya, including corruption, bureaucracy, and infrastructure challenges.
+- Consider using a company structure or leasehold agreement to minimize taxes and bureaucratic hurdles.
+- Ensure you comply with all the necessary laws and regulations, including registering with the Kenya Revenue Authority and obtaining a PIN number.
+- Consider hiring a property manager to manage the property and handle any issues that may arise.
+- Research the local market conditions and trends to ensure you make an informed investment decision.
+
+---
+
+*Evergreen reference content. Verify time-sensitive details with official sources.*

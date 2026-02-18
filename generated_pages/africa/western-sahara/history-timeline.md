@@ -1,0 +1,67 @@
+---
+title: "Western Sahara History — Key Events & Timeline"
+entity: "Western Sahara"
+iso_code: "EH"
+continent: "africa"
+angle: "history-timeline"
+date: "2026-02-17"
+---
+
+# Western Sahara History — Key Events & Timeline
+
+The history of Western Sahara is a complex and disputed narrative that spans thousands of years, from ancient trade routes to modern-day conflicts over independence and sovereignty.
+
+[SECTION] Historical Overview [/SECTION]
+The earliest known history of Western Sahara dates back to the **Phoenician** and **Carthaginian** empires, which established trade routes across the Sahara Desert around 500 BC. The region was later inhabited by various **Berber** tribes, who developed a distinct culture and language. In the 8th century AD, **Arab** armies conquered the region, introducing **Islam** and the **Arabic** language, which would become a dominant force in the region. The Spanish colonization of Western Sahara in the late 19th century had a profound impact on the region, with the Spanish establishing the colony of Spanish Sahara in 1884.
+
+During the colonial period, the Spanish exploited Western Sahara's natural resources, including **phosphates**, which remain a crucial part of the region's economy today. The Spanish also established a system of governance, which was characterized by a mix of colonial administration and traditional **Berber** leadership. As the **Spanish** colonial empire began to decline in the mid-20th century, Western Sahara became a **disputed territory**, with Morocco, Mauritania, and Algeria all claiming sovereignty over the region. In 1976, Spain withdrew from the territory, and Morocco and Mauritania partitioned the region, leading to a long and bloody conflict between the **Polisario Front**, a Sahrawi nationalist movement, and the Moroccan government.
+
+The conflict over Western Sahara has continued to this day, with the **Polisario Front** seeking independence and Morocco claiming sovereignty over the region. The United Nations has been involved in attempts to resolve the conflict, but a lasting solution has yet to be found. Despite the challenges posed by the conflict, Western Sahara has made significant progress in recent years, with the establishment of a **refugee camp** in Algeria and the development of a **Sahrawi** government-in-exile. The region's rich cultural heritage, including its unique blend of **Arabic** and **Berber** traditions, continues to be an important part of its identity.
+
+In recent years, the conflict over Western Sahara has become increasingly complex, with the involvement of external actors, including the **European Union** and the **African Union**. The region's natural resources, including **fishing** and **mining**, have also become a major point of contention, with Morocco seeking to exploit these resources and the **Polisario Front** seeking to protect them. As the conflict continues, the people of Western Sahara remain caught in the middle, seeking a lasting solution to the dispute over their territory.
+
+[SECTION] Timeline of Key Events [/SECTION]
+1. **500 BC** - The Phoenicians and Carthaginians establish trade routes across the Sahara Desert, marking the beginning of Western Sahara's history as a crossroads of commerce and culture. The region's strategic location made it an important hub for trade between Europe, Africa, and the Middle East.
+2. **8th century AD** - Arab armies conquer the region, introducing Islam and the Arabic language, which would become a dominant force in the region. The Arab conquest had a profound impact on Western Sahara, shaping its culture, language, and identity.
+3. **1884** - Spain establishes the colony of Spanish Sahara, which includes the territory of Western Sahara. The Spanish colonization of Western Sahara had a lasting impact on the region, with the Spanish establishing a system of governance and exploiting the region's natural resources.
+4. **1957** - The Spanish Sahara is divided into two provinces: Seguia el-Hamra and Rio de Oro. The division of the territory reflected the Spanish colonial administration's efforts to exert control over the region.
+5. **1963** - The United Nations General Assembly passes a resolution calling for the decolonization of Spanish Sahara. The resolution marked a significant turning point in the history of Western Sahara, as the international community began to recognize the region's right to self-determination.
+6. **1973** - The Polisario Front is founded, with the goal of achieving independence for Western Sahara. The Polisario Front would play a crucial role in the conflict over Western Sahara, leading the fight for independence against Morocco and Mauritania.
+7. **1975** - Spain, Morocco, and Mauritania sign the Madrid Accords, which divide the territory between Morocco and Mauritania. The Madrid Accords marked a significant turning point in the conflict, as Morocco and Mauritania sought to assert their claims over the region.
+8. **1976** - Spain withdraws from Western Sahara, and Morocco and Mauritania partition the territory. The partition of the territory led to a long and bloody conflict between the Polisario Front and the Moroccan government.
+9. **1976** - The Polisario Front declares the establishment of the Sahrawi Arab Democratic Republic (SADR). The declaration marked a significant milestone in the history of Western Sahara, as the Polisario Front sought to establish a sovereign state.
+10. **1984** - The African Union recognizes the SADR as a sovereign state. The recognition marked a significant turning point in the conflict, as the international community began to recognize the Polisario Front's claims to sovereignty.
+11. **1991** - The United Nations establishes the United Nations Mission for the Referendum in Western Sahara (MINURSO) to oversee a referendum on independence. The referendum was intended to provide a peaceful solution to the conflict, but it has yet to be held.
+12. **2003** - The Baker Plan is proposed, which would have granted Western Sahara autonomy under Moroccan sovereignty. The plan marked a significant attempt to find a peaceful solution to the conflict, but it was ultimately rejected by the Polisario Front.
+13. **2007** - The Polisario Front and Morocco engage in negotiations, but no agreement is reached. The negotiations marked a significant attempt to find a peaceful solution to the conflict, but they ultimately failed to produce a lasting agreement.
+14. **2010** - The Gdeim Izik protest camp is established, leading to clashes between Sahrawi protesters and Moroccan security forces. The protest camp marked a significant turning point in the conflict, as the Sahrawi people sought to assert their rights and demands for independence.
+15. **2018** - The United Nations Security Council extends the mandate of MINURSO for another year, calling for a peaceful solution to the conflict. The extension marked a significant turning point in the conflict, as the international community continued to seek a peaceful solution to the dispute.
+
+[SECTION] Founding & Formation [/SECTION]
+The modern entity of Western Sahara was formed in the mid-20th century, as the Spanish colonial empire began to decline. The Polisario Front, a Sahrawi nationalist movement, was founded in 1973 with the goal of achieving independence for Western Sahara. The Front's leadership, including **Mohamed Abdelaziz** and **El-Ouali Mustapha Sayed**, played a crucial role in shaping the movement and its goals. The Polisario Front's founding marked a significant turning point in the history of Western Sahara, as the Sahrawi people began to assert their demands for independence and self-determination.
+
+The Polisario Front's early years were marked by a series of military campaigns against the Spanish and later the Moroccan and Mauritanian governments. The Front's fighters, known as the **Sahrawi People's Liberation Army**, used guerrilla tactics to attack Moroccan and Mauritanian forces, seeking to weaken their control over the territory. The Polisario Front's military campaigns marked a significant turning point in the conflict, as the Sahrawi people sought to assert their control over their territory.
+
+[SECTION] Colonial & Independence Period [/SECTION]
+The colonial history of Western Sahara is complex and disputed, with various powers vying for control over the territory. The Spanish colonization of Western Sahara in the late 19th century had a profound impact on the region, with the Spanish establishing a system of governance and exploiting the region's natural resources. The Spanish also established a number of **missions** and **trading posts**, which helped to spread **Christianity** and **European culture** in the region. However, the Spanish colonization also had a negative impact on the region, with the Spanish exploiting the Sahrawi people and denying them their rights and freedoms.
+
+The independence movement in Western Sahara gained momentum in the mid-20th century, as the Polisario Front and other nationalist groups began to demand independence from Spain. The **United Nations** played a significant role in the independence movement, with the General Assembly passing a resolution in 1963 calling for the decolonization of Spanish Sahara. The resolution marked a significant turning point in the history of Western Sahara, as the international community began to recognize the region's right to self-determination. The Polisario Front's leadership, including **Mohamed Abdelaziz** and **El-Ouali Mustapha Sayed**, played a crucial role in shaping the movement and its goals.
+
+The first leaders of the Polisario Front, including **Mohamed Abdelaziz** and **El-Ouali Mustapha Sayed**, were key figures in the independence movement. **Mohamed Abdelaziz**, who served as the Secretary-General of the Polisario Front from 1976 until his death in 2016, was a charismatic leader who played a crucial role in shaping the movement and its goals. **El-Ouali Mustapha Sayed**, who served as the first President of the SADR, was a key figure in the early years of the independence movement, and his leadership helped to establish the SADR as a sovereign state.
+
+[SECTION] Modern Era [/SECTION]
+The modern era of Western Sahara has been marked by ongoing conflict and uncertainty. Despite the establishment of the SADR in 1976, the region remains a **disputed territory**, with Morocco claiming sovereignty over the territory. The conflict has had a significant impact on the region, with thousands of Sahrawi refugees living in **camps** in Algeria and Mauritania. The Polisario Front continues to seek independence for Western Sahara, and the **United Nations** has been involved in attempts to resolve the conflict through negotiations and mediation.
+
+The economic development of Western Sahara has been hindered by the conflict, with the region's natural resources, including **phosphates** and **fisheries**, being exploited by Morocco. However, the region has also made significant progress in recent years, with the establishment of a **Sahrawi government-in-exile** and the development of a **Sahrawi economy**. The region's rich cultural heritage, including its unique blend of **Arabic** and **Berber** traditions, continues to be an important part of its identity.
+
+The current direction of Western Sahara is uncertain, with the conflict showing no signs of resolution. The Polisario Front continues to seek independence, while Morocco maintains its claim to sovereignty over the territory. The international community, including the **United Nations**, continues to seek a peaceful solution to the conflict, but a lasting agreement has yet to be reached. Despite the challenges posed by the conflict, the people of Western Sahara remain committed to their cause, seeking a lasting solution to the dispute over their territory.
+
+[SECTION] Historical Figures [/SECTION]
+[TABLE]
+| Name | Period | Role | Significance |
+| --- | --- | --- | --- |
+| Mohamed Abdelaziz | 1976-2016 | Secretary-General of the Polisario Front | Led the Polisario Front and played a crucial role in shaping the movement and
+
+---
+
+*Evergreen reference content. Verify time-sensitive details with official sources.*

@@ -1,0 +1,87 @@
+---
+title: "Thailand Food Guide — Dishes, Street Food & Dining"
+entity: "Thailand"
+iso_code: "TH"
+continent: "asia"
+angle: "food-and-cuisine"
+date: "2026-02-17"
+---
+
+# Thailand Food Guide — Dishes, Street Food & Dining
+
+When visiting Thailand, you should try dishes like **Pad Thai**, **Tom Yum Soup**, and **Massaman Curry**, which showcase the country's bold and aromatic cuisine.
+
+[FACTBOX]
+Staple Foods: rice, fish sauce, chilies, coconut milk
+National Dish: Pad Thai, a stir-fry dish made with rice noodles, eggs, and a combination of vegetables and/or seafood
+Meal Times: 7-10 am for breakfast, 12-2 pm for lunch, 6-10 pm for dinner
+Tipping at Restaurants: not expected but rounding up the bill or leaving 10-20 THB is appreciated
+Dietary Notes: vegetarian-friendly options are widely available, and many dishes can be made without fish sauce or other animal products
+[/FACTBOX]
+
+[SECTION] Food Culture Overview [/SECTION]
+Thai cuisine is known for its bold and aromatic flavors, with a focus on balance and harmony in each dish. The country's culinary identity is shaped by its geographical location, with influences from Chinese, Indian, and Southeast Asian cuisines. Thai food is often characterized by the use of fresh ingredients, such as lemongrass, galangal, and chilies, which are combined with fermented fish sauce, lime juice, and palm sugar to create a unique flavor profile. Regional variations in Thai cuisine are also significant, with dishes from the north, northeast, and south of the country showcasing distinct flavors and ingredients.
+
+The use of **street food** and **night markets** is an integral part of Thai food culture, with many popular dishes originating from these informal vendors. The concept of **"aharn tam sang"** or "food to order" is also common, where customers can choose from a variety of dishes and ingredients to create their own personalized meal. Thai cuisine is also closely tied to the country's cultural and spiritual practices, with many dishes served at festivals and ceremonies throughout the year.
+
+In addition to its bold flavors and aromas, Thai cuisine is also known for its beautiful presentation and garnishes, which often feature fresh herbs, edible flowers, and intricately carved vegetables. The art of **"krua"** or Thai cooking is highly respected, with many chefs undergoing rigorous training and apprenticeships to master the techniques and recipes passed down through generations.
+
+[SECTION] Must-Try Dishes [/SECTION]
+[TABLE]
+| Dish | Type | Description | Where to Find |
+| --- | --- | --- | --- |
+| Pad Thai | Stir-fry | Rice noodles, eggs, and vegetables/seafood, flavored with tamarind and fish sauce | Street food stalls and restaurants nationwide |
+| Tom Yum Soup | Soup | Spicy and sour soup made with prawns, lemongrass, and mushrooms | Restaurants and street food stalls in Bangkok and southern Thailand |
+| Massaman Curry | Curry | Rich and slightly sweet curry made with beef or chicken, potatoes, and peanuts | Restaurants and night markets in Bangkok and southern Thailand |
+| Som Tam (Papaya Salad) | Salad | Spicy and sour salad made with shredded green papaya, tomatoes, and chilies | Street food stalls and restaurants in northeastern Thailand |
+| Khao Soi | Curry noodle soup | Curried noodle soup made with boiled egg noodles, braised beef or pork, and a variety of vegetables | Restaurants and street food stalls in Chiang Mai and northern Thailand |
+| Larb (Meat Salad) | Salad | Spicy salad made with minced meat (chicken, beef, or pork), herbs, and chilies | Restaurants and street food stalls in northeastern Thailand |
+| Tod Mun (Deep-Fried Fish Cakes) | Appetizer | Crispy fried fish cakes made with fish paste, red curry paste, and green beans | Restaurants and street food stalls in Bangkok and southern Thailand |
+| Khanom Buang (Thai Crepe) | Dessert | Thin crepe filled with sweet coconut and bean paste, served with powdered sugar | Street food stalls and markets in Bangkok |
+| Satay (Grilled Meat Skewers) | Appetizer | Grilled meat skewers made with chicken, beef, or pork, served with peanut sauce | Street food stalls and night markets nationwide |
+| Khao Niew Mamuang (Mango with Sticky Rice) | Dessert | Sweet and fragrant dessert made with glutinous rice, mango, and coconut milk | Street food stalls and markets in Bangkok and southern Thailand |
+[/TABLE]
+
+[SECTION] Street Food & Snacks [/SECTION]
+- **Satay** (grilled meat skewers, $1-2 USD per skewer)
+- **Tod Mun** (deep-fried fish cakes, $2-3 USD per piece)
+- **Khanom Buang** (Thai crepe, $1-2 USD per piece)
+- **Som Tam** (papaya salad, $2-3 USD per serving)
+- **Khao Soi** (curry noodle soup, $3-5 USD per bowl)
+- **Larb** (meat salad, $3-5 USD per serving)
+- **Grilled pork or chicken sticks** ($1-2 USD per stick)
+- **Fresh coconut water** ($1-2 USD per cup)
+
+[SECTION] Drinks [/SECTION]
+- **Singha beer** (local beer, $2-5 USD per bottle)
+- **Mekhong whiskey** (local whiskey, $5-10 USD per shot)
+- **Fresh coconut water** (refreshing and hydrating, $1-2 USD per cup)
+- **Thai iced tea** (sweet and creamy, $1-2 USD per cup)
+- **Thai iced coffee** (strong and sweet, $1-2 USD per cup)
+- **Chang beer** (local beer, $2-5 USD per bottle)
+
+[SECTION] Dining Customs [/SECTION]
+- **Eating with your hands** is common in Thai culture, especially when eating **sticky rice** or **street food**
+- **Using chopsticks** is also common, especially when eating **noodle dishes** or **Chinese-influenced cuisine**
+- **Tipping** is not expected but rounding up the bill or leaving 10-20 THB is appreciated
+- **Dress codes** are generally casual, but some high-end restaurants may require **smart casual** or **formal** attire
+- **Reservations** are not always necessary, but it's recommended to book ahead for popular restaurants or during peak travel seasons
+- **Table manners** are generally relaxed, but it's considered impolite to **leave your chopsticks standing upright** in your rice bowl, as this is reminiscent of a funeral ritual
+
+[SECTION] Where to Eat [/SECTION]
+- **Street food stalls** and **night markets** offer a wide variety of affordable and delicious dishes
+- **Restaurants** range from casual to formal, with many options for **fine dining** and **traditional Thai cuisine**
+- **Food courts** in shopping malls and markets offer a convenient and air-conditioned dining experience
+- **Markets** like **Chatuchak Weekend Market** in Bangkok and **Chiang Mai Night Bazaar** offer a wide range of food options and shopping experiences
+- **Local eateries** and **family-run restaurants** often serve authentic and delicious dishes at affordable prices
+
+[SECTION] Food Markets & Food Experiences [/SECTION]
+- **Chatuchak Weekend Market** in Bangkok, one of the largest markets in Asia, offering a wide range of food options and shopping experiences
+- **Damnoen Saduak Floating Market** in Ratchaburi, a traditional floating market where vendors sell food and goods from their boats
+- **Chiang Mai Night Bazaar**, a popular night market in northern Thailand, offering a wide range of food options, shopping, and entertainment
+- **Bangkok's Chinatown**, a historic neighborhood with a rich culinary heritage, offering a wide range of Chinese-influenced dishes and street food
+- **Koh Samui's Night Market**, a popular night market on the island of Koh Samui, offering a wide range of seafood, street food, and shopping experiences
+
+---
+
+*Evergreen reference content. Verify time-sensitive details with official sources.*

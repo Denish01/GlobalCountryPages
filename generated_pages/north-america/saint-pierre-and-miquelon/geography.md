@@ -1,0 +1,58 @@
+---
+title: "Saint Pierre and Miquelon Geography - Location, Terrain & Climate"
+entity: "Saint Pierre and Miquelon"
+iso_code: "PM"
+continent: "north-america"
+angle: "geography"
+date: "2026-02-17"
+---
+
+# Saint Pierre and Miquelon Geography - Location, Terrain & Climate
+
+Saint Pierre and Miquelon is an archipelago located off the coast of Canada in North America, comprising a group of small islands with a unique blend of French and Canadian culture.
+
+[FACTBOX]
+Land Area: 242 km², about the size of the island of Malta
+Highest Point: Morne de la Grande Montagne, 240 meters
+Lowest Point: Atlantic Ocean, 0 meters
+Coastline: 120 km
+Borders: Canada
+Climate Type: temperate maritime
+[/FACTBOX]
+
+[SECTION] Location & Borders [/SECTION]
+Saint Pierre and Miquelon is situated in the North Atlantic Ocean, approximately 25 kilometers off the coast of Newfoundland, Canada. The archipelago is part of the French overseas collectivity and is the last remaining French territory in North America. The islands are surrounded by the Atlantic Ocean to the east, south, and west, and the Gulf of St. Lawrence to the north. The closest Canadian city is St. John's, Newfoundland, which is about 25 kilometers away.
+
+The archipelago is composed of eight islands, with the two main islands being Saint Pierre and Miquelon. The islands are volcanic in origin and are characterized by rugged coastlines, rocky shores, and scenic coves. The border with Canada is not formally defined, but the islands are generally considered to be part of the French territory. The unique location of Saint Pierre and Miquelon makes it an interesting cultural and geographical blend of French and Canadian influences.
+
+[SECTION] Terrain & Landscape [/SECTION]
+The terrain of Saint Pierre and Miquelon is characterized by rugged coastlines, rocky shores, and scenic coves. The islands are volcanic in origin, with the highest point being Morne de la Grande Montagne, which stands at 240 meters. The landscape is dominated by **granite** and **basalt** rocks, which have been shaped by millions of years of erosion. The islands are also home to several small lakes, rivers, and wetlands, which provide a habitat for a variety of wildlife.
+
+The coastline of Saint Pierre and Miquelon is approximately 120 kilometers long and is characterized by rocky shores, sandy beaches, and scenic coves. The islands are surrounded by a **marine ecosystem** that is rich in marine life, including fish, seabirds, and **marine mammals**. The landscape is also dotted with small villages, farms, and **lighthouses**, which add to the charm and character of the islands. The unique combination of rugged coastline, scenic coves, and rolling hills makes Saint Pierre and Miquelon a popular destination for outdoor enthusiasts and nature lovers.
+
+The islands are also home to several small **forests**, which are dominated by **coniferous trees** such as spruce and fir. The forests provide a habitat for a variety of wildlife, including **birds**, **mammals**, and **insects**. The landscape is also dotted with small **meadows** and **wetlands**, which provide a habitat for a variety of plant and animal species. The unique combination of forests, meadows, and wetlands makes Saint Pierre and Miquelon a popular destination for nature lovers and outdoor enthusiasts.
+
+[SECTION] Climate By Season [/SECTION]
+[TABLE]
+| Season | Months | Temperature Range | Rainfall | Conditions |
+| --- | --- | --- | --- | --- |
+| Spring | March to May | 0-10°C | 100-150 mm | Mild, windy, and rainy |
+| Summer | June to August | 10-20°C | 80-120 mm | Cool, sunny, and breezy |
+| Autumn | September to November | 0-10°C | 150-200 mm | Cool, windy, and rainy |
+| Winter | December to February | -10 to 0°C | 100-150 mm | Cold, snowy, and icy |
+[/TABLE]
+
+[SECTION] Best Time To Visit [/SECTION]
+[CALLOUT] Best months: June to August. Why: The summer months offer mild temperatures, sunny days, and breezy conditions, making it ideal for outdoor activities such as hiking, fishing, and sailing. Avoid: December to February, as the winter months can be cold, snowy, and icy, making it difficult to navigate the islands. [/CALLOUT]
+
+[SECTION] Natural Highlights [/SECTION]
+- The **Morne de la Grande Montagne** is the highest point on the islands and offers stunning views of the surrounding landscape.
+- The **Pointe aux Canons** is a scenic cove with a historic lighthouse and stunning views of the Atlantic Ocean.
+- The **L'Anse à Pierre** is a picturesque beach with sandy shores and crystal-clear waters.
+- The **Grand Barachois** is a large wetland that provides a habitat for a variety of wildlife, including birds, mammals, and insects.
+- The **Île aux Marins** is a small island with a historic village and stunning views of the surrounding landscape.
+- The **Cap d'Miquelon** is a scenic headland with stunning views of the Atlantic Ocean and the surrounding coastline.
+
+---
+
+*Evergreen reference content. Verify time-sensitive details with official sources.*

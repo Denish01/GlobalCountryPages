@@ -1,0 +1,70 @@
+---
+title: "Bhutan Infrastructure — Roads, Airports, Electricity & Water"
+entity: "Bhutan"
+iso_code: "BT"
+continent: "asia"
+angle: "infrastructure"
+date: "2026-02-17"
+---
+
+# Bhutan Infrastructure — Roads, Airports, Electricity & Water
+
+Bhutan's infrastructure is still developing, with significant investments in recent years to improve the country's roads, power, and telecommunications, but still facing challenges in rural areas and reliance on neighboring countries for trade and connectivity.
+
+[FACTBOX]
+Electricity Access: 99.9% of population
+Internet Penetration: 41%
+Road Network: 8,050 km, with mostly paved roads in urban areas and rough terrain in rural areas
+Rail Network: none
+Major Airports: 2
+Major Ports: landlocked, with nearest major port in India
+[/FACTBOX]
+
+[SECTION] Infrastructure Overview [/SECTION]
+Bhutan's infrastructure development is closely tied to its unique approach to economic development, which prioritizes **sustainable** and **environmentally-friendly** growth. The country has made significant progress in recent years, with investments in hydroelectric power, road construction, and telecommunications. However, there is still a significant gap between urban and rural areas, with many rural communities lacking access to basic services like electricity, clean water, and sanitation. The government has implemented various initiatives to address these disparities, including the development of rural infrastructure and the promotion of **renewable energy** sources.
+
+Despite these challenges, Bhutan has made notable strides in developing its infrastructure, with a focus on **sustainable development** and **environmental conservation**. The country has invested heavily in hydroelectric power, which provides a significant portion of its electricity needs. Additionally, the government has implemented initiatives to improve road connectivity, including the construction of new roads and the upgrading of existing ones. However, the country's rugged terrain and limited resources continue to pose significant challenges to infrastructure development.
+
+The government's approach to infrastructure development is guided by the **Gross National Happiness** (GNH) framework, which prioritizes the well-being of citizens and the environment. This approach has led to a focus on **sustainable** and **inclusive** development, with a emphasis on community-led initiatives and **participatory planning**. As a result, Bhutan's infrastructure development is closely tied to its social and economic development, with a focus on improving the lives of its citizens and promoting **equitable growth**.
+
+[SECTION] Transport Infrastructure [/SECTION]
+[TABLE]
+| Type | Coverage | Quality | Notes |
+| --- | --- | --- | --- |
+| Roads | 8,050 km | Moderate | mostly paved roads in urban areas, rough terrain in rural areas |
+| Railways | none | - | no rail network in Bhutan |
+| Airports | 2 international, 1 domestic | Good | Paro International Airport is the main entry point for tourists |
+| Ports | none | - | landlocked, with nearest major port in India |
+[/TABLE]
+
+[SECTION] Energy & Electricity [/SECTION]
+- **Hydroelectric power** is the primary source of electricity in Bhutan, with several major dams generating power for domestic use and export to India
+- The country has a **reliable** electricity supply, with minimal outages and a high level of access to electricity (99.9% of the population)
+- **Renewable energy** sources, such as solar and wind power, are being promoted as part of the country's sustainable development strategy
+- The government has set a target of becoming **carbon neutral** by 2030, with a focus on reducing greenhouse gas emissions and promoting sustainable development
+- Bhutan is also exploring opportunities for **energy export**, with a focus on exporting excess hydroelectric power to neighboring countries
+
+[SECTION] Water & Sanitation [/SECTION]
+- **Tap water safety** is a concern in some areas, with many households relying on **rainwater harvesting** or **groundwater** sources
+- **Sanitation coverage** is relatively high, with over 90% of households having access to improved sanitation facilities
+- **Water access** in rural areas is a significant challenge, with many communities relying on **traditional water sources** like rivers and streams
+- The government has implemented initiatives to improve **water supply** and **sanitation services**, including the construction of new water treatment plants and the upgrading of existing infrastructure
+- **Community-led initiatives** are also being promoted, with a focus on **participatory planning** and **sustainable management** of water resources
+
+[SECTION] Telecommunications [/SECTION]
+- **Mobile coverage** is relatively high, with over 90% of the population having access to mobile phone services
+- **Fiber optic connectivity** is being rolled out in urban areas, with a focus on improving **broadband** access and **internet speeds**
+- **4G/5G rollout** is in progress, with several mobile operators launching high-speed internet services in major towns and cities
+- **Postal services** are also being upgraded, with a focus on improving **mail delivery** and **parcel services** in rural areas
+- The government has set a target of achieving **universal access** to telecommunications services, with a focus on promoting **digital inclusion** and **e-governance**
+
+[SECTION] Development Projects [/SECTION]
+- The **Bhutan Power Corporation** is implementing several major hydroelectric power projects, including the 1,200 MW Punatsangchhu-I and Punatsangchhu-II dams
+- The **Asian Development Bank** is providing funding for several infrastructure development projects, including the construction of new roads and the upgrading of existing ones
+- The **Government of India** is also providing significant funding for infrastructure development in Bhutan, including the construction of new roads and the upgrading of existing ones
+- The **World Bank** is supporting several development projects in Bhutan, including initiatives to improve **water supply** and **sanitation services** in rural areas
+- The **Bhutanese government** has also launched several initiatives to promote **sustainable tourism**, including the development of new **eco-tourism** initiatives and the promotion of **cultural heritage** sites.
+
+---
+
+*Evergreen reference content. Verify time-sensitive details with official sources.*

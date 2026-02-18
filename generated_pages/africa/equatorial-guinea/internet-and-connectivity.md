@@ -1,0 +1,66 @@
+---
+title: "Equatorial Guinea Internet & SIM Cards — Connectivity Guide"
+entity: "Equatorial Guinea"
+iso_code: "GQ"
+continent: "africa"
+angle: "internet-and-connectivity"
+date: "2026-02-17"
+---
+
+# Equatorial Guinea Internet & SIM Cards — Connectivity Guide
+
+The internet in Equatorial Guinea is relatively underdeveloped, with limited connectivity options and slow speeds, but it is still possible to get online with a SIM card or WiFi in major cities like Malabo.
+
+[FACTBOX]
+Average Internet Speed: 2.5 Mbps download
+Mobile Network Coverage: Moderate
+Main Carriers: GETESA, Orange, Muni
+SIM Card Cost: 10 USD for tourist SIM
+WiFi Availability: Limited
+5G Available: No
+[/FACTBOX]
+
+[SECTION] Internet Overview [/SECTION]
+The internet in Equatorial Guinea is not as developed as in other parts of the world, with average download speeds of around 2.5 Mbps. This can make it difficult to stream videos or download large files, but it is still possible to get online and stay connected with family and friends back home. The urban-rural divide is also a significant issue, with internet access being much more readily available in cities like Malabo and Bata than in rural areas. In general, the reliability of the internet in Equatorial Guinea can be a problem, with frequent outages and slow speeds, especially during peak hours.
+
+The government has been working to improve the country's internet infrastructure, including the installation of new fiber optic cables and the expansion of mobile network coverage. However, much work remains to be done to bring the country's internet up to par with the rest of the world. Despite these challenges, many locals and expats rely on the internet for communication, entertainment, and business, and there are a number of internet service providers and mobile carriers that offer a range of plans and packages to suit different needs and budgets.
+
+[SECTION] Getting a SIM Card [/SECTION]
+To get a SIM card in Equatorial Guinea, you can visit a local mobile carrier's store or a retail outlet that sells SIM cards. The main carriers in the country are GETESA, Orange, and Muni, and they all offer a range of plans and packages for tourists and locals alike. To buy a SIM card, you will typically need to provide some form of identification, such as a passport, and pay a small fee, which can range from around 5-10 USD. Some popular tourist plans include data-only packages, which can be a good option for those who just want to stay connected and don't need to make local calls.
+
+It's a good idea to shop around and compare prices and plans before choosing a carrier and plan, as prices and coverage can vary significantly. You may also want to consider purchasing a SIM card from a carrier that offers good coverage in the areas you plan to visit, as mobile network coverage can be limited in some parts of the country.
+
+[TABLE]
+| Carrier | Tourist Plan | Data | Price (USD) | Notes |
+| --- | --- | --- | --- | --- |
+| GETESA | Tourist Plan | 1 GB | 10 | Valid for 7 days |
+| Orange | Internet Plan | 5 GB | 20 | Valid for 30 days |
+| Muni | Data Plan | 2 GB | 15 | Valid for 14 days |
+| GETESA | Data-Only Plan | 10 GB | 30 | Valid for 30 days |
+[/TABLE]
+
+[SECTION] WiFi Availability [/SECTION]
+- Hotel WiFi quality is generally good, with many hotels offering free WiFi to guests
+- Cafe WiFi culture is not as developed as in other parts of the world, but some cafes and restaurants in major cities do offer free WiFi
+- Coworking spaces are limited, but some cities have shared office spaces with WiFi and other amenities
+- Public WiFi is not widely available, but some government buildings and public institutions may offer free WiFi
+- Some restaurants and bars may also offer free WiFi to customers
+
+[SECTION] For Remote Workers [/SECTION]
+- Coworking spaces like the Malabo Coworking Space offer a range of amenities, including WiFi, desks, and meeting rooms
+- Reliable cafe chains like Cafe Malabo and Cafe Bata offer free WiFi and a comfortable place to work
+- Backup internet options like mobile hotspots and satellite internet can be a good idea, especially for those who need to stay connected in rural areas
+- VPNs can be useful for remote workers who need to access **georestricted content** or secure their internet connection
+- Some hotels and resorts also offer **co-working facilities** and other amenities for remote workers
+
+[SECTION] Tips & Warnings [/SECTION]
+- Internet censorship is not a major issue in Equatorial Guinea, but some websites may be blocked due to **copyright infringement** or other reasons
+- Using a VPN can help to secure your internet connection and protect your **personal data**
+- Roaming alternatives like purchasing a local SIM card or using a mobile hotspot can be a good idea, as roaming charges can be high
+- eSIM options are not widely available in Equatorial Guinea, but some carriers may offer **eSIM plans** for certain devices
+- It's a good idea to be careful when using public WiFi, as **cybersecurity threats** can be a problem in some areas
+- Backing up your data regularly and using **strong passwords** can also help to protect your online security.
+
+---
+
+*Evergreen reference content. Verify time-sensitive details with official sources.*

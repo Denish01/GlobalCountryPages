@@ -1,0 +1,67 @@
+---
+title: "Sri Lanka Education — Schools, Universities & Student Guide"
+entity: "Sri Lanka"
+iso_code: "LK"
+continent: "asia"
+angle: "education"
+date: "2026-02-17"
+---
+
+# Sri Lanka Education — Schools, Universities & Student Guide
+
+The education system in Sri Lanka is well-established and provides a comprehensive range of options for students, from primary to tertiary levels, with a strong emphasis on public education and a growing private sector.
+
+[FACTBOX]
+Literacy Rate: 92.3%
+School System: 13 years of compulsory education
+Language of Instruction: Sinhala and Tamil
+Academic Calendar: January to December
+International Schools: available
+Top University Ranking: ranked among the top 1000 universities globally
+[/FACTBOX]
+
+[SECTION] Education System Overview [/SECTION]
+The education system in Sri Lanka is structured into three main stages: primary, secondary, and tertiary. Primary education, which is compulsory for all children between the ages of 5 and 11, is provided free of charge by the government. Secondary education, which spans from ages 11 to 18, is also compulsory and provides students with a broad range of subjects, including **mathematics**, **science**, and **languages**. Tertiary education, which includes universities and vocational training institutions, provides students with specialized training and degree programs. The quality of education in Sri Lanka is generally considered to be high, with a strong emphasis on **academic achievement** and **discipline**. However, there is a significant divide between public and private education, with private schools and universities generally offering better facilities and resources.
+
+The public education system in Sri Lanka is free and accessible to all citizens, but it is often overcrowded and underfunded. In contrast, private schools and universities offer better facilities and resources, but are often expensive and exclusive. Despite these challenges, Sri Lanka has made significant progress in improving its education system, with a strong emphasis on **teacher training** and **curriculum development**. The government has also implemented various initiatives to improve access to education, particularly in rural and disadvantaged areas.
+
+The education system in Sri Lanka is also known for its **competitive entrance exams**, which are used to determine admission to universities and other tertiary institutions. These exams are highly competitive, and students often spend many hours preparing for them. Despite the challenges, the education system in Sri Lanka has produced many highly skilled and educated individuals, who have gone on to make significant contributions in fields such as **medicine**, **engineering**, and **law**.
+
+[SECTION] Top Universities [/SECTION]
+[TABLE]
+| University | Location | Known For | Est. Tuition (USD/year) |
+| --- | --- | --- | --- |
+| University of Colombo | Colombo | Business, Law, Medicine | 1,500 - 3,000 |
+| University of Peradeniya | Peradeniya | Engineering, Science, Agriculture | 1,000 - 2,000 |
+| University of Moratuwa | Moratuwa | Engineering, Technology, Architecture | 1,500 - 3,000 |
+| University of Sri Jayewardenepura | Nugegoda | Business, Economics, Social Sciences | 1,000 - 2,000 |
+| Open University of Sri Lanka | Colombo | Distance Learning, Online Courses | 500 - 1,000 |
+| University of Kelaniya | Kelaniya | Humanities, Social Sciences, Law | 1,000 - 2,000 |
+| University of Jaffna | Jaffna | Arts, Science, Medicine | 1,000 - 2,000 |
+[/TABLE]
+
+[SECTION] International Schools [/SECTION]
+- International schools are available in major cities such as Colombo and Kandy, offering **IB**, **British**, and **American** curricula.
+- These schools cater to the children of expatriates and wealthy locals, and offer a range of extracurricular activities and facilities.
+- Tuition fees for international schools can range from $5,000 to $20,000 per year, depending on the school and the curriculum.
+- Some popular international schools in Sri Lanka include the Colombo International School, the British School in Colombo, and the Overseas School of Colombo.
+- International schools in Sri Lanka often have a diverse student body and a strong emphasis on **language learning** and **cultural exchange**.
+
+[SECTION] Studying as a Foreigner [/SECTION]
+- To study in Sri Lanka, foreign students need to obtain a **student visa**, which can be obtained through the Sri Lankan embassy or consulate in their home country.
+- Foreign students are required to have a good command of **English**, as it is the primary language of instruction in most universities.
+- Scholarships are available for foreign students, particularly those from **developing countries**, and can cover tuition fees and living expenses.
+- Living costs for students in Sri Lanka are relatively low, with a monthly budget of $200-500 covering accommodation, food, and transportation.
+- Foreign students can also apply for **part-time work** permits, which allow them to work up to 20 hours per week.
+- The **Sri Lankan government** also offers a range of scholarships and grants to foreign students, particularly those studying **science**, **technology**, and **engineering**.
+
+[SECTION] Education Quality & Challenges [/SECTION]
+- One of the major challenges facing the education system in Sri Lanka is the **shortage of qualified teachers**, particularly in rural and disadvantaged areas.
+- The education system in Sri Lanka is also highly **competitive**, with a strong emphasis on **exams** and **grades**.
+- Despite these challenges, the education system in Sri Lanka has made significant progress in recent years, with a strong emphasis on **curriculum development** and **teacher training**.
+- The government has also implemented various initiatives to improve **access to education**, particularly for **disadvantaged groups** such as **women** and **minorities**.
+- However, more needs to be done to address the **inequalities** in the education system, particularly between **public** and **private** schools.
+
+---
+
+*Evergreen reference content. Verify time-sensitive details with official sources.*

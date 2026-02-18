@@ -1,0 +1,66 @@
+---
+title: "Somalia Education — Schools, Universities & Student Guide"
+entity: "Somalia"
+iso_code: "SO"
+continent: "africa"
+angle: "education"
+date: "2026-02-17"
+---
+
+# Somalia Education — Schools, Universities & Student Guide
+
+The education system in Somalia is a complex and evolving entity, with a mix of public and private institutions, and a range of challenges and opportunities for students and educators alike. 
+
+[FACTBOX]
+Literacy Rate: 38%
+School System: 8 years of compulsory education
+Language of Instruction: Somali
+Academic Calendar: 9 months
+International Schools: limited
+Top University Ranking: ranked 1500+ globally
+[/FACTBOX]
+
+[SECTION] Education System Overview [/SECTION]
+The education system in Somalia is structured into three main levels: primary, secondary, and tertiary. Primary education, which is compulsory for children between the ages of 6 and 14, is divided into two cycles: the first cycle lasts for four years and the second cycle lasts for four years. Secondary education, which is not compulsory, is divided into two types: general secondary education and technical secondary education. General secondary education lasts for four years and prepares students for university, while technical secondary education lasts for three years and prepares students for vocational training. Tertiary education is provided by universities and colleges, and includes undergraduate and graduate programs. The quality of education in Somalia varies greatly, with public schools often lacking resources and qualified teachers, while private schools tend to have better facilities and more qualified staff.
+
+The public education system in Somalia is free, but it is often underfunded and understaffed. Many public schools lack basic amenities such as desks, chairs, and toilets, and teachers are often underqualified and underpaid. In contrast, private schools in Somalia are often well-equipped and staffed with qualified teachers, but they are expensive and out of reach for many Somalis. As a result, many Somali students opt to study abroad, particularly in neighboring countries such as Kenya and Ethiopia.
+
+Despite the challenges it faces, the education system in Somalia has made significant progress in recent years, with the number of students enrolled in school increasing and the literacy rate improving. However, much work remains to be done to improve the quality and accessibility of education in Somalia, particularly for girls and women, who are often disadvantaged when it comes to access to education.
+
+[SECTION] Top Universities [/SECTION]
+[TABLE]
+| University | Location | Known For | Est. Tuition (USD/year) |
+| --- | --- | --- | --- |
+| Mogadishu University | Mogadishu | Business, Law, Medicine | 1,000 |
+| SIMAD University | Mogadishu | Business, IT, Engineering | 1,500 |
+| Amoud University | Borama | Agriculture, Education, Health Sciences | 800 |
+| East Africa University | Bosaso | Business, Law, IT | 1,200 |
+| Puntland State University | Garowe | Business, Education, Health Sciences | 900 |
+| Kismayo University | Kismayo | Agriculture, Education, Health Sciences | 700 |
+[/TABLE]
+
+[SECTION] International Schools [/SECTION]
+- International schools in Somalia are limited, but they offer a range of curricula, including the **International Baccalaureate (IB)**, **British**, and **American** curricula.
+- The International School of Mogadishu, for example, offers the IB curriculum and is located in the capital city.
+- The American International School of Mogadishu, on the other hand, offers the American curriculum and is also located in the capital city.
+- Tuition fees for international schools in Somalia can be high, ranging from $5,000 to $10,000 per year.
+- International schools in Somalia are often located in the capital city, but some are also located in other major cities such as Hargeisa and Kismayo.
+
+[SECTION] Studying as a Foreigner [/SECTION]
+- To study in Somalia as a foreigner, you will need to obtain a **student visa**, which can be obtained from the Somali embassy or consulate in your home country.
+- You will also need to demonstrate proficiency in **Somali** or **Arabic**, which are the languages of instruction in most Somali universities.
+- Some universities in Somalia offer **scholarships** to international students, but these are limited and competitive.
+- The cost of living in Somalia can be high, particularly in the capital city, and you will need to budget for accommodation, food, and other expenses.
+- It is also recommended that you have a good understanding of **Somali culture** and customs before studying in Somalia as a foreigner.
+- Additionally, you should research the **security situation** in Somalia and take necessary precautions to ensure your safety.
+
+[SECTION] Education Quality & Challenges [/SECTION]
+- One of the major challenges facing the education system in Somalia is the lack of **qualified teachers**, particularly in rural areas.
+- Another challenge is the lack of **resources**, including textbooks, desks, and chairs, which can make it difficult for students to learn.
+- The education system in Somalia is also **underfunded**, which can limit the quality of education and the range of programs offered.
+- Despite these challenges, the education system in Somalia has made significant progress in recent years, with the number of students enrolled in school increasing and the literacy rate improving.
+- The Somali government has also implemented **reforms** aimed at improving the quality and accessibility of education, including the introduction of a new curriculum and the establishment of a national examination system.
+
+---
+
+*Evergreen reference content. Verify time-sensitive details with official sources.*

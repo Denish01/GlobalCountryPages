@@ -1,0 +1,66 @@
+---
+title: "Sudan Internet & SIM Cards — Connectivity Guide"
+entity: "Sudan"
+iso_code: "SD"
+continent: "africa"
+angle: "internet-and-connectivity"
+date: "2026-02-17"
+---
+
+# Sudan Internet & SIM Cards — Connectivity Guide
+
+The internet in Sudan is generally moderate in terms of speed and availability, with a growing number of mobile network providers and internet service providers offering various plans and services.
+
+[FACTBOX]
+Average Internet Speed: 5 Mbps download
+Mobile Network Coverage: Moderate
+Main Carriers: Zain, MTN, Sudani
+SIM Card Cost: 10 USD for tourist SIM
+WiFi Availability: Limited
+5G Available: No
+[/FACTBOX]
+
+[SECTION] Internet Overview [/SECTION]
+The internet in Sudan has been improving over the years, with the average internet speed increasing to 5 Mbps download. However, the internet quality and reliability can vary greatly depending on the location, with urban areas such as Khartoum and Omdurman having better coverage and speeds compared to rural areas. The internet infrastructure in Sudan is still developing, and as a result, the internet can be unreliable and slow, especially during peak hours. The government has been working to improve the internet infrastructure, including the deployment of fiber-optic cables and the expansion of mobile network coverage.
+
+The urban-rural divide in terms of internet access is significant, with many rural areas lacking access to reliable and fast internet. This can make it difficult for people living in these areas to access basic services such as online banking, education, and healthcare. However, there are efforts being made to bridge this gap, including the establishment of community networks and the deployment of mobile networks in rural areas. Despite these challenges, the internet has become an essential tool for many Sudanese, with many using it to access information, communicate with friends and family, and conduct business.
+
+[SECTION] Getting a SIM Card [/SECTION]
+To get a SIM card in Sudan, tourists can visit one of the many mobile network provider shops or kiosks located throughout the country. The main carriers, Zain, MTN, and Sudani, offer a range of plans and services, including prepaid and postpaid options. To purchase a SIM card, tourists will need to provide a valid passport and may need to register their SIM card with the authorities. The cost of a tourist SIM card is approximately 10 USD, and data plans can range from 1-10 USD per month, depending on the carrier and the amount of data required.
+
+It is recommended that tourists purchase a SIM card from one of the main carriers, as they offer the best coverage and speeds. Zain and MTN are the most popular carriers, and they offer a range of plans and services, including data-only plans and voice and data plans. Sudani is also a good option, especially for those who want to use their SIM card for data only.
+
+[TABLE]
+| Carrier | Tourist Plan | Data | Price (USD) | Notes |
+| --- | --- | --- | --- | --- |
+| Zain | Prepaid | 1 GB | 5 USD | Valid for 30 days |
+| MTN | Prepaid | 2 GB | 10 USD | Valid for 30 days |
+| Sudani | Data-only | 5 GB | 15 USD | Valid for 30 days |
+| Zain | Postpaid | 10 GB | 20 USD | Monthly subscription |
+[/TABLE]
+
+[SECTION] WiFi Availability [/SECTION]
+- Hotel WiFi quality is generally good, with many hotels offering free WiFi to their guests
+- Cafe WiFi culture is not very common in Sudan, but some cafes and restaurants in urban areas do offer WiFi
+- Coworking spaces are becoming more popular in Sudan, especially in Khartoum, and many of them offer reliable and fast WiFi
+- Public WiFi is not widely available in Sudan, but some public areas such as airports and shopping malls do offer free WiFi
+- Some universities and libraries also offer free WiFi to students and visitors
+
+[SECTION] For Remote Workers [/SECTION]
+- Coworking spaces such as the Khartoum Coworking Space and the Sudanese Entrepreneurship Center offer reliable and fast WiFi, as well as other amenities such as meeting rooms and printing services
+- Reliable cafe chains such as Starbucks and Costa Coffee do not have a presence in Sudan, but some local cafes do offer WiFi and a comfortable working environment
+- Backup internet options such as mobile hotspots and satellite internet are available, but they can be expensive and may not be reliable
+- VPNs are recommended for remote workers in Sudan, as the government has been known to block certain websites and online services
+- Some hotels and coworking spaces also offer virtual private network (VPN) services to their guests and members
+
+[SECTION] Tips & Warnings [/SECTION]
+- Internet censorship is a significant issue in Sudan, with the government blocking access to certain websites and online services
+- Some websites and online services, such as social media and news sites, may be blocked or restricted
+- VPNs are recommended to bypass internet censorship and to protect online privacy
+- Roaming alternatives such as purchasing a local SIM card or using a mobile hotspot are recommended, as roaming charges can be expensive
+- eSIM options are not widely available in Sudan, but some carriers do offer eSIM plans for certain devices
+- It is also recommended to be cautious when using public WiFi, as it may not be secure and may be vulnerable to hacking and other cyber threats.
+
+---
+
+*Evergreen reference content. Verify time-sensitive details with official sources.*

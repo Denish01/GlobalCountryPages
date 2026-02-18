@@ -1,0 +1,66 @@
+---
+title: "Dominican Republic Internet & SIM Cards — Connectivity Guide"
+entity: "Dominican Republic"
+iso_code: "DO"
+continent: "north-america"
+angle: "internet-and-connectivity"
+date: "2026-02-17"
+---
+
+# Dominican Republic Internet & SIM Cards — Connectivity Guide
+
+The Dominican Republic offers a relatively well-developed internet infrastructure, with a range of options for staying connected during your visit, including purchasing a local SIM card or relying on widespread WiFi availability. 
+
+[FACTBOX]
+Average Internet Speed: 10 Mbps download
+Mobile Network Coverage: Good
+Main Carriers: Claro, Orange, Viva
+SIM Card Cost: 10 USD for tourist SIM
+WiFi Availability: Widespread
+5G Available: Limited
+[/FACTBOX]
+
+[SECTION] Internet Overview [/SECTION]
+The internet in the Dominican Republic is generally reliable, with an average speed of 10 Mbps download, which is sufficient for basic browsing, social media, and email. However, the quality of the internet can vary significantly depending on the location, with urban areas such as Santo Domingo and Punta Cana tend to have faster and more reliable connections than rural areas. The country's mobile network coverage is good, with the main carriers Claro, Orange, and Viva offering 4G LTE services in most areas. Despite this, the urban-rural divide in terms of internet quality remains a significant challenge, with many rural areas still lacking access to reliable and fast internet services.
+
+The Dominican Republic's internet infrastructure has been improving in recent years, with investments in fiber-optic cables and 4G LTE networks. However, the country still faces challenges such as power outages and network congestion, which can affect the reliability of the internet. Additionally, the cost of internet services can be relatively high, especially for low-income households, which can limit access to the internet for some segments of the population. Overall, while the internet in the Dominican Republic is not perfect, it is generally reliable and sufficient for most visitors' needs.
+
+[SECTION] Getting a SIM Card [/SECTION]
+To get a SIM card in the Dominican Republic, visitors can purchase one from a local carrier such as Claro, Orange, or Viva. These carriers have stores and kiosks located throughout the country, including at airports and tourist areas. To purchase a SIM card, visitors will typically need to provide a valid passport and pay a fee of around 10 USD. The SIM card can then be topped up with a prepaid plan, which can include data, voice, and text services. It is recommended to purchase a SIM card from a reputable carrier and to read the terms and conditions of the plan carefully before signing up.
+
+The main carriers in the Dominican Republic offer a range of prepaid plans that are suitable for tourists, including data-only plans and plans that include voice and text services. These plans can be purchased at a carrier's store or online, and can be topped up at a variety of locations throughout the country. It is also possible to purchase a SIM card and prepaid plan at the airport upon arrival, which can be a convenient option for visitors who want to stay connected as soon as they arrive.
+
+[TABLE]
+| Carrier | Tourist Plan | Data | Price (USD) | Notes |
+| --- | --- | --- | --- | --- |
+| Claro | Tourist Plan | 1GB | 10 | Includes 10 minutes of voice and 10 text messages |
+| Orange | Prepaid Plan | 2GB | 15 | Includes 20 minutes of voice and 20 text messages |
+| Viva | Data Plan | 3GB | 20 | Includes 30 minutes of voice and 30 text messages |
+| Claro | Data-Only Plan | 5GB | 25 | No voice or text messages included |
+[/TABLE]
+
+[SECTION] WiFi Availability [/SECTION]
+- Hotel WiFi quality is generally good, with most hotels and resorts offering free WiFi to their guests
+- Cafe WiFi culture is common, with many cafes and restaurants offering free WiFi to customers
+- Coworking spaces are available in major cities such as Santo Domingo and Punta Cana, and offer fast and reliable WiFi
+- Public WiFi is available in some areas, such as airports and tourist information centers
+- Many restaurants and bars also offer free WiFi, making it easy to stay connected while dining or socializing
+
+[SECTION] For Remote Workers [/SECTION]
+- Coworking spaces such as Punta Cana Coworking and Santo Domingo Coworking offer fast and reliable WiFi, as well as other amenities such as meeting rooms and networking events
+- Reliable cafe chains such as Café Santo Domingo and Café Punta Cana offer good WiFi and a comfortable working environment
+- Backup internet options such as mobile hotspots and portable WiFi routers are available for purchase or rent
+- VPNs are recommended for remote workers who need to access sensitive information or use public WiFi networks
+- Many hotels and resorts also offer coworking spaces and meeting rooms, which can be a good option for remote workers who need a productive and comfortable work environment
+
+[SECTION] Tips & Warnings [/SECTION]
+- Internet censorship is not typically a problem in the Dominican Republic, but some websites may be blocked due to copyright or other issues
+- Blocked sites can usually be accessed using a VPN
+- VPNs are also recommended for secure browsing and to protect against hacking and other online threats
+- Roaming alternatives such as purchasing a local SIM card or using a portable WiFi router can be more cost-effective than roaming with a home carrier
+- eSIM options are not yet widely available in the Dominican Republic, but may become more popular in the future
+- It is a good idea to research and compare different internet plans and providers before making a purchase, to ensure that you get the best deal for your needs and budget.
+
+---
+
+*Evergreen reference content. Verify time-sensitive details with official sources.*

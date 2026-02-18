@@ -1,0 +1,82 @@
+---
+title: "Brazil Demographics — Population, Ethnicity & Religion"
+entity: "Brazil"
+iso_code: "BR"
+continent: "south-america"
+angle: "demographics"
+date: "2026-02-17"
+---
+
+# Brazil Demographics — Population, Ethnicity & Religion
+
+The population of Brazil is a diverse and complex mix of ethnic, linguistic, and cultural groups, with approximately 216 million people living in the country, making it the largest population in both South America and the Latin American region.
+
+[FACTBOX]
+Total Population: 216.0 million
+Population Growth Rate: 0.7%
+Median Age: 33.5 years
+Urban Population: 87.5%
+Population Density: 25.4 per km2
+Life Expectancy: 75.6 years
+Fertility Rate: 1.7 children per woman
+[/FACTBOX]
+
+[SECTION] Population Overview [/SECTION]
+Brazil has the sixth-largest population in the world, and its population size is significant in the context of the South American continent. The country's population has been growing steadily, with an average annual growth rate of 0.7%, although this rate has been declining in recent years. The population is predominantly urban, with approximately 87.5% of the population living in cities, which has led to the growth of large metropolitan areas such as São Paulo and Rio de Janeiro. Brazil has also experienced significant migration patterns, both internally and internationally, with many people moving from rural areas to cities in search of better economic opportunities.
+
+The population of Brazil is also characterized by a significant regional diversity, with different parts of the country experiencing different population growth trends and demographic characteristics. The northeastern region, for example, has a higher population growth rate than the southern region, which has a more aging population. The country's population is also affected by migration patterns, with many Brazilians moving to other countries in search of better economic opportunities, while at the same time, the country receives immigrants from other parts of the world.
+
+The demographic trends in Brazil have significant implications for the country's economic and social development. The aging population, for example, will require significant investments in healthcare and social security, while the urbanization trend will require investments in infrastructure and urban planning. The country's population growth rate is also expected to decline in the coming years, which will have implications for the labor market and the country's economic growth.
+
+[SECTION] Ethnic Groups [/SECTION]
+[TABLE]
+| Ethnic Group | Percentage | Region | Notes |
+| --- | --- | --- | --- |
+| European | 47.7% | South and Southeast | Mostly of Portuguese, Italian, and Spanish descent |
+| African | 43.1% | Northeast and North | Brought to Brazil as slaves, many have mixed ancestry |
+| Multiracial | 7.6% | Throughout the country | Mixed European, African, and indigenous ancestry |
+| Indigenous | 0.4% | Amazon region | Over 300 distinct ethnic groups |
+| Asian | 2.2% | South and Southeast | Mostly of Japanese and Chinese descent |
+[/TABLE]
+The ethnic diversity of Brazil is a significant aspect of the country's population, with a mix of European, African, and indigenous groups. The European population is predominantly found in the south and southeast regions, while the African population is found in the northeast and north. The multiracial population is found throughout the country, reflecting the mixing of different ethnic groups over time. The indigenous population is relatively small, but significant in terms of cultural and linguistic diversity. The Asian population is also significant, particularly in the south and southeast regions, where many Japanese and Chinese immigrants settled.
+
+[SECTION] Languages [/SECTION]
+- **Portuguese** is the official language of Brazil, spoken by the vast majority of the population.
+- Regional languages such as **Linguagem Brasileira de Sinais** (Brazilian Sign Language) and **Nheengatu** (an indigenous language) are also spoken in different parts of the country.
+- **English** is becoming increasingly popular as a second language, particularly among the business and tourist communities.
+- **Spanish** is also spoken in some parts of the country, particularly in the border regions with Argentina and Uruguay.
+- **Indigenous languages** such as **Tupi** and **Guarani** are spoken by some of the indigenous populations in the Amazon region.
+
+[SECTION] Religions [/SECTION]
+[TABLE]
+| Religion | Percentage | Notes |
+| --- | --- | --- |
+| Catholicism | 64.6% | Predominant religion in Brazil, with a significant influence on culture and society |
+| Protestantism | 22.2% | Growing rapidly, particularly in the northeast and north regions |
+| No religion | 8.0% | Increasingly common, particularly among younger people |
+| Spiritism | 3.2% | A blend of Christian and indigenous spiritual practices |
+| Other | 2.0% | Includes Buddhism, Judaism, and Islam, among others |
+[/TABLE]
+Brazil is a religiously diverse country, with a significant majority of the population identifying as Catholic. However, Protestantism is growing rapidly, particularly in the northeast and north regions. The country also has a significant number of people who identify as having no religion, particularly among younger people. Spiritism is also a significant religious practice in Brazil, blending Christian and indigenous spiritual practices. The country has a long tradition of religious tolerance and freedom, with people of different faiths coexisting and interacting with each other.
+
+[SECTION] Age Distribution [/SECTION]
+[TABLE]
+| Age Group | Percentage | Implications |
+| --- | --- | --- |
+| 0-14 | 22.3% | Significant investment in education and childcare required |
+| 15-24 | 16.4% | Large youth population, with implications for labor market and education |
+| 25-54 | 51.1% | Working-age population, with significant contributions to the economy |
+| 55-64 | 6.5% | Aging population, with implications for healthcare and social security |
+| 65+ | 3.7% | Increasingly significant demographic, with implications for healthcare and social security |
+[/TABLE]
+
+[SECTION] Urbanization & Major Cities [/SECTION]
+- The urban population of Brazil is approximately 87.5%, with many people living in large metropolitan areas such as **São Paulo** and **Rio de Janeiro**.
+- The fastest-growing cities in Brazil are **Brasília**, the capital city, and **Curitiba**, a major city in the south.
+- The country has a significant **diaspora**, with many Brazilians living abroad, particularly in the United States, Portugal, and Japan.
+- The urban-rural split in Brazil is significant, with many people moving from rural areas to cities in search of better economic opportunities.
+- The country's major cities are also experiencing significant **migration trends**, with people moving from other parts of the country to the cities in search of work and better living conditions.
+
+---
+
+*Evergreen reference content. Verify time-sensitive details with official sources.*

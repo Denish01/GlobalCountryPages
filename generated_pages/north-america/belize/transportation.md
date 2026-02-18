@@ -1,0 +1,64 @@
+---
+title: "Getting Around Belize — Transport & Travel Guide"
+entity: "Belize"
+iso_code: "BZ"
+continent: "north-america"
+angle: "transportation"
+date: "2026-02-17"
+---
+
+# Getting Around Belize — Transport & Travel Guide
+
+To get around Belize, you can choose from a variety of transportation options, including domestic flights, buses, taxis, and rental cars, which cater to different budgets and preferences.
+
+[FACTBOX]
+Main International Airport(s): Philip S. W. Goldson International Airport (BZE)
+Domestic Air Network: moderate
+Rail Network: none
+Drives On: right
+Road Quality: moderate
+Ride-Hailing Apps: local alternatives
+[/FACTBOX]
+
+[SECTION] Getting There [/SECTION]
+Belize has one main international airport, Philip S. W. Goldson International Airport (BZE), which is located in Ladyville, about 10 miles northwest of Belize City. The airport receives direct flights from major hubs in the United States, such as Miami, Houston, and Los Angeles, as well as from other Central American countries. You can also enter Belize by land through border crossings with Mexico and Guatemala, with the most popular entry points being the Melchor de Mencos border crossing with Guatemala and the Subteniente Lopez border crossing with Mexico.
+
+If you're coming from nearby countries, you can also take a bus or shuttle from Mexico or Guatemala to Belize City. Several bus companies, such as ADO and Fuente del Norte, operate daily services from Mexican cities like Cancun and Chetumal, while others like San Juan Travel and Linea Dorada connect Belize City to Guatemalan cities like Flores and Tikal. Additionally, you can take a ferry or water taxi from nearby islands, such as Ambergris Caye or Caye Caulker, to reach the mainland.
+
+[SECTION] Domestic Flights [/SECTION]
+Belize has a moderate domestic air network, with several airlines operating flights between major towns and islands. The two main domestic airlines are Tropic Air and Maya Island Air, which offer daily flights between destinations like Belize City, Ambergris Caye, Caye Caulker, and Placencia. You can book flights online or through local travel agents, with approximate costs ranging from $50 to $200 USD per person, depending on the route and time of year. It's a good idea to book in advance, especially during peak season, to ensure availability and get the best rates.
+
+[SECTION] Trains & Rail [/SECTION]
+Belize does not have a rail network, so train travel is not an option. However, you can take buses or shuttles to get around the country, or rent a car to explore the countryside and main attractions.
+
+[SECTION] Buses & Coaches [/SECTION]
+Several bus companies operate in Belize, offering intercity services between major towns and villages. The two main bus companies are Belize Bus Owners Cooperative (BBOC) and Citibus, which operate daily services between destinations like Belize City, Belmopan, and Dangriga. The buses are generally comfortable and affordable, with fares ranging from $5 to $20 USD per person, depending on the route and distance. You can also take shuttle services, such as those offered by water taxi companies, to get to nearby islands and coastal towns.
+
+[SECTION] City Transport [/SECTION]
+| Mode | Available In | Cost (USD) | Notes |
+| --- | --- | --- | --- |
+| City Bus | Belize City, Belmopan | $1-$2 | frequent services, but not always reliable |
+| Taxi | everywhere | $5-$10/km | available at airports and towns, but can be expensive |
+| Ride-Hailing | Belize City, Placencia | $5-$10 | local alternatives like Belize Shuttle and Placencia Shuttle |
+| Water Taxi | coastal towns, islands | $10-$30 | frequent services, but can be affected by weather |
+
+[SECTION] Driving [/SECTION]
+- To drive in Belize, you'll need a valid driver's license from your home country, which is accepted for up to three months.
+- The road quality in Belize is generally moderate, with some paved highways and many gravel or dirt roads, especially in rural areas.
+- Fuel costs are relatively high in Belize, with gasoline prices averaging around $5-$6 USD per gallon.
+- Car rental companies like Avis, Hertz, and Budget operate in Belize, with prices starting from around $40-$60 USD per day.
+- When driving in Belize, be aware of hazards like potholes, speed bumps, and pedestrians or animals on the road.
+- It's also a good idea to rent a 4x4 vehicle, especially if you plan to explore rural areas or visit **Mayan ruins** like Caracol or Xunantunich.
+
+[SECTION] Transport Tips [/SECTION]
+- Be aware of **scams** like overpriced taxi fares or fake tour operators, and always agree on a price before you start your journey.
+- You can pay for transportation services in **Belize dollars** or US dollars, but it's a good idea to have some local currency with you.
+- Download **apps** like Belize Shuttle or Placencia Shuttle to book ride-hailing services or water taxis.
+- Always wear a **seatbelt** when driving or riding in a vehicle, and be mindful of **speed limits** and road signs.
+- If you're planning to drive, consider renting a vehicle with **insurance** to cover against accidents or theft.
+- Be respectful of **local customs** and traffic rules, especially when driving through rural areas or villages.
+- Consider **tipping** your driver or tour guide if you receive good service, as this is a common practice in Belize.
+
+---
+
+*Evergreen reference content. Verify time-sensitive details with official sources.*

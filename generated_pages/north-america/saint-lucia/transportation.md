@@ -1,0 +1,64 @@
+---
+title: "Getting Around Saint Lucia — Transport & Travel Guide"
+entity: "Saint Lucia"
+iso_code: "LC"
+continent: "north-america"
+angle: "transportation"
+date: "2026-02-17"
+---
+
+# Getting Around Saint Lucia — Transport & Travel Guide
+
+To get around in Saint Lucia, you can use a combination of taxis, buses, and rental cars, as well as take domestic flights or use ride-hailing apps, depending on your budget and preferences.
+
+[FACTBOX]
+Main International Airport(s): Hewanorra International Airport (UVF), George F.L. Charles Airport (SLU)
+Domestic Air Network: limited
+Rail Network: none
+Drives On: left
+Road Quality: moderate
+Ride-Hailing Apps: local alternatives
+[/FACTBOX]
+
+[SECTION] Getting There [/SECTION]
+The main international airports in Saint Lucia are Hewanorra International Airport (UVF) and George F.L. Charles Airport (SLU). Hewanorra International Airport is the larger of the two and receives direct flights from major hubs such as Miami, New York, and London, while George F.L. Charles Airport is smaller and primarily serves regional flights from neighboring islands. If you're coming from nearby islands, you can also take a ferry or a charter flight. There are no overland entry points, as Saint Lucia is an island nation.
+
+If you're planning to visit Saint Lucia, it's best to book your flights in advance, especially during peak season, which runs from December to April. You can also consider flying into one of the nearby islands, such as Martinique or Saint Vincent, and then taking a ferry or a charter flight to Saint Lucia. This can be a more affordable option, especially if you're traveling on a budget. Additionally, some cruise lines also offer stops in Saint Lucia, which can be a great way to see the island without having to worry about finding accommodations.
+
+[SECTION] Domestic Flights [/SECTION]
+Saint Lucia has a limited domestic air network, with only a few airlines offering flights between the two main airports. The main domestic airline is **St. Lucia Helicopters**, which offers charter flights and helicopter tours around the island. You can also take a **St. Lucia Air** flight, which operates between Hewanorra International Airport and George F.L. Charles Airport. Booking in advance is recommended, especially during peak season, and prices can range from $50 to $200 per person, depending on the route and the airline. It's also worth noting that domestic flights can be affected by weather conditions, so it's a good idea to check with your airline before your flight.
+
+[SECTION] Trains & Rail [/SECTION]
+Saint Lucia does not have a rail network, so you won't be able to take a train to get around the island. This is due to the island's mountainous terrain and limited infrastructure. However, there are many other ways to get around, including buses, taxis, and rental cars. If you're looking for a scenic way to see the island, you can consider taking a **coastal drive** or a **hiking tour**, which can offer stunning views of the surrounding landscape.
+
+[SECTION] Buses & Coaches [/SECTION]
+There are several intercity bus companies that operate in Saint Lucia, including **St. Lucia Bus Association** and **Castries Bus Terminal**. These buses offer affordable fares and can take you to most parts of the island. The bus network is moderate, with frequent departures from the main towns, but it can be less reliable in rural areas. Fares are around $1 to $5 per person, depending on the route, and you can pay in cash when you board the bus. It's also worth noting that buses can be crowded, especially during peak hours, so it's a good idea to plan your trip in advance.
+
+[SECTION] City Transport [/SECTION]
+| Mode | Available In | Cost (USD) | Notes |
+| --- | --- | --- | --- |
+| City Bus | Castries, Gros Islet | $1-$2 | Frequent departures, affordable fares |
+| Taxi | Everywhere | $10-$20 | Available at airports and towns, can be hired for the day |
+| Ride-Hailing | Castries, Gros Islet | $5-$10 | Local alternatives, such as **St. Lucia Ride** |
+| Taxi Boat | Coastal areas | $20-$50 | Available for charter, can take you to nearby islands |
+
+[SECTION] Driving [/SECTION]
+- To drive in Saint Lucia, you'll need to obtain a **temporary driver's license**, which can be purchased at the airport or at a car rental agency.
+- The road quality in Saint Lucia is moderate, with some paved roads and some dirt roads, especially in rural areas.
+- Fuel costs are around $1 to $2 per liter, depending on the type of fuel and the location.
+- It's recommended to rent a **4x4 vehicle**, especially if you plan to drive on dirt roads or in rural areas.
+- Be aware of **hazards** such as potholes, pedestrians, and animals on the road, and drive defensively.
+- It's also a good idea to **rent a car** from a reputable agency, such as **Avis** or **Hertz**, and to read reviews before making a decision.
+
+[SECTION] Transport Tips [/SECTION]
+- Be aware of **scams** such as overcharging by taxi drivers, and always agree on a fare before you start your journey.
+- Use **local currency**, the Eastern Caribbean dollar, to pay for transportation, as not all drivers or operators accept credit cards.
+- Download **maps** or **transport apps**, such as **Google Maps** or **Waze**, to help you navigate the island.
+- Consider **hiring a driver** for the day, especially if you're not comfortable driving on the left side of the road.
+- Be **patient** and **courteous** when driving, as the roads can be narrow and winding.
+- Always **wear a seatbelt** and follow **traffic rules**, such as not using your phone while driving.
+- Consider **purchasing travel insurance** that covers transportation, in case of unexpected events or accidents.
+
+---
+
+*Evergreen reference content. Verify time-sensitive details with official sources.*

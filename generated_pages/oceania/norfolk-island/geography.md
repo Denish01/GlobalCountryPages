@@ -1,0 +1,58 @@
+---
+title: "Norfolk Island Geography - Location, Terrain & Climate"
+entity: "Norfolk Island"
+iso_code: "NF"
+continent: "oceania"
+angle: "geography"
+date: "2026-02-17"
+---
+
+# Norfolk Island Geography - Location, Terrain & Climate
+
+Norfolk Island is a small territory located in the Pacific Ocean, situated between Australia and New Zealand, with a unique geography and climate that supports a diverse range of flora and fauna.
+
+[FACTBOX]
+Land Area: 36 km², about the size of the island of Bermuda
+Highest Point: Mount Bates, 319 meters
+Lowest Point: Pacific Ocean, 0 meters
+Coastline: 32 km
+Borders: New Zealand, New Caledonia
+Climate Type: subtropical
+[/FACTBOX]
+
+[SECTION] Location & Borders [/SECTION]
+Norfolk Island is situated in the Pacific Ocean, approximately 1,400 kilometers northeast of Sydney, Australia, and 1,000 kilometers northwest of New Zealand. The island is surrounded by the Pacific Ocean and is part of the **Pacific Islands** region. The territory is bordered by the external territories of New Zealand and New Caledonia, which is a special collectivity of France. The island's remote location and limited accessibility have helped to preserve its unique culture and environment.
+
+The island's proximity to the **equator** and its location in the Pacific Ocean have a significant impact on its climate and geography. The surrounding ocean plays a crucial role in shaping the island's coastline, with **coral reefs** and **rocky shores** providing a habitat for a diverse range of marine life. The island's location also makes it vulnerable to **cyclones** and **tsunamis**, which can have a significant impact on the island's infrastructure and ecosystem.
+
+[SECTION] Terrain & Landscape [/SECTION]
+Norfolk Island's terrain is characterized by **hills** and **valleys**, with the highest point being Mount Bates, which rises to an elevation of 319 meters. The island's landscape is dominated by **forests**, which cover approximately 40% of the island's land area. The forests are home to a diverse range of flora and fauna, including **pines**, **eucalyptus**, and **fern trees**. The island's coastline is rocky and rugged, with **cliffs** and **caves** providing a habitat for **seabirds** and **marine life**.
+
+The island's interior is home to several **rivers** and **streams**, which flow into the Pacific Ocean. The rivers are an important source of freshwater, and they support a diverse range of aquatic life, including **fish** and **crustaceans**. The island's terrain and landscape have been shaped by millions of years of **geological activity**, including **volcanic eruptions** and **erosion**. The island's unique geology has created a diverse range of **landforms**, including **valleys**, **hills**, and **coastal plains**.
+
+The island's **soil** is fertile and supports a diverse range of agriculture, including **crops** and **livestock**. The island's farmers produce a range of products, including **fruits**, **vegetables**, and **dairy products**. The island's unique terrain and climate make it an ideal location for **ecotourism**, with visitors able to explore the island's **forests**, **coastlines**, and **wildlife**.
+
+[SECTION] Climate By Season [/SECTION]
+[TABLE]
+| Season | Months | Temperature Range | Rainfall | Conditions |
+| --- | --- | --- | --- | --- |
+| Summer | December to February | 22-28°C | 100-150 mm | Humid and sunny |
+| Autumn | March to May | 18-24°C | 80-120 mm | Mild and pleasant |
+| Winter | June to August | 12-18°C | 60-100 mm | Cool and cloudy |
+| Spring | September to November | 15-22°C | 80-120 mm | Mild and sunny |
+[/TABLE]
+
+[SECTION] Best Time To Visit [/SECTION]
+[CALLOUT] Best months: September to November and March to May. Why: These periods offer mild and pleasant weather, with average temperatures ranging from 15-24°C, making it ideal for outdoor activities such as hiking and sightseeing. Avoid: June to August, as the weather can be cool and cloudy, with limited sunshine and increased rainfall. [/CALLOUT]
+
+[SECTION] Natural Highlights [/SECTION]
+- **Norfolk Island National Park**: a protected area that covers approximately 10% of the island's land area and is home to a diverse range of flora and fauna.
+- **Philip Island**: a small island located off the coast of Norfolk Island, known for its unique **wildlife** and **landscapes**.
+- **Mount Bates**: the highest point on the island, offering stunning views of the surrounding landscape and ocean.
+- **Emily Bay**: a popular **beach** and **lagoon**, known for its clear waters and diverse range of **marine life**.
+- **Norfolk Island Botanic Garden**: a garden that showcases the island's unique and diverse range of **flora**, including **pines**, **eucalyptus**, and **fern trees**.
+- **Georges Head**: a rocky **headland** that offers stunning views of the surrounding ocean and coastline, and is home to a diverse range of **seabirds** and **marine life**.
+
+---
+
+*Evergreen reference content. Verify time-sensitive details with official sources.*

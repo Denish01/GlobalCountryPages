@@ -1,0 +1,70 @@
+---
+title: "Dominica Infrastructure — Roads, Airports, Electricity & Water"
+entity: "Dominica"
+iso_code: "DM"
+continent: "north-america"
+angle: "infrastructure"
+date: "2026-02-17"
+---
+
+# Dominica Infrastructure — Roads, Airports, Electricity & Water
+
+The infrastructure in Dominica is relatively underdeveloped, with ongoing efforts to improve roads, energy, and telecommunications, but still facing challenges in rural areas. 
+
+[FACTBOX]
+Electricity Access: 95% of population
+Internet Penetration: 69%
+Road Network: 780 km, moderate quality
+Rail Network: none
+Major Airports: 2
+Major Ports: 2
+[/FACTBOX]
+
+[SECTION] Infrastructure Overview [/SECTION]
+Dominica's infrastructure development level is moderate, with a focus on improving the overall quality of life for its citizens. Recent investments have been made in the road network, with the aim of connecting rural areas to urban centers and improving access to basic services. However, there is still a significant urban-rural gap, with rural areas often lacking access to reliable electricity, clean water, and telecommunications. The government has been working to address these disparities, with a focus on sustainable development and environmental protection.
+
+The island's rugged terrain and vulnerability to natural disasters, such as hurricanes, pose significant challenges to infrastructure development. As a result, Dominica has had to invest heavily in disaster resilience and recovery efforts, including the reconstruction of roads, bridges, and buildings. Despite these challenges, the country has made significant progress in recent years, with improvements in energy generation, water supply, and telecommunications.
+
+Dominica's infrastructure development is also closely tied to its tourism industry, which is a major driver of the economy. As a result, there has been a focus on developing infrastructure that supports the growth of tourism, including the expansion of airports, ports, and hotels. However, this has also raised concerns about the impact of tourism on the environment and local communities, and the need for sustainable and responsible development practices.
+
+[SECTION] Transport Infrastructure [/SECTION]
+[TABLE]
+| Type | Coverage | Quality | Notes |
+| --- | --- | --- | --- |
+| Roads | 780 km | Moderate | Limited access to rural areas, prone to landslides and flooding |
+| Railways | none | - | - |
+| Airports | 2 international, 0 domestic | Good | Melville Hall Airport and Canefield Airport |
+| Ports | 2 major | Moderate | Roseau Port and Woodbridge Bay Port |
+[/TABLE]
+
+[SECTION] Energy & Electricity [/SECTION]
+- Dominica's power generation is primarily based on **fossil fuels**, with a growing focus on **renewable energy** sources, including hydroelectric and geothermal power.
+- The country has made significant progress in increasing its energy independence, with a goal of becoming 100% reliant on renewable energy by 2030.
+- However, the energy sector is still vulnerable to disruptions, including outages and power shortages, particularly in rural areas.
+- The government has implemented measures to improve energy efficiency and reduce energy consumption, including the use of **energy-efficient lighting** and **appliances**.
+- Dominica is also exploring the potential for **geothermal energy**, with several projects currently under development.
+
+[SECTION] Water & Sanitation [/SECTION]
+- Tap water is generally considered safe to drink, but there are concerns about **water quality** in rural areas, where access to clean water is limited.
+- Sanitation coverage is relatively high, with over 90% of the population having access to improved sanitation facilities.
+- However, there are still challenges in maintaining and upgrading water and sanitation infrastructure, particularly in rural areas.
+- The government has implemented measures to improve water conservation and efficiency, including the use of **rainwater harvesting** and **gray water reuse**.
+- Dominica is also working to improve its **waste management** practices, including the development of a comprehensive waste management plan.
+
+[SECTION] Telecommunications [/SECTION]
+- Mobile coverage is relatively good, with over 90% of the population having access to mobile phone services.
+- Fiber and broadband internet services are available, but are still limited in rural areas.
+- The government has implemented measures to improve telecommunications infrastructure, including the development of a **national broadband plan**.
+- Dominica is also working to improve its **postal services**, including the introduction of new services and the upgrade of existing infrastructure.
+- The country is also exploring the potential for **4G and 5G networks**, with several operators currently rolling out new services.
+
+[SECTION] Development Projects [/SECTION]
+- The government has launched a major **road reconstruction project**, aimed at improving the quality and safety of the road network.
+- Dominica is also investing in the development of its **renewable energy sector**, including the construction of new hydroelectric and geothermal power plants.
+- The country is working to improve its **water and sanitation infrastructure**, including the upgrade of existing facilities and the development of new ones.
+- The government has also launched a **national telecommunications plan**, aimed at improving access to mobile and internet services.
+- Dominica is also exploring the potential for **public-private partnerships** to support infrastructure development, including the development of new ports and airports.
+
+---
+
+*Evergreen reference content. Verify time-sensitive details with official sources.*

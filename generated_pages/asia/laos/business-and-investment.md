@@ -1,0 +1,88 @@
+---
+title: "Doing Business in Laos — Investment, FDI & Opportunities"
+entity: "Laos"
+iso_code: "LA"
+continent: "asia"
+angle: "business-and-investment"
+date: "2026-02-17"
+---
+
+# Doing Business in Laos — Investment, FDI & Opportunities
+
+Doing business in Laos can be challenging, but the country offers various investment opportunities, particularly in the sectors of agriculture, mining, and tourism, with a relatively stable economic environment and a strategic location in the heart of Southeast Asia.
+
+[FACTBOX]
+Ease of Doing Business: 154 (out of 190 countries, World Bank ranking 2020)
+Corporate Tax Rate: 24%
+FDI Inflow: $1.3 billion annual
+Special Economic Zones: Yes, 12
+Key Industries: Agriculture, Mining, Tourism
+Currency Stability: Moderate
+[/FACTBOX]
+
+[SECTION] Business Environment [/SECTION]
+Laos has made significant progress in recent years to improve its business environment, with the government implementing various reforms to attract foreign investment and promote economic growth. The government's attitude toward foreign investment is generally positive, with a focus on promoting foreign direct investment (FDI) as a key driver of economic development. However, the country still faces challenges related to bureaucracy and corruption, which can hinder the business operations of foreign investors. The Lao government has established the **Lao National Chamber of Commerce and Industry** to facilitate dialogue between the government and the private sector, and to provide support to businesses operating in the country.
+
+The business environment in Laos is also influenced by the country's strategic location in the heart of Southeast Asia, with borders shared with five countries, including China, Vietnam, and Thailand. This location provides access to a large and growing market, as well as opportunities for trade and investment with neighboring countries. However, the country's infrastructure, including its transportation network and energy supply, is still underdeveloped, which can pose challenges for businesses operating in the country.
+
+Despite these challenges, Laos offers a relatively stable economic environment, with a **GDP growth rate** of around 6-7% per annum in recent years. The country has also made significant progress in reducing poverty and improving living standards, with a **poverty rate** of around 18% in 2020, down from 46% in 1993.
+
+[SECTION] Starting a Business [/SECTION]
+Starting a business in Laos involves several steps, which can be time-consuming and costly. The following table outlines the main steps involved in registering and starting a business in Laos:
+
+| Step | Requirement | Time | Cost (USD) |
+| --- | --- | --- | --- |
+| 1 | Register the company name | 1 day | 10 |
+| 2 | Obtain a business license | 7 days | 100 |
+| 3 | Register for tax purposes | 3 days | 50 |
+| 4 | Obtain a visa for foreign employees | 7 days | 200 |
+| 5 | Open a bank account | 3 days | 50 |
+| 6 | Register with the Ministry of Labor | 3 days | 20 |
+| 7 | Obtain a health certificate | 1 day | 10 |
+
+[SECTION] Investment Opportunities [/SECTION]
+Laos offers various investment opportunities, particularly in the sectors of agriculture, mining, and tourism. The following table outlines some of the key sectors with investment potential:
+
+| Sector | Opportunity | Growth Potential | Notes |
+| --- | --- | --- | --- |
+| Agriculture | Rice and maize production, livestock farming | High | Government support for agricultural development |
+| Mining | Copper, gold, and iron ore mining | High | Significant mineral resources, but environmental concerns |
+| Tourism | Eco-tourism, cultural tourism | Medium | Rich cultural heritage and natural beauty |
+| Energy | Hydropower, solar power | High | Significant potential for renewable energy development |
+| Manufacturing | Textiles, food processing | Medium | Government support for manufacturing development |
+| Infrastructure | Road construction, bridge building | High | Significant need for infrastructure development |
+
+[SECTION] Foreign Direct Investment [/SECTION]
+Laos has attracted significant foreign direct investment (FDI) in recent years, particularly from China, Vietnam, and Thailand. The main trends and characteristics of FDI in Laos are:
+- FDI inflows have been increasing steadily, with a total of $1.3 billion in 2020
+- The main investing countries are China, Vietnam, and Thailand
+- The government offers various incentives, including tax breaks and investment promotion schemes
+- Restricted sectors include defense, finance, and telecommunications
+
+[SECTION] Legal & Regulatory Framework [/SECTION]
+The legal and regulatory framework in Laos is based on a combination of French and socialist law. The main laws and regulations governing business operations in Laos are:
+- The **Law on Investment Promotion**, which provides a framework for investment promotion and protection
+- The **Law on Business**, which governs business operations and registration
+- The **Labor Law**, which regulates labor relations and employment
+- The **Intellectual Property Law**, which protects intellectual property rights
+- The **Dispute Resolution Law**, which provides a framework for resolving commercial disputes
+
+[SECTION] Challenges & Risks [/SECTION]
+Despite the opportunities, doing business in Laos also involves various challenges and risks, including:
+- **Corruption**, which is a significant problem in Laos, particularly in the public sector
+- **Bureaucracy**, which can be time-consuming and costly
+- **Infrastructure constraints**, including a lack of access to reliable energy and transportation
+- **Market limitations**, including a small domestic market and limited access to international markets
+- **Currency risks**, including fluctuations in the value of the Lao kip
+- **Political risks**, including the potential for political instability and changes in government policy
+
+[SECTION] Free Zones & Incentives [/SECTION]
+Laos has established several special economic zones (SEZs) and investment promotion schemes to attract foreign investment. The main SEZs and incentives are:
+- The **Savannakhet SEZ**, which offers tax breaks and investment promotion schemes for businesses operating in the zone
+- The **Vientiane SEZ**, which provides support for businesses operating in the capital city
+- The **Lao National Chamber of Commerce and Industry**, which provides support and promotion for businesses operating in Laos
+- The **Investment Promotion Department**, which provides information and support for foreign investors.
+
+---
+
+*Evergreen reference content. Verify time-sensitive details with official sources.*

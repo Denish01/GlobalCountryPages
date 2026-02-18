@@ -1,0 +1,66 @@
+---
+title: "Sri Lanka Internet & SIM Cards — Connectivity Guide"
+entity: "Sri Lanka"
+iso_code: "LK"
+continent: "asia"
+angle: "internet-and-connectivity"
+date: "2026-02-17"
+---
+
+# Sri Lanka Internet & SIM Cards — Connectivity Guide
+
+The internet in Sri Lanka is generally good, with average speeds and widespread coverage, making it relatively easy for tourists and travelers to stay connected during their visit. 
+
+[FACTBOX]
+Average Internet Speed: 10 Mbps download
+Mobile Network Coverage: Good
+Main Carriers: Dialog, Mobitel, Etisalat
+SIM Card Cost: 10 USD for tourist SIM
+WiFi Availability: Common
+5G Available: Limited
+[/FACTBOX]
+
+[SECTION] Internet Overview [/SECTION]
+The internet in Sri Lanka has improved significantly over the years, with the country investing heavily in its telecommunications infrastructure. While the average internet speed is around 10 Mbps, it can vary greatly depending on the location, with urban areas like Colombo and Kandy generally having faster and more reliable connections than rural areas. The urban-rural divide is still a significant issue, with many rural areas struggling with slow and unreliable internet connectivity. However, the overall reliability of the internet in Sri Lanka is good, with most users experiencing few issues with their connections.
+
+The Sri Lankan government has also launched several initiatives to improve internet accessibility and affordability, particularly in rural areas. These initiatives include the deployment of **4G** networks and the establishment of **community networks** to provide internet access to underserved communities. As a result, the internet has become an essential tool for many Sri Lankans, with a growing number of people using it for education, entertainment, and commerce. Despite the challenges, the internet in Sri Lanka is generally good, making it an excellent destination for **digital nomads** and travelers who need to stay connected.
+
+[SECTION] Getting a SIM Card [/SECTION]
+Getting a SIM card in Sri Lanka is relatively straightforward, with many mobile providers offering **tourist SIMs** that can be purchased at airports, mobile stores, and other authorized retailers. To buy a SIM card, you will need to provide a valid passport and fill out a registration form. The cost of a tourist SIM is around 10 USD, and it usually comes with a certain amount of **data** and **credit** that can be used for calls and texts. The main carriers in Sri Lanka, such as Dialog, Mobitel, and Etisalat, offer a range of plans and packages that cater to different needs and budgets.
+
+It is recommended to buy a SIM card from a reputable provider, such as Dialog or Mobitel, as they have the widest coverage and best network quality. You can also purchase a SIM card at the airport, which is convenient for tourists who need to stay connected as soon as they arrive. The process of buying a SIM card is relatively quick and easy, and most providers have English-speaking staff who can assist with the registration process.
+
+[TABLE]
+| Carrier | Tourist Plan | Data | Price (USD) | Notes |
+| --- | --- | --- | --- | --- |
+| Dialog | Tourist Plan | 1 GB | 5 USD | Valid for 7 days |
+| Mobitel | Traveler Plan | 2 GB | 10 USD | Valid for 14 days |
+| Etisalat | Visitor Plan | 500 MB | 3 USD | Valid for 3 days |
+| Hutch | Tourist Plan | 1 GB | 5 USD | Valid for 7 days |
+[/TABLE]
+
+[SECTION] WiFi Availability [/SECTION]
+- Hotel WiFi quality is generally good, with most hotels and resorts offering **free WiFi** to their guests.
+- Cafe WiFi culture is growing in Sri Lanka, with many cafes and restaurants offering **free WiFi** to customers.
+- Coworking spaces are becoming increasingly popular, particularly in urban areas like Colombo, and often offer **high-speed WiFi** and other amenities.
+- Public WiFi is limited, but many cities and towns have **public WiFi hotspots** that can be accessed for free.
+- Many restaurants and bars also offer **free WiFi**, making it easy to stay connected while enjoying a meal or drink.
+
+[SECTION] For Remote Workers [/SECTION]
+- Coworking spaces like **Colombo CoWorks** and **Hatch** offer high-speed WiFi, comfortable workspaces, and a community of like-minded professionals.
+- Reliable cafe chains like **The Coffee Bean & Tea Leaf** and **Barista** offer good WiFi and a comfortable work environment.
+- Backup internet options like **mobile hotspots** and **portable WiFi routers** are available for rent or purchase, providing a reliable backup connection.
+- VPNs are not always necessary, but they can be useful for accessing **geo-restricted content** or **secure online transactions**.
+- Many hotels and resorts also offer **business centers** and **meeting rooms** with high-speed WiFi and other amenities.
+
+[SECTION] Tips & Warnings [/SECTION]
+- Internet censorship is not a significant issue in Sri Lanka, but some websites may be **blocked** due to local laws or regulations.
+- **VPN** use is not restricted, but it is recommended to use a reputable provider to ensure **secure and reliable** connections.
+- Roaming alternatives like **eSIMs** and **international SIMs** can be useful for travelers who need to stay connected while avoiding high roaming charges.
+- It is recommended to use **secure online transactions** and **two-factor authentication** to protect against **cyber threats** and **identity theft**.
+- **Public WiFi** should be used with caution, as it can be vulnerable to **hacking** and **data theft**.
+- **Regular software updates** and **antivirus software** can help protect against **malware** and **viruses**.
+
+---
+
+*Evergreen reference content. Verify time-sensitive details with official sources.*

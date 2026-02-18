@@ -1,0 +1,70 @@
+---
+title: "Morocco Infrastructure — Roads, Airports, Electricity & Water"
+entity: "Morocco"
+iso_code: "MA"
+continent: "africa"
+angle: "infrastructure"
+date: "2026-02-17"
+---
+
+# Morocco Infrastructure — Roads, Airports, Electricity & Water
+
+Morocco's infrastructure is a mix of modern and developing systems, with significant investments in recent years to improve the country's transportation, energy, and telecommunications networks. 
+
+[FACTBOX]
+Electricity Access: 99.5% of population
+Internet Penetration: 73.3%
+Road Network: 57,334 km, with good quality roads connecting major cities
+Rail Network: 2,067 km
+Major Airports: 24
+Major Ports: 12
+[/FACTBOX]
+
+[SECTION] Infrastructure Overview [/SECTION]
+Morocco's infrastructure development level is relatively high compared to other African countries, with a strong focus on improving the business environment and attracting foreign investment. The government has invested heavily in recent years to upgrade the country's transportation networks, including the construction of new highways, airports, and ports. However, there is still a significant urban-rural gap in terms of infrastructure development, with many rural areas lacking access to basic services such as electricity, water, and sanitation. The government has launched several initiatives to address this gap, including the National Rural Development Program, which aims to improve access to basic services and infrastructure in rural areas.
+
+The Moroccan government has also launched several initiatives to promote the development of **renewable energy**, including the Moroccan Solar Plan, which aims to increase the share of renewable energy in the country's energy mix to 42% by 2020. The country has also made significant progress in improving its **telecommunications** infrastructure, with the launch of 4G services in 2015 and the ongoing rollout of fiber-optic broadband networks. However, despite these efforts, Morocco still faces significant challenges in terms of infrastructure development, including a lack of funding and a need for greater investment in rural areas.
+
+In recent years, Morocco has also made significant progress in improving its **business environment**, with the launch of several initiatives to simplify procedures and reduce bureaucracy. The country has also invested heavily in the development of its **industrial zones**, including the Tangier Med logistics zone, which is one of the largest industrial zones in Africa. These efforts have helped to attract significant foreign investment to the country, with Morocco becoming one of the largest recipients of foreign direct investment in Africa.
+
+[SECTION] Transport Infrastructure [/SECTION]
+[TABLE]
+| Type | Coverage | Quality | Notes |
+| --- | --- | --- | --- |
+| Roads | 57,334 km | Good | Well-maintained highways connect major cities, but rural roads can be poor |
+| Railways | 2,067 km | Moderate | Limited coverage, but ongoing investments to upgrade the network |
+| Airports | 24 international, 12 domestic | Good | Major airports include Casablanca, Marrakech, and Tangier |
+| Ports | 12 major | Good | Major ports include Casablanca, Tangier, and Jorf Lasfar |
+[/TABLE]
+
+[SECTION] Energy & Electricity [/SECTION]
+- Morocco's **power generation** is based on a mix of fossil fuels, nuclear, and renewable energy sources, with a growing focus on renewable energy.
+- The country has made significant progress in improving its **energy efficiency**, with the launch of several initiatives to reduce energy consumption and promote the use of energy-efficient technologies.
+- **Renewable energy** is becoming an increasingly important part of Morocco's energy mix, with the country aiming to increase the share of renewable energy to 42% by 2020.
+- Despite these efforts, Morocco still faces significant challenges in terms of **energy security**, including a reliance on imported fossil fuels and a need for greater investment in renewable energy.
+- The country has also made significant progress in improving its **electricity distribution**, with the launch of several initiatives to reduce **power outages** and improve the reliability of the grid.
+
+[SECTION] Water & Sanitation [/SECTION]
+- **Tap water** is generally safe to drink in urban areas, but can be a problem in rural areas, where access to safe drinking water is limited.
+- **Sanitation coverage** is relatively high in urban areas, but can be poor in rural areas, where many households lack access to basic sanitation facilities.
+- **Water access** is a significant challenge in rural areas, where many households rely on traditional wells or springs for their water needs.
+- The government has launched several initiatives to improve **water management**, including the creation of a national water agency to oversee the sector.
+- **Wastewater treatment** is also a significant challenge, with many urban areas lacking adequate wastewater treatment facilities.
+
+[SECTION] Telecommunications [/SECTION]
+- **Mobile coverage** is widespread, with all major operators offering 4G services in urban areas.
+- **Fiber-optic broadband** is becoming increasingly available, with several operators launching fiber-optic services in major cities.
+- **Internet penetration** is relatively high, with over 70% of the population having access to the internet.
+- **Postal services** are relatively well-developed, with a network of post offices and mail delivery services available throughout the country.
+- The government has also launched several initiatives to promote the development of **information and communication technologies**, including the creation of a national ICT strategy to promote the sector.
+
+[SECTION] Development Projects [/SECTION]
+- The Moroccan government has launched several major **infrastructure development projects**, including the construction of a new high-speed rail line between Tangier and Casablanca.
+- The country is also investing heavily in the development of its **renewable energy** sector, with several major solar and wind power projects underway.
+- The government has also launched several initiatives to improve **rural infrastructure**, including the construction of new roads, bridges, and water supply systems.
+- **Foreign investment** is playing a significant role in Morocco's infrastructure development, with several major foreign companies investing in the country's infrastructure sector.
+- The government has also launched several initiatives to promote **public-private partnerships**, with the aim of attracting greater private sector investment in the infrastructure sector.
+
+---
+
+*Evergreen reference content. Verify time-sensitive details with official sources.*

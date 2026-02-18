@@ -1,0 +1,70 @@
+---
+title: "Suriname Tax Guide — Income, Corporate & VAT Rates"
+entity: "Suriname"
+iso_code: "SR"
+continent: "south-america"
+angle: "taxes"
+date: "2026-02-17"
+---
+
+# Suriname Tax Guide — Income, Corporate & VAT Rates
+
+The tax rates in Suriname range from 10% to 38% for personal income tax, with a corporate tax rate of 25%, a value-added tax (VAT) of 10%, and a capital gains tax that is included in the income tax system.
+
+[CALLOUT] Tax laws change frequently. Always consult a qualified tax professional for advice specific to your situation. This is a general guide only. [/CALLOUT]
+
+[FACTBOX]
+Income Tax Range: 10% - 38%
+Corporate Tax: 25%
+VAT/GST: 10%
+Capital Gains Tax: included in income
+Tax Year: Jan-Dec
+Tax Treaty Network: 11 countries
+[/FACTBOX]
+
+[SECTION] Tax System Overview [/SECTION]
+Suriname has a **territorial taxation system**, where only income earned within the country is subject to taxation. This means that individuals and businesses are only taxed on their Surinamese-sourced income, and not on their worldwide income. To be considered a tax resident in Suriname, an individual must have a **permanent home** in the country, or spend more than 183 days in a calendar year in Suriname. The tax system in Suriname is overseen by the Ministry of Finance, which is responsible for collecting taxes, enforcing tax laws, and providing guidance to taxpayers.
+
+The tax year in Suriname runs from January to December, and taxpayers are required to file their tax returns by the end of March of the following year. The country has a relatively small tax treaty network, with agreements in place with 11 countries, including the Netherlands, the United States, and Canada. These treaties help to prevent double taxation and facilitate the exchange of tax information between countries.
+
+[SECTION] Personal Income Tax [/SECTION]
+| Income Bracket (SRD) | Tax Rate |
+| --- | --- |
+| 0 - 120,000 | 10% |
+| 120,001 - 240,000 | 15% |
+| 240,001 - 360,000 | 20% |
+| 360,001 - 480,000 | 25% |
+| 480,001 and above | 38% |
+Personal income tax in Suriname is progressive, with higher income earners paying a higher tax rate. Taxpayers are allowed to claim **deductions** for expenses such as mortgage interest, charitable donations, and medical expenses. They are also entitled to **allowances** for dependents and other family members. Tax returns must be filed electronically, and payments can be made online or at a bank. The tax authority in Suriname offers a range of services to help taxpayers comply with their tax obligations, including tax clinics and online resources.
+
+[SECTION] Corporate & Business Tax [/SECTION]
+- The **corporate tax rate** in Suriname is 25%, which applies to all companies operating in the country.
+- Small businesses with an annual turnover of less than SRD 1 million are eligible for a **reduced tax rate** of 15%.
+- Suriname has several **free zones**, including the Suriname Free Zone and the Nieuw Nickerie Free Zone, which offer tax incentives and other benefits to businesses that operate within them.
+- Companies must **register** with the Suriname Chamber of Commerce and Industry, and obtain a tax identification number from the tax authority.
+- Businesses are required to file their tax returns and pay their taxes on a **quarterly basis**, with the exception of small businesses, which can file and pay on an annual basis.
+
+[SECTION] VAT / Sales Tax [/SECTION]
+- The **standard VAT rate** in Suriname is 10%, which applies to most goods and services.
+- A **reduced VAT rate** of 5% applies to certain essential items, such as food and medicine.
+- Some goods and services, such as education and healthcare, are **exempt** from VAT.
+- Tourists can claim a **refund** of VAT paid on certain goods and services, such as hotel accommodations and tourist activities.
+
+[SECTION] For Expats & Foreign Workers [/SECTION]
+- Expats and foreign workers are considered **tax residents** in Suriname if they spend more than 183 days in the country in a calendar year.
+- Suriname has **double taxation treaties** in place with several countries, including the Netherlands and the United States, which help to prevent double taxation.
+- Expats and foreign workers are required to **register** with the tax authority and obtain a tax identification number.
+- They are also required to **file** a tax return and pay their taxes on a quarterly basis.
+- Expats and foreign workers may be eligible for a **tax exemption** on certain types of income, such as foreign-earned income.
+- They are also required to comply with **social security** regulations, which include contributions to the Surinamese social security system.
+
+[SECTION] Crypto & Investment Income [/SECTION]
+- **Investment income**, such as dividends and interest, is subject to income tax in Suriname.
+- **Capital gains** are included in the income tax system, and are subject to the same tax rates as ordinary income.
+- **Cryptocurrency** is considered a **commodity** in Suriname, and is subject to capital gains tax.
+- Investors are required to **declare** their investment income and pay their taxes on a quarterly basis.
+- The tax authority in Suriname offers **guidance** on the taxation of investment income and cryptocurrency, including online resources and tax clinics.
+
+---
+
+*Evergreen reference content. Verify time-sensitive details with official sources.*

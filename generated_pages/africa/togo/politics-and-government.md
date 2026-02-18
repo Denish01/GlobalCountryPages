@@ -1,0 +1,73 @@
+---
+title: "Togo Politics & Government — System, Leaders & Stability"
+entity: "Togo"
+iso_code: "TG"
+continent: "africa"
+angle: "politics-and-government"
+date: "2026-02-17"
+---
+
+# Togo Politics & Government — System, Leaders & Stability
+
+Togo is governed as a **unitary presidential republic**, with a system that combines elements of French and African traditions. 
+
+[FACTBOX]
+Government Type: Unitary Presidential Republic
+Head of State: President (Faure Gnassingbé)
+Head of Government: Prime Minister (Victoire Tomegah Dogbé)
+Legislature: National Assembly, unicameral, 91 seats
+Legal System: Civil law
+Political Stability Index: Ranked 133 out of 163 countries in the 2022 Global Peace Index
+Corruption Index: Ranked 134 out of 180 countries in the 2022 Transparency International Corruption Perceptions Index
+[/FACTBOX]
+
+[SECTION] Political System [/SECTION]
+The government of Togo is divided into three branches: the executive, legislative, and judicial. The **executive branch** is headed by the President, who serves as both the head of state and the head of government. The President is elected by popular vote for a five-year term and is limited to two terms. The **legislative branch** is composed of a unicameral National Assembly, which has 91 members elected by popular vote for five-year terms. The **judicial branch** is composed of the Supreme Court and several lower courts, with judges appointed by the President. Togo has a **unitary system**, where the central government holds most of the power, and the country is divided into five regions for administrative purposes.
+
+The **separation of powers** in Togo is designed to provide checks and balances on each branch of government. The President has significant powers, including the ability to appoint the Prime Minister and dissolve the National Assembly. However, the National Assembly has the power to approve or reject the President's appointments and to pass laws. The judicial branch is responsible for interpreting the laws and ensuring that they are consistent with the constitution. Despite these checks and balances, Togo's political system has been criticized for being overly centralized and lacking in transparency.
+
+Togo's **political culture** is influenced by its history as a French colony and its location in West Africa. The country has a diverse population, with over 40 ethnic groups, and a mix of traditional and modern customs. The government has implemented policies to promote national unity and development, but the country still faces challenges related to poverty, corruption, and human rights.
+
+[SECTION] Government Structure [/SECTION]
+[TABLE]
+| Branch | Institution | Head/Leader | Role |
+| --- | --- | --- | --- |
+| Executive | Presidency | Faure Gnassingbé | Head of State and Government |
+| Executive | Prime Minister's Office | Victoire Tomegah Dogbé | Head of Government |
+| Legislative | National Assembly | Yawa Djigbodi Tségan | Speaker of the National Assembly |
+| Judicial | Supreme Court | Abdoulaye Amoudji | President of the Supreme Court |
+[/TABLE]
+
+[SECTION] Major Political Parties [/SECTION]
+[TABLE]
+| Party | Position | Leader | Seats | Notes |
+| --- | --- | --- | --- | --- |
+| Union for the Republic (UNIR) | Center-right | Faure Gnassingbé | 59 | Ruling party |
+| National Alliance for Change (ANC) | Center-left | Joseph Kokou Koffigoh | 19 | Main opposition party |
+| Democratic Convention of African Peoples (CDPA) | Left-wing | Léopold Gnininvi | 7 | Opposition party |
+| Union of Forces for Change (UFC) | Center-left | Joseph Kokou Koffigoh | 3 | Opposition party |
+| Pan-African Democratic Party (PDP) | Center-right | Elisabeth K. Takanoh | 2 | Opposition party |
+[/TABLE]
+
+[SECTION] Elections [/SECTION]
+- The **electoral system** in Togo is based on a combination of single-member districts and proportional representation.
+- **Presidential elections** are held every five years, with the most recent election taking place in 2020.
+- The **last legislative election** was held in 2018, and the next election is scheduled for 2023.
+- **Voter participation** has been relatively low in recent elections, with around 60% of eligible voters participating in the 2020 presidential election.
+
+[SECTION] Political Stability & Challenges [/SECTION]
+- Togo's **political climate** is currently stable, but the country has a history of political unrest and human rights abuses.
+- **Key issues** facing the government include poverty, corruption, and access to education and healthcare.
+- **Regional dynamics** play an important role in Togo's politics, with the country being a member of the Economic Community of West African States (ECOWAS) and the African Union.
+- Togo's **freedom indices** are relatively low, with the country ranked 97 out of 180 countries in the 2022 Press Freedom Index and 133 out of 163 countries in the 2022 Global Peace Index.
+- The government has implemented **reforms** to promote economic development and improve human rights, but more needs to be done to address the country's challenges.
+
+[SECTION] Foreign Relations [/SECTION]
+- Togo is a member of the **United Nations** and the **African Union**, and has diplomatic relations with over 100 countries.
+- The country has **key alliances** with France, Germany, and the United States, and is a member of the **Economic Community of West African States (ECOWAS)**.
+- Togo has a **diplomatic stance** that is focused on promoting regional stability and cooperation, and has played a key role in regional peacekeeping efforts.
+- The country has also been **active in international organizations**, including the International Monetary Fund and the World Bank, and has received significant development assistance from these organizations.
+
+---
+
+*Evergreen reference content. Verify time-sensitive details with official sources.*

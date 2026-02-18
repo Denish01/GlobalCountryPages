@@ -1,0 +1,84 @@
+---
+title: "Top Things to Do in Latvia — Attractions & Experiences"
+entity: "Latvia"
+iso_code: "LV"
+continent: "europe"
+angle: "top-things-to-do"
+date: "2026-02-17"
+---
+
+# Top Things to Do in Latvia — Attractions & Experiences
+
+To experience the best of Latvia, visit its stunning capital city Riga, explore the scenic coastline, and discover the country's rich cultural heritage, from medieval castles to vibrant festivals. 
+
+[SECTION] Top Attractions [/SECTION]
+[TABLE]
+| Attraction | Location | Type | Why Visit |
+| --- | --- | --- | --- |
+| Riga Old Town | Riga | Historical district | UNESCO World Heritage Site with colorful buildings and lively atmosphere |
+| Freedom Monument | Riga | Monument | Symbol of Latvia's independence and a popular meeting spot |
+| Rundale Palace | Rundale | Palace | Baroque-style palace with stunning gardens and art collection |
+| Sigulda National Park | Sigulda | National park | Scenic hiking trails, caves, and picturesque valleys |
+| Turaida Castle | Turaida | Castle | Medieval castle with museum and beautiful gardens |
+| Latvian National Museum of Art | Riga | Museum | Features an extensive collection of Latvian and European art |
+| House of the Blackheads | Riga | Historical building | Unique Gothic-style building with fascinating history |
+| Ventspils Castle | Ventspils | Castle | Well-preserved medieval castle with museum and scenic views |
+| Jurmala Beach | Jurmala | Beach | Popular resort town with beautiful beaches and vibrant atmosphere |
+| Gauja National Park | Gauja | National park | Latvia's first national park with stunning natural beauty and hiking trails |
+[/TABLE]
+
+[SECTION] Unique Experiences [/SECTION]
+- Attend a traditional **Latvian folk festival**, such as the Song and Dance Festival, to experience the country's vibrant culture and music
+- Take a **bog walking tour** in the Kemeri National Park to explore the unique natural environment and spot rare plants and animals
+- Visit a **traditional Latvian farm** to learn about rural life and try local delicacies such as **smoked fish** and **dark rye bread**
+- Explore the **street art scene** in Riga's Alternative District, featuring colorful murals and quirky galleries
+- Relax at a **traditional Latvian sauna**, a popular social activity where locals gather to unwind and socialize
+- Go on a **bear watching tour** in the Latgale region, home to a large population of European brown bears
+- Take a **cooking class** to learn how to prepare traditional Latvian dishes such as **Aukstā kāpostu zupa** (sour soup) and **Rupjmaize** (dark rye bread)
+
+[SECTION] Outdoor & Nature [/SECTION]
+- Explore the **Gauja National Park**, featuring stunning natural beauty, hiking trails, and picturesque valleys
+- Visit the **Kemeri National Park**, known for its unique bog landscape and rare plant species
+- Relax on the beach in **Jurmala**, a popular resort town with vibrant atmosphere and scenic views
+- Go hiking in the **Sigulda National Park**, featuring scenic trails, caves, and picturesque valleys
+- Spot wildlife, including **European brown bears** and **wolves**, in the Latgale region
+- Take a **boat tour** on the **Daugava River**, which runs through the heart of Riga and offers scenic views of the city
+
+[SECTION] Cultural Experiences [/SECTION]
+- Visit the **Latvian National Museum of Art**, featuring an extensive collection of Latvian and European art
+- Explore the **Riga Cathedral**, a stunning example of Gothic architecture and home to the **Riga Cathedral Choir**
+- Attend a performance at the **Latvian National Opera**, featuring a wide range of classical and contemporary productions
+- Learn about Latvian history and culture at the **Museum of the Occupation of Latvia**, which tells the story of the country's complex past
+- Visit the **Ethnographic Open-Air Museum**, featuring traditional Latvian houses and showcasing rural life
+- Take a **guided tour** of the **Riga Old Town**, which offers a wealth of information about the city's history and architecture
+
+[SECTION] Hidden Gems [/SECTION]
+- Visit the **Kalnciema Quarter**, a charming neighborhood in Riga featuring colorful wooden houses and a vibrant atmosphere
+- Explore the **Agnese Baroque Church**, a stunning example of Baroque architecture and one of Riga's best-kept secrets
+- Relax in the **Bastejkalns Park**, a peaceful oasis in the heart of Riga featuring beautiful gardens and a picturesque lake
+- Take a **day trip** to the **Cesis region**, known for its stunning natural beauty, picturesque towns, and vibrant cultural scene
+- Visit the **Ludza region**, which features a unique blend of Latvian and Russian culture and is home to several traditional villages
+
+[SECTION] Day Trips [/SECTION]
+- Take a day trip to **Sigulda** (distance: 50 km, travel time: 1 hour), featuring stunning natural beauty, scenic hiking trails, and picturesque valleys
+- Visit **Jurmala** (distance: 20 km, travel time: 30 minutes), a popular resort town with vibrant atmosphere and scenic views
+- Explore **Cesis** (distance: 90 km, travel time: 2 hours), a charming town featuring a stunning castle, picturesque old town, and vibrant cultural scene
+- Go on a **day trip** to the **Latgale region** (distance: 200 km, travel time: 3 hours), known for its unique cultural heritage, stunning natural beauty, and traditional villages
+- Visit **Rundale** (distance: 80 km, travel time: 1.5 hours), featuring a stunning Baroque-style palace with beautiful gardens and art collection
+
+[SECTION] Planning Tips [/SECTION]
+[CALLOUT] Suggested itineraries: 3-day (highlights of Riga and surrounding areas), 7-day (comprehensive tour of Latvia's major cities and national parks), 14-day (deep exploration of Latvia's culture, history, and natural beauty). Key tips for booking and prioritizing: book accommodations in advance, especially during peak season, and prioritize visits to popular attractions such as the Riga Old Town and Sigulda National Park. Consider purchasing a **Latvia Tourist Card**, which offers discounts and free entry to many attractions. [/CALLOUT]
+[FACTBOX]
+Key: Population
+Value: 1,829,000
+Key: Area
+Value: 64,559 km²
+Key: Currency
+Value: EUR
+[/FACTBOX]
+[RATING] 4/5 [/RATING] 
+The country's unique blend of **Baltic** and **Soviet** heritage, stunning natural beauty, and vibrant cultural scene make it a must-visit destination for any traveler.
+
+---
+
+*Evergreen reference content. Verify time-sensitive details with official sources.*

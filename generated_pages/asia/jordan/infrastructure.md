@@ -1,0 +1,70 @@
+---
+title: "Jordan Infrastructure — Roads, Airports, Electricity & Water"
+entity: "Jordan"
+iso_code: "JO"
+continent: "asia"
+angle: "infrastructure"
+date: "2026-02-17"
+---
+
+# Jordan Infrastructure — Roads, Airports, Electricity & Water
+
+Jordan's infrastructure is a mix of modern and developing systems, with significant investments in recent years to improve the country's transportation, energy, and telecommunications networks. 
+
+[FACTBOX]
+Electricity Access: 99% of population
+Internet Penetration: 53%
+Road Network: 7,891 km, moderate quality with some poor conditions in rural areas
+Rail Network: 507 km
+Major Airports: 3
+Major Ports: 1, the Port of Aqaba
+[/FACTBOX]
+
+[SECTION] Infrastructure Overview [/SECTION]
+Jordan's infrastructure development level is generally moderate, with a notable gap between urban and rural areas. The government has been investing heavily in infrastructure development, with a focus on improving the transportation network, increasing energy production, and expanding access to telecommunications services. Recent investments have included the construction of new highways, the expansion of the rail network, and the development of renewable energy sources. Despite these efforts, challenges remain, particularly in rural areas where access to basic services such as electricity, water, and sanitation can be limited.
+
+The government's infrastructure development plans are focused on supporting economic growth, improving the business environment, and enhancing the quality of life for citizens. This includes investments in transportation infrastructure, such as the construction of new roads and highways, as well as the development of logistics and transportation hubs. The government is also working to improve the energy sector, with a focus on increasing the use of renewable energy sources and reducing dependence on imported fuels.
+
+Jordan's infrastructure development is also being driven by the need to support the growing population and economy. The country is experiencing rapid urbanization, with many people moving to cities in search of work and better living conditions. This is putting pressure on urban infrastructure, including transportation, housing, and services such as water and sanitation. The government is working to address these challenges through investments in urban infrastructure, including the development of new housing projects, transportation systems, and public services.
+
+[SECTION] Transport Infrastructure [/SECTION]
+[TABLE]
+| Type | Coverage | Quality | Notes |
+| --- | --- | --- | --- |
+| Roads | 7,891 km | Moderate | Some poor conditions in rural areas |
+| Railways | 507 km | Good | Limited coverage, mainly used for freight |
+| Airports | 3 international, 2 domestic | Good | Amman's Queen Alia International Airport is the main hub |
+| Ports | 1 major, Port of Aqaba | Good | Handles most of Jordan's maritime trade |
+[/TABLE]
+
+[SECTION] Energy & Electricity [/SECTION]
+- Jordan's power generation is primarily based on **natural gas** and **oil**, with a growing focus on **renewable energy** sources such as solar and wind power.
+- The country has made significant progress in increasing its electricity generation capacity, with a number of new power plants coming online in recent years.
+- Despite these efforts, **power outages** can still occur, particularly during periods of high demand or when there are disruptions to the supply of imported fuels.
+- Jordan is working to reduce its dependence on imported fuels and increase the use of **renewable energy** sources, with a target of generating 20% of its electricity from renewables by 2025.
+- The government is also investing in **energy efficiency** measures, such as the development of smart grids and the promotion of energy-efficient appliances.
+
+[SECTION] Water & Sanitation [/SECTION]
+- **Tap water** is generally safe to drink in urban areas, but may not be in rural areas where water treatment and distribution systems are less developed.
+- **Sanitation** coverage is relatively high, with most households having access to improved sanitation facilities such as flush toilets.
+- However, there are still challenges in terms of **water access** in rural areas, where some communities may not have reliable access to clean water.
+- The government is working to improve **water management** practices, including the development of new water storage and distribution systems.
+- Jordan is also investing in **wastewater treatment** facilities, with a focus on reducing the environmental impact of wastewater disposal and increasing the use of treated wastewater for non-potable purposes.
+
+[SECTION] Telecommunications [/SECTION]
+- **Mobile coverage** is generally good, with most areas of the country having access to 4G networks.
+- **Fiber-optic** broadband is also widely available, particularly in urban areas.
+- The government is working to expand **4G/5G** coverage to all areas of the country, with a focus on improving connectivity in rural areas.
+- **Postal services** are also available, with Jordan Post providing a range of services including mail delivery, parcel delivery, and money transfer.
+- The government is also investing in **digital infrastructure**, including the development of data centers and cloud computing services.
+
+[SECTION] Development Projects [/SECTION]
+- The government is investing in a number of major **transportation projects**, including the construction of new highways and the expansion of the rail network.
+- Jordan is also developing its **energy sector**, with a focus on increasing the use of renewable energy sources and reducing dependence on imported fuels.
+- The country is investing in **water management** projects, including the development of new water storage and distribution systems.
+- The government is also working to improve **telecommunications infrastructure**, with a focus on expanding 4G/5G coverage and improving digital connectivity.
+- Jordan is also investing in **urban development** projects, including the construction of new housing projects and the development of public services such as transportation and sanitation.
+
+---
+
+*Evergreen reference content. Verify time-sensitive details with official sources.*

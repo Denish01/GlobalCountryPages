@@ -1,0 +1,71 @@
+---
+title: "Mauritania History — Key Events & Timeline"
+entity: "Mauritania"
+iso_code: "MR"
+continent: "africa"
+angle: "history-timeline"
+date: "2026-02-17"
+---
+
+# Mauritania History — Key Events & Timeline
+
+Mauritania's history is a complex and diverse narrative that spans from ancient trade routes to modern-day independence, with various empires, colonial powers, and indigenous groups shaping the country's development over time.
+
+[SECTION] Historical Overview [/SECTION]
+Mauritania's history dates back to ancient times, with the **Ghana Empire** emerging in the 4th century AD as a major power in the region, controlling the trans-Saharan trade routes and establishing a strong economy based on gold, salt, and other valuable commodities. The empire's decline in the 13th century led to the rise of the **Mali Empire**, which expanded its territories and established a strong Islamic presence in the region. The arrival of European colonizers in the 19th century marked a significant turning point in Mauritania's history, as the country became a French colony in 1903. During the colonial period, Mauritania's economy and infrastructure were developed, but the country's cultural identity and independence were suppressed. Mauritania gained independence from France on November 28, 1960, with **Moktar Ould Daddah** as its first president, marking the beginning of a new era in the country's history.
+
+The post-independence period was marked by significant challenges, including a dispute with Morocco over the **Western Sahara** territory and a struggle to develop the country's economy. In 1978, a military coup led by **Mustafa Ould Salek** overthrew the government, and a series of military rulers followed, including **Mohamed Khouna Ould Haidalla** and **Maaouya Ould Sid'Ahmed Taya**. The country's transition to democracy in the 1990s was marked by the introduction of multi-party elections and the establishment of a new constitution. Today, Mauritania is a **sovereign state** with a diverse economy, a growing tourism industry, and a rich cultural heritage.
+
+Mauritania's history is also characterized by its strategic location at the crossroads of Africa, with the **Sahara Desert** covering much of its territory. The country's **coastal region** has been an important hub for trade and commerce, with the port city of **Nouakchott** serving as the capital and economic center. The country's **cultural diversity** is reflected in its mix of Arab, Berber, and African influences, with **Islam** playing a significant role in the country's identity and daily life.
+
+The country's history has also been shaped by its **natural resources**, including **iron ore**, **copper**, and **fish**, which have been exploited by various empires and colonial powers over the centuries. Today, Mauritania is working to develop its economy and reduce its dependence on foreign aid, with a focus on **sustainable development** and **poverty reduction**.
+
+[SECTION] Timeline of Key Events [/SECTION]
+1. **300 AD** - The Ghana Empire emerges as a major power in the region, controlling the trans-Saharan trade routes and establishing a strong economy based on gold, salt, and other valuable commodities. The empire's capital, **Koumbi Saleh**, becomes a major center of trade and commerce.
+2. **1235** - The Mali Empire conquers the Ghana Empire, expanding its territories and establishing a strong Islamic presence in the region. The empire's ruler, **Sundiata Keita**, becomes a legendary figure in West African history.
+3. **1444** - The Portuguese establish trade relations with the Mali Empire, marking the beginning of European involvement in the region. The Portuguese establish a series of **trading posts** along the coast, which become important centers of commerce.
+4. **1903** - Mauritania becomes a French colony, with the French establishing a series of **military outposts** and **administrative centers** throughout the territory.
+5. **1920** - The French establish the **Mauritanian territory** as a separate administrative entity, with **Saint-Louis** as its capital. The territory becomes a major center of **agriculture** and **trade**.
+6. **1958** - Mauritania becomes an autonomous republic within the French Community, with **Moktar Ould Daddah** as its first leader. The country begins to develop its **infrastructure** and **economy**.
+7. **1960** - Mauritania gains independence from France, with Moktar Ould Daddah as its first president. The country becomes a **sovereign state** and begins to develop its **foreign policy**.
+8. **1975** - Mauritania annexes the Western Sahara territory, leading to a dispute with Morocco. The country becomes involved in a series of **border conflicts** and **diplomatic tensions**.
+9. **1978** - A military coup led by Mustafa Ould Salek overthrows the government, marking the beginning of a series of military rulers. The country becomes **politically unstable** and experiences a series of **human rights abuses**.
+10. **1991** - Mauritania adopts a new constitution, introducing multi-party elections and a democratic system. The country begins to **transition to democracy** and develop its **civil society**.
+11. **1992** - The first multi-party elections are held, with Maaouya Ould Sid'Ahmed Taya as the winner. The country begins to develop its **political institutions** and **electoral processes**.
+12. **2005** - A military coup led by Ely Ould Mohamed Vall overthrows the government, marking a significant turning point in the country's history. The country begins to **reform its military** and **develop its security sector**.
+13. **2007** - Sidi Mohamed Ould Cheikh Abdallahi wins the presidential election, becoming the country's first democratically elected president. The country begins to **consolidate its democracy** and **develop its economy**.
+14. **2008** - A military coup led by Mohamed Ould Abdel Aziz overthrows the government, marking a significant setback for the country's democratic transition. The country becomes **politically unstable** and experiences a series of **human rights abuses**.
+15. **2014** - Mohamed Ould Abdel Aziz wins the presidential election, becoming the country's leader for a second term. The country begins to **develop its economy** and **improve its human rights record**.
+16. **2019** - Mohamed Ould Ghazouani wins the presidential election, becoming the country's new leader. The country begins to **transition to a new government** and **develop its foreign policy**.
+17. **2020** - Mauritania celebrates its 60th anniversary of independence, marking a significant milestone in the country's history. The country begins to **reflect on its past** and **look to the future**.
+18. **2020** - The country experiences a series of **protests and demonstrations**, calling for **reforms** and **improved living standards**. The government responds with a series of **security measures** and **economic reforms**.
+19. **2022** - Mauritania begins to **develop its tourism industry**, with a focus on **cultural heritage** and **ecotourism**. The country becomes a **popular destination** for **travelers** and **adventure seekers**.
+20. **2022** - The country experiences a series of **natural disasters**, including **droughts** and **floods**. The government responds with a series of **emergency measures** and **humanitarian efforts**.
+
+[SECTION] Founding & Formation [/SECTION]
+Mauritania's founding and formation as a modern nation-state is a complex and multifaceted process that spans several centuries. The country's strategic location at the crossroads of Africa, with the Sahara Desert covering much of its territory, has made it an important hub for trade and commerce. The country's **coastal region** has been an important center of trade and commerce, with the port city of **Nouakchott** serving as the capital and economic center.
+
+The country's **founding fathers**, including **Moktar Ould Daddah** and **Maaouya Ould Sid'Ahmed Taya**, played a significant role in shaping the country's development and independence. The country's **constitution**, adopted in 1991, established a democratic system and introduced multi-party elections, marking a significant turning point in the country's history. Today, Mauritania is a **sovereign state** with a diverse economy, a growing tourism industry, and a rich cultural heritage.
+
+[SECTION] Colonial & Independence Period [/SECTION]
+Mauritania's colonial history began in the 19th century, when the French established a series of **military outposts** and **administrative centers** throughout the territory. The French **colonial administration** developed the country's economy and infrastructure, but also suppressed the country's cultural identity and independence. The country's **independence movement**, led by figures such as **Moktar Ould Daddah**, emerged in the mid-20th century, with the country gaining independence from France on November 28, 1960.
+
+The country's **first leaders**, including **Moktar Ould Daddah** and **Maaouya Ould Sid'Ahmed Taya**, played a significant role in shaping the country's development and independence. The country's **independence** was marked by a series of **challenges**, including a dispute with Morocco over the Western Sahara territory and a struggle to develop the country's economy. Today, Mauritania is a **sovereign state** with a diverse economy, a growing tourism industry, and a rich cultural heritage.
+
+[SECTION] Modern Era [/SECTION]
+Mauritania's modern era is characterized by a series of **significant challenges** and **opportunities**. The country's **transition to democracy** in the 1990s marked a significant turning point in the country's history, with the introduction of multi-party elections and the establishment of a new constitution. The country's **economic development** has been driven by its **natural resources**, including **iron ore**, **copper**, and **fish**, which have been exploited by various companies and investors.
+
+The country's **current direction** is focused on **sustainable development** and **poverty reduction**, with a series of **initiatives** and **programs** aimed at improving the country's **infrastructure**, **education**, and **healthcare**. The country's **foreign policy** is focused on **regional cooperation** and **international engagement**, with a series of **diplomatic efforts** aimed at promoting **peace** and **stability** in the region.
+
+[SECTION] Historical Figures [/SECTION]
+[TABLE]
+| Name | Period | Role | Significance |
+| --- | --- | --- | --- |
+| Moktar Ould Daddah | 1960-1978 | President | First president of Mauritania, played a significant role in the country's independence and development |
+| Maaouya Ould Sid'Ahmed Taya | 1984-2005 | President | Led the country through a series of challenges, including a dispute with Morocco over the Western Sahara territory |
+| Mustafa Ould Salek | 1978-1979 | President | Led a military coup that overthrew the government, marking a significant turning point in the country's history |
+| Mohamed Khouna Ould Haidalla | 1979-1984 | President | Played a
+
+---
+
+*Evergreen reference content. Verify time-sensitive details with official sources.*

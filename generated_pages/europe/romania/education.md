@@ -1,0 +1,66 @@
+---
+title: "Romania Education — Schools, Universities & Student Guide"
+entity: "Romania"
+iso_code: "RO"
+continent: "europe"
+angle: "education"
+date: "2026-02-17"
+---
+
+# Romania Education — Schools, Universities & Student Guide
+
+The education system in Romania is a comprehensive and well-structured network that provides students with a wide range of opportunities to pursue their academic and professional goals.
+
+[FACTBOX]
+Literacy Rate: 98.3%
+School System: 11 years of compulsory education
+Language of Instruction: Romanian
+Academic Calendar: September to June
+International Schools: available
+Top University Ranking: ranked among the top 1000 universities globally
+[/FACTBOX]
+
+[SECTION] Education System Overview [/SECTION]
+The education system in Romania is divided into three main stages: primary, secondary, and tertiary education. Primary education, also known as **gimnaziu**, is compulsory for all children between the ages of 6 and 11 and is designed to provide students with a solid foundation in core subjects such as mathematics, language, and science. Secondary education, also known as **liceu**, is also compulsory and is designed to prepare students for higher education or the workforce. Tertiary education, also known as **universitate**, is provided by universities and colleges and offers students a wide range of academic programs to choose from.
+
+The quality of education in Romania is generally considered to be good, with a strong emphasis on theoretical knowledge and critical thinking. However, there are some challenges facing the education system, including a lack of resources and infrastructure in some areas, as well as a brain drain of talented young Romanians who choose to pursue their education and careers abroad. Public education is free and compulsory, while private education is also available for those who can afford it.
+
+The Romanian education system is overseen by the Ministry of Education and Research, which is responsible for setting national standards and policies for education. The ministry also provides funding and support for schools and universities, as well as programs to promote education and lifelong learning.
+
+[SECTION] Top Universities [/SECTION]
+[TABLE]
+| University | Location | Known For | Est. Tuition (USD/year) |
+| --- | --- | --- | --- |
+| University of Bucharest | Bucharest | law, economics, and social sciences | 2,500 |
+| Babes-Bolyai University | Cluj-Napoca | humanities, social sciences, and natural sciences | 2,000 |
+| University of Iasi | Iasi | medicine, pharmacy, and engineering | 3,000 |
+| Politehnica University of Bucharest | Bucharest | engineering, computer science, and mathematics | 2,500 |
+| Alexandru Ioan Cuza University | Iasi | humanities, social sciences, and natural sciences | 2,000 |
+| Transilvania University of Brasov | Brasov | engineering, economics, and social sciences | 2,500 |
+[/TABLE]
+
+[SECTION] International Schools [/SECTION]
+- There are several international schools in Romania, particularly in major cities such as Bucharest and Cluj-Napoca, which offer a range of curricula including **International Baccalaureate (IB)**, **British**, and **American** programs.
+- These schools cater to the needs of expatriate families and Romanian families who want to provide their children with a high-quality, internationally recognized education.
+- The costs of attending an international school in Romania can be high, with tuition fees ranging from $5,000 to $15,000 per year, depending on the school and the program.
+- Some of the most popular international schools in Romania include the International School of Bucharest, the British School of Bucharest, and the American International School of Bucharest.
+- Many international schools in Romania offer a range of extracurricular activities and sports programs, as well as support services such as counseling and language support.
+
+[SECTION] Studying as a Foreigner [/SECTION]
+- To study in Romania as a foreigner, students need to obtain a **student visa**, which requires a letter of acceptance from a Romanian university, proof of language proficiency, and proof of financial resources.
+- The **language requirements** for studying in Romania vary depending on the program and institution, but most universities require a minimum level of Romanian language proficiency, as well as English language proficiency for international programs.
+- There are several **scholarships** available for international students who want to study in Romania, including government scholarships and scholarships offered by universities and private organizations.
+- The **living costs** for students in Romania are relatively low compared to other European countries, with a monthly budget of around $400-500 per month covering accommodation, food, and other expenses.
+- Foreign students can also work part-time to support themselves while studying in Romania, with many universities offering part-time jobs and internships to international students.
+- Romania is a member of the **European Union**, which means that students from other EU countries can study in Romania without a visa and have access to the same rights and benefits as Romanian students.
+
+[SECTION] Education Quality & Challenges [/SECTION]
+- One of the main **strengths** of the Romanian education system is its emphasis on theoretical knowledge and critical thinking, which provides students with a solid foundation for further study and career development.
+- However, the system also faces several **challenges**, including a lack of resources and infrastructure in some areas, as well as a brain drain of talented young Romanians who choose to pursue their education and careers abroad.
+- In recent years, the Romanian government has implemented several **reforms** aimed at improving the quality of education, including the introduction of new curricula and teaching methods, as well as investments in infrastructure and technology.
+- Despite these efforts, the Romanian education system still faces significant challenges, including **inequality and access** to education, particularly for disadvantaged groups such as Roma children and children from rural areas.
+- To address these challenges, the Romanian government and education sector are working to develop more **inclusive and equitable** education policies and programs, which prioritize the needs of all students and provide equal opportunities for all.
+
+---
+
+*Evergreen reference content. Verify time-sensitive details with official sources.*

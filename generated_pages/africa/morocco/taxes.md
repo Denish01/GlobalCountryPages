@@ -1,0 +1,69 @@
+---
+title: "Morocco Tax Guide — Income, Corporate & VAT Rates"
+entity: "Morocco"
+iso_code: "MA"
+continent: "africa"
+angle: "taxes"
+date: "2026-02-17"
+---
+
+# Morocco Tax Guide — Income, Corporate & VAT Rates
+
+Tax rates in Morocco range from 0% to 38% for individuals and 20% for corporations, with a complex system that includes various deductions and exemptions for both residents and non-residents. 
+
+[CALLOUT] Tax laws change frequently. Always consult a qualified tax professional for advice specific to your situation. This is a general guide only. [/CALLOUT]
+
+[FACTBOX]
+Income Tax Range: 0% - 38%
+Corporate Tax: 20%
+VAT/GST: 20%
+Capital Gains Tax: 20% or included in income
+Tax Year: Jan-Dec
+Tax Treaty Network: 60 countries
+[/FACTBOX]
+
+[SECTION] Tax System Overview [/SECTION]
+Morocco has a **territorial taxation** system, meaning that residents are taxed on their worldwide income, while non-residents are taxed only on their Moroccan-sourced income. To be considered a tax resident in Morocco, an individual must have a permanent home in the country, or spend more than 183 days in a calendar year in Morocco. The tax system is overseen by the **Direction Générale des Impôts (DGI)**, which is responsible for collecting taxes, as well as providing guidance and support to taxpayers.
+
+The Moroccan tax system is designed to encourage foreign investment and economic growth, while also ensuring that individuals and businesses contribute to the country's revenue. The system is based on a combination of direct and indirect taxes, including income tax, corporate tax, value-added tax (VAT), and customs duties. Morocco has also signed numerous **double taxation treaties** with other countries, which help to prevent double taxation and fiscal evasion.
+
+[SECTION] Personal Income Tax [/SECTION]
+| Income Bracket (MAD) | Tax Rate |
+| --- | --- |
+| 0 - 30,000 | 0% |
+| 30,001 - 60,000 | 10% |
+| 60,001 - 120,000 | 20% |
+| 120,001 - 180,000 | 25% |
+| 180,001 and above | 38% |
+The personal income tax system in Morocco allows for various **deductions and allowances**, including a standard deduction of MAD 24,000, as well as deductions for mortgage interest, charitable donations, and education expenses. Taxpayers are required to file their tax returns by March 31st of each year, and must pay any outstanding tax liabilities by the same deadline. Failure to comply with tax filing and payment requirements can result in **penalties and fines**.
+
+[SECTION] Corporate & Business Tax [/SECTION]
+- The **corporate tax rate** in Morocco is 20%, although this rate can be reduced to 8% for companies operating in certain **free zones** or **industrial zones**.
+- **Small business incentives** are available for companies with annual turnover of less than MAD 2 million, including a reduced corporate tax rate of 10%.
+- Companies operating in **free zones** are exempt from corporate tax for a period of 5 years, and are also exempt from VAT and customs duties.
+- To **register a business** in Morocco, companies must obtain a business license from the relevant authorities, and must also register for tax purposes with the DGI.
+- **Annual financial statements** must be filed with the DGI by the end of April each year, and must be audited by a certified public accountant.
+
+[SECTION] VAT / Sales Tax [/SECTION]
+- The **standard VAT rate** in Morocco is 20%, although reduced rates of 10% and 7% apply to certain goods and services, such as food, medicine, and hotel services.
+- **Exemptions** from VAT are available for certain goods and services, including exports, financial services, and education services.
+- A **tourist refund scheme** is available for non-resident tourists, allowing them to claim a refund of VAT paid on certain goods and services.
+- **VAT registration** is required for businesses with annual turnover of more than MAD 2 million, although voluntary registration is also available for smaller businesses.
+
+[SECTION] For Expats & Foreign Workers [/SECTION]
+- **Tax residency rules** for expats and foreign workers are based on the number of days spent in Morocco, with individuals who spend more than 183 days in a calendar year considered tax residents.
+- Morocco has signed **double taxation treaties** with over 60 countries, which help to prevent double taxation and fiscal evasion.
+- **Social security contributions** are required for all employees, including expats and foreign workers, and are used to fund pension, healthcare, and other social security benefits.
+- **Remittance rules** require individuals to declare and pay tax on income earned abroad, although exemptions are available for certain types of income, such as foreign-sourced dividends and interest.
+- **Foreign worker tax incentives** are available for certain types of workers, including researchers, teachers, and technical experts, who may be eligible for reduced tax rates or exemptions.
+- **Tax equalization** schemes are available for some expats and foreign workers, which help to equalize the tax burden between the home and host countries.
+
+[SECTION] Crypto & Investment Income [/SECTION]
+- **Investment income**, including dividends, interest, and capital gains, is subject to tax in Morocco, although exemptions are available for certain types of income, such as foreign-sourced dividends and interest.
+- **Cryptocurrency** is subject to tax in Morocco, with gains from the sale of cryptocurrency considered taxable income.
+- **Tax on dividends** is 10% for residents and 15% for non-residents, although exemptions are available for certain types of dividends, such as those paid by Moroccan companies to foreign shareholders.
+- **Capital gains tax** is 20% for residents and 15% for non-residents, although exemptions are available for certain types of gains, such as those from the sale of a primary residence.
+
+---
+
+*Evergreen reference content. Verify time-sensitive details with official sources.*

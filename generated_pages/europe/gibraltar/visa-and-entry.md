@@ -1,0 +1,67 @@
+---
+title: "Gibraltar Visa & Entry Requirements"
+entity: "Gibraltar"
+iso_code: "GI"
+continent: "europe"
+angle: "visa-and-entry"
+date: "2026-02-17"
+---
+
+# Gibraltar Visa & Entry Requirements
+
+As a general rule, citizens of certain countries, including the United Kingdom, European Union, and some Commonwealth nations, do not require a visa to enter Gibraltar, while others may need to obtain a visa prior to arrival or meet specific requirements.
+
+[CALLOUT] Visa rules change frequently. Always verify current requirements with the official embassy or consulate of Gibraltar before traveling. [/CALLOUT]
+
+[SECTION] Visa Policy Overview [/SECTION]
+Gibraltar has a moderate visa policy, allowing citizens of around 60 countries to enter visa-free for tourism or business purposes, while others may require a visa or meet specific requirements. The visa policy is similar to that of the United Kingdom, as Gibraltar is a British Overseas Territory. Citizens of countries that do not require a visa can typically stay in Gibraltar for up to six months, although the exact duration may vary depending on the individual's nationality and purpose of visit.
+
+The visa policy of Gibraltar is designed to facilitate travel and trade while maintaining national security and immigration control. The territory's unique location, bordering Spain and overlooking the Mediterranean Sea, makes it an important hub for tourism, finance, and commerce. As a result, Gibraltar's visa policy aims to strike a balance between openness and control, allowing visitors to enter the territory while ensuring that the rights and interests of its residents are protected.
+
+[SECTION] Requirements By Nationality [/SECTION]
+[TABLE]
+| Nationality | Visa Required? | Type | Max Stay | Notes |
+| --- | --- | --- | --- | --- |
+| US Citizens | No | Tourist | 6 months | Can enter with a valid passport |
+| UK Citizens | No | None | Unlimited | As a British Overseas Territory, UK citizens have the right to live and work in Gibraltar |
+| EU Citizens | No | Tourist | 6 months | Although Gibraltar is not part of the Schengen Area, EU citizens can enter visa-free |
+| Canadian Citizens | No | Tourist | 6 months | Can enter with a valid passport |
+| Australian Citizens | No | Tourist | 6 months | Can enter with a valid passport |
+| Indian Citizens | Yes | Tourist | 6 months | Require a visa, which can be obtained through the UK visa application process |
+| Chinese Citizens | Yes | Tourist | 6 months | Require a visa, which can be obtained through the UK visa application process |
+[/TABLE]
+
+[SECTION] By Visitor Type [/SECTION]
+**Tourists:** Typically, tourists can enter Gibraltar visa-free for up to six months, provided they have a valid passport and proof of onward travel. Extensions may be possible, but visitors must apply to the Gibraltar Immigration Office. Tourists are not allowed to work or engage in business activities during their stay.
+**Business Travelers:** Business travelers may require a visa, depending on their nationality and the purpose of their visit. They must provide an invitation letter from a Gibraltar-based company and proof of their business activities. Business travelers may be allowed to stay for up to six months, but they must comply with Gibraltar's immigration regulations.
+**Students:** Students who wish to study in Gibraltar must obtain a student visa, which requires proof of enrollment at a recognized educational institution and sufficient funds to support themselves during their stay. The duration of the visa will depend on the length of the course.
+**Workers:** Workers who wish to take up employment in Gibraltar must obtain a work permit, which requires sponsorship from a Gibraltar-based employer. The employer must demonstrate that the job cannot be filled by a local worker, and the employee must meet specific qualifications and experience requirements.
+
+[SECTION] Documents Checklist [/SECTION]
+1. Valid passport with at least six months' validity
+2. Completed visa application form (if required)
+3. Recent passport-sized photographs
+4. Proof of onward travel
+5. Proof of sufficient funds to support yourself during your stay
+6. Health insurance that covers you for the duration of your stay
+7. Invitation letter from a Gibraltar-based company (for business travelers)
+8. Proof of enrollment at a recognized educational institution (for students)
+9. Work permit and sponsorship documents (for workers)
+10. Police certificate and medical certificate (in some cases)
+
+[SECTION] Entry Points & Procedures [/SECTION]
+The main entry point to Gibraltar is the Gibraltar International Airport, which receives flights from the UK and other European destinations. Visitors can also enter Gibraltar by land through the border with Spain or by sea through the Port of Gibraltar. Upon arrival, visitors must present their passport and any required documentation to the immigration officer. The officer will stamp the visitor's passport and provide a landing card, which must be retained for the duration of the stay. Visitors may be asked questions about their purpose of visit, length of stay, and accommodation arrangements.
+
+Gibraltar's immigration procedures are generally straightforward, but visitors must ensure they comply with all requirements to avoid any issues during their stay. The Gibraltar Immigration Office is responsible for enforcing immigration regulations and providing guidance to visitors and residents. Visitors who overstay their visa or fail to comply with immigration regulations may face penalties, including fines and deportation.
+
+[SECTION] Common Mistakes To Avoid [/SECTION]
+- Not checking the visa requirements for your nationality before traveling to Gibraltar
+- Failing to provide required documentation, such as proof of onward travel or sufficient funds
+- Overstaying your visa or failing to extend it when required
+- Engaging in business or work activities without the necessary permits or visas
+- Not registering with the Gibraltar authorities if you plan to stay for more than six months
+- Not obtaining health insurance that covers you for the duration of your stay
+
+---
+
+*Evergreen reference content. Verify time-sensitive details with official sources.*

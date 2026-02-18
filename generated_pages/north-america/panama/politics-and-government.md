@@ -1,0 +1,74 @@
+---
+title: "Panama Politics & Government — System, Leaders & Stability"
+entity: "Panama"
+iso_code: "PA"
+continent: "north-america"
+angle: "politics-and-government"
+date: "2026-02-17"
+---
+
+# Panama Politics & Government — System, Leaders & Stability
+
+Panama is governed as a **unitary presidential constitutional republic**, with a system of government that is divided into three branches: executive, legislative, and judicial.
+
+[FACTBOX]
+Government Type: Unitary Presidential Constitutional Republic
+Head of State: President (Laurentino Cortizo)
+Head of Government: President (Laurentino Cortizo)
+Legislature: National Assembly, unicameral, 71 seats
+Legal System: Civil law
+Political Stability Index: Ranked 54th out of 178 countries in the 2020 Global Peace Index
+Corruption Index: Ranked 113th out of 180 countries in the 2020 Corruption Perceptions Index by Transparency International
+[/FACTBOX]
+
+[SECTION] Political System [/SECTION]
+The government of Panama is based on the principles of **separation of powers**, with the executive, legislative, and judicial branches each having distinct roles and responsibilities. The **president** serves as both the head of state and head of government, and is directly elected by the people for a five-year term. The **National Assembly**, a unicameral legislature, is composed of 71 members who are also directly elected by the people for five-year terms. The **judicial branch** is headed by the Supreme Court, which is composed of nine judges appointed by the president and confirmed by the National Assembly.
+
+The political system in Panama is designed to provide **checks and balances** between the different branches of government, with the goal of preventing any one branch from becoming too powerful. The president has the power to appoint ministers and other high-ranking officials, but the National Assembly has the power to approve or reject these appointments. The Supreme Court, meanwhile, has the power to declare laws and government actions unconstitutional.
+
+Panama's **unitary system** of government means that the central government has a high degree of control over the country's various regions and municipalities. However, the government has also implemented a number of **decentralization** initiatives in recent years, aimed at giving more power and autonomy to local governments.
+
+[SECTION] Government Structure [/SECTION]
+[TABLE]
+| Branch | Institution | Head/Leader | Role |
+| --- | --- | --- | --- |
+| Executive | Presidency | President Laurentino Cortizo | Head of state and head of government |
+| Legislative | National Assembly | President of the National Assembly | Lawmaking and oversight |
+| Judicial | Supreme Court | President of the Supreme Court | Judicial review and interpretation of laws |
+[/TABLE]
+
+[SECTION] Major Political Parties [/SECTION]
+[TABLE]
+| Party | Position | Leader | Seats | Notes |
+| --- | --- | --- | --- | --- |
+| Democratic Revolutionary Party (PRD) | Center-left | Laurentino Cortizo | 30 | Largest party in the National Assembly |
+| Panameñista Party (PPA) | Center-right | José Isabel Blandón | 18 | Second-largest party in the National Assembly |
+| Nationalist Republican Liberal Movement (MOLIRENA) | Center-right | Francisco Millán | 5 | Third-largest party in the National Assembly |
+| People's Party (PP) | Center-left | Aníbal Martínez | 4 | Smaller party with representation in the National Assembly |
+| Independent | Independent | Various | 14 | Independents hold a significant number of seats in the National Assembly |
+[/TABLE]
+
+[SECTION] Elections [/SECTION]
+- The **electoral system** in Panama is based on direct elections, with the president and members of the National Assembly elected by the people for five-year terms.
+- **Elections** are held every five years, with the most recent presidential election taking place in 2019.
+- The **last election** saw Laurentino Cortizo elected as president, with a turnout of over 70% of eligible voters.
+- The **next election** is scheduled to take place in 2024, with a number of candidates already announcing their intention to run.
+
+[SECTION] Political Stability & Challenges [/SECTION]
+- Panama has a **high level of political stability**, with a strong tradition of democratic governance and respect for the rule of law.
+- However, the country still faces a number of **key challenges**, including corruption, inequality, and poverty.
+- The **current political climate** is characterized by a high degree of polarization, with debates over issues such as economic policy and social reform.
+- Panama's **regional dynamics** are also complex, with the country playing a key role in regional organizations such as the Central American Integration System (SICA).
+- The country has a **high level of freedom**, with a strong tradition of respect for human rights and the rule of law.
+- However, there are still **concerns about corruption** and the influence of organized crime in the country.
+
+[SECTION] Foreign Relations [/SECTION]
+- Panama has a **long-standing relationship** with the United States, with the two countries cooperating on a range of issues including trade, security, and counter-narcotics.
+- The country is also a member of a number of **international organizations**, including the United Nations, the Organization of American States (OAS), and the World Trade Organization (WTO).
+- Panama has a **key role to play in regional trade**, with the country serving as a major hub for international commerce and trade.
+- The country has also **strengthened its ties** with other countries in the region, including Costa Rica and Colombia.
+- Panama has a **strong commitment to multilateralism**, with the country playing an active role in regional and international organizations.
+
+---
+
+*Evergreen reference content. Verify time-sensitive details with official sources.*

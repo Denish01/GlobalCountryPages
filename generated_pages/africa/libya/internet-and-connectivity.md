@@ -1,0 +1,65 @@
+---
+title: "Libya Internet & SIM Cards — Connectivity Guide"
+entity: "Libya"
+iso_code: "LY"
+continent: "africa"
+angle: "internet-and-connectivity"
+date: "2026-02-17"
+---
+
+# Libya Internet & SIM Cards — Connectivity Guide
+
+The internet in Libya is generally slow and unreliable, with an average speed of 5 Mbps, but it is possible to get a SIM card and access mobile data and WiFi in major cities like Tripoli. 
+
+[FACTBOX]
+Average Internet Speed: 5 Mbps download
+Mobile Network Coverage: Moderate
+Main Carriers: Libyana, Almadar, Aljeel
+SIM Card Cost: 10 USD for tourist SIM
+WiFi Availability: Limited
+5G Available: No
+[/FACTBOX]
+
+[SECTION] Internet Overview [/SECTION]
+The internet in Libya is still in its developing stages, with a significant urban-rural divide in terms of internet quality and reliability. In major cities like Tripoli, Benghazi, and Misrata, the internet is more widely available, but speeds are generally slow and connections can be unreliable. In rural areas, internet access is limited, and mobile network coverage can be poor or non-existent. This makes it difficult for people living in these areas to access basic online services, let alone more advanced applications like video streaming or online banking.
+
+Despite these challenges, there are efforts underway to improve the internet infrastructure in Libya, including the rollout of new fiber-optic cables and the expansion of mobile network coverage. However, the country's ongoing political instability and security concerns have hindered these efforts, and it may be some time before the internet in Libya reaches the same standards as in other parts of the world. For now, visitors to Libya should be prepared for slow and unreliable internet, and plan accordingly.
+
+[SECTION] Getting a SIM Card [/SECTION]
+To get a SIM card in Libya, visitors can purchase one from a local mobile carrier, such as Libyana, Almadar, or Aljeel. These carriers have outlets at airports, shopping malls, and other locations in major cities. To buy a SIM card, visitors will need to provide their passport and a copy of their visa, as well as pay the required fee, which is around 10 USD. The SIM card will usually come with a pre-paid plan, which can be topped up with additional credit as needed.
+
+It's recommended to purchase a SIM card from a reputable carrier, as some smaller operators may not provide reliable service. Visitors should also be aware that SIM cards may not work in all parts of the country, especially in rural areas. It's a good idea to check the coverage area of the carrier before purchasing a SIM card, to ensure that it will work in the areas where you plan to travel.
+
+[TABLE]
+| Carrier | Tourist Plan | Data | Price (USD) | Notes |
+| --- | --- | --- | --- | --- |
+| Libyana | Pre-paid | 1 GB | 5 USD | Valid for 7 days |
+| Almadar | Tourist Plan | 5 GB | 20 USD | Valid for 30 days |
+| Aljeel | Data Plan | 10 GB | 30 USD | Valid for 30 days |
+| Libya Phone | Pre-paid | 2 GB | 10 USD | Valid for 14 days |
+[/TABLE]
+
+[SECTION] WiFi Availability [/SECTION]
+- Hotel WiFi is generally available in major cities, but speeds can be slow and connections may be unreliable.
+- Cafe WiFi culture is not well-established in Libya, but some cafes and restaurants in major cities may offer free WiFi to customers.
+- Coworking spaces are limited in Libya, but some cities like Tripoli and Benghazi have a few options, which may offer reliable WiFi and other amenities.
+- Public WiFi is not widely available in Libya, and visitors should be cautious when using public WiFi networks, as they may not be secure.
+- Some shopping malls and airports may offer free WiFi, but speeds can be slow and connections may be unreliable.
+
+[SECTION] For Remote Workers [/SECTION]
+- Coworking spaces in major cities like Tripoli and Benghazi may offer reliable WiFi and other amenities, making them a good option for remote workers.
+- Some cafe chains in major cities may offer free WiFi and a comfortable working environment, but speeds can be slow and connections may be unreliable.
+- Backup internet options, such as mobile hotspots or satellite internet, may be necessary for remote workers who need reliable internet access.
+- VPNs may be necessary to access certain websites or services that are blocked in Libya, and remote workers should research their options before traveling to the country.
+- Some hotels and resorts may offer reliable WiFi and other amenities, making them a good option for remote workers who need to stay connected.
+
+[SECTION] Tips & Warnings [/SECTION]
+- Internet censorship is a concern in Libya, and some websites or services may be blocked, so visitors should research their options before traveling to the country.
+- Blocked sites may include social media platforms, news websites, or other online services, and visitors should be aware of these restrictions before traveling to Libya.
+- VPNs can be used to access blocked websites or services, but visitors should research their options carefully and choose a reputable provider.
+- Roaming alternatives, such as purchasing a local SIM card or using a mobile hotspot, may be more cost-effective than roaming with a home carrier, and visitors should research their options before traveling to Libya.
+- eSIM options may be available for some devices, and visitors should research their options before traveling to the country, as they can be a convenient and cost-effective way to stay connected.
+
+---
+
+*Evergreen reference content. Verify time-sensitive details with official sources.*

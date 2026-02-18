@@ -1,0 +1,76 @@
+---
+title: "Afghanistan Politics & Government — System, Leaders & Stability"
+entity: "Afghanistan"
+iso_code: "AF"
+continent: "asia"
+angle: "politics-and-government"
+date: "2026-02-17"
+---
+
+# Afghanistan Politics & Government — System, Leaders & Stability
+
+Afghanistan is governed as an **Islamic Emirate**, with a complex system of government that has undergone significant changes in recent years.
+
+[FACTBOX]
+Government Type: Islamic Emirate
+Head of State: Supreme Leader (Haibatullah Akhundzada)
+Head of Government: Prime Minister (Mohammad Hassan Akhund)
+Legislature: National Assembly, bicameral (Mesherano Jirga and Wolesi Jirga), 250 seats
+Legal System: mixed (sharia, civil law, and common law elements)
+Political Stability Index: ranked 11th out of 163 countries in terms of instability (2022 Global Peace Index)
+Corruption Index: ranked 174th out of 180 countries (2022 Transparency International Corruption Perceptions Index)
+[/FACTBOX]
+
+[SECTION] Political System [/SECTION]
+The government of Afghanistan is based on the principles of **Islamic law**, with the **Quran** and **Hadith** serving as the primary sources of legislation. The **Supreme Leader** serves as the head of state, while the **Prime Minister** is the head of government. The system is designed to ensure the separation of powers, with the **National Assembly** serving as the legislative branch. However, the current system has been criticized for its lack of representation and limited checks on the power of the executive branch. The government has also been accused of **human rights abuses** and **corruption**, which has contributed to the country's instability.
+
+The **Constitution of Afghanistan**, adopted in 2004, outlines the framework of the government and the relationship between the branches. However, the document has been amended several times, and its provisions have not always been respected. The **judicial branch** is responsible for interpreting the law and ensuring that it is consistent with Islamic principles. Despite these efforts, the **rule of law** remains a significant challenge in Afghanistan, with many citizens relying on **traditional dispute resolution mechanisms** rather than the formal justice system.
+
+The **separation of powers** is a key principle of the Afghan government, with each branch designed to provide checks and balances on the others. However, in practice, the **executive branch** has often dominated the other branches, leading to concerns about **authoritarianism**. The **legislative branch** has limited powers, and the **judicial branch** has faced significant challenges in asserting its independence.
+
+[SECTION] Government Structure [/SECTION]
+[TABLE]
+| Branch | Institution | Head/Leader | Role |
+| --- | --- | --- | --- |
+| Executive | Office of the Prime Minister | Mohammad Hassan Akhund | Head of government, responsible for implementing policies |
+| Executive | Ministry of Defense | Bismillah Khan Mohammadi | Responsible for national defense and security |
+| Legislative | National Assembly (Wolesi Jirga) | Abdul Rauf Ibrahimi | Lower house of parliament, responsible for lawmaking |
+| Legislative | National Assembly (Mesherano Jirga) | Fazel Hadi Muslimyar | Upper house of parliament, responsible for advising on legislation |
+| Judicial | Supreme Court | Abdul Hakim Haqqani | Highest court in the land, responsible for interpreting the law |
+[/TABLE]
+
+[SECTION] Major Political Parties [/SECTION]
+[TABLE]
+| Party | Position | Leader | Seats | Notes |
+| --- | --- | --- | --- | --- |
+| Taliban | Islamist, conservative | Haibatullah Akhundzada | dominant | Currently in power, has been accused of **human rights abuses** |
+| National Front of Afghanistan | Centrist, nationalist | Ahmad Zia Massoud |  | Coalition of parties opposed to the Taliban |
+| Jamiat-e Islami | Islamist, moderate | Salahuddin Rabbani |  | One of the main opposition parties |
+| Hezb-e Islami | Islamist, conservative | Gulbuddin Hekmatyar |  | Formerly a militant group, now a political party |
+| Junbish-e Milli | Nationalist, centrist | Abdul Rashid Dostum |  | Represents the interests of the Uzbek minority |
+[/TABLE]
+
+[SECTION] Elections [/SECTION]
+- The most recent **presidential election** was held in 2019, with Ashraf Ghani winning a second term as president.
+- The **electoral system** is based on a single-round, first-past-the-post system, with the winner being the candidate with the most votes.
+- **Parliamentary elections** are held every five years, with the most recent election taking place in 2018.
+- The **voter turnout** has been relatively low in recent elections, with many citizens expressing **disillusionment** with the political process.
+
+[SECTION] Political Stability & Challenges [/SECTION]
+- The current **political climate** is highly unstable, with the Taliban in control of the government and opposition parties facing significant challenges.
+- **Security** remains a major concern, with **terrorism** and **insurgency** posing a significant threat to the country.
+- The **economy** is also a major challenge, with **poverty** and **unemployment** widespread.
+- **Regional dynamics** play a significant role in Afghan politics, with neighboring countries such as **Pakistan** and **Iran** exerting significant influence.
+- The country's **human rights record** is a major concern, with **women's rights** and **freedom of speech** being particularly vulnerable.
+- The **corruption index** ranking highlights the need for significant reforms to address **graft** and **nepotism**.
+
+[SECTION] Foreign Relations [/SECTION]
+- Afghanistan is a member of the **United Nations** and the **Organisation of Islamic Cooperation**.
+- The country has **diplomatic relations** with over 60 countries, including the **United States**, **China**, and **Russia**.
+- Afghanistan is a key player in **regional organizations** such as the **South Asian Association for Regional Cooperation** and the **Economic Cooperation Organization**.
+- The country has a **strategic partnership** with **Pakistan**, but relations with neighboring countries such as **Iran** and **India** are more complex.
+- Afghanistan has also been a member of the **North Atlantic Treaty Organisation's** (NATO) **partnership program** since 2012.
+
+---
+
+*Evergreen reference content. Verify time-sensitive details with official sources.*

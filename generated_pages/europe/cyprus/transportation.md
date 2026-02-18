@@ -1,0 +1,65 @@
+---
+title: "Getting Around Cyprus — Transport & Travel Guide"
+entity: "Cyprus"
+iso_code: "CY"
+continent: "europe"
+angle: "transportation"
+date: "2026-02-17"
+---
+
+# Getting Around Cyprus — Transport & Travel Guide
+
+To get around in Cyprus, you can utilize a variety of transportation options, including buses, taxis, and car rentals, as the country has a well-developed road network, but limited domestic air and rail services.
+
+[FACTBOX]
+Main International Airport(s): Larnaca International Airport (LCA), Paphos International Airport (PFO)
+Domestic Air Network: limited
+Rail Network: none
+Drives On: left
+Road Quality: good
+Ride-Hailing Apps: Bolt, local alternatives
+[/FACTBOX]
+
+[SECTION] Getting There [/SECTION]
+Cyprus is easily accessible by air, with two main international airports, Larnaca International Airport (LCA) and Paphos International Airport (PFO), offering direct flights to major European cities, including London, Athens, and Istanbul. You can also reach Cyprus by sea, with ferry services connecting the island to Greece and other nearby countries. Overland entry points are limited, but you can enter Cyprus by car or bus from the north, although this may involve certain restrictions and requirements due to the island's complex political situation.
+
+The main airports in Cyprus are well-connected to European cities, with airlines such as Aegean Airlines, Cyprus Airways, and Ryanair operating direct flights. If you're traveling from outside Europe, you may need to transit through a major hub like London or Dubai. Additionally, you can reach Cyprus by car or bus from Turkey or Greece, but be sure to research the necessary documentation and procedures in advance.
+
+[SECTION] Domestic Flights [/SECTION]
+Domestic air travel in Cyprus is limited, with no scheduled flights between the main cities. However, you can take a short flight from Larnaca to Paphos or Ercan International Airport in the north, which is not recognized by the international community. If you need to travel within Cyprus, it's generally more convenient to take a bus or drive. Booking tips include comparing prices across airlines and booking in advance to secure the best deals. Approximate costs for domestic flights range from $50 to $100, depending on the route and airline.
+
+[SECTION] Trains & Rail [/SECTION]
+Cyprus has no rail network, making it one of the few European countries without a railway system. As a result, you won't find any trains or high-speed rail options on the island. However, there are plans to develop a rail network in the future, which could potentially connect the main cities and improve public transportation.
+
+[SECTION] Buses & Coaches [/SECTION]
+Intercity bus companies like InterCity Buses and Osypa Buses operate in Cyprus, connecting the main cities and towns. The bus network is relatively extensive, with frequent services between cities like Nicosia, Larnaca, and Paphos. You can expect comfortable and air-conditioned buses, with ticket prices ranging from $5 to $10, depending on the route. Booking in advance is not usually necessary, but you can check schedules and fares online or at the bus station.
+
+[SECTION] City Transport [/SECTION]
+| Mode | Available In | Cost (USD) | Notes |
+| --- | --- | --- | --- |
+| Metro/Subway | none | - | Cyprus has no metro or subway system |
+| City Bus | all cities | $1-$2 | frequent services, affordable fares |
+| Taxi | everywhere | $0.80-$1.20/km | metered fares, available at taxi ranks or by phone |
+| Ride-Hailing | major cities | $5-$10 | Bolt and local alternatives available |
+| Tuk-tuk/Rickshaw | none | - | not available in Cyprus |
+
+[SECTION] Driving [/SECTION]
+- To drive in Cyprus, you'll need a valid driver's license, which can be from your home country or an international license.
+- Road conditions in Cyprus are generally good, with well-maintained highways and rural roads.
+- Fuel costs in Cyprus are relatively high, with prices around $1.50 per liter for gasoline.
+- Car rental tips include booking in advance, especially during peak season, and choosing a reputable company with a wide range of vehicles.
+- Hazards to watch out for include narrow rural roads, aggressive drivers, and pedestrians or cyclists on the roads.
+- Additionally, be aware of the complex traffic rules and regulations, including the requirement to drive on the left-hand side of the road.
+
+[SECTION] Transport Tips [/SECTION]
+- Be aware of scams targeting tourists, such as overpriced taxis or fake ticket sellers.
+- Payment methods in Cyprus include cash, credit cards, and mobile payments, with many businesses accepting contactless payments.
+- Download the Bolt app or other local ride-hailing services to get around cities.
+- Safety is generally not a concern in Cyprus, but take normal precautions to protect yourself and your belongings.
+- Research the best routes and modes of transport in advance to avoid confusion or delays.
+- Consider purchasing a local SIM card or portable Wi-Fi hotspot to stay connected and navigate the island.
+- Learn some basic Greek or Turkish phrases to help you communicate with locals and get around more easily.
+
+---
+
+*Evergreen reference content. Verify time-sensitive details with official sources.*

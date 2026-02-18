@@ -1,0 +1,65 @@
+---
+title: "Getting Around Mali — Transport & Travel Guide"
+entity: "Mali"
+iso_code: "ML"
+continent: "africa"
+angle: "transportation"
+date: "2026-02-17"
+---
+
+# Getting Around Mali — Transport & Travel Guide
+
+To get around in Mali, you can use a combination of domestic flights, buses, taxis, and rental cars, depending on your budget and destination, with the capital city Bamako serving as a major transportation hub. 
+
+[FACTBOX]
+Main International Airport(s): Modibo Keita International Airport (BKO)
+Domestic Air Network: limited
+Rail Network: none
+Drives On: right
+Road Quality: poor
+Ride-Hailing Apps: local alternatives
+[/FACTBOX]
+
+[SECTION] Getting There [/SECTION]
+Mali has several international airports, with the main one being Modibo Keita International Airport in Bamako, which receives flights from major European and African cities. You can fly directly to Bamako from Paris, Brussels, or Casablanca, among other cities. Overland entry points are also available, with border crossings from neighboring countries such as Algeria, Niger, Burkina Faso, Ivory Coast, Guinea, Senegal, and Mauritania. If you're planning to enter Mali by land, make sure to check the current border crossing requirements and any necessary visas or documents.
+
+The main entry points by land are the border towns of Kayes, Sikasso, and Gao, which connect Mali to its neighboring countries. From these towns, you can take buses or taxis to reach Bamako or other major cities in Mali. It's essential to research the current security situation and any travel warnings before planning your trip to Mali, especially if you're planning to cross the border by land.
+
+[SECTION] Domestic Flights [/SECTION]
+Mali has a limited domestic air network, with flights connecting Bamako to other major cities such as Mopti, Timbuktu, and Kayes. The main domestic airline is Air Mali, which operates regular flights to these destinations. You can book flights online or through a local travel agency, and prices vary depending on the route and time of year. A one-way ticket from Bamako to Mopti can cost around $100-$200, while a ticket from Bamako to Timbuktu can cost around $200-$300.
+
+[SECTION] Trains & Rail [/SECTION]
+Mali does not have a rail network, so train travel is not an option. However, there are plans to develop a railway system in the future, which would connect Mali to its neighboring countries and improve transportation infrastructure.
+
+[SECTION] Buses & Coaches [/SECTION]
+Buses and coaches are a common mode of transportation in Mali, with several companies operating intercity routes. The main bus companies are Sotrama, Baco, and Falgui, which connect major cities such as Bamako, Mopti, and Kayes. Bus travel can be affordable, with prices starting from around $10-$20 for a one-way ticket, depending on the route and company. However, bus travel can be slow and uncomfortable, especially on poorly maintained roads.
+
+[SECTION] City Transport [/SECTION]
+| Mode | Available In | Cost (USD) | Notes |
+| --- | --- | --- | --- |
+| City Bus | Bamako, Mopti, Kayes | $0.50-$1 | Limited routes and schedules |
+| Taxi | everywhere | $1-$5/km | Negotiate the fare before you start |
+| Ride-Hailing | Bamako | $5-$10 | Local alternatives such as Allo Taxi |
+| Tuk-tuk/Rickshaw | Bamako, Mopti | $1-$3 | Affordable but slow |
+
+[SECTION] Driving [/SECTION]
+- To drive in Mali, you'll need a valid international driver's license, which can be obtained in your home country or through a local rental car agency.
+- Road conditions in Mali are generally poor, with many unpaved roads and limited signage, so it's essential to drive cautiously and be prepared for unexpected hazards.
+- Fuel costs are relatively high in Mali, with gasoline prices starting from around $1.50 per liter.
+- Car rental companies such as Europcar and Avis operate in Bamako, but options are limited, and prices can be high.
+- When driving in Mali, be aware of potential hazards such as potholes, livestock, and pedestrians on the road.
+- It's also essential to research the current security situation and any travel warnings before driving in Mali, especially in rural areas.
+
+[SECTION] Transport Tips [/SECTION]
+- Research the current security situation and any travel warnings before planning your trip to Mali.
+- Always negotiate the fare before taking a taxi or bus, and be prepared to haggle.
+- Use reputable bus companies and avoid overcrowded or poorly maintained vehicles.
+- Be prepared for power outages and limited internet connectivity in rural areas.
+- Download local apps such as Allo Taxi or Sotrama to book rides or check bus schedules.
+- Avoid carrying large amounts of cash and use reputable money changers or ATMs.
+- Stay informed about local events and festivals, which can affect transportation and accommodation options.
+- Learn some basic French phrases, such as "bonjour" and "merci," to help you communicate with locals.
+
+---
+
+*Evergreen reference content. Verify time-sensitive details with official sources.*

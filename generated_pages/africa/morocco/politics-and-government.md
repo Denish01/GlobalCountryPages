@@ -1,0 +1,75 @@
+---
+title: "Morocco Politics & Government — System, Leaders & Stability"
+entity: "Morocco"
+iso_code: "MA"
+continent: "africa"
+angle: "politics-and-government"
+date: "2026-02-17"
+---
+
+# Morocco Politics & Government — System, Leaders & Stability
+
+Morocco is governed as a **Constitutional Monarchy** with a parliamentary system, where the monarch serves as the head of state and the head of government is responsible for overseeing the day-to-day operations of the government.
+
+[FACTBOX]
+Government Type: Constitutional Monarchy
+Head of State: King Mohammed VI
+Head of Government: Prime Minister Aziz Akhannouch
+Legislature: Parliament of Morocco, bicameral with 395 seats in the House of Representatives and 120 seats in the House of Councillors
+Legal System: Mixed, based on Islamic law, French and Spanish civil law, and customary law
+Political Stability Index: Ranked 74th out of 178 countries in the 2022 Global Peace Index
+Corruption Index: Ranked 87th out of 180 countries in the 2022 Corruption Perceptions Index by Transparency International
+[/FACTBOX]
+
+[SECTION] Political System [/SECTION]
+The government of Morocco is divided into three branches: the executive, legislative, and judicial. The **executive branch** is headed by the King, who serves as the head of state, and the Prime Minister, who is the head of government. The King has significant powers, including the ability to appoint the Prime Minister and dissolve the parliament. The **legislative branch** is composed of a bicameral parliament, consisting of the House of Representatives and the House of Councillors. The parliament is responsible for passing laws and overseeing the government. The **judicial branch** is independent and composed of the Supreme Court and other lower courts.
+
+Morocco's political system is based on a **unitary system**, where the central government has significant powers and the regions have limited autonomy. The country is divided into 12 regions, each with its own elected council and governor appointed by the King. The government has implemented decentralization reforms aimed at increasing regional autonomy and promoting economic development.
+
+The **separation of powers** is enshrined in the Moroccan Constitution, which ensures that each branch of government has checks and balances on the others. This helps to prevent any one branch from becoming too powerful and ensures that the government remains accountable to the people.
+
+[SECTION] Government Structure [/SECTION]
+[TABLE]
+| Branch | Institution | Head/Leader | Role |
+| --- | --- | --- | --- |
+| Executive | Royal Cabinet | King Mohammed VI | Head of State |
+| Executive | Government | Prime Minister Aziz Akhannouch | Head of Government |
+| Legislative | House of Representatives | Rachid Talbi Alami | Lower house of parliament |
+| Legislative | House of Councillors | Hakim Benchamach | Upper house of parliament |
+| Judicial | Supreme Court | Mustapha Farouk | Highest court in the land |
+[/TABLE]
+
+[SECTION] Major Political Parties [/SECTION]
+[TABLE]
+| Party | Position | Leader | Seats | Notes |
+| --- | --- | --- | --- | --- |
+| National Rally of Independents (RNI) | Centrist | Aziz Akhannouch | 102 | Leading party in the government coalition |
+| Authenticity and Modernity Party (PAM) | Centrist | Abdellatif Ouahbi | 87 | Main opposition party |
+| Justice and Development Party (PJD) | Islamist | Saad-Eddine El Othmani | 13 | Former leading party in the government coalition |
+| Socialist Union of Popular Forces (USFP) | Left-wing | Driss Lachgar | 34 | Historical left-wing party |
+| Istiqlal Party | Nationalist | Nizar Baraka | 81 | One of the oldest parties in Morocco |
+[/TABLE]
+
+[SECTION] Elections [/SECTION]
+- The electoral system in Morocco is based on a **mixed system**, where members of the House of Representatives are elected by proportional representation and members of the House of Councillors are elected by indirect suffrage.
+- Elections are held every 5 years for the House of Representatives and every 6 years for the House of Councillors.
+- The last parliamentary election was held in 2021, with a voter participation rate of around 50%.
+- The next parliamentary election is scheduled to be held in 2026.
+
+[SECTION] Political Stability & Challenges [/SECTION]
+- The current political climate in Morocco is relatively stable, with the government focusing on economic development and social reforms.
+- Key issues facing the government include **unemployment**, **poverty**, and **corruption**.
+- Regional dynamics, particularly the **Western Sahara conflict**, remain a challenge for the government.
+- Morocco has made significant progress in terms of **human rights** and **freedom of speech**, but there are still concerns about the treatment of journalists and activists.
+- The country has a **medium** level of freedom, according to the Freedom House index, with a rating of 43 out of 100.
+
+[SECTION] Foreign Relations [/SECTION]
+- Morocco is a member of the **United Nations**, the **Arab League**, and the **African Union**.
+- The country has a **strategic partnership** with the European Union and is a key partner in the **European Neighborhood Policy**.
+- Morocco has a complex relationship with **Algeria**, particularly regarding the Western Sahara conflict.
+- The country has a **long-standing dispute** with Spain over the **Ceuta and Melilla** enclaves.
+- Morocco is a **key player** in regional and international organizations, including the **Organization of Islamic Cooperation** and the **Arab Maghreb Union**.
+
+---
+
+*Evergreen reference content. Verify time-sensitive details with official sources.*

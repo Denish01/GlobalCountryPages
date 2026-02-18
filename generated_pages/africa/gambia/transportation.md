@@ -1,0 +1,64 @@
+---
+title: "Getting Around Gambia — Transport & Travel Guide"
+entity: "Gambia"
+iso_code: "GM"
+continent: "africa"
+angle: "transportation"
+date: "2026-02-17"
+---
+
+# Getting Around Gambia — Transport & Travel Guide
+
+To get around in Gambia, you can use a combination of taxis, buses, and private cars, as well as walk or cycle in some areas, with the country's transportation network being relatively basic but generally accessible.
+
+[FACTBOX]
+Main International Airport(s): Banjul International Airport, BJL
+Domestic Air Network: limited
+Rail Network: none
+Drives On: right
+Road Quality: poor
+Ride-Hailing Apps: local alternatives
+[/FACTBOX]
+
+[SECTION] Getting There [/SECTION]
+Gambia is accessible by air through Banjul International Airport, which is located about 24 kilometers from the capital city of Banjul. The airport receives flights from several European cities, including London, Amsterdam, and Brussels, as well as from other African countries. You can also enter Gambia by land or sea, with the country sharing a border with Senegal to the north, east, and south, and having a coastline along the Atlantic Ocean to the west. The main overland entry points are at the border towns of Karang, Farafenni, and Soma, where you can cross from Senegal into Gambia by car or bus.
+
+If you are traveling from other parts of Africa, you may need to transit through a major hub such as Dakar in Senegal or Lagos in Nigeria. Direct flights to Banjul are available from some European cities, but you may need to book a connecting flight if you are traveling from other parts of the world. It's a good idea to research and book your flights in advance, especially during the peak travel season, to ensure availability and get the best rates. Additionally, be sure to check the visa requirements for Gambia, as these can vary depending on your nationality and the purpose of your visit.
+
+[SECTION] Domestic Flights [/SECTION]
+Gambia has a limited domestic air network, with few scheduled flights available within the country. However, you can charter a private plane or helicopter to travel to some of the more remote areas, such as the coastal resorts or the national parks. The main domestic airline is **Gambia Bird**, which operates flights from Banjul to some of the smaller towns and villages. Booking in advance is recommended, as the number of flights is limited and they can fill up quickly. The cost of domestic flights can vary depending on the route and the time of year, but you can expect to pay around $100-$200 for a one-way ticket.
+
+[SECTION] Trains & Rail [/SECTION]
+Gambia does not have a rail network, so train travel is not an option within the country. However, you can take a train from Senegal to the border town of Karang, and then transfer to a taxi or bus to continue your journey into Gambia. The train network in Senegal is relatively limited, but it can be a convenient way to travel from the capital city of Dakar to the eastern part of the country.
+
+[SECTION] Buses & Coaches [/SECTION]
+Gambia has a relatively well-developed bus network, with several companies operating services between the main towns and cities. The buses are generally **minivans** or **coaches**, and they can be crowded and uncomfortable, but they are a cheap and convenient way to travel. The main bus companies are **Gambia Transport Service Company** and **Banjul-Karang Transport Company**, which operate services from Banjul to other parts of the country. The cost of bus travel can vary depending on the route and the type of bus, but you can expect to pay around $5-$10 for a one-way ticket.
+
+[SECTION] City Transport [/SECTION]
+| Mode | Available In | Cost (USD) | Notes |
+| --- | --- | --- | --- |
+| City Bus | Banjul, Serekunda | $0.50-$1.00 | Frequent services, but can be crowded |
+| Taxi | Everywhere | $1-$5 | Metered taxis, but you may need to negotiate the price |
+| Ride-Hailing | Banjul, Serekunda | $2-$5 | Local alternatives, such as **Yelow**, are available |
+| Tuk-tuk/Rickshaw | Some towns | $1-$2 | A cheap and convenient way to travel short distances |
+
+[SECTION] Driving [/SECTION]
+- To drive in Gambia, you will need a valid **driver's license** from your home country, as well as a **vehicle registration** document if you are bringing your own car.
+- The road conditions in Gambia can be poor, especially during the rainy season, so it's a good idea to rent a **4x4 vehicle** if you plan to travel outside of the main towns.
+- Fuel costs can be high in Gambia, so it's a good idea to budget accordingly and consider the cost of fuel when renting a car.
+- Car rental companies are available at Banjul International Airport and in some of the main towns, but it's a good idea to book in advance to ensure availability.
+- Be aware of the **traffic police**, who may stop you to check your documents or issue fines for traffic offenses.
+- Drive cautiously and be aware of the **road hazards**, such as potholes, pedestrians, and animals, especially when driving at night.
+
+[SECTION] Transport Tips [/SECTION]
+- Be sure to **agree on the price** before you get into a taxi or bus, as the drivers may try to overcharge you.
+- Use a **reputable taxi company** or **ride-hailing app** to ensure your safety, especially at night.
+- Be aware of **scams** and **thefts**, especially in crowded areas or tourist hotspots.
+- Download the **Yelow** ride-hailing app to book a taxi or bus in advance.
+- Consider **hiring a driver** or **tour guide** if you are not familiar with the roads or want to explore the country in depth.
+- Be patient and **allow plenty of time** for your journey, as the roads can be slow and unpredictable.
+- Be sure to **follow local traffic rules** and **regulations**, such as wearing a seatbelt and not using a mobile phone while driving.
+
+---
+
+*Evergreen reference content. Verify time-sensitive details with official sources.*

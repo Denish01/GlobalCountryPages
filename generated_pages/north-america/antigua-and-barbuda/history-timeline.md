@@ -1,0 +1,79 @@
+---
+title: "Antigua and Barbuda History — Key Events & Timeline"
+entity: "Antigua and Barbuda"
+iso_code: "AG"
+continent: "north-america"
+angle: "history-timeline"
+date: "2026-02-17"
+---
+
+# Antigua and Barbuda History — Key Events & Timeline
+
+The history of Antigua and Barbuda is a rich and diverse narrative that spans thousands of years, from the earliest indigenous inhabitants to the present day, with significant events shaping the country's development into the sovereign nation it is today.
+
+[SECTION] Historical Overview [/SECTION]
+The history of Antigua and Barbuda began with the arrival of the **Siboney** people, the first known inhabitants of the islands, around 2400 BC. These indigenous people were later followed by the **Arawak** and **Carib** tribes, who established settlements and developed a thriving culture. The arrival of **Christopher Columbus** in 1493 marked the beginning of European exploration and colonization, with the Spanish, French, and British all vying for control of the islands. In 1632, the British established their first permanent settlement on Antigua, and the islands remained under British rule for over 300 years. During this period, Antigua and Barbuda became a major producer of **sugar**, with the introduction of **slavery** and the establishment of large plantations. The abolition of slavery in 1834 led to significant social and economic changes, and the islands began to develop a more diverse economy.
+
+The 20th century saw significant developments in Antigua and Barbuda's history, including the establishment of a **labour movement** and the push for **independence**. In 1967, Antigua and Barbuda became an **associated state** of the United Kingdom, with internal self-government, and on November 1, 1981, the country gained full independence. Since then, Antigua and Barbuda has continued to develop its economy and infrastructure, with a focus on **tourism** and **financial services**. The country has also become a member of various international organizations, including the **United Nations** and the **Commonwealth of Nations**.
+
+The country's history has been shaped by its strategic location in the **Caribbean**, with Antigua and Barbuda playing an important role in regional affairs. The country has also been affected by various natural disasters, including **hurricanes**, which have had a significant impact on the economy and infrastructure. Despite these challenges, Antigua and Barbuda has continued to develop and grow, with a strong focus on **sustainable development** and **environmental protection**.
+
+In recent years, Antigua and Barbuda has continued to evolve, with a focus on **diversifying** its economy and **strengthening** its international relationships. The country has also become a popular destination for **tourists**, with its beautiful beaches, rich culture, and friendly people. With its rich history and stunning natural beauty, Antigua and Barbuda is a unique and fascinating country that continues to attract visitors and investors from around the world.
+
+[SECTION] Timeline of Key Events [/SECTION]
+1. **2400 BC** - The Siboney people arrive on the islands, marking the beginning of human habitation in Antigua and Barbuda. They establish settlements and develop a thriving culture.
+2. **1000 AD** - The Arawak people arrive on the islands, bringing with them new technologies and cultural practices.
+3. **1493** - Christopher Columbus arrives on the islands, marking the beginning of European exploration and colonization.
+4. **1632** - The British establish their first permanent settlement on Antigua, and the islands remain under British rule for over 300 years.
+5. **1678** - The French attempt to capture Antigua, but are repelled by the British.
+6. **1700s** - The sugar industry becomes a major driver of the economy, with the introduction of slavery and the establishment of large plantations.
+7. **1834** - Slavery is abolished, leading to significant social and economic changes.
+8. **1871** - Antigua and Barbuda become part of the **Leeward Islands** colony.
+9. **1939** - The **labour movement** is established, with the formation of the Antigua Trades and Labour Union.
+10. **1950s** - The push for independence gains momentum, with the formation of the **Antigua Labour Party**.
+11. **1967** - Antigua and Barbuda become an associated state of the United Kingdom, with internal self-government.
+12. **1971** - The **Progressive Labour Movement** is formed, with the goal of achieving full independence.
+13. **1981** - Antigua and Barbuda gain full independence from the United Kingdom on November 1.
+14. **1995** - The country is hit by **Hurricane Luis**, which causes significant damage and loss of life.
+15. **2004** - The **Free Trade Agreement** is signed with the United States, marking a significant development in the country's economic relations.
+16. **2009** - The **global financial crisis** has a significant impact on the country's economy, leading to a decline in tourism and financial services.
+17. **2010** - The **Caribbean Court of Justice** is established, with Antigua and Barbuda as a member.
+18. **2014** - The country signs the **OECS Economic Union Treaty**, marking a significant step towards regional integration.
+19. **2017** - The country is hit by **Hurricane Irma**, which causes significant damage and loss of life.
+20. **2020** - The country continues to recover from the impact of the COVID-19 pandemic, with a focus on **sustainable development** and **environmental protection**.
+
+[SECTION] Founding & Formation [/SECTION]
+The founding of Antigua and Barbuda as a sovereign nation is a result of a long process of development and struggle. The country's early history was shaped by the interactions between the indigenous people and European colonizers, with the British eventually establishing control over the islands. The abolition of slavery in 1834 marked a significant turning point in the country's history, as it led to the development of a more diverse economy and the growth of a **middle class**. The push for independence gained momentum in the mid-20th century, with the formation of the Antigua Labour Party and the Progressive Labour Movement.
+
+The key figures in the country's founding and formation include **Vere Bird**, who became the country's first prime minister after independence, and **Lester Bird**, who played a key role in the country's early development. The country's constitution, which was adopted in 1981, provides the framework for the country's government and institutions. The constitution establishes Antigua and Barbuda as a **parliamentary democracy**, with a **prime minister** as head of government and a **governor-general** as representative of the monarch.
+
+[SECTION] Colonial & Independence Period [/SECTION]
+The colonial period in Antigua and Barbuda was marked by the establishment of a **plantation economy**, with sugar being the main crop. The introduction of slavery and the development of large plantations had a significant impact on the country's social and economic structures. The abolition of slavery in 1834 led to the development of a more diverse economy, with the growth of **small-scale farming** and **trade**. The push for independence gained momentum in the mid-20th century, with the formation of the Antigua Labour Party and the Progressive Labour Movement.
+
+The country's independence movement was led by a number of key figures, including **Vere Bird** and **Lester Bird**. The country gained internal self-government in 1967, with the establishment of an associated state of the United Kingdom. Full independence was achieved on November 1, 1981, with Vere Bird becoming the country's first prime minister. The country's early years of independence were marked by a focus on **economic development** and **social welfare**, with the government implementing a number of policies aimed at reducing poverty and improving living standards.
+
+The country's colonial history has had a lasting impact on its culture and institutions, with many of its customs and traditions reflecting its British heritage. The country's language, **English**, is a legacy of the colonial period, and the country's **education system** is based on the British model. The country's **legal system** is also based on British law, with the **Common Law** being the foundation of the country's laws and institutions.
+
+[SECTION] Modern Era [/SECTION]
+The modern era in Antigua and Barbuda has been marked by a focus on **economic development** and **sustainable growth**. The country has developed a **tourism industry**, with a number of high-end resorts and hotels being established. The country has also become a popular destination for **financial services**, with a number of international banks and financial institutions having operations in the country. The government has implemented a number of policies aimed at **diversifying** the economy, including the development of **renewable energy** and **agriculture**.
+
+The country has also become a member of various international organizations, including the **United Nations** and the **Commonwealth of Nations**. The country has played an active role in regional affairs, with the government participating in a number of regional organizations, including the **Organization of Eastern Caribbean States** and the **Caribbean Community**. The country has also been affected by various natural disasters, including **hurricanes**, which have had a significant impact on the economy and infrastructure.
+
+In recent years, the country has continued to develop and grow, with a focus on **sustainable development** and **environmental protection**. The government has implemented a number of policies aimed at reducing the country's **carbon footprint**, including the development of **renewable energy** and the promotion of **eco-tourism**. The country has also become a popular destination for **cruise ships**, with a number of major cruise lines having operations in the country.
+
+[SECTION] Historical Figures [/SECTION]
+[TABLE]
+| Name | Period | Role | Significance |
+| --- | --- | --- | --- |
+| Vere Bird | 1909-1999 | Prime Minister | Led the country to independence and became its first prime minister |
+| Lester Bird | 1938-2015 | Prime Minister | Played a key role in the country's early development and served as prime minister from 1994 to 2004 |
+| Vere Bird Jr | 1936-present | Politician | Served as a member of parliament and held various ministerial positions |
+| Baldwin Spencer | 1948-present | Prime Minister | Served as prime minister from 2004 to 2014 and played a key role in the country's economic development |
+| Gaston Browne | 1967-present | Prime Minister | Has served as prime minister since 2014 and has played a key role in the country's economic development and regional integration |
+| Timothy Harris | 1964-present | Prime Minister of St Kitts and Nevis | Has played a key role in regional affairs and has worked closely with the government of Antigua and Barbuda on a number of issues |
+| Errol Barrow | 1920-1987 | Prime Minister of Barbados | Played a key role in the development of the Caribbean Community and was a close ally of the government of Antigua and Barbuda |
+[/TABLE]
+
+---
+
+*Evergreen reference content. Verify time-sensitive details with official sources.*

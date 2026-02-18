@@ -1,0 +1,76 @@
+---
+title: "Andorra Politics & Government — System, Leaders & Stability"
+entity: "Andorra"
+iso_code: "AD"
+continent: "europe"
+angle: "politics-and-government"
+date: "2026-02-17"
+---
+
+# Andorra Politics & Government — System, Leaders & Stability
+
+Andorra is governed as a **parliamentary constitutional diarchy**, a unique system in which two co-princes, the Bishop of Urgell and the President of France, serve as joint heads of state, while the Head of Government is the Prime Minister, who is responsible for the administration of the government.
+
+[FACTBOX]
+Government Type: Parliamentary Constitutional Diarchy
+Head of State: Co-Princes (Bishop of Urgell and President of France)
+Head of Government: Prime Minister (Xavier Espot Zamora)
+Legislature: General Council, unicameral with 28 seats
+Legal System: Civil law
+Political Stability Index: Andorra ranks high in terms of political stability, with a strong tradition of democratic governance and a high level of citizen participation
+Corruption Index: Andorra is ranked 12th out of 180 countries in the Transparency International Corruption Perceptions Index, indicating a very low level of corruption
+[/FACTBOX]
+
+[SECTION] Political System [/SECTION]
+The government of Andorra is based on a unique system of joint sovereignty, in which the Bishop of Urgell and the President of France serve as co-princes. This system has been in place since 1278, and is based on a **paréage**, or agreement, between the Bishop and the Count of Foix. The co-princes have largely ceremonial roles, while the Prime Minister is responsible for the administration of the government. The **separation of powers** is established by the Constitution, which divides power between the executive, legislative, and judicial branches. Andorra is a **unitary state**, with a single level of government and no federal or regional divisions.
+
+The political system in Andorra is characterized by a high level of **citizen participation**, with a strong tradition of direct democracy. The General Council, which is the unicameral legislature, is composed of 28 members who are elected by universal suffrage for four-year terms. The Council has the power to pass laws, approve the budget, and exercise parliamentary control over the government. The government is responsible for the administration of the country, and is headed by the Prime Minister, who is appointed by the Co-Princes.
+
+The **Constitution of Andorra**, which was adopted in 1993, establishes the framework for the government and the relationship between the co-princes, the Prime Minister, and the General Council. The Constitution also guarantees a range of **fundamental rights**, including freedom of speech, assembly, and association, as well as the right to a fair trial and the protection of property rights.
+
+[SECTION] Government Structure [/SECTION]
+[TABLE]
+| Branch | Institution | Head/Leader | Role |
+| --- | --- | --- | --- |
+| Executive | Government of Andorra | Prime Minister (Xavier Espot Zamora) | Head of Government, responsible for administration |
+| Legislative | General Council | Speaker of the General Council (Roser Suñé Pascuet) | Unicameral legislature, passes laws and approves budget |
+| Judicial | Supreme Court of Andorra | President of the Supreme Court (Jordi Palou) | Highest court in the land, interprets laws and ensures justice |
+[/TABLE]
+
+[SECTION] Major Political Parties [/SECTION]
+[TABLE]
+| Party | Position | Leader | Seats | Notes |
+| --- | --- | --- | --- | --- |
+| Democrats for Andorra | Center-right | Xavier Espot Zamora | 11 | Currently in government |
+| Social Democratic Party | Center-left | Pere López Agràs | 7 | Main opposition party |
+| Liberal Party of Andorra | Center | Jordi Gallardo | 4 | Supports liberal economic policies |
+| Andorra for Change | Left-wing | Josep Pintat Forné | 3 | Advocates for social and economic change |
+| Greens of Andorra | Environmentalist | Isabel Lozano Muñoz | 2 | Focuses on environmental issues |
+| United for Progress | Center-right | Alfons Clotet Canal | 1 | Supports economic development and social progress |
+[/TABLE]
+
+[SECTION] Elections [/SECTION]
+- The electoral system in Andorra is based on **universal suffrage**, with all citizens over the age of 18 having the right to vote.
+- Elections are held every four years, with the most recent election taking place in 2019.
+- The **last election** saw the Democrats for Andorra emerge as the largest party, with 11 seats in the General Council.
+- The **next election** is scheduled to take place in 2023, with all 28 seats in the General Council up for grabs.
+- **Voter participation** is generally high in Andorra, with turnout rates often exceeding 80%.
+
+[SECTION] Political Stability & Challenges [/SECTION]
+- Andorra has a **high level of political stability**, with a strong tradition of democratic governance and a high level of citizen participation.
+- The country faces **challenges related to its small size**, including limited economic diversification and a high dependence on tourism.
+- Andorra is also **vulnerable to external economic shocks**, including changes in the global economy and fluctuations in the value of the euro.
+- The country has a **strong commitment to human rights**, with a high level of respect for fundamental freedoms and a robust system of justice.
+- Andorra is also **committed to environmental protection**, with a range of initiatives aimed at reducing its carbon footprint and promoting sustainable development.
+- The country has a **positive relationship with its neighbors**, including France and Spain, with which it has close economic and cultural ties.
+
+[SECTION] Foreign Relations [/SECTION]
+- Andorra is a **member of the United Nations**, and participates in a range of international organizations, including the Council of Europe and the International Monetary Fund.
+- The country has **close ties with the European Union**, with which it has a customs union and participates in the Schengen Area.
+- Andorra is also a **member of the International Organization of la Francophonie**, and has close cultural and economic ties with other French-speaking countries.
+- The country has a **positive relationship with the United States**, with which it has a range of economic and cultural ties.
+- Andorra is also **committed to international cooperation**, and participates in a range of international initiatives aimed at promoting peace, security, and development.
+
+---
+
+*Evergreen reference content. Verify time-sensitive details with official sources.*

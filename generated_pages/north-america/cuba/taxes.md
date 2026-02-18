@@ -1,0 +1,70 @@
+---
+title: "Cuba Tax Guide — Income, Corporate & VAT Rates"
+entity: "Cuba"
+iso_code: "CU"
+continent: "north-america"
+angle: "taxes"
+date: "2026-02-17"
+---
+
+# Cuba Tax Guide — Income, Corporate & VAT Rates
+
+The tax rates in Cuba range from 10% to 50% for individuals, with a corporate tax rate of 30% and a value-added tax (VAT) rate of 10%, making it essential for expats and foreign workers to understand the tax system and their obligations. 
+
+[CALLOUT] Tax laws change frequently. Always consult a qualified tax professional for advice specific to your situation. This is a general guide only. [/CALLOUT]
+
+[FACTBOX]
+Income Tax Range: 10% - 50%
+Corporate Tax: 30%
+VAT/GST: 10%
+Capital Gains Tax: 10% (or included in income)
+Tax Year: Jan-Dec
+Tax Treaty Network: 60 countries
+[/FACTBOX]
+
+[SECTION] Tax System Overview [/SECTION]
+Cuba has a **territorial tax system**, where taxes are levied on income earned within the country, regardless of the taxpayer's residence. However, individuals who are considered **tax residents** are taxed on their worldwide income, with some exceptions. To be considered a tax resident in Cuba, an individual must have a permanent home in the country, be present in the country for more than 183 days in a calendar year, or have a spouse or minor children who are tax residents.
+
+The tax system in Cuba is administered by the **Ministry of Finance and Prices**, which is responsible for collecting taxes, enforcing tax laws, and providing tax services to taxpayers. The tax year in Cuba runs from January to December, and taxpayers are required to file their tax returns by May 31st of each year. Taxpayers who fail to file their tax returns on time may be subject to penalties and fines.
+
+[SECTION] Personal Income Tax [/SECTION]
+| Income Bracket (CUP) | Tax Rate |
+| --- | --- |
+| 0 - 10,000 | 10% |
+| 10,001 - 20,000 | 15% |
+| 20,001 - 30,000 | 20% |
+| 30,001 - 50,000 | 30% |
+| 50,001 and above | 50% |
+
+Personal income tax in Cuba is levied on individuals who earn income from employment, self-employment, or other sources. Taxpayers are entitled to **deductions** and **allowances**, such as deductions for mortgage interest, charitable donations, and medical expenses. Taxpayers are required to file their tax returns on a self-assessment basis, and they must pay their taxes by the due date to avoid penalties and fines. Tax returns can be filed electronically or in person at a tax office.
+
+[SECTION] Corporate & Business Tax [/SECTION]
+- The **corporate tax rate** in Cuba is 30%, which applies to the taxable income of companies.
+- Small businesses and **micro-enterprises** may be eligible for **tax incentives**, such as reduced tax rates or exemptions from certain taxes.
+- Cuba has several **free zones**, which offer tax incentives and other benefits to companies that operate within these zones.
+- Companies that operate in Cuba must **register** with the Ministry of Finance and Prices and obtain a tax identification number.
+- Foreign companies that operate in Cuba must also comply with **foreign investment regulations**, which require them to obtain a license from the relevant authorities.
+
+[SECTION] VAT / Sales Tax [/SECTION]
+- The **standard VAT rate** in Cuba is 10%, which applies to most goods and services.
+- A **reduced VAT rate** of 5% applies to certain goods and services, such as food, medicine, and education.
+- Some goods and services are **exempt** from VAT, such as healthcare services, education services, and financial services.
+- Tourists who purchase goods in Cuba may be eligible for a **tax refund** when they leave the country, provided they meet certain conditions.
+
+[SECTION] For Expats & Foreign Workers [/SECTION]
+- Expats and foreign workers who are **tax residents** in Cuba are taxed on their worldwide income, with some exceptions.
+- Cuba has **double taxation treaties** with over 60 countries, which help to prevent double taxation and fiscal evasion.
+- Expats and foreign workers who work in Cuba must **register** with the tax authorities and obtain a tax identification number.
+- Expats and foreign workers who earn income from employment in Cuba are required to contribute to the **social security system**, which provides benefits such as healthcare, pension, and unemployment insurance.
+- Expats and foreign workers who remit funds to their home country must comply with **remittance regulations**, which require them to declare the funds and pay any applicable taxes.
+- Expats and foreign workers who are **non-tax residents** in Cuba are only taxed on their Cuban-sourced income.
+
+[SECTION] Crypto & Investment Income [/SECTION]
+- **Investment income**, such as dividends, interest, and capital gains, is subject to income tax in Cuba.
+- **Cryptocurrency** is considered a **commodity** in Cuba, and gains from the sale of cryptocurrency are subject to capital gains tax.
+- **Dividends** paid by Cuban companies to foreign shareholders are subject to a **withholding tax** of 20%.
+- Foreign investors who invest in Cuba must comply with **foreign investment regulations**, which require them to obtain a license from the relevant authorities and register with the tax authorities.
+
+---
+
+*Evergreen reference content. Verify time-sensitive details with official sources.*

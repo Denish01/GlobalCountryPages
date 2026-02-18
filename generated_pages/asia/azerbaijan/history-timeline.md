@@ -1,0 +1,70 @@
+---
+title: "Azerbaijan History — Key Events & Timeline"
+entity: "Azerbaijan"
+iso_code: "AZ"
+continent: "asia"
+angle: "history-timeline"
+date: "2026-02-17"
+---
+
+# Azerbaijan History — Key Events & Timeline
+
+The history of Azerbaijan is a rich and complex narrative that spans thousands of years, from ancient civilizations to modern-day independence. 
+
+[SECTION] Historical Overview [/SECTION]
+Azerbaijan's history dates back to the ancient period, with the **Caucasus Albanians** and **Medes** inhabiting the region. The area was later conquered by the **Achaemenid Empire**, followed by the **Alexander the Great**'s empire, and then the **Sassanid Empire**. In the 7th century, Azerbaijan was **Islamized** under the **Arab Caliphate**, which had a profound impact on the region's culture and identity. The **Safavid dynasty**, which ruled from the 16th to the 18th century, played a significant role in shaping Azerbaijan's history, particularly in terms of its **Shi'a Islamic** heritage.
+
+The 19th century saw Azerbaijan become part of the **Russian Empire**, which had a lasting impact on the country's economy, politics, and culture. The early 20th century was marked by the **Azerbaijan Democratic Republic**, which was established in 1918 and existed until 1920. This period was significant, as it marked the country's first taste of independence. However, Azerbaijan soon became part of the **Soviet Union**, which ruled the country for nearly seven decades. The Soviet period was marked by significant economic development, particularly in the oil and gas sector, but also by repression and limited cultural expression.
+
+In the modern era, Azerbaijan has continued to navigate its complex history and cultural identity. The country has made significant strides in terms of economic development, particularly in the oil and gas sector, but has also faced challenges related to democracy, human rights, and regional conflicts. The **Nagorno-Karabakh conflict** with Armenia has been a major point of contention, with ongoing tensions and disputes over territory and sovereignty. Despite these challenges, Azerbaijan has continued to assert its independence and sovereignty, while also seeking to engage with the global community and promote its rich cultural heritage.
+
+The country's strategic location at the crossroads of Europe and Asia has made it an important player in regional politics and economics. Azerbaijan has sought to balance its relationships with major powers, including **Russia**, **Turkey**, and **Iran**, while also pursuing its own national interests and priorities. This has involved a delicate balancing act, as the country seeks to maintain its sovereignty and independence while also navigating the complex geopolitics of the region.
+
+[SECTION] Timeline of Key Events [/SECTION]
+1. **9th century BC** - The **Caucasus Albanians** and **Medes** inhabit the region, with the area later being conquered by the **Achaemenid Empire**. 
+2. **7th century AD** - Azerbaijan is **Islamized** under the **Arab Caliphate**, which has a profound impact on the region's culture and identity.
+3. **16th century** - The **Safavid dynasty** rules Azerbaijan, playing a significant role in shaping the country's history and **Shi'a Islamic** heritage.
+4. **1813** - The **Treaty of Gulistan** is signed, marking the beginning of **Russian rule** in Azerbaijan.
+5. **1918** - The **Azerbaijan Democratic Republic** is established, marking the country's first taste of independence.
+6. **1920** - Azerbaijan becomes part of the **Soviet Union**, which rules the country for nearly seven decades.
+7. **1988** - The **Nagorno-Karabakh conflict** begins, with ongoing tensions and disputes over territory and sovereignty.
+8. **1991** - Azerbaijan declares its independence from the **Soviet Union**, marking the beginning of a new era in the country's history.
+9. **1993** - **Heydar Aliyev** becomes president, playing a significant role in shaping the country's post-independence trajectory.
+10. **2003** - **Ilham Aliyev** becomes president, succeeding his father and continuing to shape the country's politics and economy.
+11. **2010** - Azerbaijan begins to develop its **Shah Deniz gas field**, marking a significant milestone in the country's energy sector.
+12. **2013** - The **Baku-Tbilisi-Kars railway** is completed, improving transportation links between Azerbaijan, Georgia, and Turkey.
+13. **2016** - Azerbaijan launches the **Southern Gas Corridor**, a major energy project aimed at transporting gas from the Caspian Sea to Europe.
+14. **2020** - The **Nagorno-Karabakh conflict** escalates, resulting in a significant humanitarian crisis and ongoing tensions.
+15. **2021** - Azerbaijan continues to navigate its complex relationships with regional powers, including **Russia**, **Turkey**, and **Iran**.
+
+[SECTION] Founding & Formation [/SECTION]
+Azerbaijan's founding and formation as a modern nation-state is a complex and multifaceted process. The country's strategic location at the crossroads of Europe and Asia has made it an important player in regional politics and economics. The **Azerbaijan Democratic Republic**, established in 1918, marked the country's first taste of independence and played a significant role in shaping its modern identity. Key figures, such as **Mammad Amin Rasulzade** and **Alimardan bey Topchubashov**, played important roles in the country's founding and formation.
+
+The modern Azerbaijani state was formally established in 1991, following the country's declaration of independence from the **Soviet Union**. This marked the beginning of a new era in Azerbaijan's history, as the country sought to assert its sovereignty and independence while also navigating the complex geopolitics of the region. Key figures, such as **Heydar Aliyev** and **Ilham Aliyev**, have played significant roles in shaping the country's post-independence trajectory and continue to influence its politics and economy today.
+
+[SECTION] Colonial & Independence Period [/SECTION]
+Azerbaijan's colonial history is marked by its incorporation into the **Russian Empire** in the 19th century. This period had a lasting impact on the country's economy, politics, and culture, with the Russian authorities imposing their own language, culture, and institutions on the region. The early 20th century saw the establishment of the **Azerbaijan Democratic Republic**, which was marked by significant challenges and conflicts, including the **Nagorno-Karabakh conflict**.
+
+Azerbaijan's independence movement was marked by significant figures, such as **Mammad Amin Rasulzade** and **Alimardan bey Topchubashov**, who played important roles in the country's founding and formation. The **Soviet Union** period, which lasted from 1920 to 1991, was marked by significant repression and limited cultural expression, but also by significant economic development, particularly in the oil and gas sector. The country's first leaders, including **Heydar Aliyev**, played significant roles in shaping its post-independence trajectory and navigating the complex geopolitics of the region.
+
+[SECTION] Modern Era [/SECTION]
+In the modern era, Azerbaijan has continued to navigate its complex history and cultural identity. The country has made significant strides in terms of economic development, particularly in the oil and gas sector, but has also faced challenges related to democracy, human rights, and regional conflicts. The **Nagorno-Karabakh conflict** with Armenia has been a major point of contention, with ongoing tensions and disputes over territory and sovereignty. Despite these challenges, Azerbaijan has continued to assert its independence and sovereignty, while also seeking to engage with the global community and promote its rich cultural heritage.
+
+Azerbaijan's post-independence trajectory has been marked by significant political changes, including the **presidency of Heydar Aliyev** and the **succession of Ilham Aliyev**. The country has also made significant strides in terms of economic development, particularly in the oil and gas sector, with the **Shah Deniz gas field** and the **Southern Gas Corridor** marking significant milestones. However, the country continues to face challenges related to democracy, human rights, and regional conflicts, and its future trajectory will depend on its ability to navigate these complex issues and assert its independence and sovereignty.
+
+[SECTION] Historical Figures [/SECTION]
+[TABLE]
+| Name | Period | Role | Significance |
+| --- | --- | --- | --- |
+| Mammad Amin Rasulzade | 1918-1920 | Founding father | Played a key role in the establishment of the Azerbaijan Democratic Republic |
+| Alimardan bey Topchubashov | 1918-1920 | Founding father | Served as the chairman of the Azerbaijani National Council and played a key role in the country's founding |
+| Heydar Aliyev | 1993-2003 | President | Played a significant role in shaping the country's post-independence trajectory and navigating its complex relationships with regional powers |
+| Ilham Aliyev | 2003-present | President | Has continued to shape the country's politics and economy, while also navigating its complex relationships with regional powers |
+| Ismail bey Gasprinski | 19th-20th century | Intellectual | Played a key role in the development of Azerbaijani nationalism and the promotion of the country's cultural heritage |
+| Uzeyir Hajibeyov | 19th-20th century | Composer | Composed the music for the Azerbaijani national anthem and played a key role in the development of the country's musical heritage |
+| Mirza Fatali Akhundov | 19th century | Writer | Played a key role in the development of Azerbaijani literature and the promotion of the country's cultural heritage |
+[/TABLE]
+
+---
+
+*Evergreen reference content. Verify time-sensitive details with official sources.*

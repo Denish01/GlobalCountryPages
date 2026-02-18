@@ -1,0 +1,70 @@
+---
+title: "Spain Tax Guide — Income, Corporate & VAT Rates"
+entity: "Spain"
+iso_code: "ES"
+continent: "europe"
+angle: "taxes"
+date: "2026-02-17"
+---
+
+# Spain Tax Guide — Income, Corporate & VAT Rates
+
+In Spain, tax rates range from 19% to 45% for personal income tax, with a corporate tax rate of 25%, and a standard VAT rate of 21%, making it essential for expats and businesses to understand the tax system to navigate their obligations. 
+
+[CALLOUT] Tax laws change frequently. Always consult a qualified tax professional for advice specific to your situation. This is a general guide only. [/CALLOUT]
+
+[FACTBOX]
+Income Tax Range: 19% - 45%
+Corporate Tax: 25%
+VAT/GST: 21%
+Capital Gains Tax: 19% - 26% or included in income
+Tax Year: Jan-Dec
+Tax Treaty Network: 94 countries
+[/FACTBOX]
+
+[SECTION] Tax System Overview [/SECTION]
+Spain operates a **territorial taxation system**, where residents are taxed on their worldwide income, but non-residents are only taxed on their Spanish-sourced income. To be considered a tax resident in Spain, an individual must spend more than 183 days in the country in a calendar year, or have a spouse or minor children who are residents, or have a business or economic interest in Spain. The tax system is overseen by the **Agencia Tributaria**, which is responsible for collecting taxes and providing tax guidance to residents and non-residents.
+
+The tax system in Spain is complex, with various **tax credits** and **deductions** available to reduce tax liability. Tax residents in Spain are required to file a tax return, known as the **Declaración de la Renta**, which must be submitted by June 30th of each year. The tax year in Spain runs from January to December, and tax payments can be made in installments throughout the year. It is essential to understand the tax system and seek professional advice to ensure compliance with tax laws and regulations.
+
+[SECTION] Personal Income Tax [/SECTION]
+[TABLE]
+| Income Bracket (EUR) | Tax Rate |
+| --- | --- |
+| 0 - 12,000 | 19% |
+| 12,001 - 20,200 | 24% |
+| 20,201 - 35,200 | 30% |
+| 35,201 - 60,000 | 37% |
+| 60,001 and above | 45% |
+[/TABLE]
+Personal income tax in Spain is **progressive**, with higher income earners paying a higher tax rate. Taxpayers are entitled to various **deductions** and **allowances**, such as a personal allowance of 5,550 euros, and deductions for mortgage interest, charitable donations, and education expenses. Tax returns must be filed electronically, and tax payments can be made online or through a bank. It is essential to keep accurate records of income and expenses to ensure accurate tax reporting and to take advantage of available deductions and credits.
+
+[SECTION] Corporate & Business Tax [/SECTION]
+- The **corporate tax rate** in Spain is 25%, with a reduced rate of 20% for small and medium-sized enterprises (SMEs) with a turnover of less than 10 million euros.
+- **Small business incentives** are available, such as a reduced tax rate of 15% for new businesses in their first two years of operation.
+- **Free zones** are available in certain regions, offering tax exemptions and other incentives for businesses that operate within these zones.
+- **Registration requirements** for businesses in Spain include registering with the **Registro Mercantil**, obtaining a **NIF** (tax identification number), and registering for VAT.
+
+[SECTION] VAT / Sales Tax [/SECTION]
+- The **standard VAT rate** in Spain is 21%, with reduced rates of 10% and 4% for certain goods and services, such as food, transportation, and healthcare.
+- **Reduced rates** apply to certain goods and services, such as children's clothing and footwear, and **exemptions** apply to certain goods and services, such as financial services and education.
+- **Tourist refund schemes** are available, allowing non-EU visitors to claim a refund of VAT paid on certain purchases.
+- **VAT registration** is required for businesses with an annual turnover of more than 10,000 euros.
+
+[SECTION] For Expats & Foreign Workers [/SECTION]
+- **Tax residency rules** apply to individuals who spend more than 183 days in Spain in a calendar year, or have a spouse or minor children who are residents.
+- **Double taxation treaties** are in place with 94 countries, to avoid taxing the same income in both Spain and the individual's home country.
+- **Social security** contributions are required for employees and self-employed individuals, with a minimum contribution of 28.3% of gross income.
+- **Remittance rules** apply to individuals who receive income from abroad, with a tax exemption available for foreign-earned income that is subject to tax in the country of origin.
+- **Tax credits** are available for foreign tax paid on income that is also subject to tax in Spain.
+- **Special tax regimes** are available for certain groups, such as **Beckham Law**, which applies to high-net-worth individuals who become tax residents in Spain.
+
+[SECTION] Crypto & Investment Income [/SECTION]
+- **Investment income**, such as dividends and interest, is subject to tax at a rate of 19% to 26%, depending on the type of income and the individual's tax residency status.
+- **Capital gains tax** applies to the sale of assets, such as stocks, bonds, and real estate, with a tax rate of 19% to 26%, depending on the type of asset and the individual's tax residency status.
+- **Cryptocurrency** is subject to tax as **capital gains**, with a tax rate of 19% to 26%, depending on the individual's tax residency status and the type of cryptocurrency.
+- **Tax reporting** requirements apply to individuals who receive investment income or sell assets, with a requirement to report this income on their tax return.
+
+---
+
+*Evergreen reference content. Verify time-sensitive details with official sources.*

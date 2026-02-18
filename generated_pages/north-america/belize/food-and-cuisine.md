@@ -1,0 +1,87 @@
+---
+title: "Belize Food Guide — Dishes, Street Food & Dining"
+entity: "Belize"
+iso_code: "BZ"
+continent: "north-america"
+angle: "food-and-cuisine"
+date: "2026-02-17"
+---
+
+# Belize Food Guide — Dishes, Street Food & Dining
+
+When visiting Belize, be sure to try the country's unique fusion of Caribbean, Latin American, and African flavors, with popular dishes like **Rice and Beans**, **Stewed Chicken**, and **Conch Fritters** showcasing the nation's cultural diversity.
+
+[FACTBOX]
+Staple Foods: rice, beans, chicken, seafood
+National Dish: Rice and Beans with Stewed Chicken, a traditional meal made with coconut milk and spices
+Meal Times: breakfast 7-10 am, lunch 12-2 pm, dinner 6-9 pm
+Tipping at Restaurants: 10-15% of the total bill
+Dietary Notes: vegetarian-friendly options available, some restaurants offer halal and kosher options
+[/FACTBOX]
+
+[SECTION] Food Culture Overview [/SECTION]
+Belize's cuisine is a reflection of its history and geography, with a mix of Caribbean, Latin American, and African influences. The country's strategic location on the Caribbean coast, bordering Mexico and Guatemala, has resulted in a unique fusion of flavors and cooking techniques. Belizean cuisine is characterized by the use of fresh seafood, coconut milk, and spices, with popular dishes often featuring **rice and beans**, **chicken**, and **seafood**. Regional variations are also evident, with the Garifuna community in the south introducing African and Caribbean flavors, while the Maya communities in the west and north showcase traditional Latin American dishes.
+
+The country's food culture is also shaped by its cultural heritage, with many festivals and celebrations centered around food. The **Garifuna Settlement Day**, for example, features traditional dishes like **hudut** (a stew made with coconut milk and fish) and **ereba** (cassava bread). Similarly, the **Belizean Independence Day** celebrations often include traditional meals like **stewed chicken** and **rice and beans**.
+
+Belize's cuisine has also been influenced by its colonial past, with British, Spanish, and African traditions all contributing to the country's culinary identity. This diverse cultural heritage is reflected in the country's cuisine, with popular dishes often featuring a mix of local and international flavors.
+
+[SECTION] Must-Try Dishes [/SECTION]
+[TABLE]
+| Dish | Type | Description | Where to Find |
+| --- | --- | --- | --- |
+| Rice and Beans | traditional | national dish made with coconut milk and spices | local restaurants, food stalls |
+| Stewed Chicken | main course | chicken cooked in a spicy tomato-based sauce | restaurants, street food vendors |
+| Conch Fritters | appetizer | deep-fried conch meat with onions and bell peppers | beachside restaurants, seafood markets |
+| Ceviche | appetizer | raw fish marinated in lime juice with onions and peppers | seafood restaurants, beach bars |
+| Hudut | stew | traditional Garifuna dish made with coconut milk and fish | Garifuna restaurants, cultural festivals |
+| Ereba | bread | traditional cassava bread often served with stews or soups | Garifuna restaurants, markets |
+| Panades | snack | fried dough filled with beans, cheese, or meat | street food vendors, markets |
+| Salbutes | snack | fried tortillas topped with beans, cheese, and meat | street food vendors, markets |
+| Lobster | main course | grilled or steamed lobster often served with garlic butter | seafood restaurants, beachside eateries |
+| Chicken Tamales | main course | steamed tamales filled with chicken and spices | traditional restaurants, markets |
+[/TABLE]
+
+[SECTION] Street Food & Snacks [/SECTION]
+- **Conch Fritters**: deep-fried conch meat with onions and bell peppers, $5-7 USD
+- **Panades**: fried dough filled with beans, cheese, or meat, $2-3 USD
+- **Salbutes**: fried tortillas topped with beans, cheese, and meat, $2-3 USD
+- **Tamales**: steamed tamales filled with chicken or pork, $3-5 USD
+- **Rice and Beans**: traditional dish made with coconut milk and spices, $5-7 USD
+- **Fresh Fruit**: seasonal fruits like mangoes, bananas, and watermelons, $1-3 USD
+- **Coconut Water**: fresh coconut water, $2-3 USD
+- **Fried Plantains**: sliced plantains fried until crispy, $3-5 USD
+
+[SECTION] Drinks [/SECTION]
+- **Belikin Beer**: local beer, $3-5 USD
+- **Rum Punch**: cocktail made with rum, fruit juice, and spices, $5-7 USD
+- **Fresh Limeade**: homemade limeade made with fresh limes and sugar, $2-3 USD
+- **Coconut Water**: fresh coconut water, $2-3 USD
+- **Horchata**: traditional drink made with rice, cinnamon, and vanilla, $2-3 USD
+- **Fresh Juice**: seasonal fruits like orange, grapefruit, and watermelon, $3-5 USD
+
+[SECTION] Dining Customs [/SECTION]
+- **Eating Etiquette**: use your right hand when eating, as the left hand is considered unclean
+- **Tipping**: 10-15% of the total bill
+- **Reservation Culture**: reservations are not always necessary, but recommended for popular restaurants
+- **Dress Code**: casual dress is acceptable, but some restaurants may require formal attire
+- **Meal Times**: breakfast 7-10 am, lunch 12-2 pm, dinner 6-9 pm
+- **Table Manners**: wait for the host to indicate where to sit, and do not start eating until everyone has been served
+
+[SECTION] Where to Eat [/SECTION]
+- **Local Restaurants**: traditional restaurants serving Belizean cuisine, $10-20 USD per meal
+- **Seafood Markets**: fresh seafood markets offering a variety of seafood dishes, $15-30 USD per meal
+- **Food Stalls**: street food vendors serving traditional snacks and dishes, $5-10 USD per meal
+- **Beachside Eateries**: casual restaurants located on the beach, $15-30 USD per meal
+- **Markets**: local markets offering a variety of food stalls and vendors, $5-10 USD per meal
+
+[SECTION] Food Markets & Food Experiences [/SECTION]
+- **Belize City Market**: local market offering a variety of food stalls and vendors, located in the heart of Belize City
+- **San Ignacio Market**: market offering traditional Maya dishes and handicrafts, located in San Ignacio
+- **Placencia Peninsula**: beachside eateries and seafood markets, located on the Placencia Peninsula
+- **Garifuna Cultural Center**: cultural center offering traditional Garifuna dishes and music, located in Dangriga
+- **Caye Caulker Fishermen's Cooperative**: seafood market offering fresh seafood and local dishes, located on Caye Caulker
+
+---
+
+*Evergreen reference content. Verify time-sensitive details with official sources.*

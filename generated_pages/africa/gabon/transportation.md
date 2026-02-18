@@ -1,0 +1,65 @@
+---
+title: "Getting Around Gabon — Transport & Travel Guide"
+entity: "Gabon"
+iso_code: "GA"
+continent: "africa"
+angle: "transportation"
+date: "2026-02-17"
+---
+
+# Getting Around Gabon — Transport & Travel Guide
+
+To get around in Gabon, you can use a combination of domestic flights, buses, taxis, and car rentals, as the country has a limited rail network and no metro system, but a relatively well-developed road network. 
+
+[FACTBOX]
+Main International Airport(s): Libreville International Airport (LBV)
+Domestic Air Network: moderate
+Rail Network: limited
+Drives On: right
+Road Quality: moderate
+Ride-Hailing Apps: local alternatives
+[/FACTBOX]
+
+[SECTION] Getting There [/SECTION]
+Gabon has several international airports, with the main one being Libreville International Airport, which serves as a hub for international flights to and from Europe, Africa, and the Middle East. Direct flights are available from major European cities such as Paris and Amsterdam, as well as from neighboring African countries like Cameroon and Equatorial Guinea. Overland entry points are also available, with the main border crossings located at Bitam, Oyem, and Makokou, which connect Gabon to Cameroon, Equatorial Guinea, and the Republic of Congo, respectively.
+
+For travelers planning to enter Gabon overland, it is essential to ensure that all necessary documents, including a valid passport and visa, are in order before attempting to cross the border. Additionally, it is recommended to research the current border crossing requirements and any specific regulations that may apply to your mode of transportation. The journey by road can be challenging, especially during the rainy season, and it is crucial to be prepared for potential delays and disruptions.
+
+[SECTION] Domestic Flights [/SECTION]
+Gabon has a moderate domestic air network, with several airlines operating flights between the main cities, including Libreville, Port-Gentil, and Franceville. The main domestic airlines are **Air Gabon** and **Nationale Regionale Transport**, which offer regular flights to various destinations within the country. Booking domestic flights can be done online or through local travel agents, and approximate costs range from $100 to $300 for a one-way ticket, depending on the route and time of booking. It is recommended to book in advance to secure the best rates, especially during peak travel seasons.
+
+[SECTION] Trains & Rail [/SECTION]
+Gabon's rail network is limited, with only one main line connecting the capital city Libreville to Franceville, a distance of approximately 670 kilometers. The **Transgabonais** railway is the country's primary rail line, which was built during the colonial era and has undergone several renovations over the years. While the rail network is not extensive, it offers a scenic and relatively comfortable way to travel, with **first-class** and **second-class** options available. Booking train tickets can be done at the train station or through local travel agents, and prices range from $20 to $50 for a one-way ticket, depending on the class of service.
+
+[SECTION] Buses & Coaches [/SECTION]
+Intercity bus companies, such as **Societe de Transport Gabonais** and **Transport en Commun de Libreville**, operate regular services between the main cities, including Libreville, Port-Gentil, and Franceville. The quality of the buses varies, but most are relatively comfortable and well-maintained. Prices range from $10 to $30 for a one-way ticket, depending on the route and class of service. It is recommended to book in advance, especially during peak travel seasons, to secure a seat on the desired route.
+
+[SECTION] City Transport [/SECTION]
+| Mode | Available In | Cost (USD) | Notes |
+| --- | --- | --- | --- |
+| City Bus | Libreville, Port-Gentil | $0.50-$1.00 | Frequent services, but can be crowded |
+| Taxi | Everywhere | $5-$10/km | Metered taxis, but prices can be negotiated |
+| Ride-Hailing | Libreville, Port-Gentil | $5-$10 | Local alternatives, such as **Gabon Taxi** |
+| Tuk-tuk/Rickshaw | Libreville, Port-Gentil | $2-$5 | Affordable, but not always available |
+
+[SECTION] Driving [/SECTION]
+- A valid **international driving permit** is required to rent a car in Gabon, and drivers must be at least 23 years old.
+- Road conditions vary, but the main highways are generally in good condition, while rural roads can be challenging, especially during the rainy season.
+- Fuel costs are relatively high, with prices ranging from $1.50 to $2.50 per liter, depending on the location and type of fuel.
+- Car rental companies, such as **Europcar** and **Hertz**, are available at the main airports and in major cities, but prices can be steep, ranging from $50 to $100 per day.
+- Drivers should be aware of potential hazards, such as **potholes**, **speed bumps**, and **aggressive driving**, and should exercise caution when driving at night or in rural areas.
+- It is recommended to rent a **4x4 vehicle** if planning to drive on rural roads or during the rainy season.
+
+[SECTION] Transport Tips [/SECTION]
+- Be aware of potential **scams** at the airport or bus stations, and always use authorized taxi or bus services.
+- **Cash** is the preferred payment method, but some businesses may accept credit cards or mobile payments.
+- Download **Google Maps** or **Waze** to help navigate the roads and find the best routes.
+- Always wear a **seatbelt** and ensure that the vehicle is in good condition before embarking on a journey.
+- Be respectful of local **traffic laws** and **customs**, and avoid driving at night or in areas with poor road conditions.
+- Consider hiring a **local driver** or guide if unfamiliar with the roads or language.
+- Always keep **valuables** secure and out of sight, and be mindful of potential **pickpocketing** or **theft** in crowded areas.
+- Stay informed about local **events** and **demonstrations**, which may affect traffic or transportation services.
+
+---
+
+*Evergreen reference content. Verify time-sensitive details with official sources.*

@@ -1,0 +1,73 @@
+---
+title: "Sint Maarten History — Key Events & Timeline"
+entity: "Sint Maarten"
+iso_code: "SX"
+continent: "north-america"
+angle: "history-timeline"
+date: "2026-02-17"
+---
+
+# Sint Maarten History — Key Events & Timeline
+
+Sint Maarten, a territory of the Netherlands in the northeastern Caribbean, has a rich and diverse history dating back to the earliest known human habitation around 3000 BC, with various periods of colonization, conflict, and eventual formation into the entity it is today.
+
+[SECTION] Historical Overview [/SECTION]
+The history of Sint Maarten began with the arrival of the **Taino people**, an indigenous tribe that migrated from the mainland hundreds of years before the arrival of European colonizers. The Taino people lived on the island for over 1,000 years, developing a complex society with their own language, culture, and traditions. In 1493, **Christopher Columbus** sighted the island on his second voyage to the New World, claiming it for Spain. However, it was the Dutch and the French who eventually colonized the island, with the Dutch establishing the first permanent settlement in 1631. The island was divided between the two powers, with the Dutch controlling the southern part, now known as Sint Maarten, and the French controlling the northern part, now known as Saint Martin.
+
+The colonial period was marked by conflict and competition between the Dutch and the French, with the island changing hands several times. In 1648, the **Treaty of Concordia** was signed, dividing the island between the two powers and establishing the current border. The Dutch West India Company played a significant role in the development of Sint Maarten, establishing trade relationships and promoting the growth of the island's economy. During the 18th and 19th centuries, Sint Maarten became an important center for trade and commerce in the Caribbean, with the island's strategic location and natural harbor making it an attractive location for merchants and sailors.
+
+In the 20th century, Sint Maarten underwent significant changes, with the island becoming a **constituent country** of the Kingdom of the Netherlands in 1954. This status gave Sint Maarten a degree of autonomy, with the island responsible for its own internal affairs while the Netherlands retained responsibility for defense and foreign policy. In 2010, Sint Maarten became a **separate country** within the Kingdom of the Netherlands, with the island gaining greater autonomy and self-governance. Today, Sint Maarten is a popular tourist destination, known for its beautiful beaches, vibrant culture, and rich history.
+
+The island's history has been shaped by its strategic location and its role as a crossroads between Europe, Africa, and the Americas. The blend of different cultures and traditions has created a unique and vibrant society, with a strong sense of identity and community. From the earliest Taino inhabitants to the present day, Sint Maarten has been a place of encounter and exchange, where different peoples and cultures have come together to create a rich and diverse heritage.
+
+[SECTION] Timeline of Key Events [/SECTION]
+1. **3000 BC** - The Taino people arrive on the island, marking the beginning of human habitation. The Taino people developed a complex society with their own language, culture, and traditions.
+2. **1493** - Christopher Columbus sights the island on his second voyage to the New World, claiming it for Spain. This event marked the beginning of European colonization in the Caribbean.
+3. **1631** - The Dutch establish the first permanent settlement on the island. The Dutch West India Company played a significant role in the development of Sint Maarten, establishing trade relationships and promoting the growth of the island's economy.
+4. **1648** - The Treaty of Concordia is signed, dividing the island between the Dutch and the French. The treaty established the current border between Sint Maarten and Saint Martin.
+5. **1672** - The Dutch West India Company is granted a monopoly on trade in the Caribbean, leading to the growth of Sint Maarten's economy. The company played a significant role in the development of the island's trade and commerce.
+6. **1680** - The French establish a settlement on the northern part of the island, now known as Saint Martin. The French and Dutch settlements coexisted, with the two powers competing for control of the island.
+7. **1715** - The Dutch and French sign a treaty establishing the border between Sint Maarten and Saint Martin. The treaty marked the beginning of a period of relative peace and stability on the island.
+8. **1779** - The island is occupied by the British during the American Revolutionary War. The British occupation marked a significant turning point in the island's history, with the British introducing new systems of government and economy.
+9. **1781** - The French and Dutch sign a treaty re-establishing the border between Sint Maarten and Saint Martin. The treaty marked the end of the British occupation and the return of the island to its previous status.
+10. **1848** - Slavery is abolished on the island, leading to significant social and economic changes. The abolition of slavery marked the beginning of a new era of freedom and equality on the island.
+11. **1919** - The island is struck by a devastating hurricane, leading to widespread destruction and loss of life. The hurricane marked a significant turning point in the island's history, with the island rebuilding and recovering in the years that followed.
+12. **1954** - Sint Maarten becomes a constituent country of the Kingdom of the Netherlands, gaining a degree of autonomy. The new status gave Sint Maarten greater control over its internal affairs, while the Netherlands retained responsibility for defense and foreign policy.
+13. **1969** - A border dispute between Sint Maarten and Saint Martin is resolved, establishing the current border. The dispute marked a significant turning point in the island's history, with the two sides agreeing to a peaceful resolution.
+14. **1990** - The island is hit by Hurricane Hugo, causing widespread damage and loss of life. The hurricane marked a significant turning point in the island's history, with the island rebuilding and recovering in the years that followed.
+15. **2010** - Sint Maarten becomes a separate country within the Kingdom of the Netherlands, gaining greater autonomy and self-governance. The new status marked a significant turning point in the island's history, with Sint Maarten gaining greater control over its internal affairs.
+
+[SECTION] Founding & Formation [/SECTION]
+Sint Maarten was founded in 1631, when the Dutch established the first permanent settlement on the island. The island was attractive to the Dutch due to its strategic location and natural harbor, which made it an ideal location for trade and commerce. The Dutch West India Company played a significant role in the development of Sint Maarten, establishing trade relationships and promoting the growth of the island's economy. Over time, the island developed into a thriving commercial center, with the Dutch and French competing for control of the island.
+
+The founding of Sint Maarten was marked by the establishment of the first permanent settlement, which was located on the southern part of the island. The settlement was established by the Dutch West India Company, which played a significant role in the development of the island's economy and infrastructure. The company established trade relationships with other islands and countries, promoting the growth of the island's economy and establishing Sint Maarten as a major commercial center in the Caribbean.
+
+[SECTION] Colonial & Independence Period [/SECTION]
+Sint Maarten was colonized by the Dutch and the French, with the two powers competing for control of the island. The Dutch established the first permanent settlement in 1631, and the French established a settlement on the northern part of the island in 1680. The two powers signed a treaty in 1648, dividing the island between them and establishing the current border. The colonial period was marked by conflict and competition between the Dutch and the French, with the island changing hands several times.
+
+The independence movement in Sint Maarten began in the mid-20th century, with the island seeking greater autonomy and self-governance. In 1954, Sint Maarten became a constituent country of the Kingdom of the Netherlands, gaining a degree of autonomy and self-governance. The island continued to seek greater autonomy, and in 2010, Sint Maarten became a separate country within the Kingdom of the Netherlands, gaining greater autonomy and self-governance. The first leaders of the island played a significant role in shaping the island's history and development, with figures such as **Claude Wathey** and **Daniel Hodge** serving as key figures in the island's government and politics.
+
+The colonial and independence periods were marked by significant social and economic changes, with the island transitioning from a colonial economy to a modern, self-governing state. The island's economy was driven by trade and commerce, with the island's strategic location and natural harbor making it an attractive location for merchants and sailors. The island's culture was also shaped by the colonial period, with the Dutch and French influences combining to create a unique and vibrant society.
+
+[SECTION] Modern Era [/SECTION]
+In the modern era, Sint Maarten has continued to develop and grow, with the island becoming a popular tourist destination and a major commercial center in the Caribbean. The island's economy is driven by tourism, with visitors attracted to the island's beautiful beaches, vibrant culture, and rich history. The island has also invested heavily in infrastructure, with the construction of a new airport and the expansion of the island's port facilities.
+
+The island's government has also played a significant role in shaping the island's development, with the government investing in education, healthcare, and other social services. The island has also sought to diversify its economy, with a focus on developing new industries such as finance and technology. The island's strategic location and natural harbor make it an attractive location for businesses and investors, and the island has sought to capitalize on these advantages to drive economic growth and development.
+
+The island's culture has also continued to evolve, with the island's vibrant society and rich history making it a unique and attractive destination for visitors. The island's music, art, and cuisine are all reflective of its diverse cultural heritage, with influences from the Dutch, French, and African cultures combining to create a unique and vibrant culture. The island's people are known for their warm hospitality and welcoming nature, making visitors feel at home and creating a sense of community and belonging.
+
+[SECTION] Historical Figures [/SECTION]
+[TABLE]
+| Name | Period | Role | Significance |
+| --- | --- | --- | --- |
+| Christopher Columbus | 1493 | Explorer | Sighted the island on his second voyage to the New World, claiming it for Spain |
+| Peter Stuyvesant | 1640s | Dutch Governor | Played a significant role in the development of Sint Maarten, establishing trade relationships and promoting the growth of the island's economy |
+| Claude Wathey | 1970s-1980s | Politician | Served as the island's first Prime Minister, playing a key role in shaping the island's government and politics |
+| Daniel Hodge | 1990s-2000s | Politician | Served as the island's Prime Minister, playing a key role in shaping the island's government and politics |
+| William Marlin | 2010s | Politician | Served as the island's Prime Minister, playing a key role in shaping the island's government and politics |
+| Theodore Heyliger | 2010s | Politician | Served as the island's Minister of Justice, playing a key role in shaping the island's justice system and law enforcement |
+| Sarah Wescot-Williams | 2010s | Politician | Served as the island's Prime Minister, playing
+
+---
+
+*Evergreen reference content. Verify time-sensitive details with official sources.*

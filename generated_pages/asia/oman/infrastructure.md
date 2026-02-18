@@ -1,0 +1,70 @@
+---
+title: "Oman Infrastructure — Roads, Airports, Electricity & Water"
+entity: "Oman"
+iso_code: "OM"
+continent: "asia"
+angle: "infrastructure"
+date: "2026-02-17"
+---
+
+# Oman Infrastructure — Roads, Airports, Electricity & Water
+
+Oman's infrastructure is well-developed, with significant investments made in recent years to improve the country's roads, power, water, and telecommunications networks.
+
+[FACTBOX]
+Electricity Access: 100% of population
+Internet Penetration: 80%
+Road Network: 60,000 km, well-maintained and high-quality
+Rail Network: 0 km, no rail network
+Major Airports: 6
+Major Ports: 8
+[/FACTBOX]
+
+[SECTION] Infrastructure Overview [/SECTION]
+Oman's infrastructure has undergone significant development in recent years, driven by the government's vision to diversify the economy and improve the quality of life for its citizens. The country has invested heavily in its infrastructure, with a focus on upgrading its roads, expanding its ports, and improving its energy and water supply. However, there is still a significant gap between urban and rural areas, with many rural communities lacking access to basic services such as electricity, water, and sanitation. Despite this, Oman's infrastructure is generally well-developed, with a high level of access to electricity, internet, and mobile phone networks.
+
+The Omani government has also made significant efforts to promote private sector investment in infrastructure development, with a number of public-private partnerships (PPPs) established to develop and operate key infrastructure projects. This has helped to attract foreign investment and expertise, and has enabled the government to deliver large-scale infrastructure projects more efficiently and effectively. One of the key challenges facing Oman's infrastructure development is the need to balance economic growth with environmental and social sustainability. The government has recognized this challenge and is taking steps to promote sustainable development and reduce the country's carbon footprint.
+
+Oman's infrastructure development is also driven by the need to reduce its reliance on oil exports and diversify its economy. The government has identified a number of key sectors, including tourism, manufacturing, and logistics, as priority areas for development, and is investing heavily in infrastructure to support these sectors. For example, the government is developing a number of new ports and logistics facilities, including the Duqm Port and Free Zone, which is expected to become a major hub for trade and commerce in the region.
+
+[SECTION] Transport Infrastructure [/SECTION]
+[TABLE]
+| Type | Coverage | Quality | Notes |
+| --- | --- | --- | --- |
+| Roads | 60,000 km | Good | Well-maintained and high-quality, with a number of major highways and expressways |
+| Railways | 0 km | N/A | No rail network, although plans have been announced to develop a rail link between Muscat and Dubai |
+| Airports | 6 international, 2 domestic | Good | Modern and well-equipped, with a number of international airlines operating flights to and from Oman |
+| Ports | 8 major | Good | Well-equipped and modern, with a number of major ports including the Port of Salalah and the Port of Sohar |
+[/TABLE]
+
+[SECTION] Energy & Electricity [/SECTION]
+- Oman's power generation is primarily based on **natural gas**, with a number of gas-fired power plants operating across the country.
+- The country has a high level of **electricity access**, with 100% of the population having access to electricity.
+- Oman is also investing in **renewable energy**, with a number of solar and wind power projects under development.
+- The country's power grid is generally **reliable**, with few power outages or disruptions.
+- Oman is also exploring the possibility of **nuclear power**, with a number of studies and feasibility assessments underway.
+
+[SECTION] Water & Sanitation [/SECTION]
+- Oman's **tap water** is generally safe to drink, with a high level of water treatment and quality control.
+- The country has a high level of **sanitation coverage**, with over 90% of the population having access to modern sanitation facilities.
+- However, there are still some challenges in terms of **water access** in rural areas, where many communities rely on traditional wells and springs.
+- Oman is also investing in **desalination**, with a number of large-scale desalination plants operating across the country.
+- The government is also promoting **water conservation**, with a number of initiatives and awareness campaigns aimed at reducing water waste and promoting efficient use of water resources.
+
+[SECTION] Telecommunications [/SECTION]
+- Oman has a high level of **mobile coverage**, with over 90% of the population having access to mobile phone networks.
+- The country is also investing in **fiber-optic broadband**, with a number of major fiber-optic networks under development.
+- Oman is also rolling out **4G and 5G** mobile networks, with a number of major telecoms operators offering high-speed mobile internet services.
+- The country's **postal services** are also well-developed, with a number of post offices and mail delivery services operating across the country.
+- Oman is also promoting **e-government**, with a number of online services and portals available for citizens and businesses.
+
+[SECTION] Development Projects [/SECTION]
+- Oman is currently developing a number of major infrastructure projects, including the **Duqm Port and Free Zone**, which is expected to become a major hub for trade and commerce in the region.
+- The government is also investing in **transport infrastructure**, with a number of new roads and highways under construction.
+- Oman is also developing a number of **tourism infrastructure** projects, including new hotels, resorts, and tourist facilities.
+- The country is also investing in **renewable energy** projects, with a number of solar and wind power projects under development.
+- Oman is also promoting **public-private partnerships** (PPPs), with a number of major infrastructure projects being developed and operated through PPPs.
+
+---
+
+*Evergreen reference content. Verify time-sensitive details with official sources.*

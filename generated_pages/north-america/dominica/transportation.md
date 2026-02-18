@@ -1,0 +1,66 @@
+---
+title: "Getting Around Dominica — Transport & Travel Guide"
+entity: "Dominica"
+iso_code: "DM"
+continent: "north-america"
+angle: "transportation"
+date: "2026-02-17"
+---
+
+# Getting Around Dominica — Transport & Travel Guide
+
+To get around in Dominica, you can choose from a variety of transportation options including flights, buses, taxis, and car rentals, which cater to different budgets and preferences.
+
+[FACTBOX]
+Main International Airport(s): Melville Hall Airport, DOM
+Domestic Air Network: limited
+Rail Network: none
+Drives On: left
+Road Quality: moderate
+Ride-Hailing Apps: local alternatives
+[/FACTBOX]
+
+[SECTION] Getting There [/SECTION]
+Dominica is accessible by air and sea, with the Melville Hall Airport being the main international airport, located about 40 kilometers from the capital city of Roseau. The airport receives direct flights from major hubs such as San Juan, Puerto Rico, and Barbados, as well as connecting flights from other Caribbean islands and international destinations. For those who prefer to travel by sea, there are ferry services available from neighboring islands like Guadeloupe and Martinique, offering a more leisurely and scenic way to reach the island.
+
+The main overland entry points in Dominica are the seaports, which receive cargo ships and passenger ferries from nearby islands. The Roseau Ferry Terminal is the primary entry point for passengers arriving by sea, and it is located in the heart of the capital city, making it easy to access other parts of the island. Additionally, the Portsmouth Ferry Terminal, located on the northwest coast, also receives ferry services from Guadeloupe and other neighboring islands.
+
+[SECTION] Domestic Flights [/SECTION]
+Dominica has a limited domestic air network, with only a few airlines operating flights between the Melville Hall Airport and the Canefield Airport, which is located closer to Roseau. The main domestic airline is the Dominica Air and Sea Port Authority's (DASPA) shuttle service, which offers flights between the two airports. Booking domestic flights in advance is recommended, especially during peak travel seasons. The approximate cost of a domestic flight is around $100-$200 USD, depending on the airline and the time of year.
+
+[SECTION] Trains & Rail [/SECTION]
+Dominica does not have a rail network, which means that there are no train services available on the island. The lack of a rail network is due to the island's rugged terrain and limited infrastructure, making it more practical to use road transport or air services to get around. As a result, visitors and locals alike rely on buses, taxis, and private vehicles to travel around the island.
+
+[SECTION] Buses & Coaches [/SECTION]
+Dominica has a well-developed bus network, with several private bus companies operating intercity routes that connect the capital city of Roseau to other parts of the island. The buses are a convenient and affordable way to get around, with fares ranging from $1 to $5 USD, depending on the distance traveled. The main bus terminal is located in Roseau, and from there, you can catch buses to various destinations around the island, including the scenic coastal routes and the mountainous interior.
+
+[SECTION] City Transport [/SECTION]
+[TABLE]
+| Mode | Available In | Cost (USD) | Notes |
+| --- | --- | --- | --- |
+| City Bus | Roseau | $1-$2 | Frequent services, affordable fares |
+| Taxi | Everywhere | $10-$20 | Metered fares, available at airports and seaports |
+| Ride-Hailing | Roseau | $5-$10 | Local alternatives, such as Dominican Ride-Hailing |
+| Taxi | Roseau | $10-$20/km | Metered fares, available at airports and seaports |
+[/TABLE]
+
+[SECTION] Driving [/SECTION]
+- To drive in Dominica, you need a valid driver's license from your home country, which is recognized for up to three months.
+- The road conditions in Dominica are generally moderate, with some roads being narrow and winding, especially in the mountainous interior.
+- Fuel costs in Dominica are relatively high, with gasoline prices averaging around $1.50 USD per liter.
+- Car rental companies are available at the Melville Hall Airport and in Roseau, with prices starting from around $40 USD per day.
+- When driving in Dominica, be aware of the island's rugged terrain and **steep hills**, which can be challenging to navigate, especially during heavy rainfall or at night.
+- It is essential to drive on the **left-hand side** of the road, as Dominica is a former British colony, and this can take some getting used to for visitors from countries that drive on the right.
+
+[SECTION] Transport Tips [/SECTION]
+- Be aware of **scams** targeting tourists, such as overpriced taxi fares or fake tour operators, and always research and book with reputable companies.
+- The local currency is the **Eastern Caribbean Dollar (XCD)**, although US dollars are widely accepted, and credit cards are accepted at most tourist establishments.
+- Download the **Dominica Tourist Board** app to get information on attractions, events, and transportation options.
+- Always wear a **seatbelt** when driving or riding in a vehicle, as road safety is a concern in Dominica.
+- Be mindful of the **weather**, as heavy rainfall can cause flash flooding and landslides, making some roads impassable.
+- Respect the **local environment** and culture, and avoid littering or damaging the island's natural beauty.
+- Learn some basic **Creole phrases**, such as "bonjour" (hello) and "merci" (thank you), to interact with the friendly locals.
+
+---
+
+*Evergreen reference content. Verify time-sensitive details with official sources.*

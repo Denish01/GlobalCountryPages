@@ -1,0 +1,66 @@
+---
+title: "Sierra Leone Education — Schools, Universities & Student Guide"
+entity: "Sierra Leone"
+iso_code: "SL"
+continent: "africa"
+angle: "education"
+date: "2026-02-17"
+---
+
+# Sierra Leone Education — Schools, Universities & Student Guide
+
+The education system in Sierra Leone is a six-year primary, three-year junior secondary, and three-year senior secondary structure, with a growing number of institutions offering higher education programs.
+
+[FACTBOX]
+Literacy Rate: 43.2%
+School System: 6 years of compulsory education
+Language of Instruction: English
+Academic Calendar: 9 months
+International Schools: available
+Top University Ranking: ranked among the top 5,000 universities globally
+[/FACTBOX]
+
+[SECTION] Education System Overview [/SECTION]
+The education system in Sierra Leone is overseen by the Ministry of Education, Science and Technology, and is divided into primary, secondary, and tertiary levels. Primary education, which is compulsory, lasts for six years and is followed by three years of junior secondary school. Students then proceed to senior secondary school for another three years, after which they can take the **West African Senior School Certificate Examination**. The quality of education in Sierra Leone varies, with public schools generally considered to be of lower quality than private schools. However, there are efforts underway to improve the quality of education, particularly in the areas of teacher training and infrastructure development.
+
+The public education system in Sierra Leone faces several challenges, including a shortage of qualified teachers, inadequate infrastructure, and limited resources. Despite these challenges, there are many private schools in Sierra Leone that offer high-quality education, often with a focus on **English language instruction** and **international curricula**. These schools cater to a range of students, including both Sierra Leonean and international students.
+
+In recent years, there has been an increase in the number of institutions offering higher education programs in Sierra Leone. These institutions include universities, colleges, and polytechnics, and offer a range of programs in fields such as **business**, **engineering**, and **health sciences**. The quality of these programs varies, but many are recognized by international accreditation agencies and offer students the opportunity to gain a high-quality education in Sierra Leone.
+
+[SECTION] Top Universities [/SECTION]
+[TABLE]
+| University | Location | Known For | Est. Tuition (USD/year) |
+| --- | --- | --- | --- |
+| University of Sierra Leone | Freetown | Business, Law, Medicine | 2,500 |
+| Njala University | Njala | Agriculture, Engineering, Education | 3,000 |
+| Ernest Bai Koroma University of Science and Technology | Magburaka | Science, Technology, Engineering, and Mathematics (STEM) | 2,000 |
+| Milton Margai College of Education and Technology | Freetown | Education, Technology, Applied Sciences | 1,500 |
+| Sierra Leone Institute of Public Administration and Management | Freetown | Public Administration, Management, Business | 2,000 |
+| Fourah Bay College | Freetown | Arts, Humanities, Social Sciences | 1,800 |
+[/TABLE]
+
+[SECTION] International Schools [/SECTION]
+- The International School of Freetown offers a **British curriculum** and caters to students from preschool to secondary level, with tuition fees ranging from $5,000 to $10,000 per year.
+- The Sierra Leone International School offers an **American curriculum** and has a student body from over 20 countries, with tuition fees ranging from $6,000 to $12,000 per year.
+- The Freetown International School offers an **International Baccalaureate (IB) curriculum** and has a strong focus on **language and culture**, with tuition fees ranging from $7,000 to $15,000 per year.
+- The British International School of Freetown offers a **British curriculum** and has a student body from over 10 countries, with tuition fees ranging from $5,000 to $10,000 per year.
+- The Leonean American International School offers an **American curriculum** and has a strong focus on **science, technology, engineering, and mathematics (STEM)**, with tuition fees ranging from $6,000 to $12,000 per year.
+
+[SECTION] Studying as a Foreigner [/SECTION]
+- To study in Sierra Leone, international students must obtain a **student visa**, which can be applied for at the Sierra Leonean embassy or consulate in their home country.
+- English language proficiency is required for most programs, and students may need to take an **English language proficiency test** such as TOEFL or IELTS.
+- There are several **scholarships** available for international students, including the Sierra Leone Government Scholarship and the African Leadership University Scholarship.
+- Living costs for students in Sierra Leone are relatively low, with **accommodation** options ranging from $100 to $500 per month.
+- International students can also access **healthcare services** at a relatively low cost, with many hospitals and clinics offering affordable treatment options.
+- Students can also participate in **extracurricular activities**, such as sports, music, and cultural events, which are an integral part of student life in Sierra Leone.
+
+[SECTION] Education Quality & Challenges [/SECTION]
+- One of the major challenges facing the education system in Sierra Leone is the **shortage of qualified teachers**, particularly in rural areas.
+- Another challenge is the **lack of infrastructure**, including classrooms, libraries, and laboratories, which can make it difficult for students to access quality education.
+- The education system in Sierra Leone also faces challenges related to **funding**, with many schools relying on **donations** and **external support** to operate.
+- Despite these challenges, there are many **strengths** to the education system in Sierra Leone, including a strong focus on **community-based education** and a commitment to **inclusive education**.
+- Recent reforms, such as the introduction of **free education** for primary and secondary school students, have also helped to improve access to education and reduce **poverty**.
+
+---
+
+*Evergreen reference content. Verify time-sensitive details with official sources.*

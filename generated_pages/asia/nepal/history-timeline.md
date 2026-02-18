@@ -1,0 +1,60 @@
+---
+title: "Nepal History — Key Events & Timeline"
+entity: "Nepal"
+iso_code: "NP"
+continent: "asia"
+angle: "history-timeline"
+date: "2026-02-17"
+---
+
+# Nepal History — Key Events & Timeline
+
+The history of Nepal is a complex and fascinating narrative that spans over two millennia, from the ancient **Shakya** kingdom to the modern sovereign state, marked by significant events, cultural exchange, and the blending of various traditions.
+
+[SECTION] Historical Overview [/SECTION]
+Nepal's history began with the **Kirat** dynasty, which ruled the valley from the 7th to the 4th century BCE, followed by the **Licchavi** period, which saw the rise of **Buddhism** and the construction of numerous temples and monuments. The **Malla** period, which lasted from the 12th to the 18th century, was marked by the division of the valley into three kingdoms: **Kantipur**, **Lalitpur**, and **Bhaktapur**. The **Shah** dynasty, which ruled Nepal from the 18th century to the mid-20th century, played a crucial role in shaping the country's modern identity. The **Rana** period, which lasted from 1846 to 1951, was a time of **autocracy** and **isolation**, during which Nepal's development was hindered by the ruling elite's resistance to change.
+
+Nepal's history has been influenced by its strategic location between **India** and **China**, with both countries competing for influence and control over the region. The **Treaty of Betrawati**, signed in 1792, marked the beginning of Nepal's relations with **China**, while the **Treaty of Sugauli**, signed in 1816, established Nepal's borders with **India**. The country's history has also been shaped by its cultural and religious heritage, with **Hinduism** and **Buddhism** playing a significant role in shaping the nation's identity. The **Pashupatinath Temple**, a **UNESCO World Heritage Site**, is one of the most sacred **Hindu** temples in the world and a testament to Nepal's rich cultural heritage.
+
+The modern era has seen significant changes in Nepal, with the country transitioning from a **monarchy** to a **federal democratic republic**. The **People's Movement** of 2006, which led to the abolition of the **monarchy**, marked a significant turning point in Nepal's history. The country has also made significant progress in **economic development**, with a growing **tourism** industry and increasing investment in **infrastructure**. However, Nepal still faces significant challenges, including **poverty**, **corruption**, and **environmental degradation**.
+
+Nepal's history is also marked by its resilience and adaptability, with the country having faced numerous **natural disasters**, including **earthquakes** and **floods**. The **2015 earthquake**, which killed over 9,000 people and injured many more, was a significant setback for the country, but it also brought the international community together to support Nepal's **reconstruction** efforts. Today, Nepal continues to evolve and grow, with a strong focus on **sustainable development** and **environmental conservation**.
+
+[SECTION] Timeline of Key Events [/SECTION]
+1. **563 BCE** - **Siddhartha Gautama**, the founder of **Buddhism**, was born in **Lumbini**, Nepal. This event marked the beginning of **Buddhism** in the region and had a profound impact on Nepal's cultural and religious heritage.
+2. **250 CE** - The **Licchavi** period began, during which **Buddhism** flourished and numerous temples and monuments were constructed. This period saw the rise of **Nepal** as a major center of **Buddhist** learning and culture.
+3. **1200 CE** - The **Malla** period began, marked by the division of the valley into three kingdoms: **Kantipur**, **Lalitpur**, and **Bhaktapur**. This period saw the development of a rich cultural heritage, with the construction of numerous temples, palaces, and monuments.
+4. **1768 CE** - The **Shah** dynasty began, with **Prithvi Narayan Shah** unified the warring kingdoms and established a single, unified state. This event marked the beginning of modern **Nepal** and had a profound impact on the country's development.
+5. **1792 CE** - The **Treaty of Betrawati** was signed, establishing Nepal's relations with **China**. This treaty marked the beginning of **Nepal's** relations with **China** and had a significant impact on the country's foreign policy.
+6. **1816 CE** - The **Treaty of Sugauli** was signed, establishing Nepal's borders with **India**. This treaty marked the beginning of **Nepal's** relations with **India** and had a significant impact on the country's development.
+7. **1846 CE** - The **Rana** period began, marked by **autocracy** and **isolation**. This period saw the rise of a powerful and authoritarian regime that ruled **Nepal** for over a century.
+8. **1911 CE** - The **Panchayat** system was introduced, a form of local government that played a significant role in Nepal's development. This system marked the beginning of **Nepal's** experiment with **democracy** and had a significant impact on the country's development.
+9. **1951 CE** - The **Rana** regime was overthrown, and a **democratic** government was established. This event marked the beginning of **Nepal's** transition to **democracy** and had a profound impact on the country's development.
+10. **1960 CE** - The **Panchayat** system was reintroduced, and **King Mahendra** took control of the government. This event marked the beginning of a period of **authoritarian** rule in **Nepal** and had a significant impact on the country's development.
+11. **1990 CE** - The **People's Movement** began, demanding **democratic** reforms and the establishment of a **constitutional monarchy**. This movement marked the beginning of **Nepal's** transition to **democracy** and had a profound impact on the country's development.
+12. **2001 CE** - The **royal massacre** occurred, in which **King Birendra** and several members of the royal family were killed. This event marked a significant turning point in **Nepal's** history and had a profound impact on the country's development.
+13. **2006 CE** - The **People's Movement** led to the abolition of the **monarchy** and the establishment of a **federal democratic republic**. This event marked the beginning of a new era in **Nepal's** history and had a profound impact on the country's development.
+14. **2008 CE** - The **Constitutional Assembly** was established, tasked with drafting a new **constitution** for the country. This event marked the beginning of **Nepal's** transition to a **federal democratic republic** and had a significant impact on the country's development.
+15. **2015 CE** - A devastating **earthquake** struck Nepal, killing over 9,000 people and injuring many more. This event marked a significant setback for **Nepal** and had a profound impact on the country's development.
+16. **2017 CE** - The **local elections** were held, marking a significant step towards **decentralization** and **democratization**. This event marked the beginning of a new era in **Nepal's** history and had a profound impact on the country's development.
+17. **2018 CE** - The **federal** and **provincial elections** were held, marking a significant step towards the implementation of the new **constitution**. This event marked the beginning of a new era in **Nepal's** history and had a profound impact on the country's development.
+18. **2020 CE** - The **COVID-19 pandemic** hit Nepal, posing significant challenges to the country's **healthcare** system and **economy**. This event marked a significant setback for **Nepal** and had a profound impact on the country's development.
+19. **2020 CE** - The **government** introduced several measures to combat the **pandemic**, including **lockdowns** and **vaccination** programs. This event marked a significant turning point in **Nepal's** response to the **pandemic** and had a profound impact on the country's development.
+20. **2022 CE** - The **government** announced plans to **expand** the country's **tourism** industry and **promote** **sustainable development**. This event marked a significant turning point in **Nepal's** development and had a profound impact on the country's economy.
+
+[SECTION] Founding & Formation [/SECTION]
+Nepal became the entity it is today through a series of **unification** efforts, beginning with the **Shah** dynasty in the 18th century. **Prithvi Narayan Shah**, the founder of the **Shah** dynasty, played a crucial role in unifying the warring kingdoms and establishing a single, unified state. The **Treaty of Betrawati** and the **Treaty of Sugauli** marked the beginning of Nepal's relations with **China** and **India**, respectively, and had a significant impact on the country's development.
+
+The **founding** of modern Nepal is closely tied to the **Shah** dynasty, which ruled the country from the 18th century to the mid-20th century. The **Shah** kings played a significant role in shaping the country's **culture**, **language**, and **identity**. The **Pashupatinath Temple**, a **UNESCO World Heritage Site**, is one of the most sacred **Hindu** temples in the world and a testament to Nepal's rich cultural heritage. The **Bhaktapur Durbar Square**, another **UNESCO World Heritage Site**, is a testament to Nepal's rich cultural heritage and a significant tourist destination.
+
+[SECTION] Colonial & Independence Period [/SECTION]
+Nepal was never formally **colonized** by a European power, although it was influenced by **British** and **Indian** colonialism. The **Treaty of Sugauli**, signed in 1816, established Nepal's borders with **India** and marked the beginning of **Nepal's** relations with **India**. The **Rana** period, which lasted from 1846 to 1951, was marked by **autocracy** and **isolation**, during which Nepal's development was hindered by the ruling elite's resistance to change.
+
+The **independence movement** in Nepal was led by the **Nepali Congress**, which was established in 1946. The **Nepali Congress** played a significant role in the **People's Movement** of 2006, which led to the abolition of the **monarchy** and the establishment of a **federal democratic republic**. The **first leaders** of independent Nepal, including **Bishweshwar Prasad Koirala** and **Subarna Shumsher Rana**, played a significant role in shaping the country's **constitution** and **government**.
+
+[SECTION] Modern Era [/SECTION]
+The **modern era
+
+---
+
+*Evergreen reference content. Verify time-sensitive details with official sources.*

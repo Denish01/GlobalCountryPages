@@ -1,0 +1,73 @@
+---
+title: "Vatican City History — Key Events & Timeline"
+entity: "Vatican City"
+iso_code: "VA"
+continent: "europe"
+angle: "history-timeline"
+date: "2026-02-17"
+---
+
+# Vatican City History — Key Events & Timeline
+
+The history of Vatican City is a rich and complex one, spanning over 2,000 years, from the ancient Roman era to its current status as an independent sovereign city-state.
+
+[SECTION] Historical Overview [/SECTION]
+Vatican City's history began with the ancient Romans, who used the area as a burial ground for their dead. In **326 AD**, the first church was built on the site where Saint Peter, one of Jesus' twelve apostles, is said to have been buried. Over the centuries, the church became a major pilgrimage site, and the surrounding area developed into a small town. In the **8th century**, the Pope gained control of the territory, and it became a major center of power in the Catholic Church. The Renaissance saw a significant increase in the city's population and the construction of many famous landmarks, including **St. Peter's Basilica**. The city's history has been marked by periods of growth, decline, and transformation, shaped by the complex and often tumultuous relationship between the Catholic Church and the surrounding city of Rome.
+
+In the **19th century**, the Papal States, which included Vatican City, were annexed by the Kingdom of Italy, and the Pope lost his temporal power. However, the Pope continued to claim sovereignty over the city, and in **1929**, the Lateran Treaty was signed, establishing Vatican City as an independent sovereign state. Since then, the city has continued to grow and develop, with a focus on its role as the center of the Catholic Church and a major tourist destination. Today, Vatican City is home to numerous iconic landmarks, including the **Sistine Chapel** and the **Vatican Museums**, and is a major center of art, culture, and spirituality.
+
+The city's unique history and status have made it a fascinating and complex place, with a rich cultural and artistic heritage. From its ancient roots to its modern status as an independent city-state, Vatican City has played a significant role in shaping the course of Western history. The city's history is a testament to the enduring power of faith and the human spirit, and its continued relevance and importance in the modern world are a reflection of its timeless appeal.
+
+The city's history has also been marked by numerous significant events, including the construction of **St. Peter's Square**, the establishment of the **Swiss Guard**, and the election of numerous popes who have shaped the course of Catholic history. These events have all contributed to the city's rich and complex history, and have helped to make it the unique and fascinating place it is today.
+
+[SECTION] Timeline of Key Events [/SECTION]
+1. **326 AD** - The first church is built on the site where Saint Peter is said to have been buried, marking the beginning of Vatican City's history as a major pilgrimage site. The church becomes a major center of worship and pilgrimage, and the surrounding area begins to develop into a small town.
+2. **756** - The Frankish King Pepin donates the territory to the Pope, establishing the Papal States and marking the beginning of the Pope's temporal power.
+3. **1309-1377** - The Papacy is relocated to Avignon, France, during a period known as the Western Schism, which has a significant impact on the city's development and the Catholic Church as a whole.
+4. **1377** - The Papacy returns to Rome, and the city begins to flourish once again, with numerous new buildings and landmarks being constructed.
+5. **1506** - The construction of **St. Peter's Basilica** begins, which becomes one of the largest and most famous churches in the world.
+6. **1527** - The city is sacked by troops of the Holy Roman Empire, leading to a significant decline in the city's population and economy.
+7. **1585** - The **Pontifical States** are established, giving the Pope control over a large portion of central Italy.
+8. **1798** - The Papal States are annexed by France, and the Pope is taken prisoner, marking the beginning of a period of significant upheaval and change for the city.
+9. **1800** - The Papal States are restored, but the Pope's power is significantly diminished, and the city begins to look towards a new future.
+10. **1848** - The **Revolution of 1848** leads to the establishment of a short-lived Roman Republic, which has a significant impact on the city's development and the Catholic Church.
+11. **1870** - The Papal States are annexed by the Kingdom of Italy, and the Pope loses his temporal power, marking the end of the Papal States and the beginning of a new era for the city.
+12. **1929** - The Lateran Treaty is signed, establishing Vatican City as an independent sovereign state, and marking the beginning of a new era of independence and self-governance for the city.
+13. **1939** - **Pope Pius XII** is elected, and plays a significant role in the city's development and the Catholic Church during World War II.
+14. **1962-1965** - The **Second Vatican Council** is held, leading to significant reforms within the Catholic Church, and marking a major turning point in the city's history.
+15. **1981** - An attempt is made on the life of **Pope John Paul II**, which has a significant impact on the city and the Catholic Church.
+16. **1993** - The **Fundamental Law of Vatican City** is established, outlining the city's government and laws, and marking a significant step towards greater autonomy and self-governance.
+17. **2005** - **Pope Benedict XVI** is elected, and plays a significant role in the city's development and the Catholic Church.
+18. **2013** - **Pope Francis** is elected, and becomes the first Jesuit Pope, marking a significant turning point in the city's history and the Catholic Church.
+19. **2014** - The **Pontifical Commission for the Protection of Minors** is established, in response to the Catholic Church's child abuse scandal, and marking a significant step towards greater transparency and accountability.
+20. **2015** - The **Vatican releases its first-ever report on the environment**, highlighting the city's commitment to sustainability and environmental protection.
+
+[SECTION] Founding & Formation [/SECTION]
+Vatican City became the entity it is today through a long and complex process, involving the ** Lateran Treaty** of **1929**, which established the city as an independent sovereign state. The treaty was signed between the Holy See and the Kingdom of Italy, and it marked the end of the **Papal States**, which had existed since the **8th century**. The treaty established the city's borders, and recognized the sovereignty of the Holy See over the territory. The city's founding and formation were shaped by numerous key figures, including **Pope Pius XI**, who played a significant role in the negotiations leading up to the treaty, and **Benito Mussolini**, who was the Prime Minister of Italy at the time.
+
+The city's unique status as an independent city-state is due in part to its historical significance as the center of the Catholic Church. The **Vatican Hill** has been the site of numerous important events and buildings throughout history, including the **St. Peter's Basilica**, which is one of the largest and most famous churches in the world. The city's founding and formation were also shaped by the complex and often tumultuous relationship between the Catholic Church and the surrounding city of Rome. Today, Vatican City is a thriving and vibrant city, with a rich cultural and artistic heritage, and a strong sense of community and identity.
+
+[SECTION] Colonial & Independence Period [/SECTION]
+Vatican City did not have a colonial history in the classical sense, as it was not colonized by a foreign power. However, the city was part of the **Papal States**, which were a collection of territories in central Italy that were ruled by the Pope. The Papal States were established in the **8th century**, and they existed until the **19th century**, when they were annexed by the Kingdom of Italy. The city's independence movement was shaped by the complex and often tumultuous relationship between the Catholic Church and the surrounding city of Rome. The **Lateran Treaty** of **1929** marked the beginning of the city's independence, and established the city as a sovereign state.
+
+The city's first leaders were the **Popes**, who had previously ruled the Papal States. The **Pope** is the head of the Catholic Church, and is also the sovereign of Vatican City. The city's government is a unique blend of **theocratic** and **monarchical** elements, with the **Pope** serving as the head of state. The city's independence was marked by numerous significant events, including the establishment of the **Pontifical Council for Social Communications**, which is responsible for the city's media and communications, and the creation of the **Vatican City State**, which is responsible for the city's government and administration.
+
+[SECTION] Modern Era [/SECTION]
+In the modern era, Vatican City has continued to grow and develop, with a focus on its role as the center of the Catholic Church and a major tourist destination. The city has become a major center of art, culture, and spirituality, and is home to numerous iconic landmarks, including the **Sistine Chapel** and the **Vatican Museums**. The city's economy is supported by the sale of **postage stamps**, **coins**, and **souvenirs**, as well as by investments and donations. The city's unique status as an independent city-state has allowed it to maintain its independence and sovereignty, despite being surrounded by the city of Rome.
+
+The city's modern era has been marked by numerous significant events, including the **Second Vatican Council**, which was held from **1962-1965**, and led to significant reforms within the Catholic Church. The city has also been shaped by the **papacy** of **Pope John Paul II**, who played a significant role in the city's development and the Catholic Church during the **20th century**. Today, the city is a thriving and vibrant community, with a strong sense of identity and purpose. The city's modern era has also been marked by numerous challenges, including the **Catholic Church's child abuse scandal**, and the **Vatican's response to the COVID-19 pandemic**.
+
+[SECTION] Historical Figures [/SECTION]
+[TABLE]
+| Name | Period | Role | Significance |
+| --- | --- | --- | --- |
+| Saint Peter | 1st century | Apostle | One of Jesus' twelve apostles, and the first bishop of Rome |
+| Pope Pius XI | 1922-1939 | Pope | Signed the Lateran Treaty, establishing Vatican City as an independent sovereign state |
+| Pope John XXIII | 1958-1963 | Pope | Played a significant role in the Second Vatican Council, and was a major figure in the Catholic Church's modernization |
+| Pope John Paul II | 1978-2005 | Pope | Played a significant role in the city's development and the Catholic Church during the 20th century, and was a major figure in the fall of communism in Eastern Europe |
+| Pope Benedict XVI | 2005-2013 | Pope | Played a significant role in the city's development and the Catholic Church, and was a major figure in the Catholic Church's response to the child abuse scandal |
+| Pope Francis | 2013-present | Pope | Has played a significant role in the city's
+
+---
+
+*Evergreen reference content. Verify time-sensitive details with official sources.*

@@ -1,0 +1,83 @@
+---
+title: "Mexico Demographics — Population, Ethnicity & Religion"
+entity: "Mexico"
+iso_code: "MX"
+continent: "north-america"
+angle: "demographics"
+date: "2026-02-17"
+---
+
+# Mexico Demographics — Population, Ethnicity & Religion
+
+Mexico is home to a diverse population of approximately 130 million people, with a mix of indigenous, European, and African influences. 
+
+[FACTBOX]
+Total Population: (130 million)
+Population Growth Rate: (1.0%)
+Median Age: (29 years)
+Urban Population: (77%)
+Population Density: (66 per km2)
+Life Expectancy: (72 years)
+Fertility Rate: (2.1 children per woman)
+[/FACTBOX]
+
+[SECTION] Population Overview [/SECTION]
+Mexico's population is the second-largest in Latin America, after Brazil, and is characterized by a relatively young age structure. The population has been growing steadily, with a growth rate of around 1.0% per annum. However, this growth rate is expected to slow down in the coming years due to declining fertility rates. Mexico's population is also becoming increasingly urbanized, with around 77% of the population living in urban areas. This trend is driven by economic opportunities, improved access to education and healthcare, and a higher standard of living in cities.
+
+Mexico's population growth has been accompanied by significant migration patterns, both within the country and across its borders. Many Mexicans have migrated to the United States in search of better economic opportunities, while others have moved from rural areas to cities within Mexico. This migration has had a significant impact on the country's demographics, with many urban areas experiencing rapid growth and development.
+
+The population of Mexico is also characterized by a significant regional diversity, with different regions having distinct cultural, economic, and demographic profiles. The northern states, such as Chihuahua and Baja California, have a strong presence of **maquiladoras** (foreign-owned factories) and a growing middle class, while the southern states, such as Chiapas and Oaxaca, have a larger indigenous population and a more traditional way of life.
+
+[SECTION] Ethnic Groups [/SECTION]
+[TABLE]
+| Ethnic Group | Percentage | Region | Notes |
+| --- | --- | --- | --- |
+| Mestizo | 62% | Nationwide | Mixed European and indigenous ancestry |
+| Indigenous | 21% | Southern states | Includes languages such as **Nahuatl**, **Maya**, and **Zapotec** |
+| European | 10% | Northern states | Primarily of Spanish descent |
+| Afro-Mexican | 2% | Coastal regions | Descendants of African slaves |
+| Asian | 1% | Urban areas | Primarily of Chinese and Korean descent |
+| Other | 4% | Nationwide | Includes Arab, Jewish, and other minority groups |
+[/TABLE]
+Mexico's ethnic diversity is a significant aspect of its cultural identity, with a mix of indigenous, European, African, and Asian influences. The country has a long history of **mestizaje** (racial mixing), which has resulted in a diverse population with a range of ethnic identities. While there are some tensions between different ethnic groups, Mexico is generally considered to be a tolerant and inclusive society, with a strong emphasis on **multiculturalism**.
+
+[SECTION] Languages [/SECTION]
+- **Spanish** is the official language and is spoken by the vast majority of the population
+- **Indigenous languages**, such as Nahuatl, Maya, and Zapotec, are spoken by around 20% of the population, particularly in the southern states
+- **English** is becoming increasingly popular as a second language, particularly in urban areas and among the business community
+- **Mexican Sign Language** is used by the deaf community and is recognized as an official language
+- **Other languages**, such as German, French, and Chinese, are spoken by small minority groups
+
+[SECTION] Religions [/SECTION]
+[TABLE]
+| Religion | Percentage | Notes |
+| --- | --- | --- |
+| Catholicism | 77% | Dominant religion, with a strong presence in rural areas |
+| Protestantism | 11% | Growing presence, particularly in urban areas |
+| Other Christian | 2% | Includes Orthodox, Mormon, and other Christian denominations |
+| Non-religious | 5% | Increasing trend, particularly among young people |
+| Other | 5% | Includes Islam, Judaism, and indigenous spiritual practices |
+[/TABLE]
+Mexico is a predominantly Catholic country, with a strong tradition of **Catholicism** dating back to the colonial era. However, there is also a significant presence of **Protestantism**, particularly in urban areas, and a growing trend of **non-religious** individuals, particularly among young people. The country has a long history of **religious tolerance**, with a strong emphasis on **freedom of worship** and **interfaith dialogue**.
+
+[SECTION] Age Distribution [/SECTION]
+[TABLE]
+| Age Group | Percentage | Implications |
+| --- | --- | --- |
+| 0-14 | 26% | Significant youth population, with implications for education and healthcare |
+| 15-24 | 23% | Large young adult population, with implications for labor market and economic growth |
+| 25-54 | 41% | Dominant working-age population, with implications for economic productivity and taxation |
+| 55-64 | 7% | Growing elderly population, with implications for healthcare and pension systems |
+| 65+ | 3% | Small but growing elderly population, with implications for social security and healthcare |
+[/TABLE]
+
+[SECTION] Urbanization & Major Cities [/SECTION]
+- Mexico City is the largest city, with a population of over 21 million people and a significant economic and cultural hub
+- Other major cities, such as Guadalajara and Monterrey, are also experiencing rapid growth and development
+- The urban-rural split is around 77% urban and 23% rural, with many rural areas experiencing significant out-migration to cities
+- The fastest-growing cities are primarily located in the northern states, such as Tijuana and Ciudad Juárez, which are experiencing significant economic growth and development
+- Mexico has a significant **diaspora** community, with many Mexicans living and working abroad, particularly in the United States.
+
+---
+
+*Evergreen reference content. Verify time-sensitive details with official sources.*

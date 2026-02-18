@@ -1,0 +1,87 @@
+---
+title: "Dominica Food Guide — Dishes, Street Food & Dining"
+entity: "Dominica"
+iso_code: "DM"
+continent: "north-america"
+angle: "food-and-cuisine"
+date: "2026-02-17"
+---
+
+# Dominica Food Guide — Dishes, Street Food & Dining
+
+When visiting Dominica, be sure to try the island's unique blend of Caribbean, African, and European flavors, with must-try dishes including **Callaloo**, **Pepper Pot Soup**, and **Fried Jackfish**.
+
+[FACTBOX]
+Staple Foods: root vegetables, coconut, fresh seafood, plantains
+National Dish: Pepper Pot Soup, a hearty stew made with a variety of meats and vegetables
+Meal Times: 7-10 am for breakfast, 12-2 pm for lunch, 6-9 pm for dinner
+Tipping at Restaurants: 10-15% of the total bill is customary
+Dietary Notes: vegetarian-friendly options are available, but limited halal and kosher options
+[/FACTBOX]
+
+[SECTION] Food Culture Overview [/SECTION]
+Dominica's cuisine is a reflection of its rich cultural heritage, with influences from African, European, and indigenous Kalinago traditions. The island's unique location in the Eastern Caribbean has also contributed to the development of a distinct culinary style, with a focus on fresh seafood, root vegetables, and tropical fruits. The use of **coconut milk**, **chilies**, and **thyme** is common in many dishes, adding a rich and aromatic flavor to the island's cuisine. Regional variations exist, with the northern and southern parts of the island having their own unique specialties and ingredients.
+
+The island's history of colonization and trade has also had a significant impact on its cuisine, with the introduction of new ingredients and cooking techniques from European and African traditions. Today, Dominica's cuisine is a vibrant and eclectic mix of flavors and influences, with a focus on using fresh, locally-sourced ingredients to create delicious and hearty dishes. From the spicy **Pepper Pot Soup** to the sweet **Fried Plantains**, Dominica's cuisine has something to offer every palate.
+
+Dominica's food culture is also closely tied to its community and traditions, with mealtimes often serving as an opportunity to bring people together and share in the island's rich cultural heritage. The island's many festivals and celebrations, such as the **Dominica Carnival** and the **World Creole Music Festival**, also feature a wide range of traditional dishes and drinks, showcasing the island's unique culinary style.
+
+[SECTION] Must-Try Dishes [/SECTION]
+[TABLE]
+| Dish | Type | Description | Where to Find |
+| --- | --- | --- | --- |
+| Callaloo | Soup | a hearty soup made with leafy greens and sometimes meat or seafood | local restaurants and markets |
+| Pepper Pot Soup | Stew | a spicy stew made with a variety of meats and vegetables | Roseau market and restaurants |
+| Fried Jackfish | Seafood | a popular seafood dish made with fried jackfish and served with a side of rice and peas | seaside restaurants and markets |
+| Sancoche | Stew | a traditional stew made with a variety of meats and vegetables, including yams and sweet potatoes | local restaurants and markets |
+| Dumplings | Side dish | boiled or fried dumplings made with flour and water, often served with a side of peas and rice | local restaurants and markets |
+| Conch Fritters | Appetizer | crispy fritters made with conch meat and served with a side of tangy sauce | beachside restaurants and bars |
+| Coconut Rice | Side dish | flavorful rice dish made with coconut milk and spices | local restaurants and markets |
+| Fried Plantains | Side dish | sweet and crispy fried plantains, often served as a side dish | local restaurants and markets |
+| Bouyon | Stew | a hearty stew made with a variety of meats and vegetables, including yams and sweet potatoes | local restaurants and markets |
+| Accras | Appetizer | crispy fried balls made with codfish and spices, often served as an appetizer | local restaurants and markets |
+[/TABLE]
+
+[SECTION] Street Food & Snacks [/SECTION]
+- **Fried Dumplings**: crispy fried dumplings made with flour and water, often served with a side of peas and rice ($3-5 USD)
+- **Conch Fritters**: crispy fritters made with conch meat and served with a side of tangy sauce ($5-7 USD)
+- **Coconut Water**: fresh coconut water, often served as a refreshing drink ($2-3 USD)
+- **Fried Plantains**: sweet and crispy fried plantains, often served as a side dish ($2-3 USD)
+- **Roasted Corn**: roasted corn on the cob, often served with a side of butter and salt ($1-2 USD)
+- **Fresh Fruit**: a variety of fresh fruits, including mangoes, bananas, and coconuts ($1-3 USD)
+- **Accras**: crispy fried balls made with codfish and spices, often served as an appetizer ($3-5 USD)
+- **Fish Cakes**: crispy fried fish cakes made with codfish and spices, often served as a snack ($3-5 USD)
+
+[SECTION] Drinks [/SECTION]
+- **Rum Punch**: a popular cocktail made with rum, fruit juice, and spices
+- **Coconut Water**: fresh coconut water, often served as a refreshing drink
+- **Fresh Fruit Juice**: a variety of fresh fruit juices, including mango, banana, and passionfruit
+- **Sorrel**: a sweet and tangy drink made with sorrel flowers and spices
+- **Mauby**: a sweet and creamy drink made with mauby bark and spices
+- **Beer**: a variety of local beers, including **Kubuli** and **Piton**
+
+[SECTION] Dining Customs [/SECTION]
+- **Tipping**: 10-15% of the total bill is customary in restaurants and bars
+- **Reservation**: reservations are recommended for popular restaurants, especially during peak season
+- **Dress Code**: dress codes vary, but casual attire is generally acceptable in most restaurants and bars
+- **Eating Etiquette**: it is customary to wait for the host to invite you to sit and start eating
+- **Meal Times**: mealtimes are generally 7-10 am for breakfast, 12-2 pm for lunch, and 6-9 pm for dinner
+- **Table Manners**: table manners are generally informal, but it is considered polite to keep your hands visible and not to speak with your mouth full
+
+[SECTION] Where to Eat [/SECTION]
+- **Roseau Market**: a bustling market in the capital city, offering a variety of traditional dishes and fresh produce
+- **Seaside Restaurants**: a variety of restaurants and bars located along the coast, offering fresh seafood and stunning views
+- **Local Cafes**: small, family-owned cafes offering a variety of traditional dishes and drinks
+- **Food Courts**: a few food courts located in popular tourist areas, offering a variety of local and international cuisine
+- **Street Food Vendors**: a variety of street food vendors located throughout the island, offering a range of traditional snacks and drinks
+
+[SECTION] Food Markets & Food Experiences [/SECTION]
+- **Roseau Market**: a bustling market in the capital city, offering a variety of traditional dishes and fresh produce
+- **Portsmouth Saturday Market**: a weekly market in the town of Portsmouth, offering a variety of local produce and handicrafts
+- **Dominica Food and Drink Festival**: an annual festival celebrating the island's unique cuisine and culture
+- **Kalinago Barana Aute**: a cultural village located in the Kalinago Territory, offering a range of traditional dishes and drinks
+- **Loubiere Farmers' Market**: a weekly market in the town of Loubiere, offering a variety of fresh produce and local handicrafts
+
+---
+
+*Evergreen reference content. Verify time-sensitive details with official sources.*

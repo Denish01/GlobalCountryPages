@@ -1,0 +1,74 @@
+---
+title: "Vietnam History — Key Events & Timeline"
+entity: "Vietnam"
+iso_code: "VN"
+continent: "asia"
+angle: "history-timeline"
+date: "2026-02-17"
+---
+
+# Vietnam History — Key Events & Timeline
+
+Vietnam has a rich and complex history that spans over 4,000 years, from the ancient **Dong Son** culture to the modern socialist republic.
+
+[SECTION] Historical Overview [/SECTION]
+The history of Vietnam began with the ancient **Dong Son** culture, which flourished from around 1000 BCE to 100 CE. This period was characterized by the development of a distinct Vietnamese culture, including the creation of bronze drums and the cultivation of rice. The **Trung Sisters** led a rebellion against Chinese rule in 111 CE, marking one of the earliest recorded instances of Vietnamese resistance against foreign occupation. In the following centuries, Vietnam was influenced by various Chinese dynasties, including the **Han** and **Ming**, which introduced Confucianism, Buddhism, and other cultural practices to the region.
+
+The **Ly Dynasty**, which ruled from 1009 to 1225, marked the beginning of a period of independence for Vietnam, during which the country developed its own system of government, economy, and culture. The **Tran Dynasty**, which followed from 1225 to 1407, successfully resisted Mongol invasions and established a strong and prosperous state. However, in the 15th century, Vietnam was once again occupied by the Chinese, this time under the **Ming Dynasty**. The **Le Dynasty**, which ruled from 1428 to 1527, marked a period of renewed independence and cultural flowering, during which the Vietnamese alphabet and system of government were developed.
+
+In the 19th century, Vietnam was colonized by France, which had a profound impact on the country's culture, economy, and politics. The **French colonial period**, which lasted from 1862 to 1954, was marked by resistance and rebellion, including the **Can Vuong** movement and the **Viet Minh**. The **Viet Minh**, led by **Ho Chi Minh**, declared independence in 1945, marking the beginning of the modern era of Vietnamese history. The country was subsequently divided into North and South Vietnam, leading to a long and bloody conflict, including the **Vietnam War**, which lasted from 1955 to 1975.
+
+In 1976, North and South Vietnam were reunified under a socialist government, marking the beginning of a new era of Vietnamese history. Since then, the country has undergone significant economic and political reforms, including the introduction of a **market-oriented economy** and the establishment of diplomatic relations with other countries. Today, Vietnam is a rapidly developing country with a strong economy and a rich cultural heritage.
+
+[SECTION] Timeline of Key Events [/SECTION]
+1. **2879 BCE** - The **Hong Bang Dynasty** is established, marking the beginning of Vietnamese history.
+2. **111 CE** - The **Trung Sisters** lead a rebellion against Chinese rule.
+3. **1009** - The **Ly Dynasty** is established, marking the beginning of a period of independence for Vietnam.
+4. **1225** - The **Tran Dynasty** is established, which successfully resists Mongol invasions.
+5. **1407** - The **Ming Dynasty** occupies Vietnam.
+6. **1428** - The **Le Dynasty** is established, marking a period of renewed independence and cultural flowering.
+7. **1862** - France colonizes Vietnam.
+8. **1945** - The **Viet Minh** declares independence.
+9. **1954** - The **Geneva Accords** divide Vietnam into North and South.
+10. **1955** - The **Vietnam War** begins.
+11. **1968** - The **Tet Offensive** takes place.
+12. **1975** - North Vietnamese forces capture Saigon, reunifying the country.
+13. **1976** - North and South Vietnam are officially reunified under a socialist government.
+14. **1986** - The **Doi Moi** reforms are introduced, marking a shift towards a market-oriented economy.
+15. **1995** - The United States and Vietnam establish diplomatic relations.
+16. **2007** - Vietnam joins the **World Trade Organization**.
+17. **2013** - The **Vietnamese Constitution** is amended to recognize private property and individual rights.
+18. **2016** - The **Trans-Pacific Partnership** is signed, marking a significant trade agreement for Vietnam.
+19. **2019** - The **EU-Vietnam Free Trade Agreement** is signed, further integrating Vietnam into the global economy.
+20. **2020** - Vietnam assumes the chairmanship of the **Association of Southeast Asian Nations**.
+
+[SECTION] Founding & Formation [/SECTION]
+The modern Vietnamese state was formed in 1945, when the **Viet Minh** declared independence from French colonial rule. The **Viet Minh** was a coalition of nationalist and communist groups, led by **Ho Chi Minh**, who became the first president of the **Democratic Republic of Vietnam**. The new government established its capital in **Hanoi** and began to build a socialist state. However, the country was soon divided into North and South Vietnam, leading to a long and bloody conflict.
+
+The reunification of North and South Vietnam in 1976 marked a significant turning point in Vietnamese history. The **Socialist Republic of Vietnam** was established, with **Hanoi** as its capital. The new government was led by **Le Duan**, who played a key role in reunifying the country. Since then, Vietnam has undergone significant economic and political reforms, including the introduction of a **market-oriented economy** and the establishment of diplomatic relations with other countries.
+
+[SECTION] Colonial & Independence Period [/SECTION]
+The French colonization of Vietnam had a profound impact on the country's culture, economy, and politics. The French introduced Western education, infrastructure, and technology, but also exploited Vietnam's natural resources and suppressed its culture. The **Can Vuong** movement, which emerged in the late 19th century, was one of the earliest resistance movements against French colonial rule. The **Viet Minh**, led by **Ho Chi Minh**, was a more successful resistance movement, which declared independence in 1945.
+
+The **First Indochina War**, which lasted from 1946 to 1954, was a conflict between the **Viet Minh** and the French colonial authorities. The war ended with the **Geneva Accords**, which divided Vietnam into North and South. The **Vietnam War**, which lasted from 1955 to 1975, was a conflict between the communist **North Vietnam** and the anti-communist **South Vietnam**, with the United States providing significant military and economic support to the latter.
+
+[SECTION] Modern Era [/SECTION]
+Since the reunification of North and South Vietnam in 1976, the country has undergone significant economic and political reforms. The introduction of a **market-oriented economy** in 1986 marked a significant turning point, as it allowed for greater economic freedom and foreign investment. The establishment of diplomatic relations with other countries, including the United States in 1995, has also helped to integrate Vietnam into the global economy. Today, Vietnam is a rapidly developing country with a strong economy and a rich cultural heritage.
+
+The **Doi Moi** reforms, which were introduced in 1986, have had a profound impact on Vietnamese society. The reforms have allowed for greater economic freedom and foreign investment, but have also led to significant social and economic changes. The **Trans-Pacific Partnership** and the **EU-Vietnam Free Trade Agreement** have further integrated Vietnam into the global economy, but have also raised concerns about the impact of globalization on Vietnamese society.
+
+[SECTION] Historical Figures [/SECTION]
+[TABLE]
+| Name | Period | Role | Significance |
+| --- | --- | --- | --- |
+| Ho Chi Minh | 1890-1969 | President of the Democratic Republic of Vietnam | Led the Viet Minh and declared independence in 1945 |
+| Le Duan | 1907-1986 | General Secretary of the Communist Party of Vietnam | Played a key role in reunifying North and South Vietnam |
+| Ngo Dinh Diem | 1901-1963 | President of South Vietnam | Led the anti-communist government of South Vietnam |
+| Vo Nguyen Giap | 1911-2013 | General of the North Vietnamese Army | Led the North Vietnamese forces to victory in the Vietnam War |
+| Le Duc Tho | 1911-1990 | General Secretary of the Communist Party of Vietnam | Negotiated the Paris Peace Accords, which ended the Vietnam War |
+| Tran Do | 1923-2002 | General Secretary of the Communist Party of Vietnam | Played a key role in introducing the Doi Moi reforms |
+| Nguyen Van Linh | 1915-1998 | General Secretary of the Communist Party of Vietnam | Introduced significant economic and political reforms in the 1980s |
+
+---
+
+*Evergreen reference content. Verify time-sensitive details with official sources.*

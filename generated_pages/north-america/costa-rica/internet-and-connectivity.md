@@ -1,0 +1,66 @@
+---
+title: "Costa Rica Internet & SIM Cards — Connectivity Guide"
+entity: "Costa Rica"
+iso_code: "CR"
+continent: "north-america"
+angle: "internet-and-connectivity"
+date: "2026-02-17"
+---
+
+# Costa Rica Internet & SIM Cards — Connectivity Guide
+
+The internet in Costa Rica is generally reliable, with good speeds and widespread coverage, making it suitable for tourists, digital nomads, and remote workers. 
+
+[FACTBOX]
+Average Internet Speed: 10 Mbps download
+Mobile Network Coverage: Good
+Main Carriers: Claro, Movistar, Kolbi
+SIM Card Cost: 10 USD for tourist SIM
+WiFi Availability: Widespread
+5G Available: Limited
+[/FACTBOX]
+
+[SECTION] Internet Overview [/SECTION]
+The internet quality in Costa Rica is relatively good, with an average download speed of 10 Mbps, which is sufficient for most online activities such as browsing, streaming, and social media. However, there is a notable urban-rural divide, with faster speeds and more reliable connections available in urban areas like San Jose, while rural areas may experience slower speeds and more frequent outages. Despite this, the overall internet infrastructure in Costa Rica is reliable, with most areas having access to at least 3G or 4G networks.
+
+In terms of reliability, the internet in Costa Rica is generally stable, with most providers offering good uptime and minimal downtime. However, as with any country, there may be occasional outages or disruptions, especially during severe weather events or maintenance periods. Additionally, some areas may experience congestion during peak hours, which can affect speeds and overall performance. Overall, Costa Rica's internet is well-suited for tourists, digital nomads, and remote workers, with a good balance of speed, reliability, and affordability.
+
+[SECTION] Getting a SIM Card [/SECTION]
+To get a SIM card in Costa Rica, tourists and visitors can purchase one from a local provider such as Claro, Movistar, or Kolbi, at their respective stores or authorized dealers. To buy a SIM card, you will typically need to provide a valid passport and proof of address, although some providers may have additional requirements. It's recommended to purchase a SIM card from a reputable provider, as they often offer better coverage, speeds, and customer support. Data plans vary in price and data allowance, but most providers offer affordable options for tourists and short-term visitors.
+
+Some popular carriers in Costa Rica include Claro, Movistar, and Kolbi, which offer a range of plans and services, including data-only plans, voice and text plans, and combo plans that include data, voice, and text. Tourists can also purchase prepaid SIM cards, which can be refilled or recharged as needed. It's worth noting that some providers may offer special plans or promotions for tourists, so it's a good idea to check with the provider before purchasing a SIM card.
+
+[TABLE]
+| Carrier | Tourist Plan | Data | Price (USD) | Notes |
+| --- | --- | --- | --- | --- |
+| Claro | Prepaid SIM | 1 GB | 5 USD | Valid for 7 days |
+| Movistar | Tourist Plan | 3 GB | 15 USD | Valid for 15 days |
+| Kolbi | Data-only Plan | 5 GB | 20 USD | Valid for 30 days |
+| Tuyo | Prepaid SIM | 2 GB | 10 USD | Valid for 10 days |
+[/TABLE]
+
+[SECTION] WiFi Availability [/SECTION]
+- Hotel WiFi quality in Costa Rica is generally good, with most hotels and resorts offering free WiFi to their guests.
+- Cafe WiFi culture is also prevalent, with many cafes and coffee shops offering free WiFi to customers, although the quality and speed may vary.
+- Coworking spaces are becoming increasingly popular in Costa Rica, especially in San Jose, and often offer high-speed WiFi and other amenities such as meeting rooms and printers.
+- Public WiFi is available in some areas, such as airports, shopping malls, and public parks, although the quality and security may vary.
+- Many restaurants and bars also offer free WiFi to customers, making it easy to stay connected while dining or socializing.
+
+[SECTION] For Remote Workers [/SECTION]
+- Coworking spaces such as WeWork, Regus, and Impact Hub offer high-speed WiFi, meeting rooms, and other amenities, making them ideal for remote workers.
+- Reliable cafe chains such as Starbucks, Costa Coffee, and local chains like Cafeoteca and Malavanh offer good WiFi and a comfortable working environment.
+- Backup internet options such as portable Wi-Fi hotspots or mobile tethering can be useful in case of outages or slow speeds.
+- VPNs (Virtual Private Networks) are recommended for remote workers to ensure secure and private browsing, especially when using public WiFi networks.
+- Some popular neighborhoods for remote workers include San Jose's Barrio Amón, Escazú, and Tamarindo, which offer a range of amenities, including coworking spaces, cafes, and restaurants.
+
+[SECTION] Tips & Warnings [/SECTION]
+- Internet censorship is relatively low in Costa Rica, but some websites may be blocked or restricted, especially those related to online gambling or piracy.
+- Some sites, such as Netflix, may be geo-restricted, requiring a VPN to access.
+- VPNs are also recommended to protect against cyber threats and ensure secure browsing, especially when using public WiFi networks.
+- Roaming alternatives such as portable Wi-Fi hotspots or local SIM cards can be more cost-effective than international roaming plans.
+- eSIM options are becoming increasingly available in Costa Rica, offering a convenient and flexible way to stay connected without the need for a physical SIM card.
+- When using public WiFi, it's essential to take precautions such as using a VPN, keeping software up-to-date, and avoiding sensitive transactions to minimize the risk of cyber threats.
+
+---
+
+*Evergreen reference content. Verify time-sensitive details with official sources.*

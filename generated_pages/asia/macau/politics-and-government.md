@@ -1,0 +1,75 @@
+---
+title: "Macau Politics & Government — System, Leaders & Stability"
+entity: "Macau"
+iso_code: "MO"
+continent: "asia"
+angle: "politics-and-government"
+date: "2026-02-17"
+---
+
+# Macau Politics & Government — System, Leaders & Stability
+
+Macau is governed as a special administrative region of China, with a unique political system that blends elements of Chinese and Portuguese influences, providing a high degree of autonomy in all matters except foreign affairs and defense.
+
+[FACTBOX]
+Government Type: Special Administrative Region
+Head of State: Chief Executive, Ho Iat Seng
+Head of Government: Chief Executive, Ho Iat Seng
+Legislature: Legislative Assembly, 33 seats, 14 directly elected, 12 indirectly elected, 7 appointed by the Chief Executive
+Legal System: Mixed law, based on Portuguese civil law and Chinese law
+Political Stability Index: Ranked 23rd out of 194 countries in the 2020 Global Peace Index
+Corruption Index: Ranked 30th out of 180 countries in the 2022 Corruption Perceptions Index by Transparency International
+[/FACTBOX]
+
+[SECTION] Political System [/SECTION]
+The government of Macau operates under the principle of "one country, two systems," which allows the region to maintain its own economic, social, and cultural systems, distinct from those of mainland China. The **Basic Law**, Macau's constitutional document, outlines the framework for the region's political system, ensuring a high degree of autonomy in all matters except foreign affairs and defense. The **Chief Executive**, elected by a 400-member **Election Committee**, serves as both the head of state and head of government, and is responsible for appointing the **Executive Council**, a group of senior officials who advise on major policy decisions. The **Legislative Assembly**, composed of 33 members, is responsible for enacting laws and exercising oversight over the government.
+
+The separation of powers in Macau is not as clear-cut as in some other jurisdictions, with the Chief Executive playing a dominant role in the government. However, the Legislative Assembly has the power to impeach the Chief Executive and other senior officials, providing a check on the executive branch. The judicial system is independent, with the **Court of Final Appeal** serving as the highest court in the region. Macau's political system is unitary, with the central government exercising control over all aspects of governance.
+
+The **Executive Council**, composed of senior officials appointed by the Chief Executive, plays a key role in advising on major policy decisions. The Council is responsible for proposing legislation to the Legislative Assembly and for overseeing the implementation of government policies. The **Commission Against Corruption**, an independent agency, is responsible for investigating and preventing corruption in the government.
+
+[SECTION] Government Structure [/SECTION]
+[TABLE]
+| Branch | Institution | Head/Leader | Role |
+| --- | --- | --- | --- |
+| Executive | Office of the Chief Executive | Ho Iat Seng | Head of state and government |
+| Executive | Executive Council | Ho Iat Seng | Advisory body to the Chief Executive |
+| Legislative | Legislative Assembly | Kou Hoi In | Lawmaking and oversight |
+| Judicial | Court of Final Appeal | Sam Hou Fai | Highest court in Macau |
+[/TABLE]
+
+[SECTION] Major Political Parties [/SECTION]
+[TABLE]
+| Party | Position | Leader | Seats | Notes |
+| --- | --- | --- | --- | --- |
+| Union for Development | Centrist | Ho Iat Seng | 12 | Pro-establishment party |
+| Macau Business Interest Union | Centrist | Chan Meng Kam | 7 | Represents business interests |
+| Macau United Citizens Association | Centrist | Lo Wai Kwok | 5 | Pro-establishment party |
+| New Hope | Liberal | José Maria Pereira Coutinho | 2 | Advocates for social and economic reform |
+| Alliance for the Development of Macau | Liberal | Vong Hin Fai | 1 | Advocates for democratic reform |
+[/TABLE]
+
+[SECTION] Elections [/SECTION]
+- The **Chief Executive** is elected by a 400-member **Election Committee**, which is composed of representatives from various sectors of society.
+- The **Legislative Assembly** is elected by a combination of direct and indirect elections, with 14 members elected directly by the people, 12 elected indirectly by special interest groups, and 7 appointed by the Chief Executive.
+- The last **Legislative Assembly election** was held in 2017, with a voter turnout of 57.3%.
+- The next **Legislative Assembly election** is scheduled to be held in 2021.
+
+[SECTION] Political Stability & Challenges [/SECTION]
+- Macau has a high degree of **political stability**, with a strong economy and a stable government.
+- However, the region faces challenges related to **corruption**, with concerns about the influence of money politics and the lack of transparency in government decision-making.
+- The **gaming industry**, which is a major driver of Macau's economy, is subject to **regulatory risks**, with the government seeking to diversify the economy and reduce dependence on gaming.
+- Macau's **relationship with mainland China** is complex, with the region seeking to maintain its autonomy while also cooperating with the central government on economic and security issues.
+- The **democracy movement** in Macau is relatively weak, with limited opportunities for political participation and a lack of **electoral reform**.
+- The **freedom of speech** and **freedom of assembly** are generally respected in Macau, but there are concerns about the **independence of the media** and the **rule of law**.
+
+[SECTION] Foreign Relations [/SECTION]
+- Macau is a member of the **World Trade Organization** and the **International Monetary Fund**, and participates in regional organizations such as the **Asia-Pacific Economic Cooperation** forum.
+- Macau has **diplomatic relations** with over 100 countries, including Portugal, China, and the United States.
+- The region is a **separate customs territory** from mainland China, with its own **tariff regime** and **trade agreements**.
+- Macau is a member of the **United Nations** and participates in various **UN agencies**, including the **UNESCO** and the **World Health Organization**.
+- The region has a **cooperation agreement** with the **European Union**, which provides for cooperation in areas such as trade, investment, and education.
+
+---
+
+*Evergreen reference content. Verify time-sensitive details with official sources.*

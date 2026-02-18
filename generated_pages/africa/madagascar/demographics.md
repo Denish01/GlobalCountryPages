@@ -1,0 +1,85 @@
+---
+title: "Madagascar Demographics — Population, Ethnicity & Religion"
+entity: "Madagascar"
+iso_code: "MG"
+continent: "africa"
+angle: "demographics"
+date: "2026-02-17"
+---
+
+# Madagascar Demographics — Population, Ethnicity & Religion
+
+The population of Madagascar is comprised of approximately 31.7 million people, with a diverse mix of ethnic groups, languages, and religions that shape the country's cultural identity.
+
+[FACTBOX]
+Total Population: 31.7 million
+Population Growth Rate: 2.7%
+Median Age: 19.5 years
+Urban Population: 37%
+Population Density: 54 per km2
+Life Expectancy: 67 years
+Fertility Rate: 4.1 children per woman
+[/FACTBOX]
+
+[SECTION] Population Overview [/SECTION]
+Madagascar's population size is significant in the context of African countries, with a growth rate that is relatively high compared to other nations. The population has been steadily increasing over the years, with an average annual growth rate of 2.7%. This growth is largely driven by a high total fertility rate, which remains a challenge for the country's development. Urbanization is also on the rise, with approximately 37% of the population residing in urban areas, primarily in the capital city of Antananarivo and other major cities like Toamasina and Antsirabe. Migration patterns in Madagascar are largely internal, with people moving from rural areas to urban centers in search of better economic opportunities.
+
+The population of Madagascar is relatively young, with a median age of 19.5 years, which presents both opportunities and challenges for the country's development. The high percentage of young people in the population can be a driving force for economic growth and innovation, but it also puts pressure on the country's education and healthcare systems. The government has been working to address these challenges by investing in education and healthcare infrastructure, as well as implementing policies to promote economic growth and job creation.
+
+In terms of population trends, Madagascar has made significant progress in reducing mortality rates and increasing life expectancy over the years. However, the country still faces significant development challenges, including poverty, lack of access to education and healthcare, and limited economic opportunities. Addressing these challenges will be crucial to ensuring the well-being and prosperity of the Malagasy people.
+
+[SECTION] Ethnic Groups [/SECTION]
+[TABLE]
+| Ethnic Group | Percentage | Region | Notes |
+| --- | --- | --- | --- |
+| Merina | 26% | Central Highlands | Dominant ethnic group in the central highlands |
+| Betsimisaraka | 15% | Eastern Coast | Second-largest ethnic group, primarily found in the eastern coastal regions |
+| Betsileo | 12% | Central Highlands | Closely related to the Merina, with a strong presence in the central highlands |
+| Tsimihety | 7% | Northern Region | Found primarily in the northern regions, with a distinct cultural identity |
+| Sakalava | 6% | Western Coast | Traditionally a coastal ethnic group, with a strong presence in the western coastal regions |
+| Antandroy | 5% | Southern Region | Found primarily in the southern regions, with a distinct cultural identity |
+| Antanosy | 4% | Southern Region | Closely related to the Antandroy, with a strong presence in the southern regions |
+[/TABLE]
+The ethnic groups in Madagascar are diverse and spread across the country, with the Merina being the dominant group in the central highlands. The Betsimisaraka and Betsileo are also significant ethnic groups, with a strong presence in the eastern coastal regions and central highlands, respectively. The various ethnic groups in Madagascar have a rich cultural heritage, with distinct traditions, customs, and languages. While there are some tensions between ethnic groups, Madagascar is generally considered to be a culturally diverse and tolerant country, with a strong sense of national identity.
+
+[SECTION] Languages [/SECTION]
+- **Malagasy** is the official language and the most widely spoken language in Madagascar, with various dialects spoken across the country.
+- French is also an official language, and is widely used in government, education, and business.
+- Regional languages, such as Merina and Betsimisaraka, are also spoken in different parts of the country.
+- English is becoming increasingly popular, particularly among the younger population and in the tourism industry.
+- There are also several endangered languages spoken in Madagascar, including the languages of the Antandroy and Antanosy ethnic groups.
+
+[SECTION] Religions [/SECTION]
+[TABLE]
+| Religion | Percentage | Notes |
+| --- | --- | --- |
+| Traditional Religions | 52% | A blend of indigenous and African traditions |
+| Christianity | 41% | Primarily Catholic and Protestant denominations |
+| Islam | 7% | Primarily Sunni Muslim, with a small Shia minority |
+| Hinduism | 1% | Primarily practiced by the Indian diaspora community |
+| Buddhism | 1% | Primarily practiced by the Chinese diaspora community |
+[/TABLE]
+Madagascar is a religiously diverse country, with a significant proportion of the population practicing traditional religions. Christianity is also widely practiced, with Catholic and Protestant denominations being the most prominent. Islam is a minority religion, but has a significant presence in the country, particularly in the northern regions. The government of Madagascar promotes religious freedom and tolerance, and there are generally good relations between different religious groups.
+
+[SECTION] Age Distribution [/SECTION]
+[TABLE]
+| Age Group | Percentage | Implications |
+| --- | --- | --- |
+| 0-14 | 38% | High dependency ratio, with a large proportion of the population in the youth demographic |
+| 15-24 | 22% | Significant proportion of the population in the working-age demographic, with potential for economic growth |
+| 25-54 | 32% | Largest proportion of the population in the working-age demographic, with significant potential for economic productivity |
+| 55-64 | 6% | Smaller proportion of the population in the older working-age demographic, with potential for knowledge transfer and experience |
+| 65+ | 2% | Smallest proportion of the population, with potential for elderly care and social security needs |
+[/TABLE]
+
+[SECTION] Urbanization & Major Cities [/SECTION]
+- The urban population in Madagascar is growing rapidly, with approximately 37% of the population residing in urban areas.
+- Antananarivo is the largest city, with a population of over 1 million people, and is the economic, cultural, and political hub of the country.
+- Toamasina is the second-largest city, with a population of over 200,000 people, and is a major port city and commercial center.
+- Antsirabe is a major city in the central highlands, with a population of over 200,000 people, and is known for its natural hot springs and tourist attractions.
+- The fastest-growing cities in Madagascar are primarily located in the eastern coastal regions, with cities like Mahajanga and Tulear experiencing rapid growth and development.
+- The Malagasy diaspora community is significant, with many people living and working abroad, particularly in France, the United States, and other European countries.
+
+---
+
+*Evergreen reference content. Verify time-sensitive details with official sources.*

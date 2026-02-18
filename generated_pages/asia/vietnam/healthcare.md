@@ -1,0 +1,80 @@
+---
+title: "Vietnam Healthcare — Hospitals, Insurance & Medical Guide"
+entity: "Vietnam"
+iso_code: "VN"
+continent: "asia"
+angle: "healthcare"
+date: "2026-02-17"
+---
+
+# Vietnam Healthcare — Hospitals, Insurance & Medical Guide
+
+Vietnam's healthcare system has undergone significant improvements in recent years, offering a mix of public and private facilities that provide a range of medical services to its citizens and visitors.
+
+[FACTBOX]
+Healthcare System: Mixed
+Quality Rating: Good
+Emergency Number: 115
+Hospital Standard: Good
+Insurance Required: recommended
+Pharmacy Access: widespread
+[/FACTBOX]
+
+[SECTION] Healthcare Overview [/SECTION]
+Vietnam's healthcare system is a mixed model, combining elements of universal healthcare with private providers. The public healthcare system is generally considered to be of good quality, with well-trained medical professionals and modern facilities, particularly in urban areas such as Hanoi and Ho Chi Minh City. However, the quality of care can vary significantly depending on the location and type of facility, with rural areas often lacking access to specialized care and modern equipment. The Vietnamese government has made efforts to improve the healthcare system, including increasing funding and implementing reforms to improve access and quality of care.
+
+The public healthcare system is generally affordable, with costs subsidized by the government, but private facilities often offer higher-quality care and more modern equipment, at a higher cost. Many Vietnamese citizens choose to use private facilities for non-emergency care, while public facilities are often used for emergency and urgent care. Expats and tourists often prefer to use private facilities, which may offer better language support and more familiar standards of care.
+
+Overall, Vietnam's healthcare system is generally well-regarded, with a strong emphasis on preventive care and public health programs. However, there are still challenges to be addressed, including a shortage of medical professionals in some areas and a need for continued investment in infrastructure and equipment.
+
+[SECTION] Hospitals & Clinics [/SECTION]
+[TABLE]
+| Facility | Location | Type | Specialties | English-Speaking |
+| --- | --- | --- | --- | --- |
+| Vinmec Central Park International Hospital | Ho Chi Minh City | Private | Cardiology, Oncology, Orthopedics | Yes |
+| FV Hospital | Ho Chi Minh City | Private | General Medicine, Surgery, Pediatrics | Yes |
+| Hanoi French Hospital | Hanoi | Private | General Medicine, Surgery, Cardiology | Yes |
+| Cho Ray Hospital | Ho Chi Minh City | Public | General Medicine, Surgery, Emergency | Limited |
+| Viet Duc University Hospital | Hanoi | Public | General Medicine, Surgery, Orthopedics | Limited |
+| Family Medical Practice | Hanoi | Private | General Medicine, Pediatrics, Dental | Yes |
+[/TABLE]
+
+[SECTION] Health Insurance [/SECTION]
+- Expats and tourists are recommended to have **international health insurance** that covers them in Vietnam, as well as evacuation coverage in case of a medical emergency.
+- Local insurance options are available, but may not provide the same level of coverage as international policies.
+- Many private hospitals and clinics in Vietnam have relationships with international insurance providers, making it easier to get reimbursement for care.
+- **Expats** should research local insurance options and consider purchasing a policy that covers them in Vietnam, as well as globally.
+- The cost of health insurance in Vietnam can vary widely, depending on the provider, level of coverage, and individual circumstances.
+- It is recommended to research and compare different insurance options before making a decision, to ensure that you have the right level of coverage for your needs.
+
+[SECTION] Pharmacies & Medications [/SECTION]
+- **Prescription medications** are widely available in Vietnam, but may require a prescription from a local doctor.
+- Many pharmacies in urban areas have a good selection of medications, including some international brands.
+- However, the availability of medications can be limited in rural areas, and **counterfeit medications** are a concern.
+- It is recommended to use reputable pharmacies and to always check the expiration date and packaging of any medications.
+- The cost of medications in Vietnam can be lower than in some other countries, but may still be a significant expense for some individuals.
+
+[SECTION] Vaccinations & Health Risks [/SECTION]
+- **Hepatitis A** and **typhoid** vaccinations are recommended for all travelers to Vietnam.
+- **Rabies** vaccination is also recommended, particularly for those who will be spending time in rural areas or working with animals.
+- **Malaria** and **dengue fever** are present in some areas of Vietnam, particularly in the rural south.
+- **Water safety** is a concern in Vietnam, and travelers should take precautions to avoid drinking untreated water.
+- **Food safety** is also a concern, and travelers should take precautions to avoid eating undercooked or raw foods.
+- **Air pollution** is a significant health concern in some urban areas, particularly in Hanoi and Ho Chi Minh City.
+
+[SECTION] Medical Tourism [/SECTION]
+- Vietnam is a growing destination for **medical tourism**, with many private hospitals and clinics offering a range of medical services, including **cosmetic surgery** and **dental care**.
+- Many medical tourism facilities in Vietnam are accredited by international organizations, such as **JCI** (Joint Commission International).
+- The cost of medical care in Vietnam can be significantly lower than in some other countries, making it an attractive option for those seeking affordable care.
+- However, it is essential to research and carefully evaluate any medical tourism facility before making a decision, to ensure that you receive high-quality care.
+
+[SECTION] Emergency Procedures [/SECTION]
+- In the event of a **medical emergency**, it is recommended to call the emergency number (115) or go to the nearest hospital.
+- **Ambulance services** are available in some areas, but may not be reliable in all cases.
+- It is recommended to have a **local contact** who can assist in an emergency, and to always carry a **phone** with a local SIM card.
+- **Insurance claims** can be complex and time-consuming, so it is essential to keep detailed records of any medical care received.
+- In the event of a serious medical emergency, it may be necessary to **evacuate** to a neighboring country or back to your home country, which can be a significant expense.
+
+---
+
+*Evergreen reference content. Verify time-sensitive details with official sources.*

@@ -1,0 +1,58 @@
+---
+title: "Puerto Rico Geography - Location, Terrain & Climate"
+entity: "Puerto Rico"
+iso_code: "PR"
+continent: "north-america"
+angle: "geography"
+date: "2026-02-17"
+---
+
+# Puerto Rico Geography - Location, Terrain & Climate
+
+Puerto Rico is an island territory located in the northeastern Caribbean Sea, situated approximately 1,000 miles southeast of Miami, Florida, and is part of the United States.
+
+[FACTBOX]
+Land Area: 8,870 km², about the size of the state of Connecticut
+Highest Point: Cerro de Punta, 1,338 meters
+Lowest Point: Atlantic Ocean, 0 meters
+Coastline: 700 km
+Borders: Dominican Republic, US Virgin Islands
+Climate Type: tropical
+[/FACTBOX]
+
+[SECTION] Location & Borders [/SECTION]
+Puerto Rico is an island territory situated in the northeastern Caribbean Sea, bordered by the Atlantic Ocean to the north and the Caribbean Sea to the south. It is part of the Greater Antilles, a group of islands that also includes Cuba, Hispaniola (Haiti and the Dominican Republic), and Jamaica. The territory is located about 1,000 miles southeast of Miami, Florida, and is separated from the Dominican Republic by the Mona Passage, a strait that connects the Atlantic Ocean to the Caribbean Sea. The US Virgin Islands are located to the east of Puerto Rico, and the two territories are separated by the Virgin Passage.
+
+Puerto Rico's strategic location in the Caribbean makes it an important hub for trade and commerce in the region. The territory is also home to several major ports, including the Port of San Juan, which is one of the busiest ports in the Caribbean. The island's location in the northeastern Caribbean also makes it susceptible to hurricanes, which can have a significant impact on the territory's economy and infrastructure. The neighboring countries, including the Dominican Republic and the US Virgin Islands, also have a significant impact on Puerto Rico's culture and economy, with many Puerto Ricans having family ties and cultural connections to these countries.
+
+[SECTION] Terrain & Landscape [/SECTION]
+Puerto Rico is a mountainous island, with a terrain that is characterized by rugged mountains, deep valleys, and scenic coastlines. The island's central mountain range, known as the Cordillera Central, runs east-west across the island and includes the highest point, Cerro de Punta, which rises to an elevation of 1,338 meters. The mountains are covered in lush tropical forests, including the El Yunque National Forest, which is the only tropical rainforest in the United States National Forest System. The forest is home to a wide variety of plant and animal species, including many that are found nowhere else in the world.
+
+The island's coastlines are also notable for their beauty and diversity, with scenic beaches, rocky shores, and rugged cliffs. The northern coast is home to several major cities, including San Juan, which is the capital and largest city in the territory. The southern coast is more rural, with smaller towns and villages, and is known for its scenic beaches and scenic coastal roads. The eastern coast is home to the El Yunque National Forest, which is a popular destination for hiking and outdoor recreation. The western coast is known for its scenic beaches and coastal towns, including the popular tourist destination of Rincón.
+
+The island's terrain also includes several major rivers, including the Río de la Plata, which is the longest river in Puerto Rico and flows through the central mountains to the northern coast. The river is an important source of freshwater and is also used for hydroelectric power generation. The island's terrain and landscape are also home to several natural wonders, including the Camuy River Cave Park, which features a network of underground caves and rivers.
+
+[SECTION] Climate By Season [/SECTION]
+[TABLE]
+| Season | Months | Temperature Range | Rainfall | Conditions |
+| --- | --- | --- | --- | --- |
+| Winter | December to February | 70-80°F (21-27°C) | low | dry and sunny |
+| Spring | March to May | 75-85°F (24-29°C) | moderate | warm and humid |
+| Summer | June to August | 80-90°F (27-32°C) | high | hot and humid |
+| Fall | September to November | 75-85°F (24-29°C) | moderate | warm and sunny |
+[/TABLE]
+
+[SECTION] Best Time To Visit [/SECTION]
+[CALLOUT] Best months: December to April. Why: these months offer the coolest and driest weather, making it ideal for outdoor activities and sightseeing. Avoid: September to November, as these months are the peak of the hurricane season and can be very wet and humid. [/CALLOUT]
+
+[SECTION] Natural Highlights [/SECTION]
+- El Yunque National Forest: a tropical rainforest that is home to a wide variety of plant and animal species, including many that are found nowhere else in the world.
+- Camuy River Cave Park: a network of underground caves and rivers that is a popular destination for hiking and exploration.
+- Bioluminescent Bay: a bay in Fajardo that is home to a large population of bioluminescent organisms, which glow in the dark when disturbed.
+- Luquillo Beach: a scenic beach on the northeastern coast that is known for its white sand and crystal-clear waters.
+- Guánica State Forest: a dry forest that is home to a wide variety of plant and animal species, including many that are found nowhere else in the world.
+- Mona Island: a small island located off the western coast of Puerto Rico that is known for its scenic beaches and diverse wildlife.
+
+---
+
+*Evergreen reference content. Verify time-sensitive details with official sources.*

@@ -1,0 +1,71 @@
+---
+title: "Czech Republic Tax Guide — Income, Corporate & VAT Rates"
+entity: "Czech Republic"
+iso_code: "CZ"
+continent: "europe"
+angle: "taxes"
+date: "2026-02-17"
+---
+
+# Czech Republic Tax Guide — Income, Corporate & VAT Rates
+
+The tax system in the Czech Republic is based on a territorial taxation principle, where individuals and companies are taxed on their income earned within the country, with tax rates ranging from 15% to 23% for personal income and 19% for corporate income. 
+
+[CALLOUT] Tax laws change frequently. Always consult a qualified tax professional for advice specific to your situation. This is a general guide only. [/CALLOUT]
+
+[FACTBOX]
+Income Tax Range: 15% - 23%
+Corporate Tax: 19%
+VAT/GST: 21%
+Capital Gains Tax: 15% or included in income
+Tax Year: Jan-Dec
+Tax Treaty Network: 89 countries
+[/FACTBOX]
+
+[SECTION] Tax System Overview [/SECTION]
+The Czech Republic has a well-structured tax system, with the Ministry of Finance and the General Financial Directorate responsible for its administration. The country applies a **territorial taxation** principle, meaning that individuals and companies are taxed on their income earned within the Czech Republic, regardless of their residency status. However, residents are also subject to **worldwide taxation**, where their global income is taxed, with credits available for taxes paid abroad. Residency for tax purposes is determined by the individual's **permanent home** or **center of vital interests** in the country, with a minimum stay of 183 days in a calendar year.
+
+The tax system in the Czech Republic is designed to be fair and equitable, with a range of taxes, including income tax, corporate tax, value-added tax (VAT), and capital gains tax. The country also has a network of **double taxation treaties** with 89 countries, which helps to prevent double taxation and fiscal evasion. These treaties provide a framework for the exchange of information and cooperation between tax authorities, ensuring that individuals and companies are not taxed twice on the same income.
+
+[SECTION] Personal Income Tax [/SECTION]
+The personal income tax system in the Czech Republic is progressive, with tax rates ranging from 15% to 23%. The tax brackets are as follows:
+[TABLE]
+| Income Bracket (CZK) | Tax Rate |
+| --- | --- |
+| 0 - 1,867,728 | 15% |
+| 1,867,729 - 3,535,456 | 20% |
+| 3,535,457 - 5,703,184 | 22% |
+| 5,703,185 and above | 23% |
+[/TABLE]
+Taxpayers are entitled to various **deductions and allowances**, including a basic allowance of CZK 24,840, as well as deductions for mortgage interest, charitable donations, and pension contributions. Tax returns must be filed by April 1st of each year, with the option to file electronically or by mail. Taxpayers who fail to file their tax returns on time may be subject to penalties and interest.
+
+[SECTION] Corporate & Business Tax [/SECTION]
+- The **corporate tax rate** in the Czech Republic is 19%, with a reduced rate of 15% for small businesses and startups.
+- Small businesses with an annual turnover of up to CZK 25 million may be eligible for **small business incentives**, including a reduced corporate tax rate and simplified accounting procedures.
+- The Czech Republic has several **free zones**, including the Prague Airport Free Zone and the Brno Free Zone, which offer tax exemptions and other benefits to companies operating within these zones.
+- Companies must **register with the tax authority** within 30 days of commencement of business, and must obtain a tax identification number.
+- Companies are also required to **file annual tax returns**, which must include financial statements and other supporting documentation.
+
+[SECTION] VAT / Sales Tax [/SECTION]
+- The **standard VAT rate** in the Czech Republic is 21%, with reduced rates of 15% and 10% applying to certain goods and services, such as food, pharmaceuticals, and public transportation.
+- **Exemptions** from VAT apply to certain goods and services, including financial services, healthcare, and education.
+- **Tourist refund schemes** are available for non-EU residents, allowing them to claim a refund of VAT paid on certain goods purchased in the Czech Republic.
+- Businesses with an annual turnover of up to CZK 1 million may be eligible for **simplified VAT registration**, which simplifies the VAT compliance process.
+
+[SECTION] For Expats & Foreign Workers [/SECTION]
+- **Tax residency rules** apply to individuals who stay in the Czech Republic for more than 183 days in a calendar year, or who have a permanent home or center of vital interests in the country.
+- The Czech Republic has a network of **double taxation treaties** with 89 countries, which helps to prevent double taxation and fiscal evasion.
+- Expats and foreign workers may be eligible for **social security benefits**, including healthcare and pension benefits, depending on their employment status and nationality.
+- **Remittance rules** apply to individuals who receive income from abroad, with tax withheld at source on certain types of income, such as employment income and dividends.
+- Expats and foreign workers may be required to **register with the tax authority** and obtain a tax identification number, depending on their employment status and income.
+- Expats and foreign workers may also be eligible for **tax credits** for taxes paid abroad, depending on their tax residency status and the terms of the relevant double taxation treaty.
+
+[SECTION] Crypto & Investment Income [/SECTION]
+- **Investment income**, including dividends, interest, and capital gains, is subject to income tax, with a tax rate of 15% applying to most types of investment income.
+- **Cryptocurrency** is considered a **commodity** for tax purposes, with gains from the sale of cryptocurrency subject to capital gains tax.
+- **Dividends** received from Czech companies are subject to a **withholding tax** of 15%, which can be reduced or eliminated under certain double taxation treaties.
+- **Interest income** from Czech sources is subject to a **withholding tax** of 15%, which can be reduced or eliminated under certain double taxation treaties.
+
+---
+
+*Evergreen reference content. Verify time-sensitive details with official sources.*

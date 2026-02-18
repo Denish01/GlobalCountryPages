@@ -1,0 +1,72 @@
+---
+title: "Turkey History — Key Events & Timeline"
+entity: "Turkey"
+iso_code: "TR"
+continent: "asia"
+angle: "history-timeline"
+date: "2026-02-17"
+---
+
+# Turkey History — Key Events & Timeline
+
+The history of Turkey is a rich and complex narrative that spans thousands of years, from the ancient civilizations of Anatolia to the modern-day republic. 
+
+[SECTION] Historical Overview [/SECTION]
+The history of Turkey begins with the ancient civilizations of Anatolia, which date back to the 10th millennium BC. The region was inhabited by various cultures, including the Hittites, Lydians, and Phrygians, before being conquered by the Persian Empire in the 6th century BC. The arrival of Alexander the Great in the 4th century BC marked the beginning of a new era, as the region was absorbed into the Hellenistic world. The Byzantine Empire, also known as the Eastern Roman Empire, rose to power in the 4th century AD and lasted for over 1,000 years, with its capital in Constantinople, modern-day Istanbul. The Ottoman Empire, which was founded in the 13th century AD, eventually conquered the Byzantine Empire and expanded its territories, becoming one of the largest and most influential empires in history. The Ottoman Empire lasted for over 600 years, until its collapse after World War I.
+
+The modern Republic of Turkey was founded in 1923 by **Mustafa Kemal Atatürk**, a Turkish nationalist leader who played a key role in the Turkish War of Independence. The new republic was established on the principles of secularism, democracy, and nationalism, and has since become a major player in regional and global affairs. Throughout its history, Turkey has been shaped by its strategic location at the crossroads of Europe and Asia, and has been influenced by various cultures, including Greek, Roman, Byzantine, and Islamic. The country's unique cultural heritage is reflected in its architecture, art, literature, and cuisine, which have been shaped by its complex and diverse history.
+
+The history of Turkey is also marked by periods of conflict and upheaval, including the Turkish War of Independence, the **Greco-Turkish War**, and the **Cyprus dispute**. The country has also experienced significant economic development and modernization, particularly in the second half of the 20th century. Today, Turkey is a major economic power and a key player in regional and global affairs, with a diverse culture and a rich history that continues to shape its identity and inform its relationships with the world.
+
+The country's history has also been marked by significant cultural and social changes, including the adoption of a new alphabet and the promotion of secularism. The Turkish government has also implemented various policies aimed at promoting economic development and modernization, including the establishment of a new constitution and the promotion of foreign investment. Overall, the history of Turkey is a complex and multifaceted narrative that reflects the country's unique cultural heritage and its strategic location at the crossroads of Europe and Asia.
+
+[SECTION] Timeline of Key Events [/SECTION]
+1. **10th millennium BC** - The first human settlements appear in Anatolia, marking the beginning of a long and complex history in the region. The early inhabitants of the region developed a range of cultures and civilizations, including the Neolithic and Bronze Age cultures.
+2. **6th century BC** - The Persian Empire conquers Anatolia, introducing a new era of Persian rule and influence in the region. The Persian Empire had a significant impact on the culture and politics of the region, and its legacy can still be seen today.
+3. **4th century BC** - Alexander the Great conquers Anatolia, marking the beginning of the Hellenistic period in the region. The Hellenistic period saw the spread of Greek culture and language throughout the region, and had a lasting impact on the development of Western civilization.
+4. **4th century AD** - The Byzantine Empire is established, with its capital in Constantinople, modern-day Istanbul. The Byzantine Empire was a major power in the region for over 1,000 years, and played a significant role in the development of Christianity and Western civilization.
+5. **13th century AD** - The Ottoman Empire is founded by Osman Bey, marking the beginning of a new era of Turkish rule in the region. The Ottoman Empire was one of the largest and most influential empires in history, and played a significant role in shaping the modern world.
+6. **1453 AD** - The Ottoman Empire conquers Constantinople, marking the end of the Byzantine Empire. The conquest of Constantinople was a significant turning point in world history, and marked the beginning of a new era of Ottoman dominance in the region.
+7. **19th century AD** - The Ottoman Empire begins to decline, marking the beginning of a period of modernization and reform. The Ottoman Empire implemented a range of reforms aimed at modernizing its economy, military, and government, but was ultimately unable to stem the tide of decline.
+8. **1914-1918 AD** - The Ottoman Empire fights in World War I, suffering significant losses and ultimately collapsing. The collapse of the Ottoman Empire marked the end of a major era in world history, and paved the way for the establishment of modern-day Turkey.
+9. **1919-1923 AD** - The Turkish War of Independence is fought, with Turkish nationalist forces led by Mustafa Kemal Atatürk emerging victorious. The Turkish War of Independence was a significant conflict that marked the establishment of modern-day Turkey and the beginning of a new era of Turkish independence.
+10. **1923 AD** - The modern Republic of Turkey is founded, with Mustafa Kemal Atatürk as its first president. The establishment of the modern Republic of Turkey marked the beginning of a new era of Turkish history, and paved the way for the country's development into a modern, secular, and democratic state.
+11. **1938 AD** - Mustafa Kemal Atatürk dies, marking the end of an era in Turkish history. Atatürk's legacy continues to shape Turkish politics and society today, and he is remembered as one of the most important figures in modern Turkish history.
+12. **1945 AD** - Turkey joins the United Nations, marking the beginning of its participation in international affairs. Turkey has played a significant role in international affairs since joining the United Nations, and has been a key player in regional and global organizations.
+13. **1952 AD** - Turkey joins NATO, marking the beginning of its participation in Western defense alliances. Turkey's membership in NATO has been an important aspect of its foreign policy, and has helped to shape its relationships with other countries in the region.
+14. **1980 AD** - A military coup takes place in Turkey, marking the beginning of a period of military rule. The military coup was a significant event in modern Turkish history, and had a lasting impact on the country's politics and society.
+15. **2002 AD** - The Justice and Development Party (AKP) comes to power in Turkey, marking the beginning of a new era of Islamist-led government. The AKP has had a significant impact on Turkish politics and society, and has played a key role in shaping the country's relationships with other countries in the region.
+
+[SECTION] Founding & Formation [/SECTION]
+The modern Republic of Turkey was founded in 1923 by Mustafa Kemal Atatürk, a Turkish nationalist leader who played a key role in the Turkish War of Independence. The new republic was established on the principles of secularism, democracy, and nationalism, and was shaped by Atatürk's vision of a modern, Westernized Turkey. The founding of the republic marked the end of the Ottoman Empire and the beginning of a new era in Turkish history, and paved the way for the country's development into a modern, secular, and democratic state.
+
+The formation of the modern Republic of Turkey was a complex and multifaceted process that involved the creation of a new constitution, the establishment of a new government, and the promotion of secularism and democracy. Atatürk played a key role in shaping the new republic, and his legacy continues to shape Turkish politics and society today. The country's founding principles of secularism, democracy, and nationalism have had a lasting impact on its development, and continue to shape its relationships with other countries in the region.
+
+[SECTION] Colonial & Independence Period [/SECTION]
+Turkey does not have a colonial history in the classical sense, as it was not colonized by a European power. However, the country was subject to significant foreign influence and control during the Ottoman period, particularly in the 19th and early 20th centuries. The Ottoman Empire was weakened by internal strife and external pressures, and was eventually forced to sign the Treaty of Sèvres, which imposed significant territorial losses and foreign control on the empire.
+
+The Turkish War of Independence, which was fought from 1919 to 1923, marked the beginning of a new era in Turkish history and paved the way for the establishment of the modern Republic of Turkey. The war was led by Mustafa Kemal Atatürk, who played a key role in organizing the Turkish nationalist movement and fighting against the Allied powers. The war was a significant conflict that marked the establishment of modern-day Turkey and the beginning of a new era of Turkish independence.
+
+The independence movement in Turkey was shaped by a range of factors, including nationalism, secularism, and democracy. The movement was led by a group of Turkish nationalists who were committed to creating a modern, secular, and democratic state, and who were determined to resist foreign influence and control. The movement was successful in achieving its goals, and paved the way for the establishment of the modern Republic of Turkey.
+
+[SECTION] Modern Era [/SECTION]
+The modern era in Turkey began with the founding of the republic in 1923 and has been marked by significant economic development, modernization, and political change. The country has experienced rapid economic growth and industrialization, particularly in the second half of the 20th century, and has become a major player in regional and global affairs. Turkey has also experienced significant political change, including the rise of Islamist-led governments and the implementation of democratic reforms.
+
+The country's modernization has been driven by a range of factors, including economic development, urbanization, and technological change. The government has implemented a range of policies aimed at promoting economic development and modernization, including the establishment of a new constitution, the promotion of foreign investment, and the development of a modern and efficient infrastructure. The country has also experienced significant cultural and social change, including the adoption of a new alphabet and the promotion of secularism.
+
+Today, Turkey is a major economic power and a key player in regional and global affairs, with a diverse culture and a rich history that continues to shape its identity and inform its relationships with the world. The country faces a range of challenges, including economic instability, political polarization, and regional conflict, but remains committed to its founding principles of secularism, democracy, and nationalism.
+
+[SECTION] Historical Figures [/SECTION]
+[TABLE]
+| Name | Period | Role | Significance |
+| --- | --- | --- | --- |
+| Mustafa Kemal Atatürk | 1881-1938 | Founder of the Republic of Turkey | Led the Turkish War of Independence and established the modern Republic of Turkey |
+| Osman Bey | 1258-1326 | Founder of the Ottoman Empire | Established the Ottoman Empire and laid the foundations for its expansion and growth |
+| Suleiman the Magnificent | 1494-1566 | Sultan of the Ottoman Empire | Expanded the Ottoman Empire and established it as a major world power |
+| Abdul Hamid II | 1842-1918 | Sultan of the Ottoman Empire | Implemented significant reforms and modernization efforts, but was ultimately unable to stem the tide of decline |
+| Ismet Inonu | 1884-1973 | Prime Minister and President of Turkey | Played a key role in the Turkish War of Independence and served as prime minister and president of Turkey |
+| Turgut Ozal | 1927-1993
+
+---
+
+*Evergreen reference content. Verify time-sensitive details with official sources.*

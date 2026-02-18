@@ -1,0 +1,70 @@
+---
+title: "Lithuania History — Key Events & Timeline"
+entity: "Lithuania"
+iso_code: "LT"
+continent: "europe"
+angle: "history-timeline"
+date: "2026-02-17"
+---
+
+# Lithuania History — Key Events & Timeline
+
+Lithuania's history spans over a thousand years, from the establishment of the Grand Duchy of Lithuania in the 13th century to its current status as a sovereign nation in the European Union.
+
+[SECTION] Historical Overview [/SECTION]
+Lithuania's history began with the formation of the Grand Duchy of Lithuania in the 13th century, which was a major power in Eastern Europe during the Middle Ages. The Grand Duchy was a **federation** of Lithuanian and Ruthenian **principalities**, with its capital in Vilnius. In the 14th century, the Grand Duchy of Lithuania was one of the largest states in Europe, covering a vast territory from the Baltic Sea to the Black Sea. The Grand Duchy was also a **multicultural** and **multilingual** state, with Lithuanian, Ruthenian, Polish, and other languages spoken within its borders.
+In the 16th century, the Grand Duchy of Lithuania formed a **union** with the Kingdom of Poland, which lasted for over two centuries. This union had a significant impact on Lithuania's **politics**, **economy**, and **culture**. During this period, Lithuania's **nobility** became increasingly **Polonized**, and the Lithuanian language and culture were suppressed. In the late 18th century, the Polish-Lithuanian Commonwealth was **partitioned** by its neighboring powers, and Lithuania was annexed by the Russian Empire.
+In the 20th century, Lithuania declared its **independence** from Russia and became a sovereign state. However, its independence was short-lived, as it was occupied by Germany during World War II and then annexed by the Soviet Union. Lithuania remained a Soviet republic until 1990, when it declared its independence again and became a **democratic** country. Today, Lithuania is a member of the European Union and NATO, and it continues to develop its **economy** and **society**.
+Lithuania's history has been marked by numerous **conflicts** and **challenges**, but it has also been shaped by its **resilience** and **determination**. From the medieval Grand Duchy to the modern-day republic, Lithuania has maintained its **unique identity** and **culture**, despite being influenced by various **foreign powers**.
+
+[SECTION] Timeline of Key Events [/SECTION]
+1. **1236** - The Battle of Saule marks the beginning of the formation of the Grand Duchy of Lithuania, as the Lithuanian tribes defeat the Livonian Brothers of the Sword. This battle is considered a crucial moment in Lithuanian history, as it allowed the Grand Duchy to expand its territory and establish itself as a major power in the region.
+2. **1323** - The city of Vilnius is founded and becomes the capital of the Grand Duchy of Lithuania, marking the beginning of a new era in Lithuanian history.
+3. **1385** - The Grand Duchy of Lithuania forms a union with the Kingdom of Poland, which lasts for over two centuries and has a significant impact on Lithuania's politics, economy, and culture.
+4. **1569** - The Union of Lublin is signed, creating the Polish-Lithuanian Commonwealth, a **federation** of the Kingdom of Poland and the Grand Duchy of Lithuania.
+5. **1655** - Lithuania is occupied by Sweden during the Second Northern War, which has a devastating impact on the country's economy and population.
+6. **1772** - The Polish-Lithuanian Commonwealth is partitioned by its neighboring powers, and Lithuania is annexed by the Russian Empire, marking the beginning of a new era of foreign rule.
+7. **1831** - The November Uprising takes place, as Lithuanians and Poles revolt against Russian rule, seeking to restore their independence and autonomy.
+8. **1863** - The January Uprising occurs, as Lithuanians and Poles rise up against Russian rule again, but are ultimately defeated.
+9. **1918** - Lithuania declares its independence from Russia and becomes a sovereign state, marking a major milestone in the country's history.
+10. **1920** - The Treaty of Suwalki is signed, establishing the border between Lithuania and Poland, which becomes a source of tension between the two countries.
+11. **1940** - Lithuania is occupied by the Soviet Union, which has a profound impact on the country's economy, politics, and culture.
+12. **1941** - Lithuania is occupied by Germany during World War II, which results in the deaths of thousands of Lithuanians, including many Jews who are killed in the Holocaust.
+13. **1944** - The Soviet Union reoccupies Lithuania, which becomes a Soviet republic, known as the Lithuanian Soviet Socialist Republic.
+14. **1988** - The Sajudis movement is formed, seeking to promote Lithuanian independence and self-determination, and marking the beginning of a new era of national awakening.
+15. **1990** - Lithuania declares its independence from the Soviet Union and becomes a sovereign state again, marking a major milestone in the country's history.
+16. **1991** - The Soviet Union recognizes Lithuania's independence, and Lithuania becomes a member of the United Nations, marking its return to the international community.
+17. **2004** - Lithuania joins the European Union and NATO, marking a major milestone in the country's integration into the Western community.
+18. **2009** - Lithuania celebrates the 1000th anniversary of its name being mentioned in historical records, marking a major milestone in the country's history and cultural heritage.
+19. **2015** - Lithuania adopts the euro as its official currency, marking a major step in its economic integration with the European Union.
+20. **2019** - Lithuania celebrates the 30th anniversary of its independence from the Soviet Union, marking a major milestone in the country's history and a testament to its resilience and determination.
+
+[SECTION] Founding & Formation [/SECTION]
+Lithuania's founding and formation are closely tied to the history of the Grand Duchy of Lithuania, which was a major power in Eastern Europe during the Middle Ages. The Grand Duchy was formed in the 13th century, and its capital was established in Vilnius. The Grand Duchy was a **federation** of Lithuanian and Ruthenian **principalities**, and it played a significant role in the region's **politics** and **economy**. The Grand Duchy was also a **multicultural** and **multilingual** state, with Lithuanian, Ruthenian, Polish, and other languages spoken within its borders.
+The modern Lithuanian state was formed in 1918, when Lithuania declared its independence from Russia. The country's founding fathers, including **Antanas Smetona** and **Jonas Basanavicius**, played a crucial role in shaping Lithuania's **politics** and **society**. The country's early years were marked by **conflicts** with neighboring countries, including Poland and the Soviet Union. However, Lithuania was able to maintain its **independence** and develop its **economy** and **culture**.
+
+[SECTION] Colonial & Independence Period [/SECTION]
+Lithuania's colonial history is closely tied to its relationship with neighboring powers, including Poland and Russia. In the 16th century, the Grand Duchy of Lithuania formed a **union** with the Kingdom of Poland, which lasted for over two centuries. This union had a significant impact on Lithuania's **politics**, **economy**, and **culture**. During this period, Lithuania's **nobility** became increasingly **Polonized**, and the Lithuanian language and culture were suppressed.
+In the late 18th century, the Polish-Lithuanian Commonwealth was **partitioned** by its neighboring powers, and Lithuania was annexed by the Russian Empire. This marked the beginning of a new era of foreign rule, which lasted for over a century. During this period, Lithuania's **national movement** emerged, seeking to promote Lithuanian **independence** and **self-determination**. The national movement was led by figures such as **Jonas Basanavicius** and **Vincas Kudirka**, who played a crucial role in shaping Lithuania's **identity** and **culture**.
+Lithuania's independence movement gained momentum in the early 20th century, with the country declaring its independence from Russia in 1918. However, this independence was short-lived, as Lithuania was occupied by Germany during World War II and then annexed by the Soviet Union. Lithuania remained a Soviet republic until 1990, when it declared its independence again and became a **democratic** country.
+
+[SECTION] Modern Era [/SECTION]
+Lithuania's modern era began in 1990, when the country declared its independence from the Soviet Union. Since then, Lithuania has made significant progress in developing its **economy** and **society**. The country has become a member of the European Union and NATO, and it has adopted the euro as its official currency. Lithuania has also made significant strides in promoting its **culture** and **identity**, with a focus on preserving its **language** and **heritage**.
+Today, Lithuania is a **democratic** country with a **market-based economy**. The country has a **high standard of living**, and its **education system** is considered to be one of the best in the region. Lithuania has also become a popular **tourist destination**, with its **capital city** Vilnius being a major draw for visitors. The country's **cuisine** is also gaining popularity, with its **traditional dishes** such as **cepelinai** and **kibinai** becoming increasingly well-known.
+Lithuania continues to face **challenges**, including a **declining population** and a **brain drain**. However, the country is working to address these issues, with a focus on promoting **innovation** and **entrepreneurship**. Lithuania is also seeking to strengthen its **relationships** with neighboring countries, including Poland and Latvia, and to promote **regional cooperation**.
+
+[SECTION] Historical Figures [/SECTION]
+[TABLE]
+| Name | Period | Role | Significance |
+| --- | --- | --- | --- |
+| Mindaugas | 1236-1263 | Grand Duke of Lithuania | First known Grand Duke of Lithuania, played a crucial role in the formation of the Grand Duchy |
+| Vytautas the Great | 1392-1430 | Grand Duke of Lithuania | Expanded the Grand Duchy's territory, played a significant role in the Battle of Grunwald |
+| Jonas Basanavicius | 1851-1927 | Nationalist leader | Played a crucial role in the Lithuanian national movement, promoted Lithuanian independence and self-determination |
+| Antanas Smetona | 1874-1944 | President of Lithuania | First President of Lithuania, played a significant role in the country's early years |
+| Vincas Kudirka | 1858-1899 | Nationalist leader | Wrote the Lithuanian national anthem, promoted Lithuanian independence and self-determination |
+| Algirdas Brazauskas | 1932-2010 | President of Lithuania | First President of Lithuania after the country's independence from the Soviet Union, played a significant role in the country's transition to democracy |
+| Valdas Adamkus | 1926-present | President of Lithuania | Played a significant role in Lithuania's integration into the European Union and
+
+---
+
+*Evergreen reference content. Verify time-sensitive details with official sources.*

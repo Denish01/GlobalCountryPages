@@ -1,0 +1,67 @@
+---
+title: "Laos History — Key Events & Timeline"
+entity: "Laos"
+iso_code: "LA"
+continent: "asia"
+angle: "history-timeline"
+date: "2026-02-17"
+---
+
+# Laos History — Key Events & Timeline
+
+The history of Laos is a complex and fascinating narrative that spans over two millennia, from the ancient kingdoms of the region to the modern-day sovereign state. 
+
+[SECTION] Historical Overview [/SECTION]
+Laos has a rich and varied history that dates back to the ancient **Funan Kingdom**, which flourished from the 1st to the 6th centuries AD. The region was later influenced by the **Khmer Empire**, which had a significant impact on the culture and architecture of Laos. In the 13th century, the **Lan Xang Kingdom** was established, which is considered the birthplace of the Lao people and their culture. The Lan Xang Kingdom was a powerful and prosperous state that played a significant role in the region's politics and trade. The kingdom was eventually divided into three smaller kingdoms, which were later unified under the **Vientiane Kingdom**. The Vientiane Kingdom was a major power in the region, but it was eventually colonized by France in the late 19th century.
+
+The French colonial period had a profound impact on Laos, as it introduced modern infrastructure, education, and healthcare to the region. However, it also suppressed the local culture and imposed French language and customs on the population. During World War II, Laos was occupied by Japan, which had a significant impact on the country's politics and economy. After the war, Laos gained independence from France, but it was soon embroiled in a civil war between the **Royal Lao Government** and the **Pathet Lao**, a communist movement that was supported by North Vietnam. The civil war lasted for over two decades, causing significant damage to the country's infrastructure and economy.
+
+In 1975, the Pathet Lao emerged victorious, and Laos became a socialist state. The new government implemented a series of radical policies, including the nationalization of industries and the collectivization of agriculture. However, these policies had a devastating impact on the economy, and Laos became one of the poorest countries in the world. In the 1980s, the government began to implement economic reforms, which led to significant growth and development. Today, Laos is a rapidly developing country, with a growing economy and a rich cultural heritage.
+
+The modern era has seen significant developments in Laos, including the country's admission to the **Association of Southeast Asian Nations (ASEAN)** in 1997. This has led to increased regional cooperation and integration, as well as significant investment in infrastructure and trade. The country has also made significant progress in reducing poverty and improving living standards, with the poverty rate declining from over 40% in the 1990s to around 20% today.
+
+[SECTION] Timeline of Key Events [/SECTION]
+1. **100 AD** - The Funan Kingdom is established, marking the beginning of the ancient Lao civilization. The kingdom was a major power in the region, with significant trade and cultural ties to India and China.
+2. **1296** - The Lan Xang Kingdom is established, which becomes the birthplace of the Lao people and their culture. The kingdom was founded by King Fa Ngum, who united the various tribes of the region and established a powerful and prosperous state.
+3. **1353** - The Lan Xang Kingdom is divided into three smaller kingdoms, which are later unified under the Vientiane Kingdom. The Vientiane Kingdom was a major power in the region, with significant trade and cultural ties to Thailand and China.
+4. **1707** - The Vientiane Kingdom is established, which becomes a major power in the region. The kingdom was founded by King Setthathirath, who established a powerful and prosperous state that played a significant role in the region's politics and trade.
+5. **1863** - Laos becomes a French protectorate, marking the beginning of the colonial period. The French colonial period had a profound impact on Laos, as it introduced modern infrastructure, education, and healthcare to the region.
+6. **1893** - Laos is formally colonized by France, which suppresses the local culture and imposes French language and customs on the population. The French colonial period lasted for over six decades, during which time Laos was exploited for its natural resources and forced to adopt French language and customs.
+7. **1940** - Japan occupies Laos during World War II, which has a significant impact on the country's politics and economy. The Japanese occupation was brutal, with significant repression of the local population and exploitation of the country's natural resources.
+8. **1946** - Laos gains independence from France, but it is soon embroiled in a civil war between the Royal Lao Government and the Pathet Lao. The civil war lasted for over two decades, causing significant damage to the country's infrastructure and economy.
+9. **1954** - The First Indochina War ends, with Laos gaining independence from France. The independence movement was led by the Pathet Lao, a communist movement that was supported by North Vietnam.
+10. **1960** - The Laotian Civil War begins, which lasts for over two decades and causes significant damage to the country's infrastructure and economy. The civil war was fought between the Royal Lao Government and the Pathet Lao, with significant support from the United States and North Vietnam.
+11. **1975** - The Pathet Lao emerges victorious, and Laos becomes a socialist state. The new government implemented a series of radical policies, including the nationalization of industries and the collectivization of agriculture.
+12. **1976** - The Lao People's Democratic Republic is established, with Kaysone Phomvihane as the first prime minister. The new government implemented a series of policies aimed at reducing poverty and improving living standards.
+13. **1986** - Laos begins to implement economic reforms, which lead to significant growth and development. The reforms included the introduction of a market-based economy and the privatization of state-owned enterprises.
+14. **1997** - Laos is admitted to the Association of Southeast Asian Nations (ASEAN), which leads to increased regional cooperation and integration. The admission to ASEAN has led to significant investment in infrastructure and trade, as well as increased cooperation on regional security issues.
+15. **2011** - The Xayaburi Dam is completed, which becomes a major source of hydroelectric power for the country. The dam has had a significant impact on the environment and local communities, with concerns raised about the impact on fish populations and the displacement of local communities.
+16. **2016** - The **Lao People's Revolutionary Party** holds its 10th Congress, which marks a significant milestone in the country's development. The congress saw the election of a new leadership, with Bounnhang Vorachith becoming the new president.
+17. **2018** - The **Lao National Assembly** passes a new constitution, which enshrines the principles of socialism and democracy. The constitution has been seen as a significant step forward for the country, with increased protections for human rights and the rule of law.
+18. **2020** - Laos celebrates its 45th anniversary of independence, which marks a significant milestone in the country's history. The anniversary was celebrated with significant fanfare, with parades and ceremonies held across the country.
+
+[SECTION] Founding & Formation [/SECTION]
+Laos became the entity it is today through a long and complex process of historical development. The country's early history was marked by the establishment of the Lan Xang Kingdom, which was founded by King Fa Ngum in the 13th century. The kingdom was a major power in the region, with significant trade and cultural ties to India and China. Over time, the kingdom was divided into three smaller kingdoms, which were later unified under the Vientiane Kingdom. The Vientiane Kingdom was a major power in the region, with significant trade and cultural ties to Thailand and China.
+
+The modern state of Laos was established in 1975, after the Pathet Lao emerged victorious in the Laotian Civil War. The new government implemented a series of radical policies, including the nationalization of industries and the collectivization of agriculture. However, these policies had a devastating impact on the economy, and Laos became one of the poorest countries in the world. In the 1980s, the government began to implement economic reforms, which led to significant growth and development. Today, Laos is a rapidly developing country, with a growing economy and a rich cultural heritage.
+
+[SECTION] Colonial & Independence Period [/SECTION]
+Laos has a complex and tumultuous colonial history, with the country being colonized by France in the late 19th century. The French colonial period had a profound impact on Laos, as it introduced modern infrastructure, education, and healthcare to the region. However, it also suppressed the local culture and imposed French language and customs on the population. During World War II, Laos was occupied by Japan, which had a significant impact on the country's politics and economy.
+
+The independence movement in Laos was led by the Pathet Lao, a communist movement that was supported by North Vietnam. The movement was founded by Kaysone Phomvihane, who became the first prime minister of the Lao People's Democratic Republic in 1975. The Pathet Lao played a significant role in the Laotian Civil War, which lasted for over two decades and caused significant damage to the country's infrastructure and economy. The war ended in 1975, with the Pathet Lao emerging victorious and Laos becoming a socialist state.
+
+The colonial and independence periods in Laos were marked by significant conflict and upheaval, with the country being colonized by France and later occupied by Japan. The independence movement was led by the Pathet Lao, which played a significant role in the Laotian Civil War. The war had a devastating impact on the country's infrastructure and economy, but it ultimately led to the establishment of the modern state of Laos.
+
+[SECTION] Modern Era [/SECTION]
+The modern era in Laos has been marked by significant economic growth and development, with the country implementing a series of economic reforms in the 1980s. The reforms included the introduction of a market-based economy and the privatization of state-owned enterprises, which led to significant growth and development. Today, Laos is a rapidly developing country, with a growing economy and a rich cultural heritage. The country has made significant progress in reducing poverty and improving living standards, with the poverty rate declining from over 40% in the 1990s to around 20% today.
+
+Laos has also made significant progress in recent years, with the country being admitted to the Association of Southeast Asian Nations (ASEAN) in 1997. This has led to increased regional cooperation and integration, as well as significant investment in infrastructure and trade. The country has also made significant progress in reducing poverty and improving living standards, with the poverty rate declining from over 40% in the 1990s to around 20% today. The government has also implemented a series of policies aimed at promoting economic growth and development, including the introduction of a new investment law and the establishment of a number of special economic zones.
+
+The modern era in Laos has also seen significant developments in the country's infrastructure, with the completion of the Xayaburi Dam in 2011. The dam has become a major source of hydroelectric power for the country, and has had a significant impact on the environment and local communities. The government has also implemented a series of policies aimed at promoting sustainable development and reducing the country's reliance on natural resources. These policies have included the introduction of a new environmental law and the establishment of a number of protected areas.
+
+[SECTION] Historical Figures [/SECTION]
+
+
+---
+
+*Evergreen reference content. Verify time-sensitive details with official sources.*

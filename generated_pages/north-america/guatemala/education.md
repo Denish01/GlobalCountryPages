@@ -1,0 +1,66 @@
+---
+title: "Guatemala Education — Schools, Universities & Student Guide"
+entity: "Guatemala"
+iso_code: "GT"
+continent: "north-america"
+angle: "education"
+date: "2026-02-17"
+---
+
+# Guatemala Education — Schools, Universities & Student Guide
+
+The education system in Guatemala is a mixed model that combines public and private institutions, with a strong emphasis on **bilingual education** and a growing focus on **internationalization**.
+
+[FACTBOX]
+Literacy Rate: 85.3%
+School System: 6 years of compulsory education
+Language of Instruction: Spanish
+Academic Calendar: January to October
+International Schools: available
+Top University Ranking: ranked among the top 5 in Central America
+[/FACTBOX]
+
+[SECTION] Education System Overview [/SECTION]
+The education system in Guatemala is divided into three main levels: **primary education**, which lasts for 6 years and is compulsory for all children between the ages of 7 and 12, **secondary education**, which lasts for 3 years and is divided into two cycles, and **tertiary education**, which includes university and technical education. The quality of education in Guatemala varies greatly between public and private institutions, with private schools generally offering higher quality education and better facilities. Public schools, on the other hand, often face challenges such as limited resources, overcrowding, and a lack of qualified teachers.
+
+Despite these challenges, the Guatemalan government has made significant efforts to improve the education system in recent years, including the introduction of **bilingual education programs** and the expansion of **vocational training**. However, there is still a long way to go, and many students face significant barriers to accessing quality education, particularly in rural areas.
+
+The education system in Guatemala is overseen by the **Ministry of Education**, which is responsible for setting national education policies and standards. The ministry has implemented a number of initiatives aimed at improving education outcomes, including the introduction of **national assessments** and the development of **education technology**.
+
+[SECTION] Top Universities [/SECTION]
+[TABLE]
+| University | Location | Known For | Est. Tuition (USD/year) |
+| --- | --- | --- | --- |
+| Universidad del Valle de Guatemala | Guatemala City | Business, Engineering | 5,000 |
+| Universidad Rafael Landivar | Guatemala City | Law, Medicine | 4,000 |
+| Universidad Mariano Galvez | Guatemala City | Business, Economics | 3,500 |
+| Universidad San Carlos de Guatemala | Guatemala City | Agriculture, Veterinary Medicine | 2,500 |
+| Universidad Galileo | Guatemala City | Technology, Engineering | 6,000 |
+| Universidad Francisco Marroquin | Guatemala City | Business, Economics | 7,000 |
+[/TABLE]
+
+[SECTION] International Schools [/SECTION]
+- The **International School of Guatemala** in Guatemala City offers an American-style curriculum and is accredited by the US-based **AdvancED**.
+- The **British School of Guatemala** in Guatemala City offers a British-style curriculum and is accredited by the UK-based **British Schools Overseas**.
+- The **Lycée Français de Guatemala** in Guatemala City offers a French-style curriculum and is accredited by the French Ministry of Education.
+- The **German School of Guatemala** in Guatemala City offers a German-style curriculum and is accredited by the German Ministry of Education.
+- The **Mayan International School** in Antigua offers an international curriculum and is accredited by the **International Baccalaureate**.
+
+[SECTION] Studying as a Foreigner [/SECTION]
+- To study in Guatemala, international students must obtain a **student visa**, which can be applied for at the Guatemalan embassy or consulate in their home country.
+- Students must also demonstrate **proficiency in Spanish**, which is the primary language of instruction in most Guatemalan universities.
+- There are a number of **scholarships** available for international students, including the **Guatemalan Government Scholarship** and the **Fulbright Scholarship**.
+- The **cost of living** in Guatemala is relatively low, with accommodation, food, and transportation costing around $500-700 per month.
+- International students must also purchase **health insurance**, which can be obtained through the Guatemalan Social Security Institute.
+- Students who wish to work part-time while studying in Guatemala must obtain a **work permit**, which can be applied for through the Guatemalan Ministry of Labor.
+
+[SECTION] Education Quality & Challenges [/SECTION]
+- One of the main **strengths** of the Guatemalan education system is its emphasis on **bilingual education**, with many schools offering classes in both Spanish and English.
+- However, the system also faces a number of **challenges**, including a lack of **qualified teachers**, particularly in rural areas.
+- The **dropout rate** is also a significant problem, with many students dropping out of school due to poverty, lack of access to education, or other social factors.
+- The Guatemalan government has implemented a number of **reforms** aimed at improving education outcomes, including the introduction of **national assessments** and the development of **education technology**.
+- Despite these efforts, there is still a long way to go, and many students face significant **barriers to accessing quality education**, particularly in rural areas.
+
+---
+
+*Evergreen reference content. Verify time-sensitive details with official sources.*

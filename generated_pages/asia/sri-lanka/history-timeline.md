@@ -1,0 +1,71 @@
+---
+title: "Sri Lanka History — Key Events & Timeline"
+entity: "Sri Lanka"
+iso_code: "LK"
+continent: "asia"
+angle: "history-timeline"
+date: "2026-02-17"
+---
+
+# Sri Lanka History — Key Events & Timeline
+
+Sri Lanka has a rich and diverse history spanning over 3,000 years, with a complex mix of indigenous, colonial, and modern influences shaping the country into the sovereign nation it is today.
+
+[SECTION] Historical Overview [/SECTION]
+The history of Sri Lanka began with the arrival of **Indo-Aryan** settlers from the Indian subcontinent around 6th century BCE, who established the **Anuradhapura Kingdom**, one of the oldest continuously habitated cities in the world. The kingdom flourished under the rule of various dynasties, including the **Mauryan Empire**, and developed a unique culture and architecture, with the construction of massive **stupas**, **temples**, and **irrigation systems**. The pre-colonial period also saw the rise of the **Tamil Kingdoms** in the north, which had a significant impact on the island's culture and politics. The colonial period, which began with the arrival of the **Portuguese** in the 16th century, had a profound impact on the island, with the **Dutch** and **British** subsequently establishing control over the island.
+
+The colonial period saw the introduction of **Christianity**, **Western education**, and **modern infrastructure**, which had a significant impact on the island's culture and economy. The **British colonial rule**, which lasted from 1815 to 1948, saw the introduction of a **plantation economy**, which led to the growth of **tea**, **rubber**, and **coconut** industries. The colonial period also saw the rise of a **nationalist movement**, which sought to establish an independent Sri Lankan state. The modern period has seen significant economic development, with the country becoming a **middle-income economy**, and a **democratic government**.
+
+The country's strategic location in the **Indian Ocean** has made it an important hub for **trade** and **commerce**, with the **port city of Colombo** being a major center for **shipping** and **logistics**. The country's diverse culture, with a mix of **Buddhist**, **Hindu**, **Muslim**, and **Christian** communities, has also made it a popular destination for **tourists** and **pilgrims**. The country's history has been marked by periods of **conflict**, including the **civil war** between the government and the **Liberation Tigers of Tamil Eelam (LTTE)**, which lasted from 1983 to 2009.
+
+The country's modern era has seen significant **economic growth**, with the **service sector** being a major driver of growth, and a **diversified economy**, with a mix of **agriculture**, **manufacturing**, and **services**. The country has also made significant progress in **human development**, with improvements in **education**, **healthcare**, and **poverty reduction**. However, the country still faces significant **challenges**, including **corruption**, **inequality**, and **environmental degradation**.
+
+[SECTION] Timeline of Key Events [/SECTION]
+1. **550 BCE** - The **Vijaya legend** marks the beginning of the Sinhalese settlement in Sri Lanka, with the arrival of Prince Vijaya from India. The legend has had a significant impact on the country's culture and identity.
+2. **307 BCE** - The introduction of **Buddhism** to Sri Lanka by **Arahath Mahinda**, a Buddhist monk from India, who is credited with converting the Sinhalese king, Devanampiyatissa, to Buddhism.
+3. **1017 CE** - The **Chola Empire** from southern India invades Sri Lanka, marking the beginning of a period of **Tamil influence** on the island.
+4. **1505 CE** - The **Portuguese** arrive in Sri Lanka, marking the beginning of the **colonial period**, which would last for over four centuries.
+5. **1658 CE** - The **Dutch** establish control over the island, after defeating the Portuguese, and introduce **Western education** and **modern infrastructure**.
+6. **1815 CE** - The **British** establish control over the island, after defeating the Dutch, and introduce **English language** and **Western culture**.
+7. **1915 CE** - The **Sinhalese-Muslim riots** mark a turning point in the country's **communal relations**, with significant tensions between the Sinhalese and Muslim communities.
+8. **1948 CE** - Sri Lanka gains **independence** from British colonial rule, with **D.S. Senanayake** becoming the country's first prime minister.
+9. **1956 CE** - The **Sinhala Only Act** is passed, making Sinhala the official language, which would have significant implications for the country's **language policy** and **communal relations**.
+10. **1971 CE** - The **Marxist insurgency** led by the **Janatha Vimukthi Peramuna (JVP)** marks a significant challenge to the government, with a **rebellion** that would last for several years.
+11. **1983 CE** - The **Black July riots** mark the beginning of the **civil war** between the government and the **Liberation Tigers of Tamil Eelam (LTTE)**, which would last for over two decades.
+12. **1990 CE** - The **Indian Peace Keeping Force (IPKF)** is deployed in Sri Lanka to enforce a **peace agreement**, but is later withdrawn due to **opposition** from the LTTE.
+13. **2004 CE** - The **Indian Ocean tsunami** devastates the country, causing widespread **destruction** and **loss of life**.
+14. **2009 CE** - The **civil war** comes to an end with the defeat of the LTTE, but the country still faces significant **challenges** in **reconciliation** and **reconstruction**.
+15. **2015 CE** - The **Sri Lankan presidential election** marks a significant shift in the country's **politics**, with the election of **Maithripala Sirisena** as president.
+
+[SECTION] Founding & Formation [/SECTION]
+Sri Lanka's modern history began with the **arrival of the Portuguese** in the 16th century, who established a **colonial administration** on the island. The **Dutch** and **British** subsequently established control over the island, with the British introducing a **modern system of government** and **education**. The country's **independence movement** gained momentum in the early 20th century, with leaders such as **D.S. Senanayake** and **S.W.R.D. Bandaranaike** playing a key role in the country's struggle for independence.
+
+The country's **constitution** was drafted in 1947, with the **Soulbury Constitution** providing the framework for the country's **government** and **politics**. The **country's name** was changed from **Ceylon** to **Sri Lanka** in 1972, reflecting the country's **Sinhalese heritage** and **Buddhist culture**. The country's **national flag** and **national anthem** were also introduced during this period, with the **flag** featuring a **golden lion** and the **anthem** being a **Sinhalese song**.
+
+[SECTION] Colonial & Independence Period [/SECTION]
+The **colonial period** had a profound impact on Sri Lanka, with the **introduction of Western education**, **modern infrastructure**, and **Christianity**. The **British colonial rule** saw the establishment of a **plantation economy**, with the growth of **tea**, **rubber**, and **coconut** industries. The **colonial period** also saw the rise of a **nationalist movement**, with leaders such as **D.S. Senanayake** and **S.W.R.D. Bandaranaike** advocating for **independence**.
+
+The **independence movement** gained momentum in the early 20th century, with the **Ceylon National Congress** playing a key role in the country's struggle for independence. The **country's first prime minister**, **D.S. Senanayake**, was a key figure in the country's **independence movement**, and played a significant role in shaping the country's **post-independence trajectory**. The **independence movement** was marked by significant **challenges**, including **communal tensions** and **economic difficulties**, but ultimately resulted in the country gaining **independence** in 1948.
+
+The **colonial legacy** still has an impact on the country today, with **lingering communal tensions** and **economic disparities**. However, the country has made significant progress in **reconciliation** and **development**, with a **growing economy** and **improving living standards**. The country's **post-independence history** has been marked by significant **milestones**, including the **introduction of a new constitution** in 1972 and the **end of the civil war** in 2009.
+
+[SECTION] Modern Era [/SECTION]
+The **modern era** has seen significant **economic growth**, with the **service sector** being a major driver of growth. The **country's economy** has **diversified**, with a mix of **agriculture**, **manufacturing**, and **services**. The **tourism industry** has also grown significantly, with the **country's beaches**, **temples**, and **wildlife** attracting visitors from around the world. The **country's infrastructure** has also improved significantly, with the **construction of new roads**, **ports**, and **airports**.
+
+The **country's politics** have also undergone significant changes, with the **introduction of a new constitution** in 2015 and the **election of a new president**. The **country's foreign policy** has also shifted, with a **greater emphasis on regional cooperation** and **international engagement**. The **country's relations with India** have also improved significantly, with **increased trade** and **investment** between the two countries. However, the **country still faces significant challenges**, including **corruption**, **inequality**, and **environmental degradation**.
+
+[SECTION] Historical Figures [/SECTION]
+[TABLE]
+| Name | Period | Role | Significance |
+| --- | --- | --- | --- |
+| D.S. Senanayake | 1884-1952 | Prime Minister | Led the country to independence and established a stable government |
+| S.W.R.D. Bandaranaike | 1899-1959 | Prime Minister | Introduced socialist policies and promoted Sinhalese nationalism |
+| J.R. Jayewardene | 1906-1996 | President | Introduced a new constitution and promoted economic liberalization |
+| Velupillai Prabhakaran | 1954-2009 | LTTE leader | Led the Tamil separatist movement and fought a long civil war against the government |
+| Mahinda Rajapaksa | 1945-present | President | Led the country to victory against the LTTE and promoted Sinhalese nationalism |
+| Maithripala Sirisena | 1951-present | President | Introduced a new constitution and promoted reconciliation and development |
+[/TABLE]
+
+---
+
+*Evergreen reference content. Verify time-sensitive details with official sources.*

@@ -1,0 +1,67 @@
+---
+title: "Getting Around Aruba — Transport & Travel Guide"
+entity: "Aruba"
+iso_code: "AW"
+continent: "north-america"
+angle: "transportation"
+date: "2026-02-17"
+---
+
+# Getting Around Aruba — Transport & Travel Guide
+
+To get around in Aruba, you can use a combination of taxis, buses, rental cars, and bicycles, as the island offers a range of transportation options to suit different needs and budgets. 
+
+[FACTBOX]
+Main International Airport(s): Queen Beatrix International Airport, AUA
+Domestic Air Network: limited
+Rail Network: none
+Drives On: right
+Road Quality: good
+Ride-Hailing Apps: local alternatives
+[/FACTBOX]
+
+[SECTION] Getting There [/SECTION]
+Aruba's main international airport, Queen Beatrix International Airport, is located near the capital city of Oranjestad and serves as a hub for flights from the Americas, Europe, and other parts of the world. Direct flights to Aruba are available from major cities such as Miami, New York, and Amsterdam, making it easily accessible to tourists and business travelers alike. The airport is well-equipped with modern facilities and amenities, including duty-free shops, restaurants, and currency exchange services.
+
+For those traveling from neighboring islands or countries, there are also overland entry points, including the Port of Oranjestad, which receives cruise ships and ferries from nearby islands such as Curacao and Bonaire. Additionally, visitors can also arrive in Aruba by private boat or yacht, with several marinas and docking facilities available along the coast. However, it's worth noting that there are no land borders with neighboring countries, so all overland entry points are by sea.
+
+[SECTION] Domestic Flights [/SECTION]
+Aruba has a limited domestic air network, with no scheduled flights between the island and other destinations within the country. However, there are charter flights and helicopter services available for scenic tours and transportation to nearby islands. The main airline operating in Aruba is **Aruba Airlines**, which offers charter flights and private air services. Booking in advance is recommended, especially during peak travel seasons, and approximate costs for domestic flights can range from $100 to $500 per person, depending on the route and type of service.
+
+[SECTION] Trains & Rail [/SECTION]
+Aruba has no rail network, so train travel is not an option on the island. This is due to the small size of the island and the fact that most destinations are easily accessible by road or sea. As a result, visitors will need to rely on other modes of transportation, such as buses, taxis, or rental cars, to get around.
+
+[SECTION] Buses & Coaches [/SECTION]
+Aruba has a well-developed bus network, with several companies operating intercity routes and tourist services. The main bus company is **Arubus**, which offers frequent services between Oranjestad and other major towns and beaches on the island. Bus fares are relatively affordable, with a single ride costing around $2-$5, and daily passes available for $10-$20. The bus network is a convenient and affordable way to get around, especially for those on a budget or without access to a rental car.
+
+[SECTION] City Transport [/SECTION]
+[TABLE]
+| Mode | Available In | Cost (USD) | Notes |
+| --- | --- | --- | --- |
+| City Bus | Oranjestad, San Nicolas | $2-$5 | Frequent services, daily passes available |
+| Taxi | everywhere | $10-$20/km | Metered fares, available at airports and hotels |
+| Ride-Hailing | Oranjestad, San Nicolas | $10-$20 | Local alternatives, such as **Siti-Taxi** |
+| Tuk-tuk/Rickshaw | not available | - | Not a common mode of transport in Aruba |
+[/TABLE]
+
+[SECTION] Driving [/SECTION]
+- To drive in Aruba, visitors will need a valid driver's license from their home country, as well as liability insurance coverage.
+- Road conditions in Aruba are generally good, with well-maintained highways and scenic coastal roads.
+- Fuel costs are relatively high, with gasoline prices averaging around $1.50 per liter.
+- Car rental companies are widely available at the airport and in major towns, with prices starting from around $40 per day for a compact vehicle.
+- When driving in Aruba, be aware of the **right-hand drive** traffic rules and watch out for pedestrians, cyclists, and animals on the road.
+- It's also recommended to rent a 4x4 vehicle if planning to explore the island's rugged terrain and off-road trails.
+
+[SECTION] Transport Tips [/SECTION]
+- Be aware of **traffic congestion** in Oranjestad, especially during rush hour, and plan your journey accordingly.
+- Use reputable taxi companies or ride-hailing services, and always agree on the fare before starting your journey.
+- Download the **Arubus** app to plan your bus route and track schedules in real-time.
+- Be mindful of **parking restrictions** in Oranjestad and other major towns, and use designated parking areas to avoid fines.
+- When using public transportation, be prepared for **crowded buses** during peak hours, and consider using a taxi or rental car for more convenience.
+- Don't forget to **tip your driver** or tour guide, as this is customary in Aruba and appreciated for good service.
+- Stay **informed about local events** and festivals, which can affect traffic and transportation services on the island.
+- Consider purchasing a **local SIM card** or portable Wi-Fi hotspot to stay connected and navigate the island with ease.
+
+---
+
+*Evergreen reference content. Verify time-sensitive details with official sources.*

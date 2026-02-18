@@ -1,0 +1,83 @@
+---
+title: "Guadeloupe Demographics — Population, Ethnicity & Religion"
+entity: "Guadeloupe"
+iso_code: "GP"
+continent: "north-america"
+angle: "demographics"
+date: "2026-02-17"
+---
+
+# Guadeloupe Demographics — Population, Ethnicity & Religion
+
+The population of Guadeloupe is approximately 378,561 people, with a diverse mix of ethnic groups, languages, and religions that reflect the island's history and cultural heritage. 
+
+[FACTBOX]
+Total Population: 378,561
+Population Growth Rate: 0.3%
+Median Age: 38 years
+Urban Population: 98%
+Population Density: 232 per km2
+Life Expectancy: 78 years
+Fertility Rate: 1.8 children per woman
+[/FACTBOX]
+
+[SECTION] Population Overview [/SECTION]
+Guadeloupe has a relatively small population, with a total of 378,561 people as of the latest estimates. The population growth rate is approximately 0.3%, which is relatively low compared to other Caribbean islands. The island's population is predominantly urban, with about 98% of the population living in urban areas. The population density is around 232 people per square kilometer, which is relatively high compared to other Caribbean territories. The median age is 38 years, and the life expectancy is around 78 years. Guadeloupe's population is expected to continue growing, albeit at a slow rate, due to a combination of natural increase and migration.
+
+The population of Guadeloupe is characterized by a high level of urbanization, with the majority of the population living in the capital city of Basse-Terre and other urban areas. The island's urban population is attracted to the amenities and services available in these areas, including education, healthcare, and employment opportunities. However, the high level of urbanization also poses challenges, such as traffic congestion, housing shortages, and environmental degradation. The government of Guadeloupe has implemented various initiatives to address these challenges and promote sustainable development, including investments in public transportation, housing, and environmental protection.
+
+The population of Guadeloupe is also characterized by a significant diaspora community, with many Guadeloupeans living and working abroad, particularly in France and other European countries. This diaspora community plays an important role in the island's economy, with many individuals sending remittances back to their families and friends in Guadeloupe. However, the diaspora community also poses challenges, such as brain drain and cultural disconnection, which can have negative impacts on the island's social and economic development.
+
+[SECTION] Ethnic Groups [/SECTION]
+[TABLE]
+| Ethnic Group | Percentage | Region | Notes |
+| --- | --- | --- | --- |
+| Black or Afro-Caribbean | 80% | Island-wide | Descendants of African slaves |
+| White or European | 10% | Mainly in urban areas | Descendants of French colonizers |
+| Mixed or Mulatto | 5% | Urban and rural areas | Mixed African and European ancestry |
+| Asian or Indian | 3% | Mainly in urban areas | Immigrants from Asia and India |
+| Indigenous or Amerindian | 1% | Rural areas | Descendants of the original inhabitants of the island |
+| Other | 1% | Urban and rural areas | Includes people of other ethnicities, such as Lebanese and Syrian |
+[/TABLE]
+The ethnic groups in Guadeloupe are diverse and reflect the island's complex history and cultural heritage. The majority of the population is of African descent, with around 80% of the population identifying as Black or Afro-Caribbean. The white or European population is mainly descended from French colonizers and makes up around 10% of the population. The mixed or mulatto population, which has both African and European ancestry, makes up around 5% of the population. The Asian or Indian population, which includes immigrants from Asia and India, makes up around 3% of the population. The indigenous or Amerindian population, which includes the descendants of the original inhabitants of the island, makes up around 1% of the population. The relationships between these ethnic groups are generally harmonious, although there are some tensions and inequalities, particularly between the Black and White populations.
+
+[SECTION] Languages [/SECTION]
+- **French** is the official language of Guadeloupe and is widely spoken by the majority of the population.
+- **Creole** is a widely spoken regional language, particularly in rural areas and among the Afro-Caribbean population.
+- **English** is becoming increasingly popular as a second language, particularly among the tourism and business sectors.
+- **Spanish** is also spoken by some Guadeloupeans, particularly those who have worked or studied in other Caribbean islands.
+- **Other languages**, such as Arabic and Chinese, are spoken by smaller communities of immigrants and their descendants.
+
+[SECTION] Religions [/SECTION]
+[TABLE]
+| Religion | Percentage | Notes |
+| --- | --- | --- |
+| Roman Catholic | 85% | Dominant religion, with many churches and cathedrals throughout the island |
+| Protestant | 6% | Includes various denominations, such as Baptist and Methodist |
+| Muslim | 2% | Small but growing community, mainly in urban areas |
+| Hindu | 1% | Mainly practiced by the Asian or Indian community |
+| Other | 6% | Includes other Christian denominations, as well as non-Christian faiths such as Buddhism and Judaism |
+[/TABLE]
+The majority of the population in Guadeloupe is Roman Catholic, with around 85% of the population identifying as Catholic. The Protestant population, which includes various denominations such as Baptist and Methodist, makes up around 6% of the population. The Muslim population, which is mainly concentrated in urban areas, makes up around 2% of the population. The Hindu population, which is mainly practiced by the Asian or Indian community, makes up around 1% of the population. The relationships between these religious groups are generally harmonious, although there are some tensions and inequalities, particularly between the Catholic and Protestant populations.
+
+[SECTION] Age Distribution [/SECTION]
+[TABLE]
+| Age Group | Percentage | Implications |
+| --- | --- | --- |
+| 0-14 | 22% | High youth population, with implications for education and healthcare |
+| 15-24 | 16% | Significant proportion of young adults, with implications for employment and training |
+| 25-54 | 45% | Large working-age population, with implications for the economy and labor market |
+| 55-64 | 10% | Smaller proportion of older workers, with implications for pension and social security systems |
+| 65+ | 7% | Small but growing elderly population, with implications for healthcare and social services |
+[/TABLE]
+
+[SECTION] Urbanization & Major Cities [/SECTION]
+- The capital city of **Basse-Terre** is the largest urban center, with a population of around 12,000 people.
+- **Pointe-a-Pitre** is the second-largest city, with a population of around 15,000 people, and is an important commercial and cultural center.
+- **Les Abymes** is a rapidly growing city, with a population of around 60,000 people, and is a major urban center on the island.
+- The urban population of Guadeloupe is around 98%, with the majority of the population living in urban areas such as Basse-Terre and Pointe-a-Pitre.
+- The diaspora community of Guadeloupe is significant, with many Guadeloupeans living and working abroad, particularly in France and other European countries.
+
+---
+
+*Evergreen reference content. Verify time-sensitive details with official sources.*

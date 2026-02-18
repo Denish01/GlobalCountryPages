@@ -1,0 +1,66 @@
+---
+title: "Paraguay Education — Schools, Universities & Student Guide"
+entity: "Paraguay"
+iso_code: "PY"
+continent: "south-america"
+angle: "education"
+date: "2026-02-17"
+---
+
+# Paraguay Education — Schools, Universities & Student Guide
+
+Paraguay's education system is a mix of public and private institutions, with a strong emphasis on bilingual education in Spanish and Guarani, offering various opportunities for local and international students to study in the country.
+
+[FACTBOX]
+Literacy Rate: 95.5%
+School System: 12 years of compulsory education
+Language of Instruction: Spanish
+Academic Calendar: March to December
+International Schools: available
+Top University Ranking: ranked among the top 1000 universities globally
+[/FACTBOX]
+
+[SECTION] Education System Overview [/SECTION]
+The education system in Paraguay is divided into three main levels: primary, secondary, and tertiary education. Primary education, also known as **basic education**, is compulsory for all children between the ages of 5 and 14 and consists of six years of primary school and six years of secondary school. The quality of education in Paraguay has improved significantly over the years, with the government investing heavily in education infrastructure and teacher training. However, there is still a significant gap between public and private schools, with private schools generally offering better facilities and more qualified teachers. Public schools are free and open to all, but private schools are often preferred by those who can afford them, as they offer a more rigorous academic environment and better preparation for university entrance exams.
+
+The secondary education level, also known as **medium education**, is divided into two cycles: the first cycle includes students from 15 to 17 years old, and the second cycle includes students from 18 to 19 years old. At the end of the secondary education level, students take a national exam to determine their eligibility for tertiary education. Tertiary education, also known as **higher education**, is offered by universities and other institutions, and it is not compulsory. The **National University of Asunción** is the largest and most prestigious university in the country, offering a wide range of undergraduate and graduate programs.
+
+Despite the progress made in recent years, the education system in Paraguay still faces several challenges, including a shortage of qualified teachers, inadequate infrastructure, and a lack of resources. The government has implemented various initiatives to address these challenges, including teacher training programs, school construction projects, and the introduction of new technologies in the classroom.
+
+[SECTION] Top Universities [/SECTION]
+[TABLE]
+| University | Location | Known For | Est. Tuition (USD/year) |
+| --- | --- | --- | --- |
+| National University of Asunción | Asunción | Law, Medicine, Engineering | 2,000 |
+| Catholic University of Asunción | Asunción | Business, Economics, Humanities | 3,000 |
+| Autonomous University of Asunción | Asunción | Business, Engineering, Computer Science | 2,500 |
+| American University of Asunción | Asunción | Business, International Relations, English | 4,000 |
+| Universidad del Pacífico | Asunción | Business, Economics, Law | 2,000 |
+| Universidad Nacional de Itapúa | Encarnación | Agriculture, Veterinary Medicine, Education | 1,500 |
+[/TABLE]
+
+[SECTION] International Schools [/SECTION]
+- The **Asunción International School** offers an American-style curriculum and is accredited by the US-based **New England Association of Schools and Colleges**.
+- The **British School of Asunción** offers a British-style curriculum and is accredited by the UK-based **Council of British International Schools**.
+- The **International Baccalaureate School of Asunción** offers an IB curriculum and is accredited by the Switzerland-based **International Baccalaureate Organization**.
+- International schools in Paraguay are generally expensive, with tuition fees ranging from $5,000 to $15,000 per year.
+- Most international schools are located in the capital city of Asunción, but there are also some schools in other major cities like Ciudad del Este and Encarnación.
+
+[SECTION] Studying as a Foreigner [/SECTION]
+- To study in Paraguay, foreign students need to obtain a **student visa**, which can be applied for at the Paraguayan embassy or consulate in their home country.
+- Foreign students are required to demonstrate a **proficiency in Spanish**, as it is the primary language of instruction in most universities.
+- There are several **scholarship programs** available for foreign students, including the **Paraguayan Government Scholarship** and the **Organization of American States Scholarship**.
+- The cost of living in Paraguay is relatively low, with **rent** starting from $200 per month and **food** starting from $3 per meal.
+- Foreign students can work part-time while studying in Paraguay, but they need to obtain a **work permit** from the **Ministry of Labor**.
+- The **Paraguayan Ministry of Education** offers a **language support program** for foreign students, which includes Spanish language courses and cultural orientation.
+
+[SECTION] Education Quality & Challenges [/SECTION]
+- One of the main strengths of the education system in Paraguay is its **bilingual education** program, which allows students to study in both Spanish and Guarani.
+- However, the system still faces several challenges, including a **shortage of qualified teachers**, particularly in rural areas.
+- The **infrastructure of schools** is also a major concern, with many schools lacking basic facilities such as libraries, computer labs, and sports facilities.
+- The **curriculum** is also a subject of debate, with some critics arguing that it is too focused on theory and not enough on practical skills.
+- The government has implemented several **reforms** in recent years, including the introduction of a new curriculum and the creation of a **National Institute of Education** to oversee the education system.
+
+---
+
+*Evergreen reference content. Verify time-sensitive details with official sources.*

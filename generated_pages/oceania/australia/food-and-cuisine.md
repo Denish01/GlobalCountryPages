@@ -1,0 +1,87 @@
+---
+title: "Australia Food Guide — Dishes, Street Food & Dining"
+entity: "Australia"
+iso_code: "AU"
+continent: "oceania"
+angle: "food-and-cuisine"
+date: "2026-02-17"
+---
+
+# Australia Food Guide — Dishes, Street Food & Dining
+
+When visiting Australia, you should try the country's unique fusion of **bush tucker**, **seafood**, and multicultural cuisines, which are reflected in its must-try dishes such as meat pies, fish and chips, and **Vegemite** on toast.
+
+[FACTBOX]
+Staple Foods: beef, seafood, wheat, and dairy products
+National Dish: meat pie, a filling pastry filled with minced meat and gravy
+Meal Times: typical breakfast times are between 7-10 am, lunch between 12-2 pm, and dinner between 6-8 pm
+Tipping at Restaurants: not expected but 5-10% is appreciated for exceptional service
+Dietary Notes: Australia is generally vegetarian-friendly, with many restaurants offering **halal** and **kosher** options
+[/FACTBOX]
+
+[SECTION] Food Culture Overview [/SECTION]
+Australian cuisine is defined by its multicultural influences, with **Asian**, **European**, and **Middle Eastern** flavors blending with native **bush tucker** ingredients. The country's cuisine has been shaped by its history of immigration, with different cultures bringing their own unique cooking styles and ingredients. Regional variations also play a significant role in Australian cuisine, with **seafood** being a staple in coastal areas and **barbecued meats** being popular in rural areas. The country's cuisine is also known for its **fusion** of different flavors and ingredients, with popular dishes such as **Chiko rolls** and **dim sims** reflecting the country's cultural diversity.
+
+Australia's food culture is also influenced by its climate and geography, with **outdoor dining** and **barbecues** being popular in many parts of the country. The country's cuisine is also known for its **fresh produce**, with many restaurants and cafes serving **seasonal** and **locally sourced** ingredients. In recent years, there has been a growing interest in **native Australian ingredients**, with many chefs incorporating **bush tucker** ingredients such as **kakadu plum** and **quandong** into their dishes.
+
+The country's food culture is also reflected in its many **food festivals** and **events**, which celebrate the country's culinary diversity. From the **Melbourne Food and Wine Festival** to the **Sydney Fish Market**, there are many opportunities to experience Australia's unique food culture. Whether you're trying **traditional Australian cuisine** or **modern fusion** dishes, there's something for everyone in Australia's vibrant food scene.
+
+[SECTION] Must-Try Dishes [/SECTION]
+[TABLE]
+| Dish | Type | Description | Where to Find |
+| --- | --- | --- | --- |
+| Meat Pie | savory pastry | a filling pastry filled with minced meat and gravy | bakeries and cafes nationwide |
+| Fish and Chips | seafood | battered and fried fish served with crispy chips | seafood restaurants and takeaways |
+| Chiko Roll | snack | a deep-fried savory roll filled with meat, cabbage, and carrot | convenience stores and markets |
+| Vegemite on Toast | breakfast | a classic Australian breakfast dish made with **Vegemite** spread on toast | cafes and restaurants nationwide |
+| Pavlova | dessert | a meringue-based dessert topped with whipped cream and fresh fruit | bakeries and cafes nationwide |
+| Barramundi | seafood | a type of fish commonly found in Australian waters, often served grilled or fried | seafood restaurants |
+| Lamington | dessert | a square-shaped sponge cake covered in **chocolate** and **coconut** | bakeries and cafes nationwide |
+| **Dim Sim** | snack | a type of **steamed dumpling** filled with meat or vegetables | Chinese restaurants and markets |
+| **Churros** | dessert | a type of **fried dough pastry** coated in **cinnamon sugar** | cafes and restaurants nationwide |
+| **Kakadu Plum** Tart | dessert | a tart made with **kakadu plum**, a native Australian ingredient | high-end restaurants and cafes |
+[/TABLE]
+
+[SECTION] Street Food & Snacks [/SECTION]
+- **Meat Pie**: a filling pastry filled with minced meat and gravy, typically costing $5-7 USD
+- **Fish and Chips**: battered and fried fish served with crispy chips, typically costing $10-15 USD
+- **Chiko Roll**: a deep-fried savory roll filled with meat, cabbage, and carrot, typically costing $3-5 USD
+- **Vegemite on Toast**: a classic Australian breakfast dish made with **Vegemite** spread on toast, typically costing $5-7 USD
+- **Dim Sim**: a type of **steamed dumpling** filled with meat or vegetables, typically costing $5-7 USD
+- **Lamington**: a square-shaped sponge cake covered in **chocolate** and **coconut**, typically costing $5-7 USD
+- **Kakadu Plum** Ice Cream: a unique ice cream flavor made with **kakadu plum**, a native Australian ingredient, typically costing $7-10 USD
+- **Pavlova**: a meringue-based dessert topped with whipped cream and fresh fruit, typically costing $10-15 USD
+
+[SECTION] Drinks [/SECTION]
+- **Victoria Bitter**: a popular Australian beer, typically costing $7-10 USD per pint
+- **Foster's Lager**: a classic Australian beer, typically costing $7-10 USD per pint
+- **Flat White**: a type of coffee made with espresso and milk, typically costing $4-6 USD
+- **Chai Latte**: a spiced tea drink made with black tea and milk, typically costing $4-6 USD
+- **Kakadu Plum** Juice: a unique juice made with **kakadu plum**, a native Australian ingredient, typically costing $5-7 USD
+- **Australian Wine**: a range of wines made from Australian grapes, typically costing $20-50 USD per bottle
+
+[SECTION] Dining Customs [/SECTION]
+- Table manners are generally informal, with an emphasis on **relaxed** and **casual** dining
+- Tipping is not expected but 5-10% is appreciated for exceptional service
+- Reservations are recommended for high-end restaurants, but not necessary for casual eateries
+- Dress codes vary, with **smart casual** attire suitable for most restaurants
+- Eating with your hands is generally accepted, especially when eating **street food** or **snacks**
+- **BYO** (bring your own) wine is common in many restaurants, with a small **corkage fee** applied
+
+[SECTION] Where to Eat [/SECTION]
+- **Markets**: many cities have markets that offer a range of food stalls and vendors, such as the **Queen Victoria Market** in Melbourne
+- **Food Courts**: many shopping centers have food courts that offer a variety of cuisines, such as the **Westfield** food court in Sydney
+- **Restaurants**: from high-end fine dining to casual eateries, there are many options to choose from, such as the **Quay** restaurant in Sydney
+- **Cafes**: many cafes offer a range of breakfast and brunch options, such as the **Pellegrini's** cafe in Melbourne
+- **Takeaways**: many restaurants offer takeaway options, with **fish and chips** and **pizza** being popular choices
+
+[SECTION] Food Markets & Food Experiences [/SECTION]
+- **Queen Victoria Market**: a historic market in Melbourne that offers a range of food stalls and vendors
+- **Sydney Fish Market**: a popular market that offers a range of fresh seafood and **sushi** options
+- **Melbourne Food and Wine Festival**: an annual festival that celebrates the city's culinary scene
+- **Surfers Paradise Beachfront Markets**: a market that offers a range of food stalls and vendors, with a focus on **seafood** and **international cuisine**
+- **Adelaide Central Market**: a historic market that offers a range of food stalls and vendors, with a focus on **local produce** and **artisanal goods**
+
+---
+
+*Evergreen reference content. Verify time-sensitive details with official sources.*

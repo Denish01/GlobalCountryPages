@@ -1,0 +1,65 @@
+---
+title: "Solomon Islands Internet & SIM Cards — Connectivity Guide"
+entity: "Solomon Islands"
+iso_code: "SB"
+continent: "oceania"
+angle: "internet-and-connectivity"
+date: "2026-02-17"
+---
+
+# Solomon Islands Internet & SIM Cards — Connectivity Guide
+
+The internet in Solomon Islands is generally limited, with slow speeds and a lack of reliable connectivity, especially in rural areas, but tourists and travelers can still access the internet through mobile networks and WiFi hotspots. 
+
+[FACTBOX]
+Average Internet Speed: 5 Mbps download
+Mobile Network Coverage: Moderate
+Main Carriers: Our Telekom, Bmobile, Telekom
+SIM Card Cost: 10 USD for tourist SIM
+WiFi Availability: Limited
+5G Available: No
+[/FACTBOX]
+
+[SECTION] Internet Overview [/SECTION]
+The internet in Solomon Islands is characterized by slow speeds and limited coverage, with an average download speed of 5 Mbps. The urban areas, such as the capital Honiara, have better internet connectivity compared to rural areas, where the internet is often unreliable or unavailable. The reliability of the internet is also a concern, with frequent outages and disconnections, especially during heavy rainfall or strong winds. This can be frustrating for users who rely on the internet for work, communication, or entertainment.
+
+The Solomon Islands government has been working to improve the internet infrastructure, including the rollout of fiber-optic cables and the expansion of mobile networks. However, the progress has been slow, and the internet remains a challenge for many people in the country. Despite these challenges, the internet has become an essential tool for many Solomon Islanders, who use it for education, business, and communication. The internet has also enabled the growth of e-commerce, online banking, and other digital services, which have improved the lives of many people in the country.
+
+[SECTION] Getting a SIM Card [/SECTION]
+Getting a SIM card in Solomon Islands is relatively easy, with several mobile carriers offering tourist-friendly plans. The main carriers, such as Our Telekom and Bmobile, have shops and outlets at the Honiara International Airport and in major towns, where tourists can buy SIM cards and register for a plan. To buy a SIM card, tourists need to provide a valid passport and fill out a registration form. The cost of a SIM card is around 10 USD, and data plans start from 5 USD per day for 1 GB of data.
+
+Our Telekom and Bmobile are the recommended carriers for tourists, as they have the widest coverage and most reliable networks. They offer a range of data plans, including daily, weekly, and monthly plans, which can be purchased at their shops or online. Tourists can also buy data top-ups at convenience stores, supermarkets, and other retail outlets.
+
+[TABLE]
+| Carrier | Tourist Plan | Data | Price (USD) | Notes |
+| --- | --- | --- | --- | --- |
+| Our Telekom | Daily Plan | 1 GB | 5 | Valid for 24 hours |
+| Bmobile | Weekly Plan | 5 GB | 20 | Valid for 7 days |
+| Telekom | Monthly Plan | 10 GB | 50 | Valid for 30 days |
+| Our Telekom | Add-on | 1 GB | 2 | Valid for 24 hours |
+[/TABLE]
+
+[SECTION] WiFi Availability [/SECTION]
+- Hotel WiFi quality is generally good, with most hotels and resorts offering free WiFi to their guests.
+- Cafe WiFi culture is limited, with only a few cafes and restaurants offering free WiFi to their customers.
+- Coworking spaces are scarce, with only a few options available in Honiara, the capital city.
+- Public WiFi is available at some public libraries, community centers, and government buildings, but the speed and reliability can be poor.
+- Some restaurants and bars also offer free WiFi to their customers, but the speed and reliability can vary.
+
+[SECTION] For Remote Workers [/SECTION]
+- Coworking spaces, such as the Solomon Islands Chamber of Commerce and Industry, offer reliable internet and other amenities for remote workers.
+- Reliable cafe chains, such as the Honiara Cafe, offer free WiFi and a comfortable working environment.
+- Backup internet options, such as mobile hotspots, can be useful in case of internet outages or disconnections.
+- VPNs (Virtual Private Networks) are recommended for remote workers who need to access sensitive information or communicate with clients securely.
+- Some hotels and resorts also offer coworking spaces and other amenities for remote workers, such as meeting rooms and printing services.
+
+[SECTION] Tips & Warnings [/SECTION]
+- Internet censorship is not a major concern in Solomon Islands, but some websites and online services may be blocked due to local laws or regulations.
+- Blocked sites, such as online gambling or adult content websites, may not be accessible in Solomon Islands.
+- VPNs are recommended for users who need to access blocked websites or online services.
+- Roaming alternatives, such as purchasing a local SIM card or using a mobile hotspot, can be more cost-effective than roaming with a foreign carrier.
+- eSIM options are not widely available in Solomon Islands, but some carriers may offer eSIM plans for certain devices.
+
+---
+
+*Evergreen reference content. Verify time-sensitive details with official sources.*

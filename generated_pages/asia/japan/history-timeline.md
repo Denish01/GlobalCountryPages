@@ -1,0 +1,72 @@
+---
+title: "Japan History — Key Events & Timeline"
+entity: "Japan"
+iso_code: "JP"
+continent: "asia"
+angle: "history-timeline"
+date: "2026-02-17"
+---
+
+# Japan History — Key Events & Timeline
+
+The history of Japan is a long and complex narrative that spans over 2,000 years, from the earliest known inhabitants of the islands to the modern era, marked by significant events, cultural developments, and transformations that have shaped the country into what it is today.
+
+[SECTION] Historical Overview [/SECTION]
+The history of Japan began with the **Jomon period**, which is characterized by a hunter-gatherer lifestyle and dates back to around 14,000 BCE. This period was followed by the **Yayoi period**, which saw the introduction of agriculture and the arrival of new people from the Asian continent. The **Yamato period**, which started in the 3rd century CE, marked the beginning of a more complex society, with the emergence of a centralized state and the development of a writing system based on Chinese characters. Japan's pre-colonial era was influenced by China and Buddhism, and the country developed a unique culture and identity.
+
+During the **Edo period**, which lasted from 1603 to 1867, Japan was ruled by the **Tokugawa shogunate**, a feudal military government that enforced a policy of isolationism, known as **sakoku**, which prohibited contact with the outside world. This period saw the development of a vibrant urban culture, with the growth of cities like Edo (modern-day Tokyo) and the emergence of a wealthy merchant class. The **Meiji period**, which started in 1868, marked a significant turning point in Japanese history, as the country underwent a rapid modernization and industrialization, and emerged as a major world power.
+
+In the 20th century, Japan experienced a period of militarism and expansion, which led to its involvement in **World War II**. The country's defeat in the war led to a period of occupation by the Allied powers, and the adoption of a new **Constitution**, which established Japan as a **parliamentary democracy**. Since then, Japan has experienced rapid economic growth, and has become one of the world's leading economies, known for its innovative technology, rich culture, and unique lifestyle.
+
+[SECTION] Timeline of Key Events [/SECTION]
+1. **10,000 BCE** - The **Jomon period** begins, marked by a hunter-gatherer lifestyle and the development of a distinct culture.
+2. **300 BCE** - The **Yayoi period** starts, with the introduction of agriculture and the arrival of new people from the Asian continent.
+3. **300 CE** - The **Yamato period** begins, marked by the emergence of a centralized state and the development of a writing system based on Chinese characters.
+4. **593 CE** - The **Asuka period** starts, with the introduction of Buddhism and the development of a more complex society.
+5. **1603 CE** - The **Edo period** begins, marked by the rule of the **Tokugawa shogunate** and the enforcement of **sakoku**, a policy of isolationism.
+6. **1868 CE** - The **Meiji period** starts, with the restoration of imperial rule and the modernization of Japan.
+7. **1894-1895 CE** - The **First Sino-Japanese War** occurs, with Japan emerging as a major military power.
+8. **1904-1905 CE** - The **Russo-Japanese War** takes place, with Japan defeating Russia and gaining control of Korea.
+9. **1926 CE** - The **Taisho period** ends, with the death of Emperor Taisho and the beginning of the **Showa period**.
+10. **1931 CE** - The **Invasion of Manchuria** occurs, marking the beginning of Japan's military expansion in Asia.
+11. **1937 CE** - The **Second Sino-Japanese War** starts, with Japan invading China and leading to a prolonged conflict.
+12. **1941 CE** - Japan launches a surprise attack on **Pearl Harbor**, leading to its entry into **World War II**.
+13. **1945 CE** - Japan surrenders to the Allied powers, marking the end of **World War II**.
+14. **1947 CE** - A new **Constitution** is adopted, establishing Japan as a **parliamentary democracy**.
+15. **1950s-1960s CE** - Japan experiences rapid economic growth, becoming one of the world's leading economies.
+16. **1989 CE** - The **Showa period** ends, with the death of Emperor Hirohito and the beginning of the **Heisei period**.
+17. **1990s CE** - Japan experiences a period of economic stagnation, known as the **Lost Decade**.
+18. **2011 CE** - A devastating **earthquake and tsunami** hits Japan, leading to a major nuclear disaster.
+19. **2019 CE** - The **Reiwa period** begins, with the accession of Emperor Naruhito to the throne.
+20. **2020 CE** - Japan hosts the **Summer Olympics**, which are postponed to 2021 due to the COVID-19 pandemic.
+
+[SECTION] Founding & Formation [/SECTION]
+The founding of Japan is a complex and disputed topic, with different theories and legends surrounding the origins of the Japanese people. According to the **Kojiki**, a collection of ancient myths and legends, Japan was founded by the **Sun Goddess**, Amaterasu, who sent her grandson, **Ninigi**, to earth to establish a divine rule. The **Yamato period**, which started in the 3rd century CE, marked the emergence of a centralized state, with the development of a writing system based on Chinese characters and the establishment of a imperial court.
+
+The modern Japanese state was formed during the **Meiji period**, which started in 1868, with the restoration of imperial rule and the modernization of Japan. The **Meiji Constitution**, which was adopted in 1889, established Japan as a **constitutional monarchy**, with the emperor as the head of state and a **parliamentary system** of government. The **Meiji period** saw significant economic and social changes, with the introduction of Western-style education, the development of a modern economy, and the emergence of a new class of industrialists and entrepreneurs.
+
+[SECTION] Colonial & Independence Period [/SECTION]
+Japan was never formally colonized by a Western power, but it was subject to significant foreign influence and pressure during the 19th and early 20th centuries. The **Black Ships** of American Commodore Matthew Perry, which arrived in Japan in 1853, marked the beginning of a period of **opening up** to the outside world, with the forced signing of the **Treaty of Kanagawa**, which established trade and diplomatic relations between Japan and the United States. The **Meiji period**, which started in 1868, saw a significant modernization of Japan, with the introduction of Western-style education, the development of a modern economy, and the emergence of a new class of industrialists and entrepreneurs.
+
+The **independence movement** in Japan was not a traditional anti-colonial movement, but rather a movement to modernize and strengthen the country, and to assert its independence from foreign influence. The **Meiji Restoration**, which took place in 1868, marked a significant turning point in Japanese history, with the restoration of imperial rule and the modernization of Japan. The **Taisho period**, which started in 1912, saw a significant expansion of Japanese power and influence in Asia, with the annexation of Korea and the establishment of a **colonial empire** in China and Southeast Asia.
+
+[SECTION] Modern Era [/SECTION]
+The modern era in Japan began with the **post-war period**, which saw a significant occupation by the Allied powers, and the adoption of a new **Constitution**, which established Japan as a **parliamentary democracy**. The **post-war period** also saw a significant economic growth, with Japan emerging as one of the world's leading economies, known for its innovative technology, rich culture, and unique lifestyle. The **1980s** saw a period of rapid economic growth, known as the **Japanese economic miracle**, with Japan becoming the world's second-largest economy.
+
+The **1990s** saw a period of economic stagnation, known as the **Lost Decade**, with Japan experiencing a prolonged period of low growth and deflation. The **2000s** saw a significant recovery, with Japan experiencing a period of moderate growth, and the emergence of a new generation of leaders and entrepreneurs. Today, Japan is a major world power, known for its innovative technology, rich culture, and unique lifestyle, and is playing an increasingly important role in regional and global affairs.
+
+[SECTION] Historical Figures [/SECTION]
+[TABLE]
+| Name | Period | Role | Significance |
+| --- | --- | --- | --- |
+| Jimmu | 660-585 BCE | Legendary founder of Japan | Established the imperial dynasty and the Japanese state |
+| Shotoku Taishi | 574-622 CE | Prince and regent | Introduced Buddhism and established a centralized state |
+| Tokugawa Ieyasu | 1543-1603 CE | Shogun | Established the Tokugawa shogunate and enforced sakoku, a policy of isolationism |
+| Meiji | 1852-1912 CE | Emperor | Oversaw the modernization of Japan and the adoption of a new Constitution |
+| Hirohito | 1901-1989 CE | Emperor | Ruled Japan during World War II and the post-war period, and oversaw the country's economic growth and development |
+| Yoshida Shigeru | 1878-1967 CE | Prime Minister | Played a key role in post-war Japan, and oversaw the country's economic growth and development |
+| Nakasone Yasuhiro | 1918-2019 CE | Prime Minister | Introduced significant economic and social reforms, and played a key role in Japan's emergence as a major world power |
+
+---
+
+*Evergreen reference content. Verify time-sensitive details with official sources.*

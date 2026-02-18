@@ -1,0 +1,65 @@
+---
+title: "Montenegro Education — Schools, Universities & Student Guide"
+entity: "Montenegro"
+iso_code: "ME"
+continent: "europe"
+angle: "education"
+date: "2026-02-17"
+---
+
+# Montenegro Education — Schools, Universities & Student Guide
+
+The education system in Montenegro is a well-structured and developing institution, with a strong emphasis on public education and a growing number of private and international schools, offering a range of study options for both local and foreign students.
+
+[FACTBOX]
+Literacy Rate: 98.5%
+School System: 12 years of compulsory education
+Language of Instruction: Montenegrin
+Academic Calendar: September to June
+International Schools: available
+Top University Ranking: ranked among the top 1000 universities globally
+[/FACTBOX]
+
+[SECTION] Education System Overview [/SECTION]
+The education system in Montenegro is divided into three main stages: primary, secondary, and tertiary education. Primary education, also known as **osnovno obrazovanje**, is compulsory for all children between the ages of 6 and 14 and lasts for eight years. Secondary education, or **srednje obrazovanje**, is also compulsory and lasts for four years, after which students can choose to attend vocational schools or **gimnazija**, a type of high school that prepares students for university. Tertiary education, or **visoko obrazovanje**, is provided by universities and colleges, with the University of Montenegro being the largest and most prestigious institution in the country.
+
+The quality of education in Montenegro is generally good, with a strong emphasis on **science, technology, engineering, and mathematics (STEM)** subjects. However, there are some challenges facing the education system, including a lack of resources and outdated infrastructure in some schools. Public education is free and available to all citizens, while private schools and international schools offer alternative options for those who can afford them.
+
+The education system in Montenegro is also influenced by the country's **Bologna Process** membership, which aims to create a European Higher Education Area (EHEA) and promote student mobility and academic exchange. This has led to a number of reforms and changes in the education system, including the introduction of the **European Credit Transfer System (ECTS)** and the development of new study programs and curricula.
+
+[SECTION] Top Universities [/SECTION]
+[TABLE]
+| University | Location | Known For | Est. Tuition (USD/year) |
+| --- | --- | --- | --- |
+| University of Montenegro | Podgorica | Law, Economics, Engineering | 1,500 |
+| University of Donja Gorica | Podgorica | Business, Management, IT | 2,000 |
+| Mediterranean University | Podgorica | Tourism, Hospitality, Management | 2,500 |
+| University of Mediteran | Podgorica | Business, Law, Economics | 3,000 |
+| UDG - University for Business Studies | Podgorica | Business, Management, Finance | 3,500 |
+[/TABLE]
+
+[SECTION] International Schools [/SECTION]
+- The British International School of Montenegro offers a **British-style curriculum** and is located in the capital city of Podgorica.
+- The International School of Montenegro offers an **International Baccalaureate (IB) curriculum** and is also located in Podgorica.
+- The American School of Montenegro offers an **American-style curriculum** and is located in the city of Bar.
+- The Montenegrin International School offers a **combined curriculum** of Montenegrin and international subjects and is located in the city of Kotor.
+- The cost of attending an international school in Montenegro can range from 5,000 to 15,000 euros per year, depending on the school and the level of study.
+
+[SECTION] Studying as a Foreigner [/SECTION]
+- To study in Montenegro, foreign students need to obtain a **student visa**, which can be applied for at the Montenegrin embassy or consulate in their home country.
+- Foreign students are required to have a good knowledge of the **Montenegrin language**, although some universities offer programs taught in English.
+- There are a number of **scholarships** available for foreign students, including government-funded scholarships and scholarships offered by individual universities.
+- The cost of living in Montenegro is relatively low, with **rent** starting from around 200 euros per month and **food** starting from around 5 euros per meal.
+- Foreign students can also work part-time while studying in Montenegro, with a **work permit** required for non-EU citizens.
+- The **student residence permit** is usually issued for the duration of the study program and can be renewed annually.
+
+[SECTION] Education Quality & Challenges [/SECTION]
+- One of the main strengths of the education system in Montenegro is its **strong emphasis on STEM subjects**, which has led to a number of successful graduates in fields such as engineering and computer science.
+- However, the education system also faces some challenges, including a **lack of resources** and outdated infrastructure in some schools.
+- The **Bologna Process** has led to a number of reforms and changes in the education system, including the introduction of new study programs and curricula.
+- The education system in Montenegro also faces the challenge of **brain drain**, with many young and educated Montenegrins choosing to leave the country to study or work abroad.
+- Despite these challenges, the education system in Montenegro is **continuously improving**, with a number of initiatives and projects aimed at increasing the quality of education and promoting student mobility and academic exchange.
+
+---
+
+*Evergreen reference content. Verify time-sensitive details with official sources.*

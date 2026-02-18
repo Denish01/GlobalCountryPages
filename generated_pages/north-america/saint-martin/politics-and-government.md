@@ -1,0 +1,74 @@
+---
+title: "Saint Martin Politics & Government — System, Leaders & Stability"
+entity: "Saint Martin"
+iso_code: "MF"
+continent: "north-america"
+angle: "politics-and-government"
+date: "2026-02-17"
+---
+
+# Saint Martin Politics & Government — System, Leaders & Stability
+
+Saint Martin is governed as an overseas collectivity of France, with a **parliamentary system** that provides for a significant degree of autonomy in local affairs.
+
+[FACTBOX]
+Government Type: Overseas collectivity
+Head of State: President of France, Emmanuel Macron
+Head of Government: Prefect of Saint Martin, Serge Gouteyron
+Legislature: Territorial Council, 23 seats
+Legal System: Civil law
+Political Stability Index: Ranked 23rd out of 178 countries in the 2020 Global Peace Index
+Corruption Index: Ranked 23rd out of 180 countries in the 2020 Corruption Perceptions Index
+[/FACTBOX]
+
+[SECTION] Political System [/SECTION]
+The government of Saint Martin is characterized by a separation of powers between the executive, legislative, and judicial branches. The **executive branch** is headed by the Prefect of Saint Martin, who is appointed by the French President and is responsible for representing the French government in the territory. The **legislative branch** is composed of the Territorial Council, which has 23 members elected by universal suffrage for a five-year term. The Territorial Council is responsible for making laws and decisions on local matters, such as education, healthcare, and infrastructure. The **judicial branch** is composed of the Court of First Instance and the Court of Appeal, which are responsible for administering justice in the territory.
+
+The political system of Saint Martin is based on the principles of **democracy** and **decentralization**, with a significant degree of autonomy granted to the territory in local affairs. However, the French government retains responsibility for matters such as defense, foreign affairs, and justice. The territory also has a **consultative council**, which provides advice to the Prefect and the Territorial Council on matters of local interest.
+
+The government of Saint Martin is also subject to the **principle of subsidiarity**, which holds that decisions should be taken at the lowest level of government possible. This means that the territory has a significant degree of autonomy in matters such as education, healthcare, and infrastructure, while the French government retains responsibility for matters that require a higher level of coordination and resources.
+
+[SECTION] Government Structure [/SECTION]
+[TABLE]
+| Branch | Institution | Head/Leader | Role |
+| --- | --- | --- | --- |
+| Executive | Prefecture of Saint Martin | Prefect Serge Gouteyron | Represents the French government in the territory |
+| Legislative | Territorial Council | President Daniel Gibbs | Makes laws and decisions on local matters |
+| Judicial | Court of First Instance | President of the Court | Administers justice in the territory |
+[/TABLE]
+
+[SECTION] Major Political Parties [/SECTION]
+[TABLE]
+| Party | Position | Leader | Seats | Notes |
+| --- | --- | --- | --- | --- |
+| Union for Progress | Center-right | Alain Richardson | 6 | Supports closer ties with France |
+| Saint Martin Alliance | Center-left | Daniel Gibbs | 5 | Advocates for greater autonomy for the territory |
+| Saint Martin Hope | Left-wing | Louis Mussington | 4 | Supports social and economic development |
+| Saint Martin Renaissance | Right-wing | Jeanne Rogers-Vanterpool | 3 | Advocates for reduced taxes and regulation |
+| Saint Martin Unity | Centrist | Marthe Ogilvie | 2 | Supports unity and cooperation among the territory's different communities |
+[/TABLE]
+
+[SECTION] Elections [/SECTION]
+- The electoral system in Saint Martin is based on **universal suffrage**, with all citizens over the age of 18 having the right to vote.
+- Elections to the Territorial Council are held every five years, with the most recent election taking place in 2020.
+- The **voter participation rate** in the 2020 election was 55%, with a total of 15,000 voters casting ballots.
+- The next election is scheduled to take place in 2025, with a number of new parties and candidates expected to participate.
+
+[SECTION] Political Stability & Challenges [/SECTION]
+- The current **political climate** in Saint Martin is characterized by a high degree of stability and cooperation between the different branches of government.
+- However, the territory faces a number of **challenges**, including a high level of unemployment and a need for greater economic development.
+- The territory is also vulnerable to **natural disasters**, such as hurricanes, which can have a significant impact on the local economy and infrastructure.
+- The **regional dynamics** of the territory are also important, with Saint Martin being located in a sensitive area of the Caribbean and subject to the influence of a number of different countries and organizations.
+- The territory has a **high level of freedom**, with a strong tradition of democracy and human rights.
+- However, there are also some **concerns about corruption**, with the territory ranking 23rd out of 180 countries in the 2020 Corruption Perceptions Index.
+
+[SECTION] Foreign Relations [/SECTION]
+- Saint Martin has a **close relationship** with France, which provides significant financial and technical assistance to the territory.
+- The territory is also a member of a number of **international organizations**, including the United Nations and the Organization of American States.
+- Saint Martin has a **cooperative relationship** with its neighbors, including Sint Maarten and Anguilla, with which it shares a number of economic and cultural ties.
+- The territory is also a member of the **Association of Caribbean States**, which provides a framework for cooperation and dialogue with other countries in the region.
+- Saint Martin has a **diplomatic presence** in a number of countries, including France, the United States, and the Netherlands, with which it has significant economic and cultural ties.
+
+---
+
+*Evergreen reference content. Verify time-sensitive details with official sources.*

@@ -1,0 +1,66 @@
+---
+title: "Nigeria Internet & SIM Cards — Connectivity Guide"
+entity: "Nigeria"
+iso_code: "NG"
+continent: "africa"
+angle: "internet-and-connectivity"
+date: "2026-02-17"
+---
+
+# Nigeria Internet & SIM Cards — Connectivity Guide
+
+The internet in Nigeria is relatively well-developed, with a growing number of users and improving connectivity, but it still faces challenges such as slow speeds and limited rural coverage. 
+
+[FACTBOX]
+Average Internet Speed: 10.28 Mbps download
+Mobile Network Coverage: Good
+Main Carriers: MTN, Glo, Airtel
+SIM Card Cost: 5-10 USD for tourist SIM
+WiFi Availability: Common
+5G Available: Limited
+[/FACTBOX]
+
+[SECTION] Internet Overview [/SECTION]
+Nigeria has a relatively well-developed internet infrastructure, with a significant number of internet users and a growing demand for online services. However, the quality of internet services can vary greatly depending on the location, with urban areas generally having faster and more reliable connections than rural areas. The average internet speed in Nigeria is around 10.28 Mbps, which is relatively slow compared to other countries, but it is still sufficient for basic online activities such as browsing, emailing, and social media. The mobile network coverage is good, with most major carriers having a wide reach, but the quality of the signal can be affected by factors such as terrain, weather, and network congestion.
+
+The reliability of the internet in Nigeria can also be a challenge, with frequent outages and downtime reported by users. This can be frustrating for individuals and businesses that rely on the internet for their daily activities, and it can also have a negative impact on the country's economy. However, the Nigerian government has been working to improve the country's internet infrastructure, with investments in new technologies such as fiber optic cables and 5G networks. These efforts are expected to improve the quality and reliability of internet services in the country, and to increase access to the internet for more Nigerians.
+
+[SECTION] Getting a SIM Card [/SECTION]
+Getting a SIM card in Nigeria is relatively easy, with many mobile carriers offering prepaid and postpaid plans for tourists and locals alike. The main carriers in Nigeria are MTN, Glo, and Airtel, and they all offer a range of plans and services to suit different needs and budgets. To get a SIM card, you will need to provide some identification documents, such as a passport or a national ID card, and you may also need to register your SIM card with the carrier. This can usually be done at the carrier's office or at a retail store that sells SIM cards.
+
+The cost of a SIM card in Nigeria can vary depending on the carrier and the plan you choose, but you can expect to pay around 5-10 USD for a tourist SIM. Data plans are also available, with prices starting from around 1-2 USD per day for a limited amount of data. It's worth noting that some carriers may offer special plans for tourists or visitors, so it's a good idea to check with the carrier before you buy a SIM card.
+
+[TABLE]
+| Carrier | Tourist Plan | Data | Price (USD) | Notes |
+| --- | --- | --- | --- | --- |
+| MTN | MTN Tourist Plan | 1GB | 5 | Valid for 7 days |
+| Glo | Glo Tourist Plan | 2GB | 10 | Valid for 30 days |
+| Airtel | Airtel Tourist Plan | 500MB | 3 | Valid for 3 days |
+| 9Mobile | 9Mobile Tourist Plan | 1GB | 5 | Valid for 7 days |
+[/TABLE]
+
+[SECTION] WiFi Availability [/SECTION]
+- Hotel WiFi quality is generally good, with most hotels offering free WiFi to their guests
+- Cafe WiFi culture is growing in Nigeria, with many cafes and restaurants offering free WiFi to their customers
+- Coworking spaces are becoming increasingly popular in Nigeria, with many offering high-speed WiFi and other amenities to remote workers and entrepreneurs
+- Public WiFi is available in some areas, such as airports and shopping malls, but it's not always reliable or secure
+- Some universities and libraries also offer free WiFi to students and visitors, but the quality of the connection can vary
+
+[SECTION] For Remote Workers [/SECTION]
+- Coworking spaces such as Hub One and Workstation offer high-speed WiFi and other amenities to remote workers and entrepreneurs
+- Reliable cafe chains such as Starbucks and Java House offer free WiFi and a comfortable working environment
+- Backup internet options such as mobile hotspots and satellite internet are available, but they can be expensive and may not always be reliable
+- VPNs are recommended for remote workers who need to access sensitive information or use public WiFi networks
+- Some companies such as Regus and WeWork offer virtual office services, which can include access to a physical workspace and high-speed WiFi
+
+[SECTION] Tips & Warnings [/SECTION]
+- Internet censorship is a concern in Nigeria, with some websites and online services blocked or restricted
+- Some online services such as PayPal and Netflix may not be available in Nigeria due to restrictions or licensing issues
+- VPNs are recommended for anyone who needs to access restricted websites or use public WiFi networks
+- Roaming alternatives such as international SIM cards or portable WiFi hotspots can be a good option for travelers who need to stay connected
+- eSIM options are becoming increasingly available, but they may not be compatible with all devices or carriers
+- It's always a good idea to check the terms and conditions of your internet plan before you sign up, to make sure you understand what you're getting and what you're paying for.
+
+---
+
+*Evergreen reference content. Verify time-sensitive details with official sources.*

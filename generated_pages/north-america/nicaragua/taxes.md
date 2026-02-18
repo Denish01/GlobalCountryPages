@@ -1,0 +1,69 @@
+---
+title: "Nicaragua Tax Guide — Income, Corporate & VAT Rates"
+entity: "Nicaragua"
+iso_code: "NI"
+continent: "north-america"
+angle: "taxes"
+date: "2026-02-17"
+---
+
+# Nicaragua Tax Guide — Income, Corporate & VAT Rates
+
+The tax rates in Nicaragua range from 10% to 30% for personal income, with a corporate tax rate of 30% and a value-added tax (VAT) of 15%, making it essential for expats and businesses to understand the tax system to navigate their financial obligations.
+
+[CALLOUT] Tax laws change frequently. Always consult a qualified tax professional for advice specific to your situation. This is a general guide only. [/CALLOUT]
+
+[FACTBOX]
+Income Tax Range: 10% - 30%
+Corporate Tax: 30%
+VAT/GST: 15%
+Capital Gains Tax: 10% or included in income
+Tax Year: Jan-Dec
+Tax Treaty Network: 12 countries
+[/FACTBOX]
+
+[SECTION] Tax System Overview [/SECTION]
+Nicaragua operates a **territorial taxation** system, where only income earned within the country is subject to tax, except for residents who are taxed on their worldwide income. To be considered a resident for tax purposes, an individual must have a permanent home in Nicaragua, be present in the country for more than 183 days in a calendar year, or have a spouse or children who are residents. The tax system is relatively complex, with various deductions and exemptions available, making it crucial for individuals and businesses to understand their tax obligations.
+
+The Nicaraguan tax system is administered by the **Dirección General de Ingresos** (DGI), which is responsible for collecting taxes, enforcing tax laws, and providing tax guidance to taxpayers. The DGI also offers various services, including tax returns, tax payments, and tax consulting, to help taxpayers comply with their tax obligations. Additionally, the Nicaraguan government has implemented various tax incentives to encourage foreign investment, such as tax exemptions for certain industries and reduced tax rates for small businesses.
+
+[SECTION] Personal Income Tax [/SECTION]
+| Income Bracket (NIO) | Tax Rate |
+| --- | --- |
+| 0 - 18,000 | 10% |
+| 18,001 - 36,000 | 15% |
+| 36,001 - 60,000 | 20% |
+| 60,001 - 90,000 | 25% |
+| 90,001 and above | 30% |
+Individuals are required to file a tax return if they have income exceeding 18,000 NIO per year. Taxpayers can claim deductions for **mortgage interest**, **charitable donations**, and **medical expenses**, among others. Tax returns must be filed by April 30th of each year, and payments can be made online or at a local bank. It is essential to note that tax rates and brackets are subject to change, so it is crucial to consult a tax professional for the most up-to-date information.
+
+[SECTION] Corporate & Business Tax [/SECTION]
+- The corporate tax rate in Nicaragua is **30%**, applicable to all businesses, including foreign companies operating in the country.
+- Small businesses with annual revenues below 1.5 million NIO may be eligible for a reduced tax rate of **10%**.
+- Nicaragua has several **free zones**, which offer tax exemptions and other incentives to businesses operating within these areas.
+- Companies must register with the DGI and obtain a tax identification number to operate in the country.
+- Businesses are required to file annual tax returns and make monthly advance tax payments.
+
+[SECTION] VAT / Sales Tax [/SECTION]
+- The standard **VAT rate** in Nicaragua is **15%**, applicable to most goods and services.
+- A reduced VAT rate of **10%** applies to certain essential items, such as food, medicine, and educational materials.
+- Exemptions are available for **exported goods**, **financial services**, and **rental income**.
+- Tourists may be eligible for a **tourist refund scheme**, which allows them to claim a refund of VAT paid on certain purchases.
+
+[SECTION] For Expats & Foreign Workers [/SECTION]
+- Expats are considered tax residents in Nicaragua if they have a permanent home in the country or are present for more than 183 days in a calendar year.
+- Nicaragua has **double taxation treaties** with 12 countries, including the United States, Canada, and several European nations.
+- Foreign workers are required to obtain a **work permit** and register with the DGI to work in the country.
+- Expats may be eligible for **tax credits** in their home country for taxes paid in Nicaragua.
+- Social security contributions are mandatory for all workers, including foreigners, and are used to fund **pension**, **healthcare**, and **unemployment benefits**.
+- Remittances sent abroad are subject to a **10% withholding tax**, which can be reduced or eliminated under certain circumstances.
+
+[SECTION] Crypto & Investment Income [/SECTION]
+- Investment income, including **dividends**, **interest**, and **capital gains**, is subject to a **10%** tax rate.
+- **Cryptocurrency** transactions are subject to VAT and income tax, with the tax rate depending on the type of transaction.
+- Foreign-sourced investment income is taxable in Nicaragua, but **tax credits** may be available for taxes paid in the source country.
+- Nicaraguan residents are required to report their **foreign assets** and income on their tax return, and may be subject to **penalties** for non-compliance.
+
+---
+
+*Evergreen reference content. Verify time-sensitive details with official sources.*
