@@ -1,0 +1,58 @@
+---
+title: "Greenland Geography - Location, Terrain & Climate"
+entity: "Greenland"
+iso_code: "GL"
+continent: "north-america"
+angle: "geography"
+date: "2026-02-18"
+---
+
+# Greenland Geography - Location, Terrain & Climate
+
+Greenland is an autonomous territory located within the kingdom of Denmark, situated between the Arctic and Atlantic Oceans, and is the world's largest island, with a unique and diverse geography that sets it apart from other countries.
+
+[FACTBOX]
+Land Area: 2,166,086 km², about the size of Mexico
+Highest Point: Gunnbjørn Fjeld, 3,694 meters
+Lowest Point: sea level, 0 meters
+Coastline: 44,000 km
+Borders: Canada, Iceland
+Climate Type: polar, with some subarctic and tundra regions
+[/FACTBOX]
+
+[SECTION] Location & Borders [/SECTION]
+Greenland is situated in the North Atlantic Ocean, northeast of Canada and northwest of Europe, with the Arctic Ocean to the north and the Denmark Strait to the southeast. The country is bordered by Canada to the northwest, with the Nares Strait and the Davis Strait separating the two countries, while Iceland is located to the southeast, across the Denmark Strait. The Atlantic Ocean surrounds Greenland to the south and east, with the Greenland Sea to the northeast. The country's unique location near the Arctic Circle means that it experiences almost 24 hours of daylight in the summer and complete darkness in the winter.
+
+The country's borders are primarily defined by its coastline, with a total length of 44,000 km, making it one of the longest coastlines in the world. The border with Canada is not well-defined, as it is based on a 1973 treaty that established the border as the Nares Strait, but there are still some disputed areas. Greenland's location in the North Atlantic also makes it an important location for shipping and trade, with the Northwest Passage, a potential shipping route, running along the country's northwest coast.
+
+[SECTION] Terrain & Landscape [/SECTION]
+Greenland's terrain is characterized by a vast ice sheet, known as the **Greenland Ice Sheet**, which covers about 80% of the country's land area, making it the second-largest ice body in the world, after Antarctica. The ice sheet is up to 3 km thick in some areas and contains about 10% of the world's fresh water. The ice sheet is surrounded by a narrow strip of coastline, where the majority of the population lives, with the capital city of Nuuk located on the southwest coast. The country's terrain is also characterized by **fjords**, which are long, narrow inlets of the sea, and **glaciers**, which are slow-moving rivers of ice that flow from the ice sheet to the sea.
+
+The country's landscape is also dotted with **mountains**, with the highest point being Gunnbjørn Fjeld, which is located in the southeastern part of the country. The mountains are rugged and rocky, with steep slopes and deep valleys, and are home to a variety of wildlife, including **reindeer**, **polar bears**, and **arctic foxes**. Greenland's terrain is also characterized by a lack of **forests**, with only a few small areas of **tundra** and **low-lying vegetation** found in the southern part of the country. The country's coastline is also marked by **islands**, with the largest island being **Disko Island**, which is located off the west coast.
+
+The country's geology is also of interest, with **volcanic rocks** and **granite** found in the southern part of the country, while the northern part of the country is characterized by **sedimentary rocks** and **sandstone**. The country's unique geology has created a variety of **landforms**, including **drumlins**, which are elongated hills formed by the movement of ice, and **eskers**, which are long, sinuous ridges formed by the deposition of sand and gravel.
+
+[SECTION] Climate By Season [/SECTION]
+[TABLE]
+| Season | Months | Temperature Range | Rainfall | Conditions |
+| --- | --- | --- | --- | --- |
+| Winter | December to February | -12°C to -20°C | low | cold, dark, and icy |
+| Spring | March to May | -10°C to 0°C | moderate | cool, with increasing daylight |
+| Summer | June to August | 10°C to 15°C | high | mild, with long days and potential for **midnight sun** |
+| Autumn | September to November | 0°C to -10°C | low | cool, with decreasing daylight |
+[/TABLE]
+
+[SECTION] Best Time To Visit [/SECTION]
+[CALLOUT] Best months: June to August. Why: these months offer the best weather, with mild temperatures and long days, making it ideal for outdoor activities such as **hiking** and **kayaking**. Avoid: December to February, as the weather is cold and dark, with limited daylight and potential for **blizzards** and **avalanches**. [/CALLOUT]
+
+[SECTION] Natural Highlights [/SECTION]
+- The **Ilulissat Icefjord**, a UNESCO World Heritage Site, is a stunning example of Greenland's unique geology and home to a variety of wildlife, including **whales** and **seals**.
+- The **Northeast Greenland National Park**, which is the largest national park in the world, covering an area of over 972,000 km², and is home to a variety of **arctic wildlife**, including **polar bears** and **arctic foxes**.
+- The **Kangerlussuaq Ice Cap**, which is one of the most accessible ice caps in Greenland, and offers stunning views and opportunities for **hiking** and **glacier hiking**.
+- The **Sermitsiaq Island**, which is located off the coast of Nuuk, and is home to a variety of **wildlife**, including **reindeer** and **seabirds**.
+- The **Upernavik Iceberg**, which is a popular spot for **whale watching** and **kayaking**, and offers stunning views of the surrounding **fjords** and **glaciers**.
+- The **Qeqertarsuaq Island**, which is located off the west coast of Greenland, and is known for its stunning **landscapes**, including **volcanic rocks** and **black sand beaches**.
+
+---
+
+*Evergreen reference content. Verify time-sensitive details with official sources.*

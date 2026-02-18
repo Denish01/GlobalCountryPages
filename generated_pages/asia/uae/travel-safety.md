@@ -1,0 +1,78 @@
+---
+title: "UAE Travel Safety - Advisories & Tips"
+entity: "UAE"
+iso_code: "AE"
+continent: "asia"
+angle: "travel-safety"
+date: "2026-02-18"
+---
+
+# UAE Travel Safety - Advisories & Tips
+
+The United Arab Emirates (UAE) is generally a safe country to visit, with low crime rates and a strong emphasis on tourist safety, but as with any foreign travel, it's essential to be aware of potential risks and take necessary precautions.
+
+[CALLOUT] Safety conditions change. Always check your government's current travel advisory for UAE before traveling. [/CALLOUT]
+
+[FACTBOX]
+Overall Safety Rating: 4/5 (1=very dangerous, 5=very safe)
+Petty Crime Risk: Low
+Violent Crime Risk: Low
+Scam Risk: Moderate
+Natural Disaster Risk: Low
+Health Risk: Moderate
+Emergency Number: 999
+Tourist Police: Yes, 901
+[/FACTBOX]
+
+[SECTION] Overall Safety Assessment [/SECTION]
+The UAE is considered one of the safest countries in the world, with a strong focus on law and order. The government has implemented various measures to ensure tourist safety, including a dedicated tourist police force and a 24-hour emergency hotline. Visitors can feel comfortable walking around most areas, including major tourist destinations like Dubai and Abu Dhabi, without worrying about their personal safety. However, as with any country, it's essential to take normal precautions to protect yourself and your belongings, especially in crowded areas or at night.
+
+While the UAE is generally a safe country, there are some areas that are best avoided, particularly at night. Some neighborhoods in Dubai and Sharjah can be considered seedy, and visitors should exercise caution when walking around these areas. Additionally, the UAE has strict laws and customs, and visitors should be respectful of these to avoid any issues. For example, public displays of affection are frowned upon, and dress modestly when visiting mosques or other cultural sites.
+
+[SECTION] Safety By Area [/SECTION]
+[TABLE]
+| Area/Region | Safety Level | Notes |
+| --- | --- | --- |
+| Dubai | High | Major tourist area, well-patrolled, but beware of pickpocketing in crowded areas |
+| Abu Dhabi | High | Capital city, safe and secure, with a strong police presence |
+| Dubai Marina | High | Popular tourist area, well-lit and secure, but beware of scams and petty crime |
+| Deira | Moderate | Older area of Dubai, can be crowded and chaotic, but generally safe |
+| Sharjah | Moderate | Less touristy than Dubai and Abu Dhabi, but still relatively safe |
+| Hatta | Low | Remote area, limited amenities and police presence, best avoided at night |
+| Jebel Ali | Low | Industrial area, best avoided at night, and beware of scams and petty crime |
+| Khor Fakkan | Moderate | Coastal town, generally safe, but beware of strong currents and rough seas |
+[/TABLE]
+
+[SECTION] Common Risks & Scams [/SECTION]
+- Be wary of **ATM scams**, where thieves use card skimmers to steal your card information.
+- Be cautious of **overpriced tours** and **fake tour operators**, and always research and book through reputable companies.
+- Beware of **pickpocketing** in crowded areas like malls and souks.
+- Be aware of **traffic scams**, where drivers may try to distract you and steal your belongings.
+- Don't leave your drinks unattended, as **drink spiking** can occur in bars and clubs.
+- Be cautious of **suspicious emails or messages** that may be phishing scams.
+- Be aware of **strict laws and customs**, and avoid public displays of affection or disrespecting local traditions.
+
+[SECTION] Health & Medical [/SECTION]
+- **Vaccinations:** No specific vaccinations are required for travel to the UAE, but it's recommended to be up-to-date on all routine vaccinations.
+- **Water Safety:** Tap water is generally safe to drink, but bottled water is widely available and recommended.
+- **Medical Facilities:** The UAE has high-quality medical facilities, particularly in Dubai and Abu Dhabi, but medical care can be expensive, and travel insurance is recommended.
+- **Pharmacy Access:** Pharmacies are widely available, and many are open 24 hours, but it's recommended to bring any prescription medications with you.
+
+[SECTION] Practical Safety Tips [/SECTION]
+- Always carry a **copy of your passport** and **travel insurance documents**.
+- Be **mindful of your surroundings**, especially in crowded areas.
+- **Respect local customs** and dress modestly when visiting mosques or other cultural sites.
+- **Avoid carrying large amounts of cash**, and use credit cards or debit cards instead.
+- **Keep your valuables secure**, and consider using a hotel safe or a secure bag.
+- **Be cautious when crossing the road**, as traffic can be chaotic, and pedestrian crossings may not always be respected.
+- **Stay hydrated**, especially in the hot summer months, and avoid drinking tap water if you're unsure of its safety.
+
+[SECTION] For Solo & Women Travelers [/SECTION]
+- **Dress modestly**, and avoid revealing clothing, especially when visiting cultural sites or mosques.
+- **Be respectful of local customs**, and avoid public displays of affection.
+- **Stay in well-lit and populated areas**, especially at night, and avoid walking alone in deserted areas.
+- **Consider staying in a reputable hotel**, and research the area before booking to ensure it's safe and secure.
+
+---
+
+*Evergreen reference content. Verify time-sensitive details with official sources.*

@@ -1,0 +1,67 @@
+---
+title: "Mayotte Visa & Entry Requirements"
+entity: "Mayotte"
+iso_code: "YT"
+continent: "africa"
+angle: "visa-and-entry"
+date: "2026-02-18"
+---
+
+# Mayotte Visa & Entry Requirements
+
+To enter Mayotte, you will typically need a visa, unless you are a citizen of a European Union country or a few other exempt nations, in which case you may be eligible for visa-free access or other simplified entry procedures.
+
+[SECTION] Visa Policy Overview [/SECTION]
+Mayotte, as an overseas department of France, has a moderate visa policy, with a mix of visa-free access, visa on arrival, and required visas for different nationalities. Citizens of European Union countries, as well as a few other nations, can enter Mayotte without a visa, while many other countries require a visa that can be obtained on arrival or in advance through a French embassy or consulate. Mayotte's visa policy is largely aligned with that of France, but there are some specific requirements and restrictions that apply to this overseas department.
+
+The visa policy of Mayotte is designed to balance the need to control immigration with the need to facilitate travel and tourism. As a result, the requirements for entry can vary significantly depending on the nationality of the visitor, as well as the purpose and length of their stay. Visitors from certain countries may be eligible for a **visa waiver** or **electronic visa**, while others may need to apply for a traditional visa through a French embassy or consulate.
+
+[SECTION] Requirements By Nationality [/SECTION]
+[TABLE]
+| Nationality | Visa Required? | Type | Max Stay | Notes |
+| --- | --- | --- | --- | --- |
+| US Citizens | No | Visa-free | 90 days | Must have a valid passport |
+| UK Citizens | No | Visa-free | 90 days | Must have a valid passport |
+| EU Citizens | No | Visa-free | 90 days | Must have a valid passport or national ID card |
+| Canadian Citizens | No | Visa-free | 90 days | Must have a valid passport |
+| Australian Citizens | No | Visa-free | 90 days | Must have a valid passport |
+| Indian Citizens | Yes | Visa required | 30-90 days | Must apply in advance through a French embassy or consulate |
+| Chinese Citizens | Yes | Visa required | 30-90 days | Must apply in advance through a French embassy or consulate |
+[/TABLE]
+
+[SECTION] By Visitor Type [/SECTION]
+**Tourists:** Tourists can typically stay in Mayotte for up to 90 days without a visa, as long as they have a valid passport and proof of onward travel. Visitors who plan to stay longer than 90 days, or who plan to engage in activities other than tourism, such as **volunteering** or **working**, may need to apply for a different type of visa. The typical stay for tourists is 7-14 days, and extensions are possible but may require additional documentation.
+**Business Travelers:** Business travelers may need to provide additional documentation, such as an **invitation letter** from a local company or a **letter of introduction** from their employer. They may also need to apply for a specific type of visa, such as a **business visa** or a **work visa**.
+**Students:** Students who plan to study in Mayotte may need to apply for a **student visa**, which typically requires proof of **enrollment** in a local educational institution and proof of sufficient financial resources.
+**Workers:** Workers who plan to take up employment in Mayotte will typically need to apply for a **work visa**, which requires **sponsorship** from a local employer and a **labor contract**.
+
+[SECTION] Documents Checklist [/SECTION]
+1. A valid passport with at least six months' validity
+2. A completed and signed visa application form (if required)
+3. One recent passport-sized photo
+4. Proof of onward travel or return ticket
+5. Proof of sufficient financial resources (such as a bank statement or cash)
+6. Health insurance that covers the visitor for the duration of their stay
+7. Proof of accommodation (such as a hotel reservation or rental agreement)
+8. A **police certificate** or **criminal record check** (if required)
+9. A **medical certificate** (if required)
+10. Any additional documentation required for the specific type of visa or activity (such as an invitation letter or enrollment proof)
+
+[SECTION] Entry Points & Procedures [/SECTION]
+The main airport in Mayotte is the Dzaoudzi Pamandzi International Airport, which receives flights from Paris and other European cities, as well as from nearby islands in the Comoros archipelago. Visitors arriving by air will need to go through **immigration** and **customs** before collecting their luggage and proceeding to their destination. The entry procedures are generally straightforward, but visitors should be prepared to present their documents and answer questions from immigration officials. Mayotte also has a few **land borders** with neighboring islands, but these are not commonly used for tourist entry.
+
+Visitors should be aware that Mayotte has strict **customs regulations**, and certain items (such as firearms, drugs, and protected species) are prohibited or restricted. Visitors should also be prepared to declare any **duty-free** items they are bringing with them, such as tobacco or alcohol.
+
+[SECTION] Common Mistakes To Avoid [/SECTION]
+- Failing to check the visa requirements for your nationality and activity
+- Not having a valid passport with sufficient validity
+- Not providing complete or accurate documentation
+- Not declaring duty-free items or prohibited goods
+- Not having sufficient financial resources or health insurance
+- Not respecting local customs and regulations, such as dress codes or restricted areas
+
+[CALLOUT] Visa rules change frequently. Always verify current requirements with the official embassy or consulate of Mayotte before traveling. [/CALLOUT]
+
+---
+
+*Evergreen reference content. Verify time-sensitive details with official sources.*

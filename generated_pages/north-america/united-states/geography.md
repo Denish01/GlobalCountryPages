@@ -1,0 +1,58 @@
+---
+title: "United States Geography - Location, Terrain & Climate"
+entity: "United States"
+iso_code: "US"
+continent: "north-america"
+angle: "geography"
+date: "2026-02-18"
+---
+
+# United States Geography - Location, Terrain & Climate
+
+The United States is located in North America, bordering Canada to the north and Mexico to the south, with its diverse geography and climate offering a wide range of experiences for visitors.
+
+[FACTBOX]
+Land Area: 9,525,067 km², about the size of Canada
+Highest Point: Denali, 6,190 meters
+Lowest Point: Death Valley, -86 meters
+Coastline: 12,383 km
+Borders: Canada, Mexico
+Climate Type: temperate, with varying regional conditions
+[/FACTBOX]
+
+[SECTION] Location & Borders [/SECTION]
+The United States is situated in the northern and western hemispheres, with its territory encompassing a vast area of North America. It is bounded by the Atlantic Ocean to the east, the Pacific Ocean to the west, the Arctic Ocean to the northwest, and the Gulf of Mexico to the southeast. The country shares its northern border with Canada, the world's longest international border, and its southern border with Mexico. The United States also has several territories in the Pacific and Caribbean, including Hawaii, Puerto Rico, and the U.S. Virgin Islands.
+
+The country's geography is further defined by its extensive coastline, which stretches for over 12,000 kilometers and includes some of the world's most famous beaches, bays, and ports. The Appalachian Mountains run along the eastern seaboard, while the Rocky Mountains dominate the western landscape. The Great Plains, a vast grassland region, cover much of the central United States. The country's unique geography has played a significant role in shaping its history, culture, and economy.
+
+[SECTION] Terrain & Landscape [/SECTION]
+The United States is home to some of the most diverse and spectacular landscapes in the world. The **Appalachian Mountains**, which stretch from Canada to Alabama, are one of the oldest mountain ranges in North America. The **Rocky Mountains**, which run from British Columbia to New Mexico, are a younger and more rugged range, with many peaks exceeding 4,000 meters. The **Grand Canyon**, one of the most iconic natural wonders in the United States, is a steep-sided canyon carved by the Colorado River in Arizona. The country's landscape is also characterized by extensive **rivers**, including the Mississippi, Missouri, and Rio Grande, which have played a crucial role in shaping the country's history and economy.
+
+The United States is also home to some of the world's most beautiful and unique **coastlines**, including the **California Coast**, the **Florida Keys**, and **Hawaii's beaches**. The country's **deserts**, including the **Mojave**, **Sonoran**, and **Chihuahuan Deserts**, cover much of the southwestern United States and are known for their extreme heat and unique landscapes. The **Great Plains**, a vast grassland region, cover much of the central United States and are home to some of the country's most important agricultural regions. The country's **forests**, including the **Redwood Forests** of California and the **Adirondack Forests** of New York, are also an important part of its landscape and ecosystem.
+
+The United States has a vast and diverse range of **islands**, including **Hawaii**, **Puerto Rico**, and the **U.S. Virgin Islands**, which are located in the Pacific and Caribbean. These islands are known for their beautiful beaches, unique cultures, and important historical sites. The country's **mountains**, **rivers**, and **coastlines** have all played a significant role in shaping its history, culture, and economy, and continue to be an important part of its identity and appeal.
+
+[SECTION] Climate By Season [/SECTION]
+[TABLE]
+| Season | Months | Temperature Range | Rainfall | Conditions |
+| --- | --- | --- | --- | --- |
+| Spring | March to May | 10-20°C | moderate | mild, blooming flowers |
+| Summer | June to August | 20-30°C | high | hot, humid, sunny |
+| Autumn | September to November | 10-20°C | moderate | cool, foliage, harvest |
+| Winter | December to February | -10 to 10°C | low | cold, snowy, icy |
+[/TABLE]
+
+[SECTION] Best Time To Visit [/SECTION]
+[CALLOUT] Best months: September to November and March to May. Why: these periods offer mild temperatures, fewer crowds, and a wide range of outdoor activities. Avoid: July and August, when the heat and humidity can be oppressive, and December to February, when the cold and snow can be challenging. [/CALLOUT]
+
+[SECTION] Natural Highlights [/SECTION]
+- **Yellowstone National Park**, America's first national park, is home to geysers, hot springs, and an abundance of wildlife.
+- **Grand Canyon National Park**, one of the most iconic natural wonders in the United States, is a steep-sided canyon carved by the Colorado River.
+- **Yosemite National Park**, located in California, is known for its granite cliffs, waterfalls, and giant sequoia groves.
+- **Zion National Park**, located in Utah, is a unique and beautiful park with red rock canyons and diverse wildlife.
+- **Great Smoky Mountains National Park**, located on the border of Tennessee and North Carolina, is a beautiful park with rolling hills, waterfalls, and diverse wildlife.
+- **Hawaii Volcanoes National Park**, located on the Big Island of Hawaii, is home to two active volcanoes and a unique and diverse landscape.
+
+---
+
+*Evergreen reference content. Verify time-sensitive details with official sources.*

@@ -1,0 +1,67 @@
+---
+title: "Puerto Rico Visa & Entry Requirements"
+entity: "Puerto Rico"
+iso_code: "PR"
+continent: "north-america"
+angle: "visa-and-entry"
+date: "2026-02-18"
+---
+
+# Puerto Rico Visa & Entry Requirements
+
+As a territory of the United States, Puerto Rico's visa requirements are generally the same as those for the United States, and citizens of many countries do not need a visa to visit Puerto Rico for tourism or business stays up to 90 days. 
+
+[CALLOUT] Visa rules change frequently. Always verify current requirements with the official embassy or consulate of Puerto Rico before traveling. [/CALLOUT]
+
+[SECTION] Visa Policy Overview [/SECTION]
+Puerto Rico has a moderate visa policy, allowing citizens of many countries to enter visa-free for tourism and business purposes. Citizens of countries that are part of the US Visa Waiver Program (VWP) can enter Puerto Rico without a visa for stays up to 90 days. The VWP includes countries such as Australia, Canada, Japan, and many European countries. However, travelers must meet certain requirements, such as having a valid Electronic System for Travel Authorization (ESTA) approval prior to their flight to Puerto Rico.
+
+The visa policy for Puerto Rico is designed to balance national security concerns with the need to facilitate international travel and tourism. The US government has implemented various programs and initiatives to streamline the visa application process and reduce wait times for travelers. For example, the US Department of State offers an online visa application system, and many US embassies and consulates offer expedited processing options for an additional fee.
+
+[SECTION] Requirements By Nationality [/SECTION]
+[TABLE]
+| Nationality | Visa Required? | Type | Max Stay | Notes |
+| --- | --- | --- | --- | --- |
+| US Citizens | No | N/A | Unlimited | US citizens do not need a passport to enter Puerto Rico, but they must provide proof of citizenship, such as a birth certificate or state-issued ID |
+| UK Citizens | No | ESTA | 90 days | UK citizens can enter Puerto Rico under the VWP, but must obtain an ESTA approval prior to their flight |
+| EU Citizens | No | ESTA | 90 days | EU citizens can enter Puerto Rico under the VWP, but must obtain an ESTA approval prior to their flight |
+| Canadian Citizens | No | N/A | 183 days | Canadian citizens do not need a visa or ESTA to enter Puerto Rico, but must provide proof of citizenship, such as a passport or birth certificate |
+| Australian Citizens | No | ESTA | 90 days | Australian citizens can enter Puerto Rico under the VWP, but must obtain an ESTA approval prior to their flight |
+| Indian Citizens | Yes | Tourist Visa | 30-60 days | Indian citizens must apply for a non-immigrant visa at a US embassy or consulate prior to their trip to Puerto Rico |
+| Chinese Citizens | Yes | Tourist Visa | 30-60 days | Chinese citizens must apply for a non-immigrant visa at a US embassy or consulate prior to their trip to Puerto Rico |
+[/TABLE]
+
+[SECTION] By Visitor Type [/SECTION]
+**Tourists:** To enter Puerto Rico as a tourist, travelers must have a valid passport, proof of onward travel, and sufficient funds for their stay. The typical stay for tourists is up to 90 days, and extensions are possible but require additional documentation. Tourists are not allowed to engage in business or work activities while in Puerto Rico.
+**Business Travelers:** Business travelers must have a valid passport, proof of onward travel, and a letter from their employer or an invitation from a Puerto Rican company. The requirements for business travelers are similar to those for tourists, but they may need to provide additional documentation, such as a business plan or contract.
+**Students:** Students must have a valid passport, proof of enrollment in a Puerto Rican educational institution, and a student visa. The student visa is typically valid for the duration of the student's studies, and students must provide proof of financial support and health insurance.
+**Workers:** Workers must have a valid passport, a job offer from a Puerto Rican employer, and a work visa. The work visa is typically valid for a specific period, and workers must provide proof of qualifications, experience, and financial support.
+
+[SECTION] Documents Checklist [/SECTION]
+1. Valid passport with at least six months' validity
+2. Completed visa application form (if required)
+3. Proof of onward travel or return ticket
+4. Proof of sufficient funds for stay
+5. Hotel reservation or confirmation of accommodation
+6. Travel itinerary or flight schedule
+7. Health insurance documents (if required)
+8. Proof of citizenship or nationality (such as a birth certificate or state-issued ID)
+9. Letter from employer or invitation from a Puerto Rican company (for business travelers)
+10. Proof of enrollment in a Puerto Rican educational institution (for students)
+
+[SECTION] Entry Points & Procedures [/SECTION]
+The main airports in Puerto Rico are Luis Muñoz Marín International Airport (SJU) in San Juan and Rafael Hernández Airport (BQN) in Aguadilla. When arriving at the airport, travelers must proceed to the immigration and customs area, where they will be required to present their travel documents and answer questions from immigration officers. Travelers may also be subject to additional screening or inspection, such as baggage checks or fingerprinting. It is essential to have all required documents ready and to be prepared to answer questions about the purpose and duration of their stay.
+
+Puerto Rico also has several land borders, including the border with the US Virgin Islands. When entering by land, travelers must stop at a border crossing point and present their travel documents to immigration officers. The process is similar to that at airports, and travelers may be subject to additional screening or inspection.
+
+[SECTION] Common Mistakes To Avoid [/SECTION]
+- Not having a valid passport or travel documents
+- Not obtaining an ESTA approval prior to travel (for VWP countries)
+- Not having proof of onward travel or return ticket
+- Not declaring goods or items subject to customs duties or restrictions
+- Not having sufficient funds for stay or proof of financial support
+- Not providing accurate or complete information on visa application forms or to immigration officers
+
+---
+
+*Evergreen reference content. Verify time-sensitive details with official sources.*
