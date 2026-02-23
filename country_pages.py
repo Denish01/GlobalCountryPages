@@ -667,7 +667,7 @@ FORMAT:
 
 [SECTION] At A Glance [/SECTION]
 [TABLE]
-| Factor | {name} | {comparison_entity or entity.get('common_comparisons', [''])[0]} |
+| Factor | {name} | {comparison_entity or (entity.get('common_comparisons') or [''])[0]} |
 | --- | --- | --- |
 | Population | ... | ... |
 | Size | ... | ... |
