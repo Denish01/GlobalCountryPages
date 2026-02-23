@@ -1,0 +1,58 @@
+---
+title: "Gujarat Geography - Location, Terrain & Climate"
+entity: "India"
+iso_code: "IN"
+continent: "asia"
+angle: "geography"
+date: "2026-02-23"
+---
+
+# Gujarat Geography - Location, Terrain & Climate
+
+Gujarat is a region located in the western part of India, bordered by the Arabian Sea to the west, and surrounded by the states of Rajasthan to the north, Madhya Pradesh to the east, and Maharashtra to the south.
+
+[FACTBOX]
+Land Area: 196,024 km², about the size of Syria
+Highest Point: Girnar, 1,116 meters
+Lowest Point: Arabian Sea, 0 meters
+Coastline: 1,600 km
+Borders: Rajasthan, Madhya Pradesh, Maharashtra, Dadra and Nagar Haveli, Daman and Diu
+Climate Type: tropical
+[/FACTBOX]
+
+[SECTION] Location & Borders [/SECTION]
+Gujarat is situated in the western part of India, covering a significant portion of the country's coastline along the Arabian Sea. The region is bordered by the states of Rajasthan to the north, Madhya Pradesh to the east, and Maharashtra to the south. To the west, Gujarat has a long coastline along the Arabian Sea, which provides a significant source of income through ports and trade. The region is also home to several islands, including Diu, which is a union territory of India.
+
+The location of Gujarat has played a significant role in its history and economy, with the region being an important center for trade and commerce. The city of Surat, located in southern Gujarat, was a major port during the Mughal era and was an important center for the export of textiles and other goods. Today, Gujarat is one of the most industrialized states in India, with a strong focus on manufacturing, pharmaceuticals, and petrochemicals. The region is also home to several major ports, including the Port of Kandla and the Port of Mundra, which are among the busiest ports in India.
+
+[SECTION] Terrain & Landscape [/SECTION]
+Gujarat has a diverse terrain, with a range of landscapes that include mountains, rivers, deserts, and coastlines. The region can be broadly divided into four main geographical regions: the Kutch region, the Saurashtra region, the mainland Gujarat region, and the eastern Gujarat region. The Kutch region is a desert area located in the northwestern part of Gujarat, which is known for its unique landscape and wildlife. The Saurashtra region is a peninsula located in the southern part of Gujarat, which is home to several major cities, including Rajkot and Jamnagar.
+
+The mainland Gujarat region is the most populous part of the state, with several major cities, including Ahmedabad, Vadodara, and Surat. This region is home to several major rivers, including the Narmada, the Tapi, and the Sabarmati, which provide water for irrigation and drinking. The eastern Gujarat region is a hilly area located near the border with Madhya Pradesh, which is home to several major tribes and is known for its natural beauty. The region is also home to several major national parks and wildlife sanctuaries, including the Gir Forest National Park, which is home to the last remaining Asiatic lions in the world.
+
+Gujarat's coastline is approximately 1,600 km long, with several major ports and beaches along the way. The coastline is an important source of income for the region, with several major industries, including fishing, tourism, and shipping. The region is also home to several major islands, including Diu, which is a popular tourist destination known for its beautiful beaches and historic architecture.
+
+[SECTION] Climate By Season [/SECTION]
+[TABLE]
+| Season | Months | Temperature Range | Rainfall | Conditions |
+| --- | --- | --- | --- | --- |
+| Winter | December to February | 10-25°C | low | cool and dry |
+| Summer | March to May | 25-40°C | low | hot and dry |
+| Monsoon | June to September | 20-30°C | high | humid and rainy |
+| Autumn | October to November | 15-30°C | low | warm and dry |
+[/TABLE]
+
+[SECTION] Best Time To Visit [/SECTION]
+[CALLOUT] Best months: October to February. Why: The weather is cool and dry, making it ideal for sightseeing and outdoor activities. Avoid: May to June and September to November, when the weather is hot and humid, and the region is prone to heavy rainfall. [/CALLOUT]
+
+[SECTION] Natural Highlights [/SECTION]
+- Gir Forest National Park: a UNESCO World Heritage Site and home to the last remaining Asiatic lions in the world
+- Narmada River: one of the longest rivers in India, which provides water for irrigation and drinking
+- Kutch Desert Wildlife Sanctuary: a protected area located in the Kutch region, which is home to several unique species of flora and fauna
+- Velavadar Blackbuck National Park: a protected area located in the Bhal region, which is home to several species of blackbuck and other wildlife
+- Marine National Park: a protected area located in the Gulf of Kutch, which is home to several species of marine life, including coral reefs and dolphins
+- Little Rann of Kutch: a unique landscape located in the Kutch region, which is known for its salt flats and wildlife, including the Indian wild ass and the lesser flamingo
+
+---
+
+*Evergreen reference content. Verify time-sensitive details with official sources.*

@@ -1,0 +1,56 @@
+---
+title: "Uttar Pradesh - Overview & Essential Facts"
+entity: "India"
+iso_code: "IN"
+continent: "asia"
+angle: "overview"
+date: "2026-02-23"
+---
+
+# Uttar Pradesh - Overview & Essential Facts
+
+Uttar Pradesh is a state located in the northern part of India, known for its rich cultural heritage, historical landmarks, and diverse geography.
+
+[FACTBOX]
+Official Name: Uttar Pradesh
+Capital: Lucknow
+Population: 231 million
+Languages: Hindi, English
+Currency: INR
+Government: Parliamentary democratic republic
+Continent: Asia
+ISO Code: IN-UP
+Calling Code: +91
+Drives On: left
+Time Zone: UTC+5:30
+[/FACTBOX]
+
+[SECTION] What Is Uttar Pradesh? [/SECTION]
+Uttar Pradesh is a state in the northern part of India, bordering Nepal to the north and the Indian states of Uttarakhand, Himachal Pradesh, Haryana, Delhi, Rajasthan, Madhya Pradesh, Chhattisgarh, Jharkhand, and Bihar. It is the most populous state in India, with a population of over 231 million people. Uttar Pradesh is a **region** within the country of India, with its own government and administration. The state is known for its rich cultural heritage, with a history dating back to the ancient Indus Valley Civilization.
+
+Geographically, Uttar Pradesh is situated in the **Gangetic Plain**, which is one of the most fertile and densely populated regions in the world. The state has a diverse geography, with mountains, plains, and rivers. The **Himalayas** mountain range is located in the north, while the **Ganges River** flows through the state, providing water and fertile soil for agriculture. Uttar Pradesh is also home to several important cities, including **Lucknow**, the capital, and **Agra**, which is famous for the **Taj Mahal**.
+
+Uttar Pradesh is a significant contributor to India's economy, with major industries such as **agriculture**, **manufacturing**, and **services**. The state is also an important center for education, with several top-ranked universities and institutions. Uttar Pradesh is a **multilingual** and **multicultural** state, with a diverse population that speaks various languages, including **Hindi**, **Urdu**, and **English**.
+
+[SECTION] Key History [/SECTION]
+1. 1857 - The Indian Rebellion of 1857, also known as the Sepoy Mutiny, took place in Uttar Pradesh, marking a significant turning point in the Indian independence movement.
+2. 1902 - The state of Uttar Pradesh was formed, with **Allahabad** as its capital.
+3. 1920 - The **Non-Cooperation Movement** was launched by Mahatma Gandhi, with Uttar Pradesh playing a significant role in the movement.
+4. 1947 - India gained independence from British colonial rule, with Uttar Pradesh becoming a part of the newly formed country.
+5. 1950 - The **Constitution of India** came into effect, with Uttar Pradesh adopting the new constitution.
+6. 1960 - The state of Uttar Pradesh was reorganized, with the creation of new districts and the transfer of some areas to neighboring states.
+7. 2000 - The state of Uttaranchal (now known as **Uttarakhand**) was carved out of Uttar Pradesh, with the new state being formed on November 9, 2000.
+
+[SECTION] What Makes Uttar Pradesh Unique [/SECTION]
+- Uttar Pradesh is home to several **UNESCO World Heritage Sites**, including the Taj Mahal, the Agra Fort, and the Fatehpur Sikri.
+- The state has a diverse **cuisine**, with popular dishes such as **kebabs**, **biryani**, and **jalebi**.
+- Uttar Pradesh is an important center for **Hinduism**, with several major pilgrimage sites, including **Varanasi** and **Ayodhya**.
+- The state has a rich **cultural heritage**, with a history of **music**, **dance**, and **art**.
+- Uttar Pradesh is a significant contributor to India's **economy**, with major industries such as **agriculture**, **manufacturing**, and **services**.
+
+[SECTION] Quick Summary [/SECTION]
+Uttar Pradesh is a state in northern India known for its rich cultural heritage, historical landmarks, and diverse geography, making it a unique and significant region within the country of India.
+
+---
+
+*Evergreen reference content. Verify time-sensitive details with official sources.*

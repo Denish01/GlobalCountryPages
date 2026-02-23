@@ -1,0 +1,58 @@
+---
+title: "Rajasthan Geography - Location, Terrain & Climate"
+entity: "India"
+iso_code: "IN"
+continent: "asia"
+angle: "geography"
+date: "2026-02-23"
+---
+
+# Rajasthan Geography - Location, Terrain & Climate
+
+Rajasthan, a vast and arid region in northwest India, is known for its rich cultural heritage, historic landmarks, and diverse natural landscapes, covering an area of approximately 342,239 square kilometers, roughly the size of Germany.
+
+[FACTBOX]
+Land Area: 342,239 km², roughly the size of Germany
+Highest Point: Guru Shikhar, 1,722 meters
+Lowest Point: Kachchh Rann, 0 meters
+Coastline: landlocked
+Borders: Punjab, Haryana, Uttar Pradesh, Madhya Pradesh, Gujarat
+Climate Type: arid and semi-arid
+[/FACTBOX]
+
+[SECTION] Location & Borders [/SECTION]
+Rajasthan is situated in the northwest part of India, bordered by the states of Punjab, Haryana, Uttar Pradesh, Madhya Pradesh, and Gujarat. It is a landlocked region, with no direct access to the ocean, and is surrounded by the **Thar Desert** to the west, which covers a significant portion of the region. The **Aravalli Range**, a mountain range that stretches across the southern part of Rajasthan, separates the region from the neighboring state of Gujarat.
+
+The location of Rajasthan has played a significant role in shaping its history, culture, and economy. The region's strategic position has made it an important center for trade and commerce, with the **Silk Road**, a ancient trade route, passing through the region. The borders of Rajasthan have also been influenced by the region's geography, with the **Aravalli Range** and the **Thar Desert** serving as natural boundaries. The region's neighboring states, including Punjab, Haryana, and Gujarat, have also had a significant impact on the culture and economy of Rajasthan.
+
+[SECTION] Terrain & Landscape [/SECTION]
+Rajasthan is characterized by its diverse and varied landscape, which includes **mountains**, **rivers**, **deserts**, and **forests**. The **Aravalli Range**, which stretches across the southern part of the region, is the oldest mountain range in India and is home to a variety of flora and fauna. The **Thar Desert**, also known as the **Cholistan Desert**, covers a significant portion of the region and is known for its arid and semi-arid climate. The **Rajasthan Desert**, which is a part of the **Thar Desert**, is the largest desert in India and is home to a variety of unique and adapted flora and fauna.
+
+The region is also home to several major **rivers**, including the **Chambal River**, the **Ghaggar River**, and the **Luni River**, which provide water and support agriculture in the region. The **rivers** of Rajasthan have played a significant role in shaping the region's landscape and have been an important source of water and transportation for centuries. The region's **forests**, which cover a small portion of the region, are home to a variety of flora and fauna, including the **tiger**, **leopard**, and ** Asiatic lion**.
+
+In addition to its natural landscapes, Rajasthan is also home to several **man-made lakes** and **reservoirs**, including the **Sambhar Lake**, which is the largest saltwater lake in India. The region's **lakes** and **reservoirs** provide water and support agriculture, and are also an important source of fish and other aquatic resources. The **lakes** and **reservoirs** of Rajasthan have also played a significant role in shaping the region's culture and economy, with many of the region's cities and towns being established near these water bodies.
+
+[SECTION] Climate By Season [/SECTION]
+[TABLE]
+| Season | Months | Temperature Range | Rainfall | Conditions |
+| --- | --- | --- | --- | --- |
+| Summer | March to May | 32-45°C | low | hot and dry |
+| Monsoon | June to September | 25-35°C | high | humid and rainy |
+| Winter | October to February | 10-25°C | low | cool and dry |
+| Spring | February to March | 15-30°C | low | mild and pleasant |
+[/TABLE]
+
+[SECTION] Best Time To Visit [/SECTION]
+[CALLOUT] Best months: October to February. Why: The weather is cool and dry, making it ideal for sightseeing and outdoor activities. Avoid: May and June, as the heat can be unbearable, and July to September, as the monsoon season can make travel difficult. [/CALLOUT]
+
+[SECTION] Natural Highlights [/SECTION]
+- **Ranthambore National Park**, a **UNESCO World Heritage Site** and one of the best places to see **tigers** in their natural habitat.
+- **Keoladeo National Park**, a **UNESCO World Heritage Site** and a major **bird sanctuary**, home to over 370 species of birds.
+- **Desert National Park**, a unique park that preserves the **Thar Desert** ecosystem and is home to a variety of **desert flora and fauna**.
+- **Sariska Tiger Reserve**, a protected area that is home to **tigers**, **leopards**, and other wildlife.
+- **Mount Abu**, a hill station that is home to several **lakes**, **waterfalls**, and **hiking trails**.
+- **Kumbhalgarh Wildlife Sanctuary**, a protected area that is home to a variety of **wildlife**, including **tigers**, **leopards**, and ** Asiatic lions**.
+
+---
+
+*Evergreen reference content. Verify time-sensitive details with official sources.*
