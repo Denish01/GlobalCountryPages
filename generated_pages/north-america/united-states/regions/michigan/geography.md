@@ -1,0 +1,58 @@
+---
+title: "Michigan Geography - Location, Terrain & Climate"
+entity: "United States"
+iso_code: "US"
+continent: "north-america"
+angle: "geography"
+date: "2026-02-23"
+---
+
+# Michigan Geography - Location, Terrain & Climate
+
+Michigan is a region located in the northern United States, known for its unique blend of natural beauty, vibrant cities, and rich cultural heritage.
+
+[FACTBOX]
+Land Area: 250,493 km², about the size of the United Kingdom
+Highest Point: Mount Arvon, 603 meters
+Lowest Point: Lake Erie, 174 meters
+Coastline: 4,790 km, along four of the five Great Lakes
+Borders: Ontario, Canada to the north and east, Ohio, Indiana, Illinois, and Wisconsin to the south and west
+Climate Type: temperate, with cold winters and warm summers
+[/FACTBOX]
+
+[SECTION] Location & Borders [/SECTION]
+Michigan is situated in the northern United States, bordering Canada to the north and east, and the states of Ohio, Indiana, Illinois, and Wisconsin to the south and west. The region is surrounded by four of the five Great Lakes, including Lake Erie, Lake Huron, Lake Michigan, and Lake Superior, which provide a unique and diverse range of ecosystems and natural beauty. Michigan's location in the northern United States also means that it experiences a continental climate, with cold winters and warm summers, making it a popular destination for outdoor enthusiasts and nature lovers.
+
+The region's borders with Canada and the other states in the United States also make it an important hub for trade and commerce, with many major cities and industries located along the borders. The city of Detroit, for example, is located on the border with Canada and is a major center for the automotive industry, while the city of Sault Ste. Marie is located on the border with Ontario and is an important hub for shipping and trade. Michigan's location and borders have also played a significant role in shaping the region's history and culture, with many indigenous communities and early European settlers having been drawn to the area by its natural resources and strategic location.
+
+[SECTION] Terrain & Landscape [/SECTION]
+Michigan's terrain is characterized by a diverse range of landscapes, including forests, mountains, and coastlines. The region is home to many **forests**, including the **Upper Peninsula forests**, which cover much of the northern part of the state and are known for their dense canopy and diverse wildlife. The **Porcupine Mountains**, located in the western part of the Upper Peninsula, are a popular destination for hiking and skiing, with their rugged terrain and scenic vistas. Michigan is also home to many **rivers**, including the **Detroit River**, which forms the border with Canada, and the **Grand River**, which flows through the city of Grand Rapids and is known for its scenic beauty and recreational opportunities.
+
+The region's **coastlines** are also a major feature of its terrain, with many beautiful beaches and scenic coastal towns. The **Lake Michigan shoreline**, for example, is known for its sandy beaches and picturesque coastal towns, such as **St. Joseph** and **South Haven**. The **Lake Superior shoreline**, on the other hand, is more rugged and rocky, with many scenic cliffs and coves. Michigan's terrain and landscape have also been shaped by its **glacial history**, with many **lakes** and **wetlands** having been formed by the movement of glaciers during the last ice age.
+
+Michigan's terrain and landscape have also played a significant role in shaping the region's economy and culture, with many industries, such as **logging** and **mining**, having been developed to take advantage of the region's natural resources. The region's scenic beauty and recreational opportunities have also made it a popular destination for **tourism**, with many visitors drawn to the area's natural beauty and outdoor recreational opportunities.
+
+[SECTION] Climate By Season [/SECTION]
+[TABLE]
+| Season | Months | Temperature Range | Rainfall | Conditions |
+| --- | --- | --- | --- | --- |
+| Winter | December to February | -10°C to 0°C | 30-60 cm snowfall | Cold and snowy, with average temperatures below freezing |
+| Spring | March to May | 0°C to 15°C | 60-90 mm rainfall | Mild and wet, with average temperatures rising rapidly |
+| Summer | June to August | 15°C to 25°C | 60-120 mm rainfall | Warm and humid, with average temperatures often above 20°C |
+| Autumn | September to November | 0°C to 15°C | 30-60 mm rainfall | Cool and dry, with average temperatures falling rapidly |
+[/TABLE]
+
+[SECTION] Best Time To Visit [/SECTION]
+[CALLOUT] Best months: June to August. Why: Warm weather and long days make it ideal for outdoor activities like swimming, hiking, and biking. Avoid: January to March, due to cold weather and heavy snowfall, which can make travel and outdoor activities difficult. [/CALLOUT]
+
+[SECTION] Natural Highlights [/SECTION]
+- **Sleeping Bear Dunes National Lakeshore**, a scenic park featuring towering sand dunes and crystal-clear lakes
+- **Pictured Rocks National Lakeshore**, a stunning park with colorful rock formations and scenic hiking trails
+- **Tahquamenon Falls State Park**, a beautiful park featuring two sets of waterfalls and scenic hiking trails
+- **Isle Royale National Park**, a remote and pristine park located on an island in Lake Superior, known for its scenic beauty and diverse wildlife
+- **Seney National Wildlife Refuge**, a protected area providing habitat for many species of birds and other wildlife
+- **Keweenaw National Historical Park**, a park commemorating the region's rich mining history and cultural heritage
+
+---
+
+*Evergreen reference content. Verify time-sensitive details with official sources.*

@@ -1,0 +1,79 @@
+---
+title: "Colorado Cities & Regions Guide"
+entity: "United States"
+iso_code: "US"
+continent: "north-america"
+angle: "cities-and-regions"
+date: "2026-02-23"
+---
+
+# Colorado Cities & Regions Guide
+
+Colorado is divided into 64 counties, with the state capital being Denver, and features a range of cities and regions that offer unique experiences for visitors and residents alike. 
+
+[FACTBOX]
+Administrative Divisions: 64 counties
+Largest City: Denver, population 716,492
+Capital: Denver
+Number of Cities Over 1M: 0
+[/FACTBOX]
+
+[SECTION] How Colorado Is Divided [/SECTION]
+Colorado is a state located in the western United States and is divided into 64 counties, each with its own local government and administration. The state is also divided into several regions, including the Rocky Mountains, the Great Plains, and the Colorado Plateau, each with its own unique geography and climate. The state government is based in the capital city of Denver, which is also the largest city in the state and serves as the economic and cultural hub of Colorado.
+
+The administrative structure of Colorado is designed to provide local control and decision-making, with each county having its own elected officials and government. The state government provides oversight and support to the counties, and is responsible for issues such as education, transportation, and public safety. The division of the state into regions and counties allows for more effective management of natural resources, economic development, and tourism, which are all important aspects of Colorado's economy and identity.
+
+[SECTION] Major Cities [/SECTION]
+**Denver** (716,492)
+Role: capital, economic hub, cultural center
+Known For: Denver is known for its vibrant cultural scene, with numerous museums, galleries, and performance venues, as well as its proximity to the Rocky Mountains and outdoor recreation opportunities.
+Best For: visitors interested in culture, history, and outdoor activities.
+
+**Colorado Springs** (465,101)
+Role: economic hub, military center
+Known For: Colorado Springs is known for its natural beauty, with numerous parks and outdoor recreation areas, as well as its military bases and defense industry.
+Best For: visitors interested in outdoor activities, military history, and technology.
+
+**Aurora** (375,068)
+Role: economic hub, cultural center
+Known For: Aurora is known for its diverse community, with a mix of cultures and ethnicities, as well as its vibrant arts and cultural scene.
+Best For: visitors interested in culture, food, and entertainment.
+
+**Fort Collins** (170,000)
+Role: college town, cultural center
+Known For: Fort Collins is known for its historic downtown area, with numerous shops, restaurants, and entertainment venues, as well as its proximity to the Rocky Mountains and outdoor recreation opportunities.
+Best For: visitors interested in history, culture, and outdoor activities.
+
+**Boulder** (105,000)
+Role: college town, cultural center
+Known For: Boulder is known for its outdoor recreation opportunities, with numerous parks and trails, as well as its vibrant cultural scene, with numerous museums, galleries, and performance venues.
+Best For: visitors interested in outdoor activities, culture, and education.
+
+[SECTION] Key Regions [/SECTION]
+[TABLE]
+| Region | Character | Known For | Major City |
+| --- | --- | --- | --- |
+| Rocky Mountains | mountainous, rugged | skiing, hiking, outdoor recreation | Aspen |
+| Great Plains | flat, grassy | ranching, farming, outdoor recreation | Fort Collins |
+| Colorado Plateau | high desert, rugged | outdoor recreation, natural beauty | Grand Junction |
+| Front Range | urban, suburban | economic hub, cultural center | Denver |
+| San Luis Valley | rural, agricultural | farming, ranching, outdoor recreation | Alamosa |
+| Western Slope | mountainous, rural | outdoor recreation, natural beauty | Grand Junction |
+| Eastern Plains | flat, grassy | ranching, farming, outdoor recreation | Limon |
+| Sangre de Cristo Mountains | mountainous, rugged | outdoor recreation, natural beauty | Salida |
+[/TABLE]
+
+[SECTION] Regional Differences [/SECTION]
+- The Rocky Mountains region is known for its rugged terrain and outdoor recreation opportunities, with a strong focus on skiing, hiking, and other mountain sports.
+- The Great Plains region is characterized by its flat, grassy landscape and is home to many ranches and farms, with a strong focus on agriculture and outdoor recreation.
+- The Colorado Plateau region is a high desert area with a rugged landscape and a focus on outdoor recreation and natural beauty.
+- The Front Range region is the most urban and suburban area of the state, with a strong focus on economy, culture, and education.
+
+[SECTION] Getting Around [/SECTION]
+Colorado has a well-developed transportation system, with numerous domestic flights, trains, and buses connecting the state to other parts of the country. The state is also home to a number of major highways, including Interstate 25 and Interstate 70, which provide easy access to many of the state's cities and regions. Driving conditions in Colorado can be challenging, particularly in the mountainous regions, where steep roads and inclement weather can make travel difficult. However, the state's scenic beauty and outdoor recreation opportunities make it a popular destination for visitors and residents alike.
+
+In addition to driving, visitors to Colorado can also use public transportation, such as buses and trains, to get around the state. The Regional Transportation District (RTD) provides bus and light rail service in the Denver metropolitan area, while the Colorado Department of Transportation (CDOT) operates bus services throughout the state. Amtrak also provides train service to several cities in Colorado, including Denver, Colorado Springs, and Grand Junction. Overall, Colorado's transportation system provides a range of options for visitors and residents, making it easy to get around the state and enjoy all that it has to offer.
+
+---
+
+*Evergreen reference content. Verify time-sensitive details with official sources.*

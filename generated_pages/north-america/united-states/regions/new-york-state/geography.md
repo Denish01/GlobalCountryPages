@@ -1,0 +1,56 @@
+---
+title: "New York State Geography - Location, Terrain & Climate"
+entity: "United States"
+iso_code: "US"
+continent: "north-america"
+angle: "geography"
+date: "2026-02-23"
+---
+
+# New York State Geography - Location, Terrain & Climate
+
+New York State is located in the northeastern part of the United States, bordered by the Canadian provinces of Quebec and Ontario to the north, the states of Vermont, Massachusetts, and Connecticut to the east, the states of New Jersey and Pennsylvania to the south, and the state of Ohio and Lake Ontario to the west.
+
+[FACTBOX]
+Land Area: 54,555 square miles (about the size of Louisiana)
+Highest Point: Mount Marcy, 5,344 feet
+Lowest Point: Atlantic Ocean, sea level
+Coastline: 127 miles
+Borders: Vermont, Massachusetts, Connecticut, New Jersey, Pennsylvania, Ohio, Quebec, Ontario
+Climate Type: temperate
+[/FACTBOX]
+
+[SECTION] Location & Borders [/SECTION]
+New York State is situated in the northeastern United States, with a diverse geography that includes mountains, forests, and coastlines along the Atlantic Ocean and the Great Lakes. The state shares international borders with the Canadian provinces of Quebec and Ontario to the north, and is bordered by the states of Vermont, Massachusetts, and Connecticut to the east. To the south, New York State is bordered by the states of New Jersey and Pennsylvania, while to the west, it is bordered by the state of Ohio and Lake Ontario. The state's unique location makes it a hub for trade and commerce, with major cities like New York City and Buffalo playing important roles in the regional economy.
+
+The state's borders are also home to several major waterways, including the St. Lawrence River, which forms the border with Ontario, and the Hudson River, which flows south from Lake Champlain to New York City. The state's coastline along the Atlantic Ocean is relatively short, but it includes several important ports and beaches, such as those found on Long Island. The border with Canada is also home to several major lakes, including Lake Ontario and Lake Erie, which provide important recreational and commercial opportunities for the state's residents.
+
+[SECTION] Terrain & Landscape [/SECTION]
+New York State's terrain is characterized by a diverse range of landscapes, from the mountains of the Adirondacks and the Catskills to the coastal plains of Long Island and the Hudson Valley. The state's highest point is Mount Marcy, which is located in the Adirondack Mountains and rises to an elevation of 5,344 feet. The Adirondacks are a popular destination for outdoor recreation, with thousands of miles of hiking trails, numerous lakes and rivers, and several major ski resorts. The Catskill Mountains, which are located in southeastern New York, are also a popular destination for outdoor recreation, with numerous hiking trails, waterfalls, and scenic vistas.
+
+The state's coastal plains are generally flat and low-lying, with several major rivers, including the Hudson and the St. Lawrence, flowing through the region. The coastal plains are also home to several major cities, including New York City and Buffalo, which are major centers of commerce and industry. The state's forests are also an important part of its landscape, with millions of acres of woodland covering much of the state. The forests are home to a diverse range of wildlife, including deer, bear, and turkey, and provide important habitat for numerous species of birds and other animals.
+
+The state's landscape has also been shaped by the movement of glaciers, which carved out numerous lakes and valleys during the last ice age. The state's numerous lakes and rivers are a legacy of this glacial activity, and provide important recreational and commercial opportunities for the state's residents. The state's coastline has also been shaped by the movement of the sea, with numerous beaches and dunes found along the shores of Lake Ontario and the Atlantic Ocean.
+
+[SECTION] Climate By Season [/SECTION]
+| Season | Months | Temperature Range | Rainfall | Conditions |
+| --- | --- | --- | --- | --- |
+| Spring | March to May | 40-60°F | 3-4 inches | Mild, with occasional rain showers |
+| Summer | June to August | 70-85°F | 3-4 inches | Warm and humid, with occasional thunderstorms |
+| Autumn | September to November | 40-60°F | 3-4 inches | Cool and dry, with occasional rain showers |
+| Winter | December to February | 20-40°F | 2-3 inches | Cold and snowy, with occasional blizzards |
+
+[SECTION] Best Time To Visit [/SECTION]
+[CALLOUT] Best months: September to October and May to June. Why: These periods offer mild temperatures and fewer crowds, making them ideal for outdoor recreation and sightseeing. Avoid: January to February, as the state's winters can be cold and snowy, with limited access to some areas. [/CALLOUT]
+
+[SECTION] Natural Highlights [/SECTION]
+- **Adirondack Park**: a six-million-acre park that is home to numerous mountains, lakes, and forests, and offers a wide range of outdoor recreational opportunities.
+- **Niagara Falls**: a famous waterfall that is located on the border with Ontario, and is a popular destination for tourists and outdoor enthusiasts.
+- **Letchworth State Park**: a scenic park that is known as the "Grand Canyon of the East," and features a deep gorge carved by the Genesee River.
+- **Hudson River Valley**: a scenic region that is known for its historic mansions, scenic vistas, and outdoor recreational opportunities.
+- **Montauk Point State Park**: a scenic park that is located at the eastern tip of Long Island, and features a historic lighthouse and numerous beaches and hiking trails.
+- **St. Lawrence River**: a major waterway that forms the border with Ontario, and is home to numerous islands, bays, and inlets, and offers a wide range of outdoor recreational opportunities.
+
+---
+
+*Evergreen reference content. Verify time-sensitive details with official sources.*
