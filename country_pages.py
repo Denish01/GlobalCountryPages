@@ -652,13 +652,13 @@ Tourist Police: (Yes/No, number if yes)
 Target: 600-700 words.""",
 
         # ── VS: Side-by-side comparison table ──
-        "vs": f"""Generate a comparison reference page: {name} vs {comparison_entity or entity.get('common_comparisons', [''])[0]}.
+        "vs": f"""Generate a comparison reference page: {name} vs {comparison_entity or (entity.get('common_comparisons') or [''])[0]}.
 
 {context}
 
-The other country: {comparison_entity or entity.get('common_comparisons', [''])[0]}
+The other country: {comparison_entity or (entity.get('common_comparisons') or [''])[0]}
 
-This page answers: "{name} or {comparison_entity or entity.get('common_comparisons', [''])[0]}? Which is better for me?"
+This page answers: "{name} or {comparison_entity or (entity.get('common_comparisons') or [''])[0]}? Which is better for me?"
 
 FORMAT:
 
