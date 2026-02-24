@@ -1,0 +1,61 @@
+---
+title: "Scotland Geography - Location, Terrain & Climate"
+entity: "United Kingdom"
+iso_code: "GB"
+continent: "europe"
+angle: "geography"
+date: "2026-02-24"
+---
+
+# Scotland Geography - Location, Terrain & Climate
+
+Scotland is a region located in the northern part of the United Kingdom, comprising a diverse range of landscapes, climates, and cultural heritage.
+
+[FACTBOX]
+Land Area: 78,772 km², about the size of South Carolina
+Highest Point: Ben Nevis, 1,345 meters
+Lowest Point: sea level
+Coastline: 11,672 km
+Borders: England
+Climate Type: temperate maritime
+[/FACTBOX]
+
+[SECTION] Location & Borders [/SECTION]
+Scotland is situated in the northern part of the United Kingdom, bordering England to the south, and surrounded by the Atlantic Ocean to the west and the North Sea to the east. The country is divided into three main geographical areas: the **Lowlands**, the **Highlands**, and the **Islands**. The Lowlands are the most populous region, with the capital city Edinburgh and the largest city Glasgow located in this area. The Highlands are known for their rugged terrain and picturesque landscapes, while the Islands are a collection of smaller islands off the west coast, including the **Hebrides** and the **Orkney Islands**.
+
+The country's strategic location has played a significant role in shaping its history and culture, with the **North Sea** and the **Atlantic Ocean** providing access to trade routes and influencing the climate. Scotland's borders with England have also been a significant factor in its history, with the two countries having been united under a single government since the **Act of Union** in 1707. The country's unique cultural heritage, including its **Gaelic** language and **Celtic** traditions, has been influenced by its geographical location and historical interactions with other European countries.
+
+[SECTION] Terrain & Landscape [/SECTION]
+Scotland's terrain is characterized by a diverse range of landscapes, including **mountains**, **valleys**, **lochs**, and **coastlines**. The **Highlands** are home to some of the most spectacular mountain scenery in Europe, with **Ben Nevis**, the highest peak, standing at 1,345 meters. The **Glencoe** valley is another notable feature, with its steep mountains and picturesque lochs. The **Lowlands** are generally flatter, with rolling hills and fertile valleys, while the **Islands** are known for their rugged coastlines and scenic beaches.
+
+The country's landscape has been shaped by millions of years of geological activity, including **volcanic eruptions** and **glaciation**. The **Caledonian Mountains**, which run through the heart of Scotland, are a result of this geological activity, and have been eroded over time to form the country's distinctive landscape. Scotland's **coastlines** are also notable, with the **Firth of Forth** and the **Firth of Clyde** being two of the most significant estuaries. The country's many **lochs**, including **Loch Ness** and **Loch Lomond**, are a popular destination for tourists and outdoor enthusiasts.
+
+The **forests** of Scotland are also an important part of the country's landscape, with many **woodland** areas providing habitat for a wide range of wildlife, including **red deer**, **roe deer**, and **golden eagles**. The **Cairngorms National Park**, which covers a significant area of eastern Scotland, is one of the largest **national parks** in Europe, and is home to a wide range of flora and fauna, including **ancient forests**, **heather moorlands**, and **wetlands**.
+
+[SECTION] Terrain & Landscape [/SECTION] has been extended to [SECTION] Terrain & Landscape [/SECTION] to accommodate additional information.
+The **rivers** of Scotland, including the **River Tay** and the **River Clyde**, play a significant role in shaping the country's landscape, and have been used for **transportation**, **fishing**, and **hydroelectric power** generation. The **waterfalls** of Scotland, including the **Eas a' Chathaidh** and the **Falls of Falloch**, are also a notable feature of the country's landscape.
+
+[SECTION] Climate By Season [/SECTION]
+[TABLE]
+| Season | Months | Temperature Range | Rainfall | Conditions |
+| --- | --- | --- | --- | --- |
+| Spring | March to May | 6-12°C | 60-80 mm | Mild, with some sunshine and rainfall |
+| Summer | June to August | 12-18°C | 80-100 mm | Warm, with long days and some rainfall |
+| Autumn | September to November | 6-12°C | 80-120 mm | Cool, with some sunshine and rainfall |
+| Winter | December to February | 0-6°C | 100-150 mm | Cold, with short days and some snowfall |
+[/TABLE]
+
+[SECTION] Best Time To Visit [/SECTION]
+[CALLOUT] Best months: May to September. Why: The weather is generally mild and sunny, with long days and warm temperatures. Avoid: December to February, as the weather can be cold and wet, with short days and some snowfall. [/CALLOUT]
+
+[SECTION] Natural Highlights [/SECTION]
+- **Cairngorms National Park**: A large national park in eastern Scotland, home to ancient forests, heather moorlands, and wetlands.
+- **Loch Ness**: A large freshwater loch, famous for the legend of the **Loch Ness Monster**.
+- **Glencoe**: A scenic valley in the Scottish Highlands, known for its steep mountains and picturesque lochs.
+- **The Isle of Skye**: A popular tourist destination, known for its rugged coastline, scenic beaches, and picturesque villages.
+- **The Trossachs National Park**: A national park in central Scotland, known for its scenic lochs, glens, and mountains.
+- **The North Coast 500**: A scenic driving route that takes in some of Scotland's most stunning coastal scenery, including **John o' Groats** and **Durness**.
+
+---
+
+*Evergreen reference content. Verify time-sensitive details with official sources.*

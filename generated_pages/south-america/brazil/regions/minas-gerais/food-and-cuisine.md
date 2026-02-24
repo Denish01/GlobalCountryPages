@@ -1,0 +1,87 @@
+---
+title: "Minas Gerais Food Guide — Dishes, Street Food & Dining"
+entity: "Brazil"
+iso_code: "BR"
+continent: "south-america"
+angle: "food-and-cuisine"
+date: "2026-02-24"
+---
+
+# Minas Gerais Food Guide — Dishes, Street Food & Dining
+
+When visiting Minas Gerais, be sure to try the region's unique and flavorful cuisine, which is heavily influenced by Portuguese, African, and indigenous traditions, and features popular dishes such as **feijoada**, **pão de queijo**, and **frango ao molho**.
+
+[FACTBOX]
+Staple Foods: rice, beans, beef, cheese
+National Dish: feijoada, a hearty stew made with black beans and various meats
+Meal Times: breakfast 7-10 am, lunch 11 am-2 pm, dinner 6-9 pm
+Tipping at Restaurants: 10% of the total bill is standard
+Dietary Notes: many traditional dishes are meat-based, but vegetarian options are increasingly available
+[/FACTBOX]
+
+[SECTION] Food Culture Overview [/SECTION]
+Minas Gerais's cuisine is defined by its rich cultural heritage and geographic location. The region's unique blend of Portuguese, African, and indigenous influences has resulted in a distinct culinary style that is both hearty and flavorful. Minas Gerais is known for its **comida mineira**, a term that refers to the region's traditional cuisine, which often features locally sourced ingredients such as cheese, beans, and beef. The region's cuisine also varies depending on the location, with the north and south of Minas Gerais having distinct culinary traditions.
+
+The state's capital, Belo Horizonte, is a hub for foodies, with a wide range of restaurants serving traditional Minas Gerais dishes. The city is also home to many **feiras**, or street markets, where visitors can sample local specialties such as **queijo fresco**, a type of fresh cheese, and **doce de leite**, a sweet, caramel-like spread made from milk. Throughout the region, mealtimes are often seen as opportunities to socialize and bond with family and friends, and meals are typically served in a warm and welcoming atmosphere.
+
+Minas Gerais's cuisine has also been influenced by its history of immigration, with many Italian and Spanish immigrants settling in the region and bringing their culinary traditions with them. This has resulted in a unique blend of flavors and techniques, with many traditional Minas Gerais dishes featuring ingredients such as olive oil, garlic, and herbs. Overall, Minas Gerais's cuisine is a reflection of the region's rich cultural heritage and its strong sense of community and tradition.
+
+[SECTION] Must-Try Dishes [/SECTION]
+[TABLE]
+| Dish | Type | Description | Where to Find |
+| --- | --- | --- | --- |
+| feijoada | stew | a hearty stew made with black beans and various meats | traditional restaurants in Belo Horizonte |
+| pão de queijo | bread | a type of cheese bread that is crispy on the outside and soft on the inside | bakeries and cafes throughout the region |
+| frango ao molho | chicken dish | chicken cooked in a creamy sauce made with milk, butter, and flour | traditional restaurants in the countryside |
+| tutu à mineira | bean dish | a type of bean stew made with pork, beans, and vegetables | traditional restaurants in Belo Horizonte |
+| queijo fresco | cheese | a type of fresh cheese that is often served as an appetizer | street markets and specialty shops |
+| doce de leite | dessert | a sweet, caramel-like spread made from milk | bakeries and cafes throughout the region |
+| esfiha | pastry | a type of savory pastry filled with meat, cheese, or vegetables | bakeries and cafes throughout the region |
+| arroz de paca | rice dish | a type of rice dish made with **paca**, a type of rodent that is native to the region | traditional restaurants in the countryside |
+| feijão tropeiro | bean dish | a type of bean stew made with pork, beans, and vegetables | traditional restaurants in the countryside |
+| canjica | dessert | a sweet, creamy dessert made with corn and milk | street markets and specialty shops |
+[/TABLE]
+
+[SECTION] Street Food & Snacks [/SECTION]
+- **coxinha**: a type of fried dough filled with chicken or cheese, typically costs $2-$3 USD
+- **esfiha**: a type of savory pastry filled with meat, cheese, or vegetables, typically costs $1-$2 USD
+- **pão de queijo**: a type of cheese bread that is crispy on the outside and soft on the inside, typically costs $1-$2 USD
+- **queijo fresco**: a type of fresh cheese that is often served as an appetizer, typically costs $3-$5 USD
+- **doce de leite**: a sweet, caramel-like spread made from milk, typically costs $2-$3 USD
+- **arroz cremoso**: a type of creamy rice dish made with milk, butter, and flour, typically costs $3-$5 USD
+- **frango grelhado**: a type of grilled chicken that is often served as a snack, typically costs $5-$7 USD
+- **torta de queijo**: a type of cheese tart that is often served as a dessert, typically costs $3-$5 USD
+
+[SECTION] Drinks [/SECTION]
+- **caipirinha**: a type of cocktail made with **cachaça**, a type of sugarcane spirit, lime, and sugar, typically costs $5-$7 USD
+- **guarana**: a type of sweet, creamy soda that is popular throughout Brazil, typically costs $2-$3 USD
+- **água de coco**: a type of coconut water that is refreshing and hydrating, typically costs $2-$3 USD
+- **leite com café**: a type of coffee made with milk, sugar, and coffee, typically costs $1-$2 USD
+- **suco de laranja**: a type of orange juice that is freshly squeezed and delicious, typically costs $2-$3 USD
+- **vinho**: a type of wine that is produced in the region and is often served with meals, typically costs $10-$20 USD per bottle
+
+[SECTION] Dining Customs [/SECTION]
+- **tipping**: 10% of the total bill is standard in restaurants and bars
+- **reservation**: it is generally recommended to make a reservation at popular restaurants, especially on weekends
+- **dining hours**: mealtimes are typically between 7-10 am for breakfast, 11 am-2 pm for lunch, and 6-9 pm for dinner
+- **table manners**: it is customary to keep your hands visible on the table and to not leave the table until everyone is finished eating
+- **payment**: credit cards are widely accepted, but it is still a good idea to have some cash on hand
+- **dress code**: dress codes vary depending on the restaurant, but it is generally recommended to dress nicely for dinner
+
+[SECTION] Where to Eat [/SECTION]
+- **restaurants**: traditional restaurants in Belo Horizonte and the countryside serve a wide range of Minas Gerais dishes
+- **bakeries**: bakeries throughout the region serve a variety of breads, pastries, and desserts
+- **cafes**: cafes throughout the region serve a variety of coffee, tea, and other drinks, as well as snacks and light meals
+- **street markets**: street markets in Belo Horizonte and other cities offer a wide range of street food and snacks
+- **food courts**: food courts in shopping malls and other locations offer a variety of options, including traditional Minas Gerais dishes
+
+[SECTION] Food Markets & Food Experiences [/SECTION]
+- **Mercado Central**: a large market in Belo Horizonte that offers a wide range of fresh produce, meats, and other products
+- **Feira de Artesanato**: a market in Belo Horizonte that specializes in handicrafts and traditional Minas Gerais products
+- **Festa do Divino**: a festival in the countryside that celebrates traditional Minas Gerais cuisine and culture
+- **Circuito Gastronômico**: a food tour that takes visitors to various restaurants and markets throughout the region
+- **Festa de São João**: a festival in June that celebrates traditional Minas Gerais cuisine and culture, with a focus on **quadrilhas**, a type of folk dance, and **comida típica**, traditional food.
+
+---
+
+*Evergreen reference content. Verify time-sensitive details with official sources.*

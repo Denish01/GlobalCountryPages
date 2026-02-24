@@ -1,0 +1,56 @@
+---
+title: "Pernambuco Geography - Location, Terrain & Climate"
+entity: "Brazil"
+iso_code: "BR"
+continent: "south-america"
+angle: "geography"
+date: "2026-02-24"
+---
+
+# Pernambuco Geography - Location, Terrain & Climate
+
+Pernambuco is a region located in the northeastern part of Brazil, South America, known for its diverse geography, rich cultural heritage, and unique natural features.
+
+[FACTBOX]
+Land Area: 98,311 km², about the size of the state of South Carolina
+Highest Point: Pico do Papagaio, 1,260 meters
+Lowest Point: Atlantic Ocean, sea level
+Coastline: 600 km
+Borders: Paraíba, Ceará, Alagoas, Bahia, and the Atlantic Ocean
+Climate Type: tropical
+[/FACTBOX]
+
+[SECTION] Location & Borders [/SECTION]
+Pernambuco is situated in the northeastern part of Brazil, bordering the states of Paraíba to the north, Ceará to the northwest, Alagoas to the southeast, and Bahia to the south. The region is bounded by the Atlantic Ocean to the east, with a coastline of approximately 600 kilometers. This strategic location allows Pernambuco to have a unique blend of cultural and geographical influences, with the ocean playing a significant role in shaping the region's history, economy, and lifestyle. The capital of Pernambuco is Recife, a major urban center and one of the most populous cities in the northeastern region of Brazil.
+
+The location of Pernambuco has been a crucial factor in the region's development, with the coastline providing access to the ocean and facilitating trade and commerce. The region's borders with neighboring states have also contributed to the exchange of cultural and economic practices, resulting in a distinct identity that is characteristic of Pernambuco. The region's geography has been shaped by the combination of the ocean, rivers, and mountains, creating a diverse landscape that is home to a wide range of flora and fauna.
+
+[SECTION] Terrain & Landscape [/SECTION]
+Pernambuco's terrain is characterized by a mix of mountains, valleys, and coastal plains. The region's landscape is dominated by the **Borborema Plateau**, a highland area that covers much of the state and is home to the **Serra do Teixeira** mountain range. The plateau is intersected by several rivers, including the **São Francisco River**, which forms the border with the state of Bahia. The coastal plains are narrow and sandy, with numerous beaches and mangrove swamps. The region's diverse geography has created a variety of ecosystems, including **tropical forests**, **savannas**, and **wetlands**, which support a wide range of plant and animal species.
+
+The mountains and hills of Pernambuco are home to several **waterfalls** and **caves**, which are popular tourist attractions. The region's **coastal areas** are known for their beautiful beaches, such as **Porto de Galinhas** and **Fernando de Noronha**, which are popular destinations for surfers, swimmers, and sunbathers. The **rivers** and **streams** of Pernambuco are also important for fishing and agriculture, with many communities relying on these water sources for their livelihood. The region's diverse landscape has been shaped by the combination of geological and climatic factors, resulting in a unique and fascinating terrain that is worth exploring.
+
+The geography of Pernambuco has also played a significant role in shaping the region's economy and culture. The **agricultural sector** is an important part of the regional economy, with crops such as **sugarcane**, **coconuts**, and **tobacco** being major products. The **mining industry** is also significant, with **iron**, **copper**, and **gold** being extracted from the region's mines. The unique cultural heritage of Pernambuco is reflected in its **music**, **dance**, and **art**, which are influenced by the region's African, European, and indigenous roots.
+
+[SECTION] Climate By Season [/SECTION]
+| Season | Months | Temperature Range | Rainfall | Conditions |
+| --- | --- | --- | --- | --- |
+| Summer | December to February | 25-30°C | high | hot and humid |
+| Autumn | March to May | 20-25°C | moderate | mild and pleasant |
+| Winter | June to August | 18-22°C | low | cool and dry |
+| Spring | September to November | 20-25°C | moderate | warm and sunny |
+
+[SECTION] Best Time To Visit [/SECTION]
+[CALLOUT] Best months: September to November and March to May. Why: these periods offer pleasant weather, with mild temperatures and moderate rainfall, making them ideal for outdoor activities and sightseeing. Avoid: December to February, as these months are the hottest and most humid, and June to August, which are the coolest and driest. [/CALLOUT]
+
+[SECTION] Natural Highlights [/SECTION]
+- **Fernando de Noronha National Marine Park**: a UNESCO World Heritage Site and one of the most beautiful and diverse marine ecosystems in the world.
+- **Serra do Teixeira**: a mountain range with stunning scenery, waterfalls, and hiking trails.
+- **São Francisco River**: a major river that forms the border with the state of Bahia and is home to a variety of aquatic life.
+- **Coastal beaches**: such as Porto de Galinhas and Fernando de Noronha, which are known for their crystal-clear waters and coral reefs.
+- **Pernambuco Wetlands**: a network of wetlands and mangrove swamps that are home to a wide range of bird species and other wildlife.
+- **Borborema Plateau**: a highland area with unique rock formations, caves, and waterfalls.
+
+---
+
+*Evergreen reference content. Verify time-sensitive details with official sources.*
