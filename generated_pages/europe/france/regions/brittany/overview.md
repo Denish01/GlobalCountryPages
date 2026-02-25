@@ -1,0 +1,56 @@
+---
+title: "Brittany - Overview & Essential Facts"
+entity: "France"
+iso_code: "FR"
+continent: "europe"
+angle: "overview"
+date: "2026-02-25"
+---
+
+# Brittany - Overview & Essential Facts
+
+Brittany is a cultural and administrative region in the northwest of France, known for its rich history, stunning coastline, and distinct cultural heritage.
+
+[FACTBOX]
+Official Name: Brittany
+Capital: Rennes
+Population: 4.7 million
+Languages: French, Breton
+Currency: EUR
+Government: Regional council
+Continent: Europe
+ISO Code: FR
+Calling Code: +33
+Drives On: right
+Time Zone: UTC+1
+[/FACTBOX]
+
+[SECTION] What Is Brittany? [/SECTION]
+Brittany is a region located in the northwest of France, bordered by the English Channel to the north, the Atlantic Ocean to the west, and the regions of Normandy and Pays de la Loire to the east and southeast. It is composed of four departments: Finistère, Côtes-d'Armor, Ille-et-Vilaine, and Morbihan. The region has a distinct cultural identity, with its own language, Breton, and a strong sense of history and tradition. Brittany is known for its stunning coastline, with rugged cliffs, beautiful beaches, and picturesque fishing villages.
+
+The region is also famous for its gastronomy, with popular dishes such as crepes, seafood, and salted butter caramel. The economy of Brittany is diverse, with a strong focus on agriculture, industry, and tourism. The region is home to several major cities, including Rennes, the capital, and Brest, a significant port city. Brittany has a rich history, with evidence of human habitation dating back to the Mesolithic era. The region has been influenced by various cultures, including the Celts, the Romans, and the Vikings.
+
+Brittany's unique cultural heritage is reflected in its music, dance, and festivals. The region is home to a vibrant folk music scene, with traditional instruments such as the bagpipe and the accordion. The Breton language, although not widely spoken, is still an important part of the region's identity and is taught in schools and used in official contexts. Overall, Brittany is a region with a strong sense of identity and a rich cultural heritage, making it a popular destination for tourists and a unique place to live.
+
+[SECTION] Key History [/SECTION]
+1. 481 - The Frankish king Clovis I conquers the region of Armorica, which becomes part of the Kingdom of France.
+2. 853 - The Vikings invade Brittany and establish the Duchy of Brittany, which becomes a powerful and independent state.
+3. 1532 - The Duchy of Brittany is annexed by the Kingdom of France, and the region becomes a province of France.
+4. 1789 - The French Revolution has a significant impact on Brittany, with the region playing a key role in the counter-revolution.
+5. 1982 - The region of Brittany is established as an administrative region of France, with its capital in Rennes.
+6. 2004 - The Brittany region is expanded to include the department of Loire-Atlantique, which is later withdrawn in 2016.
+7. 2016 - The region of Brittany is merged with the region of Pays de la Loire to form the region of Bretagne-Pays de la Loire, but this merger is later reversed, and the region of Brittany is reestablished.
+
+[SECTION] What Makes Brittany Unique [/SECTION]
+- The region has a distinct cultural identity, with its own language, Breton, and a strong sense of history and tradition.
+- Brittany is home to a stunning coastline, with rugged cliffs, beautiful beaches, and picturesque fishing villages.
+- The region has a rich gastronomic heritage, with popular dishes such as crepes, seafood, and salted butter caramel.
+- Brittany is known for its vibrant folk music scene, with traditional instruments such as the bagpipe and the accordion.
+- The region is home to several major festivals, including the Festival Interceltique de Lorient, which celebrates Celtic culture.
+
+[SECTION] Quick Summary [/SECTION]
+Brittany is a unique and culturally rich region in northwest France, known for its stunning coastline, distinct cultural heritage, and rich history, making it a popular destination for tourists and a special place to live.
+
+---
+
+*Evergreen reference content. Verify time-sensitive details with official sources.*

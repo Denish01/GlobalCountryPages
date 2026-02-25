@@ -1,0 +1,56 @@
+---
+title: "Occitanie - Overview & Essential Facts"
+entity: "France"
+iso_code: "FR"
+continent: "europe"
+angle: "overview"
+date: "2026-02-25"
+---
+
+# Occitanie - Overview & Essential Facts
+
+Occitanie is a region in southern France known for its rich cultural heritage, stunning landscapes, and diverse history.
+
+[FACTBOX]
+Official Name: Occitanie
+Capital: Toulouse
+Population: 5.9 million
+Languages: French, Occitan
+Currency: EUR
+Government: Regional council
+Continent: Europe
+ISO Code: FR
+Calling Code: +33
+Drives On: right
+Time Zone: UTC+1
+[/FACTBOX]
+
+[SECTION] What Is Occitanie? [/SECTION]
+Occitanie is a region located in southern France, bordering Spain and the Mediterranean Sea to the south, and the Atlantic Ocean to the west. It is one of the 18 regions of France and is known for its diverse landscape, which includes mountains, rivers, and coastal areas. The region is home to a unique cultural heritage, with a distinct language, **Occitan**, which is still spoken by many inhabitants. Occitanie is also famous for its rich history, with many ancient cities, castles, and monuments, such as the city of Carcassonne, a UNESCO World Heritage Site.
+
+The region is also known for its vibrant cities, such as Toulouse, the capital, which is a major center for aerospace and technology. The city of Montpellier is another important urban center, known for its beautiful architecture, cultural events, and universities. Occitanie is also a popular tourist destination, with many visitors attracted to its beautiful beaches, ski resorts, and scenic countryside. The region is also famous for its cuisine, which includes dishes such as **cassoulet**, a hearty stew made with white beans and meat.
+
+The region's geography is characterized by the Pyrenees mountains to the south, the Massif Central to the east, and the Garonne river, which flows through the city of Toulouse. The climate is generally mild, with warm summers and mild winters, making it an attractive destination for tourists and residents alike. Occitanie is also an important agricultural region, with many farms producing crops such as wheat, corn, and grapes.
+
+[SECTION] Key History [/SECTION]
+1. 1295 - The Treaty of Brétigny establishes the border between France and Aragon, which includes the territory of Occitanie.
+2. 1620 - The region is annexed by France, and the **Occitan language** is gradually replaced by French.
+3. 1789 - The French Revolution has a significant impact on the region, with many nobles and clergy losing their power and influence.
+4. 1944 - The region is liberated from German occupation during World War II, with many resistance fighters playing a key role in the liberation.
+5. 2016 - The region of Occitanie is established, following the merger of the regions of Languedoc-Roussillon and Midi-Pyrénées.
+6. 2017 - The regional council of Occitanie is established, with Carole Delga as its first president.
+7. 2020 - The region is affected by the COVID-19 pandemic, with many businesses and tourist attractions forced to close.
+
+[SECTION] What Makes Occitanie Unique [/SECTION]
+- The region is home to a unique cultural heritage, with a distinct language and traditions.
+- Occitanie is famous for its stunning landscapes, including the Pyrenees mountains and the Mediterranean coast.
+- The region is a major center for aerospace and technology, with many companies and research institutions located in Toulouse.
+- The city of Carcassonne is a UNESCO World Heritage Site, and one of the most popular tourist destinations in France.
+- The region is known for its vibrant cities, such as Toulouse and Montpellier, which offer a rich cultural and artistic scene.
+
+[SECTION] Quick Summary [/SECTION]
+Occitanie is a region in southern France known for its rich cultural heritage, stunning landscapes, and diverse history, with a unique language and traditions, and a vibrant economy and tourist industry.
+
+---
+
+*Evergreen reference content. Verify time-sensitive details with official sources.*
