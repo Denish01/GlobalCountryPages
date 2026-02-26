@@ -1,0 +1,61 @@
+---
+title: "Catalonia Geography - Location, Terrain & Climate"
+entity: "Spain"
+iso_code: "ES"
+continent: "europe"
+angle: "geography"
+date: "2026-02-26"
+---
+
+# Catalonia Geography - Location, Terrain & Climate
+
+Catalonia is an autonomous region located in the northeastern part of the Iberian Peninsula, in the country of Spain, and its unique blend of Mediterranean coastline, mountain ranges, and cultural heritage makes it a fascinating destination to explore.
+
+[FACTBOX]
+Land Area: 32,114 km², about the size of Maryland
+Highest Point: Pica d'Estats, 3,143 meters
+Lowest Point: Mediterranean Sea, 0 meters
+Coastline: 580 km
+Borders: France, Andorra, Valencia, Aragon
+Climate Type: Mediterranean
+[/FACTBOX]
+
+[SECTION] Location & Borders [/SECTION]
+Catalonia is situated in the northeastern corner of Spain, bordering France to the north, Andorra to the northwest, and the Spanish autonomous communities of Valencia to the south and Aragon to the west. The region is surrounded by the Mediterranean Sea to the east, with a long coastline that stretches from the French border in the north to the Ebre Delta in the south. This strategic location has made Catalonia an important cultural and economic crossroads throughout history, with the Pyrenees Mountains forming a natural border with France and the Mediterranean Sea providing a gateway to the rest of Europe and beyond.
+
+The region's borders are marked by a diverse range of landscapes, from the snow-capped peaks of the Pyrenees to the sun-kissed beaches of the Costa Brava and the fertile plains of the Ebre Delta. Catalonia's unique cultural identity is reflected in its language, **Catalan**, which is spoken by the majority of the population, as well as its rich heritage of art, architecture, and cuisine. The region's capital, Barcelona, is a major cultural and economic center, known for its stunning modernist architecture, vibrant nightlife, and world-class museums and galleries.
+
+[SECTION] Terrain & Landscape [/SECTION]
+Catalonia's terrain is characterized by a mix of mountains, hills, and coastal plains, with the Pyrenees Mountains forming the northern border with France and Andorra. The highest peak in the region is Pica d'Estats, which rises to an elevation of 3,143 meters and offers breathtaking views of the surrounding landscape. The mountains give way to a series of hills and valleys, known as the **Pre-Pyrenees**, which stretch across the northern part of the region and are home to a diverse range of flora and fauna.
+
+The central part of Catalonia is dominated by the **Catalan Central Depression**, a fertile plain that is watered by the Llobregat and Ter rivers and is home to many of the region's major cities, including Barcelona. The coastline is marked by a series of beaches, coves, and cliffs, with the **Costa Brava** to the north and the **Costa Daurada** to the south being two of the most popular tourist destinations. The Ebre Delta, which is located in the southern part of the region, is a unique and fragile ecosystem that is home to a wide range of birdlife and is an important stopover point for migratory birds.
+
+The region's landscape is also marked by a number of rivers, including the **Ebre**, **Llobregat**, and **Ter**, which flow through the region and provide water for irrigation, drinking water, and hydroelectric power. The mountains and hills are covered in a mix of forests, including **oak**, **pine**, and **beech**, which provide a habitat for a wide range of wildlife, including **deer**, **wild boar**, and **eagles**.
+
+[SECTION] Terrain & Landscape [/SECTION] (continued)
+In addition to its natural beauty, Catalonia is also home to a number of unique and fascinating landscapes, including the **Garrotxa Volcanic Zone**, which is located in the north of the region and features a number of volcanic peaks and valleys. The region is also home to a number of **caves** and **rock formations**, including the **Caves of Esplugues**, which are a popular tourist destination and feature a stunning array of stalactites and stalagmites.
+
+[SECTION] Climate By Season [/SECTION]
+[TABLE]
+| Season | Months | Temperature Range | Rainfall | Conditions |
+| --- | --- | --- | --- | --- |
+| Spring | March to May | 12-20°C | 60-80 mm | Mild, sunny |
+| Summer | June to August | 23-30°C | 30-50 mm | Hot, dry |
+| Autumn | September to November | 15-25°C | 80-100 mm | Mild, rainy |
+| Winter | December to February | 6-15°C | 50-80 mm | Cool, wet |
+[/TABLE]
+
+[SECTION] Best Time To Visit [/SECTION]
+[CALLOUT] Best months: May to October. Why: The weather is warm and sunny, making it ideal for outdoor activities such as hiking, swimming, and sightseeing. Avoid: November to April, as the weather can be cool and rainy, and some tourist attractions may be closed. [/CALLOUT]
+
+[SECTION] Natural Highlights [/SECTION]
+- **Aigüestortes i Estany de Sant Maurici National Park**: a beautiful national park located in the Pyrenees Mountains, featuring stunning mountain scenery, lakes, and forests.
+- **Ebre Delta**: a unique and fragile ecosystem that is home to a wide range of birdlife and is an important stopover point for migratory birds.
+- **Garrotxa Volcanic Zone**: a fascinating landscape featuring volcanic peaks and valleys, and a number of hiking trails and scenic viewpoints.
+- **Montserrat**: a unique rock formation located near Barcelona, featuring stunning scenery and a number of hiking trails.
+- **Costa Brava**: a popular tourist destination featuring a mix of beaches, coves, and cliffs, and a number of scenic hiking trails and viewpoints.
+- **Caves of Esplugues**: a popular tourist destination featuring a stunning array of stalactites and stalagmites, and a number of underground pools and waterfalls.
+
+---
+
+*Evergreen reference content. Verify time-sensitive details with official sources.*

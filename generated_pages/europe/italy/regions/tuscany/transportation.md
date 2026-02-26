@@ -1,0 +1,65 @@
+---
+title: "Getting Around Tuscany — Transport & Travel Guide"
+entity: "Italy"
+iso_code: "IT"
+continent: "europe"
+angle: "transportation"
+date: "2026-02-26"
+---
+
+# Getting Around Tuscany — Transport & Travel Guide
+
+To get around in Tuscany, you can choose from a variety of transportation options, including trains, buses, rental cars, and taxis, each with its own advantages and disadvantages.
+
+[FACTBOX]
+Main International Airport(s): Florence Airport (FLR), Pisa International Airport (PSA)
+Domestic Air Network: limited
+Rail Network: extensive
+Drives On: right
+Road Quality: good
+Ride-Hailing Apps: Uber, local alternatives
+[/FACTBOX]
+
+[SECTION] Getting There [/SECTION]
+Tuscany is easily accessible by air, with two main international airports: Florence Airport (FLR) and Pisa International Airport (PSA). Florence Airport is a smaller airport that receives flights from major European cities, while Pisa International Airport is a larger airport that receives flights from all over the world, including the United States. You can also fly into other nearby airports, such as Bologna Airport (BLQ) or Rome Airport (FCO), and then take a train or bus to Tuscany. Direct flights to Tuscany are available from major European cities like London, Paris, and Amsterdam, as well as from some US cities like New York and Los Angeles. Overland entry points include the Italian border with France, Switzerland, and Austria, where you can drive or take a bus or train into Tuscany.
+
+If you prefer to travel by land, you can take a train or bus from other parts of Italy or from neighboring countries. The main train stations in Tuscany are in Florence, Siena, and Pisa, and there are also bus stations in these cities. You can take a train or bus from Rome, Milan, or other major Italian cities to get to Tuscany. Additionally, there are several overland entry points along the Italian border, where you can drive or take a bus or train into Tuscany. The most common overland entry points are the border crossings with France, Switzerland, and Austria.
+
+[SECTION] Domestic Flights [/SECTION]
+While Tuscany has a limited domestic air network, you can still take domestic flights from Florence Airport or Pisa International Airport to other parts of Italy. The main domestic airlines in Italy are Alitalia and Ryanair, which offer flights to major Italian cities like Rome, Milan, and Venice. You can book domestic flights online through the airline's website or through a travel agency. The cost of domestic flights varies depending on the airline, route, and time of year, but you can expect to pay around $50-$100 for a one-way ticket. It's worth noting that domestic flights may not be the most convenient option, as trains and buses are often more frequent and affordable.
+
+[SECTION] Trains & Rail [/SECTION]
+Tuscany has an extensive rail network, with frequent trains connecting major cities like Florence, Siena, and Pisa. The main train operator in Italy is Trenitalia, which offers high-speed trains like the Frecciarossa and Italo, as well as regional trains. You can book train tickets online through the Trenitalia website or at the train station. The cost of train tickets varies depending on the route, class, and time of booking, but you can expect to pay around $10-$50 for a one-way ticket. High-speed trains are a convenient option for traveling longer distances, while regional trains are better for shorter journeys.
+
+[SECTION] Buses & Coaches [/SECTION]
+There are several bus companies that operate in Tuscany, including FlixBus, Eurolines, and local companies like Tiemme and Siena Mobilità. These buses connect major cities like Florence, Siena, and Pisa, as well as smaller towns and villages. You can book bus tickets online through the company's website or at the bus station. The cost of bus tickets varies depending on the route, company, and time of booking, but you can expect to pay around $5-$20 for a one-way ticket. Buses are a good option for traveling shorter distances or for exploring rural areas.
+
+[SECTION] City Transport [/SECTION]
+| Mode | Available In | Cost (USD) | Notes |
+| --- | --- | --- | --- |
+| City Bus | Florence, Siena, Pisa | $1.50 | Frequent services, affordable |
+| Taxi | Everywhere | $2.50/km | Available at taxi stands or by phone |
+| Ride-Hailing | Florence, Siena | $5-$10 | Available through Uber and local apps |
+| Bike Rental | Florence, Siena | $10-$20/day | A great way to explore the city |
+| Walking | Everywhere | Free | Tuscany's cities are pedestrian-friendly |
+
+[SECTION] Driving [/SECTION]
+- To drive in Tuscany, you'll need a valid driver's license from your home country or an International Driving Permit.
+- The road quality in Tuscany is generally good, with well-maintained highways and scenic country roads.
+- Fuel costs in Italy are relatively high, with gasoline prices around $6-$7 per gallon.
+- Car rental companies like Hertz, Avis, and Europcar have offices in major cities like Florence and Pisa.
+- When driving in Tuscany, be aware of narrow streets and pedestrian zones in historic city centers, as well as limited parking options.
+- It's also important to follow local traffic rules and signs, as fines can be steep for speeding or other infractions.
+
+[SECTION] Transport Tips [/SECTION]
+- Always validate your train ticket before boarding, as fines can be steep for unvalidated tickets.
+- Be aware of pickpocketing and scams in crowded tourist areas and train stations.
+- Download the Trenitalia app or the Moovit app to plan your train and bus journeys.
+- Consider purchasing a **Carnet** ticket for public transportation, which can be a cost-effective option for frequent travelers.
+- Don't drink and drive, as Italy has strict laws and penalties for drunk driving.
+- Be mindful of **ZTL** (Limited Traffic Zones) in historic city centers, where only authorized vehicles are allowed to enter.
+- Always carry a valid form of ID and your driver's license when driving or taking public transportation.
+
+---
+
+*Evergreen reference content. Verify time-sensitive details with official sources.*

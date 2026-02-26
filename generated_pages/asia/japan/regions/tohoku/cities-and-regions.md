@@ -1,0 +1,82 @@
+---
+title: "Tohoku Cities & Regions Guide"
+entity: "Japan"
+iso_code: "JP"
+continent: "asia"
+angle: "cities-and-regions"
+date: "2026-02-26"
+---
+
+# Tohoku Cities & Regions Guide
+
+Tohoku is a region in northern Japan, comprising six prefectures, with its main cities and regions including Sendai, Fukushima, and Aomori, each offering a unique blend of natural beauty, rich culture, and economic significance.
+
+[FACTBOX]
+Administrative Divisions: 6 prefectures (Aomori, Iwate, Miyagi, Fukushima, Yamagata, and Akita)
+Largest City: Sendai, population approximately 1.1 million
+Capital: Sendai is the largest city, but Tohoku is a region within Japan and does not have a capital in the classical sense
+Number of Cities Over 1M: 1
+[/FACTBOX]
+
+[SECTION] How Tohoku Is Divided [/SECTION]
+Tohoku is divided into six prefectures, each with its own unique character and attractions. The prefectures are Aomori, Iwate, Miyagi, Fukushima, Yamagata, and Akita. This division reflects the historical, cultural, and geographical diversity of the region. The prefectures are further divided into cities, towns, and villages, with Sendai being the largest city and a major economic and cultural hub.
+
+The administrative structure of Tohoku is part of the broader Japanese system, with the prefectures having a significant degree of autonomy in managing their local affairs. However, the region as a whole is also subject to national policies and guidelines, particularly in areas such as education, healthcare, and infrastructure development. This balance between local autonomy and national oversight helps in maintaining the unique regional identity of Tohoku while ensuring it remains an integral part of Japan.
+
+[SECTION] Major Cities [/SECTION]
+**Sendai** (population estimate: 1.1 million)
+Role: Economic hub, cultural center
+Known For: Sendai is known for its tree-lined avenues, historic sites, and vibrant cultural festivals. It is also a major economic center, with a strong focus on technology and manufacturing.
+Best For: Visitors interested in history, culture, and urban entertainment.
+
+**Aomori** (population estimate: 287,000)
+Role: Port city, cultural center
+Known For: Aomori is famous for its Nebuta House, where the colorful floats used in the Nebuta Festival are made. The city is also a significant port and a gateway to the Shimokita Peninsula.
+Best For: Those interested in maritime history, cultural festivals, and access to natural attractions.
+
+**Fukushima** (population estimate: 282,000)
+Role: Administrative center, economic hub
+Known For: Fukushima is known for its natural beauty, including the Bandai-Asahi National Park, and its role in the region's economy, particularly in the energy sector.
+Best For: Visitors interested in natural landscapes, outdoor activities, and understanding the region's economic backbone.
+
+**Morioka** (population estimate: 290,000)
+Role: Cultural center, economic hub
+Known For: Morioka is the capital of Iwate Prefecture and is known for its historic sites, including the Morioka Castle remains, and its vibrant cultural scene.
+Best For: Those interested in history, culture, and local cuisine, including the famous Morioka noodles.
+
+**Yamagata** (population estimate: 254,000)
+Role: Cultural center, economic hub
+Known For: Yamagata is known for its natural beauty, including the Dewa Sanzan mountains, and its cultural heritage, including traditional crafts and festivals.
+Best For: Visitors interested in nature, culture, and rural landscapes.
+
+**Akita** (population estimate: 315,000)
+Role: Economic hub, cultural center
+Known For: Akita is known for its historic sites, including the Akita Castle, and its natural beauty, including the coastal areas and the Shirakami-Sanchi National Park.
+Best For: Those interested in history, nature, and local cuisine, including the famous Akita beef.
+
+[SECTION] Key Regions [/SECTION]
+[TABLE]
+| Region | Character | Known For | Major City |
+| --- | --- | --- | --- |
+| Aomori Prefecture | Coastal, mountainous | Nebuta Festival, apple production | Aomori |
+| Iwate Prefecture | Mountainous, coastal | Historic sites, natural beauty | Morioka |
+| Miyagi Prefecture | Coastal, urban | Sendai city, natural beauty | Sendai |
+| Fukushima Prefecture | Mountainous, coastal | Natural beauty, energy sector | Fukushima |
+| Yamagata Prefecture | Mountainous, rural | Dewa Sanzan mountains, cultural heritage | Yamagata |
+| Akita Prefecture | Coastal, rural | Historic sites, natural beauty | Akita |
+[/TABLE]
+
+[SECTION] Regional Differences [/SECTION]
+- Culture: Each prefecture in Tohoku has its unique cultural festivals and traditions, such as the Nebuta Festival in Aomori and the Sendai Tanabata Festival in Miyagi.
+- Economy: The economy of Tohoku varies by prefecture, with some areas focusing on manufacturing, others on agriculture, and others on tourism and service industries.
+- Climate: Tohoku experiences a humid continental climate with cold winters and warm summers, but the climate can vary significantly from the coastal areas to the mountainous regions.
+- Language: While Japanese is the predominant language, there are dialectical variations across the region, reflecting the historical and cultural diversity of Tohoku.
+
+[SECTION] Getting Around [/SECTION]
+Tohoku is well-connected by domestic flights, trains, and buses, making it relatively easy to travel within the region and to other parts of Japan. The Tohoku Shinkansen bullet train line connects the region to Tokyo and other major cities, while local trains and buses provide access to more rural areas. Driving is also a viable option, with well-maintained roads and scenic routes, especially for those who want to explore the natural beauty of Tohoku at their own pace.
+
+For visitors, the most convenient way to get around Tohoku is often by train, given the efficiency and frequency of the services. However, for those looking to explore the more remote areas or to enjoy the scenic views at a leisurely pace, renting a car or joining a guided tour can be a good option. Additionally, many cities in Tohoku have their own public transportation systems, including buses and subways, making it easy to navigate urban areas without a car.
+
+---
+
+*Evergreen reference content. Verify time-sensitive details with official sources.*

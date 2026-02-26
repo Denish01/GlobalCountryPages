@@ -1,0 +1,61 @@
+---
+title: "Galicia Geography - Location, Terrain & Climate"
+entity: "Spain"
+iso_code: "ES"
+continent: "europe"
+angle: "geography"
+date: "2026-02-26"
+---
+
+# Galicia Geography - Location, Terrain & Climate
+
+Galicia is an autonomous region located in the northwest of Spain, known for its unique cultural heritage and stunning natural landscapes. 
+
+[FACTBOX]
+Land Area: 29,574 km², about the size of Albania
+Highest Point: Pena Trevinca, 2,127 meters
+Lowest Point: Atlantic Ocean, 0 meters
+Coastline: 1,498 km
+Borders: Portugal, Castile and León
+Climate Type: temperate oceanic
+[/FACTBOX]
+
+[SECTION] Location & Borders [/SECTION]
+Galicia is situated in the northwest of the Iberian Peninsula, bordering Portugal to the south and the autonomous community of Castile and León to the east. The region is bounded by the Atlantic Ocean to the west and the Cantabrian Sea to the north. The coastline of Galicia is approximately 1,498 kilometers long, featuring a mix of rugged cliffs, sandy beaches, and scenic fjord-like inlets. The region's strategic location has made it an important hub for trade and cultural exchange throughout history.
+
+The borders of Galicia are marked by the **Minho River** to the south, which separates the region from Portugal, and the **Sil River** to the east, which forms the border with Castile and León. The region's unique cultural identity has been shaped by its history, language, and geography, with the **Galician language** being an official language alongside Spanish. The capital of Galicia is **Santiago de Compostela**, a city known for its stunning cathedral and historic center.
+
+[SECTION] Terrain & Landscape [/SECTION]
+The terrain of Galicia is characterized by a mix of mountains, valleys, and coastal plains. The region's highest point is **Pena Trevinca**, which reaches an elevation of 2,127 meters in the **Serra dos Ancares** mountain range. The **Cantabrian Mountains** stretch along the northern border of Galicia, forming a rugged landscape of granite peaks and valleys. The region's mountains are home to a diverse range of flora and fauna, including **eucalyptus forests**, **heathlands**, and **wildlife** such as wolves, bears, and eagles.
+
+The coastal plains of Galicia are generally narrow and fertile, with the **Rias Baixas** region being known for its scenic fjord-like inlets and **vineyards**. The region's rivers, including the **Minho**, **Sil**, and **Ulla**, flow through valleys and gorges, creating a picturesque landscape of waterfalls, rapids, and **lakes**. The **Galician coast** is also home to a number of **islands**, including the **Cies Islands** and the **Ons Island**, which are known for their stunning beaches and **marine wildlife**.
+
+The region's landscape has been shaped by its **geological history**, with the **Variscan orogeny** creating the foundation for the region's mountains and valleys. The **climate** has also played a significant role in shaping the landscape, with the **oceanic influence** creating a mild and humid climate that supports a diverse range of flora and fauna.
+
+[SECTION] Terrain & Landscape [/SECTION] Continued
+In addition to its mountains and coastal plains, Galicia is also home to a number of **wetlands** and **estuaries**, which provide a habitat for a wide range of **waterbirds** and **fish**. The region's **agriculture** is also an important part of its landscape, with **farming** and **livestock** being significant contributors to the local economy. The **rural landscape** of Galicia is characterized by small **farms** and **villages**, which are often surrounded by **woodlands** and **heathlands**.
+
+[SECTION] Climate By Season [/SECTION]
+[TABLE]
+| Season | Months | Temperature Range | Rainfall | Conditions |
+| --- | --- | --- | --- | --- |
+| Spring | March to May | 10-18°C | 100-150 mm | Mild and sunny, with occasional rain showers |
+| Summer | June to August | 18-25°C | 50-100 mm | Warm and dry, with occasional heatwaves |
+| Autumn | September to November | 10-18°C | 150-200 mm | Mild and wet, with occasional storms |
+| Winter | December to February | 5-10°C | 200-250 mm | Cool and wet, with occasional frosts |
+[/TABLE]
+
+[SECTION] Best Time To Visit [/SECTION]
+[CALLOUT] Best months: June to September. Why: The summer months offer warm weather and long days, making it ideal for outdoor activities such as hiking, surfing, and exploring the region's beaches and islands. Avoid: December to February, as the winter months can be cool and wet, with occasional frosts and storms. [/CALLOUT]
+
+[SECTION] Natural Highlights [/SECTION]
+- The **Cies Islands** are a UNESCO-recognized nature reserve, known for their stunning beaches and marine wildlife.
+- The **Rias Baixas** region is famous for its scenic fjord-like inlets and vineyards, producing some of the world's best **albariño wines**.
+- The **Serra dos Ancares** mountain range is home to a diverse range of flora and fauna, including **eucalyptus forests** and **wildlife** such as wolves and bears.
+- The **Galician coast** is home to a number of **islands**, including the **Ons Island**, which is known for its stunning beaches and **marine wildlife**.
+- The **Minho River** forms the border between Galicia and Portugal, and is known for its scenic **valleys** and **waterfalls**.
+- The **Sil River** is a popular destination for **kayaking** and **rafting**, with its rapids and **gorges** creating a thrilling experience for **adventure seekers**.
+
+---
+
+*Evergreen reference content. Verify time-sensitive details with official sources.*
