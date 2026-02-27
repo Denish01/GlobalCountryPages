@@ -1,0 +1,58 @@
+---
+title: "Victoria Geography - Location, Terrain & Climate"
+entity: "Australia"
+iso_code: "AU"
+continent: "oceania"
+angle: "geography"
+date: "2026-02-27"
+---
+
+# Victoria Geography - Location, Terrain & Climate
+
+Victoria is a region located in the southeastern part of Australia, known for its diverse terrain, unique wildlife, and temperate climate.
+
+[FACTBOX]
+Land Area: 227,416 km², about the size of the United Kingdom
+Highest Point: Mount Bogong, 1,986 meters
+Lowest Point: Bass Strait, 0 meters
+Coastline: 2,000 km
+Borders: New South Wales, South Australia
+Climate Type: temperate
+[/FACTBOX]
+
+[SECTION] Location & Borders [/SECTION]
+Victoria is situated in the southeastern part of Australia, bordering the states of New South Wales to the north and east, and South Australia to the west. The region is bounded by the Bass Strait to the south, the Tasman Sea to the southeast, and the Southern Ocean to the southwest. Victoria's strategic location makes it an important hub for trade and commerce, with the city of Melbourne being the second-most populous city in Australia.
+
+Victoria's borders are defined by its natural geography, with the Great Dividing Range forming the northern and eastern boundaries. The Murray River, which forms the border with New South Wales, is an important source of water and has played a significant role in the region's history and development. The coastline of Victoria is characterized by a mix of sandy beaches, rocky shores, and scenic cliffs, making it a popular destination for tourists and beachgoers.
+
+[SECTION] Terrain & Landscape [/SECTION]
+Victoria's terrain is diverse and varied, ranging from the rugged mountains of the Great Dividing Range to the flat plains of the western district. The Great Dividing Range, which stretches from the northeastern part of the state to the southeastern coast, is home to some of Victoria's highest peaks, including Mount Bogong, the highest point in the state. The range is also home to numerous valleys, gorges, and waterfalls, making it a popular destination for hikers and nature lovers.
+
+The western district of Victoria is characterized by flat plains and rolling hills, with the majority of the region being used for agriculture and pastoralism. The region is also home to several major rivers, including the Murray River, the Goulburn River, and the Yarra River, which provide water for irrigation, drinking water, and recreational activities. The southeastern coast of Victoria is characterized by a mix of sandy beaches, rocky shores, and scenic cliffs, with the famous **Twelve Apostles** limestone stacks being a major tourist attraction.
+
+The northeastern part of Victoria is home to the **Alpine National Park**, which features some of the most rugged and scenic terrain in the state. The park is home to numerous mountains, valleys, and lakes, and is a popular destination for skiers, hikers, and nature lovers. The park is also home to a wide range of unique and endemic species, including the **alpine ash** and the **mountain pygmy possum**.
+
+[SECTION] Climate By Season [/SECTION]
+[TABLE]
+| Season | Months | Temperature Range | Rainfall | Conditions |
+| --- | --- | --- | --- | --- |
+| Summer | December to February | 15-30°C | 40-60 mm | Hot and dry, with occasional heatwaves |
+| Autumn | March to May | 10-20°C | 30-50 mm | Mild and pleasant, with occasional rain showers |
+| Winter | June to August | 5-15°C | 20-40 mm | Cool and wet, with occasional snowfall in the mountains |
+| Spring | September to November | 10-20°C | 30-50 mm | Mild and pleasant, with occasional rain showers |
+[/TABLE]
+
+[SECTION] Best Time To Visit [/SECTION]
+[CALLOUT] Best months: September to November and March to May. Why: These periods offer mild and pleasant weather, with comfortable temperatures and minimal rainfall, making them ideal for outdoor activities and sightseeing. Avoid: June to August, as the weather can be cool and wet, with occasional snowfall in the mountains. [/CALLOUT]
+
+[SECTION] Natural Highlights [/SECTION]
+- **Great Otway National Park**: A scenic park featuring rugged coastline, waterfalls, and temperate rainforests.
+- **Wilson's Promontory National Park**: A popular park featuring scenic coastline, beaches, and unique wildlife.
+- **Grampians National Park**: A rugged park featuring mountains, valleys, and scenic lookouts.
+- **Yarra River**: A major river that flows through Melbourne and offers scenic views and recreational activities.
+- **Phillip Island**: A popular tourist destination known for its **penguin parade** and **koala conservation center**.
+- **Alpine National Park**: A scenic park featuring rugged mountains, valleys, and lakes, and home to unique and endemic species.
+
+---
+
+*Evergreen reference content. Verify time-sensitive details with official sources.*
