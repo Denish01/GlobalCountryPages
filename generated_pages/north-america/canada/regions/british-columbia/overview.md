@@ -1,0 +1,56 @@
+---
+title: "British Columbia - Overview & Essential Facts"
+entity: "Canada"
+iso_code: "CA"
+continent: "north-america"
+angle: "overview"
+date: "2026-02-28"
+---
+
+# British Columbia - Overview & Essential Facts
+
+British Columbia is a region located on the west coast of Canada, known for its stunning natural beauty, vibrant culture, and strong economy.
+
+[FACTBOX]
+Official Name: Province of British Columbia
+Capital: Victoria
+Population: 5.2 million
+Languages: English, French
+Currency: CAD
+Government: Constitutional monarchy and parliamentary democracy
+Continent: North America
+ISO Code: CA-BC
+Calling Code: +1
+Drives On: right
+Time Zone: UTC-8
+[/FACTBOX]
+
+[SECTION] What Is British Columbia? [/SECTION]
+British Columbia is a province located on the western coast of Canada, bordered by the Pacific Ocean to the west, the Canadian territories of Yukon and Northwest Territories to the north, the province of Alberta to the east, and the US state of Washington to the south. The region is known for its diverse geography, which includes mountains, forests, islands, and coastline, making it a popular destination for outdoor enthusiasts. British Columbia is also home to a diverse range of cultures, including indigenous communities, and is known for its vibrant cities, including Vancouver and Victoria.
+
+The province has a strong economy, driven by industries such as forestry, mining, and tourism, and is also a major hub for trade and commerce. British Columbia is also home to a number of world-class universities and research institutions, making it a center for innovation and education. The region is also known for its mild climate, with temperatures ranging from cool to warm throughout the year, making it an attractive destination for people looking to relocate or visit.
+
+British Columbia has a long and rich history, with evidence of human habitation dating back thousands of years. The region was originally inhabited by indigenous peoples, including the First Nations and Inuit, who developed complex societies and cultures. The arrival of European explorers and settlers had a significant impact on the region, leading to the establishment of trade and commerce, as well as the development of new technologies and industries.
+
+[SECTION] Key History [/SECTION]
+1. 1792 - The first European explorer, Captain George Vancouver, arrives in British Columbia, mapping the coastline and establishing trade relationships with indigenous peoples.
+2. 1846 - The Oregon Treaty establishes the border between British Columbia and the US state of Washington, marking the beginning of the region's development as a separate entity.
+3. 1858 - The Fraser Canyon Gold Rush brings a surge of settlers to the region, leading to the establishment of new towns and cities.
+4. 1866 - The Colony of British Columbia is established, with Victoria as its capital, marking the beginning of the region's development as a formal colony.
+5. 1871 - British Columbia joins the Canadian Confederation, becoming the sixth province of Canada.
+6. 1885 - The Canadian Pacific Railway is completed, linking British Columbia to the rest of Canada and facilitating trade and commerce.
+7. 1908 - The University of British Columbia is established, marking the beginning of the region's development as a center for education and research.
+
+[SECTION] What Makes British Columbia Unique [/SECTION]
+- British Columbia is home to some of the most diverse and unique ecosystems in the world, including old-growth forests, glaciers, and coral reefs.
+- The province is home to a number of **indigenous communities**, each with their own distinct culture and traditions.
+- British Columbia is a major hub for **outdoor recreation**, with opportunities for hiking, skiing, surfing, and other activities.
+- The province is home to a thriving **arts and culture scene**, with numerous museums, galleries, and performance venues.
+- British Columbia is a leader in **sustainable energy and environmental protection**, with a focus on reducing carbon emissions and preserving natural resources.
+
+[SECTION] Quick Summary [/SECTION]
+British Columbia is a unique and diverse region located on the west coast of Canada, known for its stunning natural beauty, vibrant culture, and strong economy, making it a popular destination for tourists, outdoor enthusiasts, and people looking to relocate or invest.
+
+---
+
+*Evergreen reference content. Verify time-sensitive details with official sources.*

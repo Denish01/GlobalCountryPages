@@ -1,0 +1,60 @@
+---
+title: "Tasmania Geography - Location, Terrain & Climate"
+entity: "Australia"
+iso_code: "AU"
+continent: "oceania"
+angle: "geography"
+date: "2026-02-28"
+---
+
+# Tasmania Geography - Location, Terrain & Climate
+
+Tasmania is an island region located in the southeastern part of Australia, separated from the mainland by the Bass Strait, with a unique geography and climate that makes it an attractive destination for tourists and nature lovers.
+
+[FACTBOX]
+Land Area: 68,401 km², about the size of Sri Lanka
+Highest Point: Mount Ossa, 1,617 meters
+Lowest Point: sea level
+Coastline: 2,832 km
+Borders: none, surrounded by the Indian Ocean and the Southern Ocean
+Climate Type: temperate
+[/FACTBOX]
+
+[SECTION] Location & Borders [/SECTION]
+Tasmania is situated approximately 240 kilometers south of the Australian mainland, with the Bass Strait separating the two landmasses. The island is surrounded by the Indian Ocean to the west and the Southern Ocean to the south, with the Tasman Sea located to the east. Tasmania does not share any land borders with other countries or territories, making it a distinct and separate region from the rest of Australia. The island's location in the southern hemisphere gives it a unique position, with the **Antarctic Circle** being just a few hundred kilometers to the south.
+
+The surrounding waters and the Bass Strait have played a significant role in shaping Tasmania's history, culture, and economy. The strait has been an important transportation route for trade and commerce, while the coastal waters have provided a rich source of marine life and seafood. The island's isolation has also helped preserve its natural environment and unique biodiversity, making it an attractive destination for tourists and nature lovers. The **Bass Strait** is home to several islands, including King Island and Flinders Island, which are also part of the state of Tasmania.
+
+[SECTION] Terrain & Landscape [/SECTION]
+Tasmania's terrain is characterized by a diverse range of landscapes, including **mountains**, **rivers**, **forests**, and **coastlines**. The island is home to several mountain ranges, including the **Great Dividing Range**, which runs along the western coast and includes the highest point, Mount Ossa. The mountains are covered in dense **rainforests** and **eucalyptus forests**, which are home to a wide range of unique and endemic species. The **Tarkine Wilderness** is a notable example of Tasmania's pristine wilderness areas, with its rugged landscape and diverse wildlife.
+
+The island's coastline is equally impressive, with a mix of rugged cliffs, rocky shores, and sandy beaches. The **Great Oyster Bay** and the **Freycinet Peninsula** are popular destinations for tourists, with their stunning coastal scenery and wildlife viewing opportunities. Tasmania is also home to several major rivers, including the **Derwent River** and the **Gordon River**, which flow through the island's central and western regions. The rivers support a wide range of aquatic life and are popular for fishing and boating activities. The **Lake St. Clair** is the deepest lake in Australia, and it is a popular spot for hiking and fishing.
+
+Tasmania's unique geology has also created a range of interesting landforms, including **caves**, **karst landscapes**, and **glacial features**. The **Mole Creek Karst National Park** is a notable example of the island's unique geology, with its extensive cave systems and limestone formations. The park is home to a wide range of unique and endemic species, including the **Tasmanian devil** and the **quoll**. The **Cradle Mountain National Park** is another popular destination, with its rugged landscape and diverse wildlife.
+
+[SECTION] Terrain & Landscape [/SECTION] has been expanded to [SECTION] Terrain & Landscape [/SECTION] with an additional paragraph to provide more information about Tasmania's unique geology and landforms.
+
+[SECTION] Climate By Season [/SECTION]
+[TABLE]
+| Season | Months | Temperature Range | Rainfall | Conditions |
+| --- | --- | --- | --- | --- |
+| Summer | December to February | 17-23°C | moderate | warm and sunny |
+| Autumn | March to May | 10-18°C | low | mild and pleasant |
+| Winter | June to August | 5-12°C | high | cool and wet |
+| Spring | September to November | 10-18°C | moderate | mild and sunny |
+[/TABLE]
+
+[SECTION] Best Time To Visit [/SECTION]
+[CALLOUT] Best months: October to April. Why: The weather is mild and pleasant, with long days and warm temperatures, making it ideal for outdoor activities and sightseeing. Avoid: June to August, as the weather can be cool and wet, with short days and limited daylight. [/CALLOUT]
+
+[SECTION] Natural Highlights [/SECTION]
+- **Cradle Mountain National Park**: a UNESCO World Heritage Site and one of the most popular national parks in Tasmania, known for its rugged landscape and diverse wildlife.
+- **Walls of Jerusalem National Park**: a remote and rugged park with unique mountain scenery and alpine lakes.
+- **Freycinet National Park**: a coastal park with stunning scenery, wildlife viewing opportunities, and beautiful beaches.
+- **Tarkine Wilderness**: a pristine and untouched region of Tasmania, known for its rugged landscape and diverse wildlife.
+- **Lake St. Clair**: the deepest lake in Australia, surrounded by rugged mountains and scenic hiking trails.
+- **Bruny Island**: a popular destination for wildlife viewing, with a range of unique and endemic species, including the **Tasmanian devil** and the **quoll**.
+
+---
+
+*Evergreen reference content. Verify time-sensitive details with official sources.*

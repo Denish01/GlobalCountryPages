@@ -1,0 +1,58 @@
+---
+title: "Alberta Geography - Location, Terrain & Climate"
+entity: "Canada"
+iso_code: "CA"
+continent: "north-america"
+angle: "geography"
+date: "2026-02-28"
+---
+
+# Alberta Geography - Location, Terrain & Climate
+
+Alberta is a region located in western Canada, known for its stunning natural beauty, diverse landscape, and rich cultural heritage.
+
+[FACTBOX]
+Land Area: 661,848 km², about the size of Texas
+Highest Point: Mount Columbia, 3,747 meters
+Lowest Point: Slave River, 152 meters
+Coastline: landlocked
+Borders: British Columbia, Northwest Territories, Nunavut, Saskatchewan, Montana
+Climate Type: temperate
+[/FACTBOX]
+
+[SECTION] Location & Borders [/SECTION]
+Alberta is situated in the western part of Canada, bordered by the Canadian territories of Northwest Territories and Nunavut to the north, the province of British Columbia to the west, the province of Saskatchewan to the east, and the state of Montana to the south. The region is landlocked, with no direct access to the ocean, but it is home to numerous lakes, rivers, and wetlands that provide ample opportunities for water-based activities. Alberta's strategic location at the intersection of the Canadian Rockies and the Great Plains makes it a unique and fascinating region to explore.
+
+The province is divided into several distinct regions, each with its own unique character and attractions. The Rocky Mountains, which stretch along the western edge of Alberta, offer breathtaking scenery, world-class skiing, and abundant wildlife viewing opportunities. The prairies, which cover much of central and eastern Alberta, are home to rolling hills, sparkling lakes, and vibrant cities like Calgary and Edmonton. The boreal forest, which covers much of northern Alberta, is a vast and pristine wilderness area that is home to numerous species of wildlife, including bears, wolves, and moose.
+
+[SECTION] Terrain & Landscape [/SECTION]
+Alberta's diverse landscape is characterized by a range of different ecosystems, including mountains, forests, grasslands, and wetlands. The Canadian Rockies, which stretch along the western edge of the province, are a major feature of Alberta's landscape, with towering peaks, glaciers, and turquoise lakes. The Rockies are home to numerous national parks, including Banff and Jasper, which offer stunning scenery, hiking trails, and abundant wildlife viewing opportunities. The mountains are also home to several major ski resorts, including Lake Louise and Sunshine Village, which offer world-class skiing and snowboarding.
+
+The prairies, which cover much of central and eastern Alberta, are a vast and rolling landscape of grasslands and badlands. This region is home to numerous lakes and rivers, including Lake Louise and the North Saskatchewan River, which offer ample opportunities for boating, fishing, and other water-based activities. The prairies are also home to several major cities, including Calgary and Edmonton, which offer a range of cultural and recreational attractions. The boreal forest, which covers much of northern Alberta, is a vast and pristine wilderness area that is home to numerous species of wildlife, including bears, wolves, and moose.
+
+The landscape of Alberta is also characterized by a range of unique geological features, including hoodoos, canyons, and badlands. The badlands, which are found in the southeastern part of the province, are a unique and fascinating landscape of eroded rock formations, canyons, and hoodoos. The Royal Tyrrell Museum, which is located in the badlands, is a world-renowned museum that features an extensive collection of dinosaur fossils and artifacts.
+
+[SECTION] Climate By Season [/SECTION]
+[TABLE]
+| Season | Months | Temperature Range | Rainfall | Conditions |
+| --- | --- | --- | --- | --- |
+| Winter | December to February | -10°C to -30°C | low | cold, snowy |
+| Spring | March to May | 0°C to 15°C | moderate | mild, wet |
+| Summer | June to August | 15°C to 25°C | moderate | warm, sunny |
+| Autumn | September to November | 0°C to 10°C | low | cool, dry |
+[/TABLE]
+
+[SECTION] Best Time To Visit [/SECTION]
+[CALLOUT] Best months: June to August. Why: warm weather, long days, and numerous outdoor festivals and events. Avoid: December to February, as the weather can be very cold and snowy, and some attractions may be closed. [/CALLOUT]
+
+[SECTION] Natural Highlights [/SECTION]
+- **Banff National Park**: a stunning mountain park with glaciers, lakes, and abundant wildlife
+- **Lake Louise**: a picturesque lake with turquoise water and surrounded by mountains
+- **Jasper National Park**: a vast and pristine wilderness area with glaciers, lakes, and abundant wildlife
+- **Athabasca Glacier**: a unique and accessible glacier that offers stunning views and hiking opportunities
+- **Wood Buffalo National Park**: a UNESCO World Heritage Site and home to numerous species of wildlife, including bison and wolves
+- **Columbia Icefield**: a vast and impressive icefield that offers stunning views and hiking opportunities
+
+---
+
+*Evergreen reference content. Verify time-sensitive details with official sources.*
