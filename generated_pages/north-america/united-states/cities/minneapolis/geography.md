@@ -1,0 +1,60 @@
+---
+title: "Minneapolis Geography - Location, Terrain & Climate"
+entity: "United States"
+iso_code: "US"
+continent: "north-america"
+angle: "geography"
+date: "2026-03-01"
+---
+
+# Minneapolis Geography - Location, Terrain & Climate
+
+Minneapolis is a major city located in the state of Minnesota, in the north-central United States, situated on the banks of the Mississippi River.
+
+[FACTBOX]
+Land Area: 151 km², about the size of the city of Las Vegas
+Highest Point: Brownie Hill, 323 feet (98 meters)
+Lowest Point: Mississippi River, 686 feet (209 meters)
+Coastline: landlocked
+Borders: Saint Paul, Bloomington, Richfield, and Edina
+[/FACTBOX]
+
+[SECTION] Location & Borders [/SECTION]
+Minneapolis is situated in the north-central United States, in the state of Minnesota, and is part of the **Twin Cities** metropolitan area, which also includes the state capital, Saint Paul. The city is nestled in the **Mississippi River** valley, where the river flows into the **Minnesota River**. Minneapolis is bordered by several cities, including Saint Paul to the east, Bloomington to the south, Richfield to the south, and Edina to the west. The city's location in the **Midwest** region of the United States makes it a hub for transportation, commerce, and culture.
+
+The city's proximity to several major lakes, including **Lake Calhoun** and **Lake of the Isles**, also makes it a popular destination for outdoor recreation. Minneapolis is situated about 16 kilometers west of the **St. Croix River**, which forms the border between Minnesota and Wisconsin. The city's location in the **Upper Midwest** region also makes it prone to extreme weather conditions, including cold winters and hot summers. The city's **elevation** is relatively flat, with an average elevation of about 260 meters above sea level.
+
+[SECTION] Terrain & Landscape [/SECTION]
+Minneapolis is characterized by a diverse landscape, with a mix of **prairies**, **forests**, and **wetlands**. The city is situated in the **Mississippi River** valley, which has been carved out over thousands of years by the river's flow. The surrounding landscape is relatively flat, with gentle **slopes** and **hills**. The city's terrain is also dotted with numerous **lakes** and **wetlands**, which provide habitat for a wide range of **wildlife**, including birds, fish, and mammals. The **Minnehaha Falls**, a 16-meter waterfall located in **Minnehaha Park**, is a popular tourist destination and a unique feature of the city's landscape.
+
+The city's **geology** is characterized by a mix of **glacial deposits**, including **clay**, **silt**, and **sand**, which were left behind by the **glaciers** that covered the region during the last **ice age**. The city's **soil** is fertile and supports a wide range of **agriculture**, including **corn**, **soybeans**, and **wheat**. The surrounding **countryside** is also home to numerous **farms** and **ranches**, which produce a wide range of **livestock** and **crops**. The city's **urban landscape** is characterized by a mix of **high-rise buildings**, **residential neighborhoods**, and **industrial areas**, which provide a hub for **commerce** and **industry**.
+
+The city's **parks** and **green spaces** are also an important feature of its landscape, providing **recreation** and **conservation** areas for residents and visitors. The **Grand Rounds Scenic Byway**, a 13-kilometer scenic drive that surrounds the city, provides a unique perspective on the city's landscape and **natural beauty**. The city's **waterways**, including the **Mississippi River** and numerous **lakes**, also provide opportunities for **boating**, **fishing**, and **swimming**.
+
+[SECTION] Terrain & Landscape [/SECTION] is already defined, so this section will be [SECTION] Additional Terrain Information [/SECTION]
+Minneapolis is also home to numerous **parks** and **gardens**, including the **Minneapolis Sculpture Garden**, which features over 50 modern and contemporary art pieces, and the **Eloise Butler Wildflower Garden**, which features over 500 plant species. The city's ** Chain of Lakes**, which includes **Lake Calhoun**, **Lake of the Isles**, and **Lake Harriet**, provides a scenic destination for **boating**, **fishing**, and **swimming**.
+
+[SECTION] Climate By Season [/SECTION]
+[TABLE]
+| Season | Months | Temperature Range | Rainfall | Conditions |
+| --- | --- | --- | --- | --- |
+| Spring | March to May | 10-20°C (50-68°F) | 60-80 mm (2.4-3.2 in) | mild, sunny, occasional rain |
+| Summer | June to August | 22-30°C (72-86°F) | 80-100 mm (3.2-3.9 in) | warm, humid, occasional thunderstorms |
+| Autumn | September to November | 10-20°C (50-68°F) | 40-60 mm (1.6-2.4 in) | cool, sunny, occasional rain |
+| Winter | December to February | -10 to 0°C (14-32°F) | 20-40 mm (0.8-1.6 in) | cold, snowy, occasional blizzards |
+[/TABLE]
+
+[SECTION] Best Time To Visit [/SECTION]
+[CALLOUT] Best months: June to August. Why: The summer months offer warm weather, long days, and a wide range of outdoor activities, including boating, fishing, and swimming. Avoid: January and February, as the city can be extremely cold and snowy, with average temperatures often below freezing. [/CALLOUT]
+
+[SECTION] Natural Highlights [/SECTION]
+- **Minnehaha Falls**: a 16-meter waterfall located in Minnehaha Park, which is a popular tourist destination and a unique feature of the city's landscape.
+- **Chain of Lakes**: a series of lakes, including Lake Calhoun, Lake of the Isles, and Lake Harriet, which provide a scenic destination for boating, fishing, and swimming.
+- **Mississippi River**: a major river that flows through the city and provides opportunities for boating, fishing, and swimming.
+- **Grand Rounds Scenic Byway**: a 13-kilometer scenic drive that surrounds the city and provides a unique perspective on the city's landscape and natural beauty.
+- **Eloise Butler Wildflower Garden**: a garden that features over 500 plant species and provides a peaceful oasis in the midst of the city.
+- **Minneapolis Sculpture Garden**: a garden that features over 50 modern and contemporary art pieces, including the famous Spoonbridge and Cherry sculpture.
+
+---
+
+*Evergreen reference content. Verify time-sensitive details with official sources.*

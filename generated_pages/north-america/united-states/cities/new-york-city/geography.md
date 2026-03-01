@@ -1,0 +1,58 @@
+---
+title: "New York City Geography - Location, Terrain & Climate"
+entity: "United States"
+iso_code: "US"
+continent: "north-america"
+angle: "geography"
+date: "2026-03-01"
+---
+
+# New York City Geography - Location, Terrain & Climate
+
+New York City is located in the northeastern United States, situated on the Atlantic Coast, and is one of the most populous and densely populated cities in the world.
+
+[FACTBOX]
+Land Area: 784 km², about the size of the city of Los Angeles
+Highest Point: Todt Hill, 124.9 meters
+Lowest Point: Sea level, 0 meters
+Coastline: 837 km, including the shores of the Atlantic Ocean, Long Island Sound, and surrounding islands
+Borders: New York State, New Jersey, and Connecticut
+Climate Type: Humid subtropical
+[/FACTBOX]
+
+[SECTION] Location & Borders [/SECTION]
+New York City is situated in the state of New York, in the northeastern United States, and is bordered by the states of New Jersey to the west and Connecticut to the east. The city is surrounded by several bodies of water, including the Atlantic Ocean to the south, Long Island Sound to the east, and the Hudson River to the west. New York City is composed of five boroughs: Manhattan, Brooklyn, Queens, the Bronx, and Staten Island, each with its unique character and geography. The city's strategic location at the mouth of the Hudson River made it an important hub for trade and commerce, and its natural harbor has been a major factor in its growth and development.
+
+The city's location on the Atlantic Coast also makes it susceptible to the influences of the ocean, with the **Gulf Stream** bringing warmth and moisture from the equator. The **Appalachian Mountains** to the west and the **Atlantic Coastal Plain** to the south also play a role in shaping the city's climate and geography. New York City's proximity to the ocean and its location in a region of high population density make it an important center for international trade, finance, and culture.
+
+[SECTION] Terrain & Landscape [/SECTION]
+New York City's terrain is characterized by a mix of coastal lowlands, hills, and islands. The city is built on a variety of **rock formations**, including granite, gneiss, and schist, which provide a foundation for its skyscrapers and other buildings. The **Hudson River** and its tributaries, such as the **East River** and **Harlem River**, have carved out a landscape of valleys and hills, with steep slopes and scenic vistas. The city's coastline is marked by a series of **beaches**, **bays**, and **inlets**, including the famous **Coney Island** and **Rockaway Beach**.
+
+The city's landscape has been shaped by human activity, with **parks** and **green spaces** such as **Central Park** and **Prospect Park** providing oases of natural beauty in the midst of urban development. The **High Line**, a former elevated rail line, has been converted into a linear park, offering stunning views of the city and the Hudson River. New York City's terrain and landscape are also marked by a series of **islands**, including **Manhattan Island**, **Staten Island**, and **Long Island**, which provide a unique and diverse range of ecosystems and habitats.
+
+The city's **waterfront** has undergone significant development in recent years, with the creation of new **parks** and **public spaces**, such as the **Hudson River Greenway** and the **Brooklyn Waterfront Greenway**. These initiatives have helped to revitalize the city's coastline and provide new opportunities for recreation and tourism.
+
+[SECTION] Climate By Season [/SECTION]
+[TABLE]
+| Season | Months | Temperature Range | Rainfall | Conditions |
+| --- | --- | --- | --- | --- |
+| Spring | March to May | 10-20°C | 80-100 mm | Mild, with occasional rain showers |
+| Summer | June to August | 25-30°C | 80-120 mm | Hot and humid, with occasional thunderstorms |
+| Autumn | September to November | 10-20°C | 80-100 mm | Cool and crisp, with occasional rain showers |
+| Winter | December to February | -5 to 5°C | 60-80 mm | Cold and snowy, with occasional freezing temperatures |
+[/TABLE]
+
+[SECTION] Best Time To Visit [/SECTION]
+[CALLOUT] Best months: September to November and March to May. Why: These periods offer mild and pleasant weather, with fewer crowds and lower prices than the peak summer months. Avoid: January and February, when the city can be cold and snowy, and June to August, when the heat and humidity can be oppressive. [/CALLOUT]
+
+[SECTION] Natural Highlights [/SECTION]
+- **Central Park**: A large public park in Manhattan, offering a range of recreational activities and scenic landscapes.
+- **The High Line**: A former elevated rail line converted into a linear park, with stunning views of the city and the Hudson River.
+- **Jamaica Bay Wildlife Refuge**: A protected area in Queens, providing a habitat for a diverse range of bird and marine life.
+- **Staten Island Greenbelt**: A network of parks and nature reserves on Staten Island, offering hiking trails, scenic vistas, and opportunities for birdwatching.
+- **Bronx River Greenway**: A linear park along the Bronx River, providing a scenic route for walking, jogging, and biking.
+- **Coney Island Beach**: A popular beach in Brooklyn, known for its amusement park, boardwalk, and vibrant nightlife.
+
+---
+
+*Evergreen reference content. Verify time-sensitive details with official sources.*

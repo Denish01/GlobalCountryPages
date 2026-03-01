@@ -1,0 +1,58 @@
+---
+title: "Dallas Geography - Location, Terrain & Climate"
+entity: "United States"
+iso_code: "US"
+continent: "north-america"
+angle: "geography"
+date: "2026-03-01"
+---
+
+# Dallas Geography - Location, Terrain & Climate
+
+Dallas is a major city located in the southern United States, situated in the state of Texas, and is known for its rich history, cultural attractions, and diverse landscapes.
+
+[FACTBOX]
+Land Area: approximately 385 square miles (about the size of the city of Los Angeles)
+Highest Point: Cedar Hill, 750 feet
+Lowest Point: Trinity River, 400 feet
+Coastline: landlocked
+Borders: cities of Irving, Grand Prairie, and Fort Worth to the west, and the cities of Richardson and Plano to the north
+Climate Type: humid subtropical
+[/FACTBOX]
+
+[SECTION] Location & Borders [/SECTION]
+Dallas is situated in the north-central part of Texas, in the southern United States. The city is located in the **Prairie** region of Texas, which is characterized by rolling hills, vast prairies, and an abundance of wildflowers. Dallas is surrounded by several cities, including Irving, Grand Prairie, and Fort Worth to the west, and the cities of Richardson and Plano to the north. The city is also situated near several major highways, including Interstate 35E and Interstate 30, which provide easy access to other parts of the state and the country.
+
+The city's location in the southern United States makes it a hub for trade and commerce, with several major industries, including technology, healthcare, and finance, calling Dallas home. The city is also a major cultural center, with a vibrant arts and entertainment scene, featuring numerous museums, galleries, and performance venues. The city's proximity to the **Trinity River** also provides opportunities for outdoor recreation, including hiking, biking, and kayaking.
+
+[SECTION] Terrain & Landscape [/SECTION]
+The terrain and landscape of Dallas are characterized by rolling hills, vast prairies, and an abundance of wildflowers. The city is situated in the **Prairie** region of Texas, which is marked by gentle slopes and shallow valleys. The **Trinity River** runs through the city, providing a source of water and a habitat for a variety of wildlife. The surrounding countryside is dominated by vast prairies, which are home to a diverse range of flora and fauna, including **bluebonnets**, **Indian paintbrush**, and **prairie dogs**.
+
+The city itself is a mix of urban and suburban landscapes, with a blend of high-rise office buildings, residential neighborhoods, and commercial districts. The city's **downtown** area is a hub of activity, with a vibrant arts and entertainment scene, featuring numerous museums, galleries, and performance venues. The city is also home to several major parks and green spaces, including **Klyde Warren Park** and **White Rock Lake**, which provide opportunities for outdoor recreation and relaxation.
+
+The geology of the area is characterized by a mix of **limestone**, **sandstone**, and **shale**, which provide a foundation for the city's buildings and infrastructure. The city's water supply is provided by several major reservoirs, including **Lake Lewisville** and **Lake Grapevine**, which are located to the north and west of the city.
+
+[SECTION] Climate By Season [/SECTION]
+[TABLE]
+| Season | Months | Temperature Range | Rainfall | Conditions |
+| --- | --- | --- | --- | --- |
+| Spring | March to May | 60-80°F | 3-4 inches | mild, wildflowers in bloom |
+| Summer | June to August | 90-100°F | 2-3 inches | hot, humid |
+| Autumn | September to November | 50-70°F | 3-4 inches | mild, fall foliage |
+| Winter | December to February | 30-50°F | 2-3 inches | cool, occasional cold snaps |
+[/TABLE]
+
+[SECTION] Best Time To Visit [/SECTION]
+[CALLOUT] Best months: October and November. Why: the weather is mild and pleasant, with comfortable temperatures and minimal rainfall, making it ideal for outdoor activities and sightseeing. Avoid: July and August, as the heat and humidity can be oppressive, and the city's roads and attractions can be crowded with summer tourists. [/CALLOUT]
+
+[SECTION] Natural Highlights [/SECTION]
+- **Cedar Hill State Park**: a 1,826-acre park featuring hiking trails, camping facilities, and stunning views of the surrounding countryside
+- **White Rock Lake**: a 9.33-mile lake featuring hiking trails, kayaking, and stunning views of the Dallas skyline
+- **Trinity River Audubon Center**: a nature preserve featuring hiking trails, bird-watching, and stunning views of the Trinity River
+- **Klyde Warren Park**: a 17-acre park featuring walking trails, picnic areas, and stunning views of the Dallas skyline
+- **Lake Lewisville**: a 29,000-acre lake featuring boating, fishing, and stunning views of the surrounding countryside
+- **Dallas Arboretum and Botanical Garden**: a 66-acre garden featuring stunning views of White Rock Lake and a variety of plant species from around the world
+
+---
+
+*Evergreen reference content. Verify time-sensitive details with official sources.*

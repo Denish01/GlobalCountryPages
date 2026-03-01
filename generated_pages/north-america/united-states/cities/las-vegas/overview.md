@@ -1,0 +1,56 @@
+---
+title: "Las Vegas - Overview & Essential Facts"
+entity: "United States"
+iso_code: "US"
+continent: "north-america"
+angle: "overview"
+date: "2026-03-01"
+---
+
+# Las Vegas - Overview & Essential Facts
+
+Las Vegas is a major city located in the state of Nevada, United States, known for its vibrant entertainment scene, casinos, and nightlife.
+
+[FACTBOX]
+Official Name: City of Las Vegas
+Capital: 
+Population: 0 million
+Languages: English
+Currency: USD
+Government: Mayor-council
+Continent: North America
+ISO Code: US
+Calling Code: +1
+Drives On: right
+Time Zone: UTC-8
+[/FACTBOX]
+
+[SECTION] What Is Las Vegas? [/SECTION]
+Las Vegas is a city located in the Mojave Desert in the state of Nevada, United States. It is situated in Clark County, which is the most populous county in Nevada, and is known for its vibrant entertainment scene, casinos, and nightlife. The city has a population of over 640,000 people, making it the 28th most populous city in the United States. Las Vegas is often referred to as the "Entertainment Capital of the World" due to its numerous casinos, hotels, and resorts, which attract millions of visitors each year.
+
+The city's geographic position makes it an ideal location for tourism, as it is easily accessible by car, plane, or bus. Las Vegas is surrounded by the beautiful natural landscapes of the Mojave Desert and the Red Rock Canyon, which offer a range of outdoor activities such as hiking, camping, and rock climbing. The city is also close to the Hoover Dam, a National Historic Landmark that is a popular tourist destination.
+
+Las Vegas is known for its vibrant and eclectic culture, which is reflected in its many museums, galleries, and performance venues. The city is home to a diverse range of restaurants, bars, and clubs, which offer a wide range of cuisines and entertainment options. From the famous **Strip**, which is lined with casinos and hotels, to the historic **Fremont Street**, which is known for its live music and street performers, Las Vegas has something to offer for everyone.
+
+[SECTION] Key History [/SECTION]
+1. 1905 - The city of Las Vegas is founded as a railroad town, with the arrival of the San Pedro, Los Angeles and Salt Lake Railroad.
+2. 1931 - The construction of the Hoover Dam brings a large influx of workers to the area, which helps to establish Las Vegas as a major city.
+3. 1936 - The first casino, the Northern Club, is opened on Fremont Street, marking the beginning of Las Vegas' gaming industry.
+4. 1941 - The first high-end casino, the El Cortez, is opened, which sets a new standard for luxury and entertainment in the city.
+5. 1946 - **Bugsy Siegel** opens the Flamingo Hotel, which becomes a major landmark and helps to establish Las Vegas as a major tourist destination.
+6. 1955 - The **Rat Pack**, a group of entertainers including Frank Sinatra, Dean Martin, and Sammy Davis Jr., begin performing in Las Vegas, which helps to establish the city as a major entertainment hub.
+7. 1993 - The **MGM Grand Hotel and Casino** is opened, which becomes one of the largest hotels in the world and sets a new standard for luxury and entertainment in Las Vegas.
+
+[SECTION] What Makes Las Vegas Unique [/SECTION]
+- Las Vegas is home to over 150 casinos, which offer a wide range of gaming options and entertainment venues.
+- The city has a vibrant arts and culture scene, with numerous museums, galleries, and performance venues, including the **Smith Center for the Performing Arts**.
+- Las Vegas is a major destination for outdoor enthusiasts, with nearby attractions such as the **Red Rock Canyon** and the **Hoover Dam**.
+- The city has a diverse range of restaurants and bars, which offer a wide range of cuisines and entertainment options, from fine dining to live music and comedy clubs.
+- Las Vegas is a major hub for conventions and trade shows, with numerous venues such as the **Las Vegas Convention Center** and the **Mandalay Bay Convention Center**.
+
+[SECTION] Quick Summary [/SECTION]
+Las Vegas is a vibrant and eclectic city that is known for its entertainment scene, casinos, and nightlife, and offers a wide range of activities and attractions for visitors to enjoy.
+
+---
+
+*Evergreen reference content. Verify time-sensitive details with official sources.*
