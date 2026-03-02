@@ -1,0 +1,57 @@
+---
+title: "Xi'an Geography - Location, Terrain & Climate"
+entity: "China"
+iso_code: "CN"
+continent: "asia"
+angle: "geography"
+date: "2026-03-02"
+---
+
+# Xi'an Geography - Location, Terrain & Climate
+
+Xi'an is a historic city located in the northwest of China, nestled in the Guanzhong Basin, and is the capital of Shaanxi Province. 
+
+[FACTBOX]
+Land Area: 9,983 km², about the size of the state of New Jersey
+Highest Point: Qinling Mountains, 3,767 meters
+Lowest Point: Wei River Valley, 400 meters
+Coastline: landlocked
+Borders: surrounded by the Qinling Mountains to the south, the Wei River Valley to the north, and the Loess Plateau to the east and west
+[/FACTBOX]
+
+[SECTION] Location & Borders [/SECTION]
+Xi'an is situated in the heart of China, approximately 1,200 kilometers southwest of Beijing, and is a vital cultural and economic hub in the region. The city is nestled in the Guanzhong Basin, a fertile valley surrounded by the Qinling Mountains to the south and the Wei River Valley to the north. Xi'an is landlocked, with no direct access to the ocean, but it is connected to the rest of China through an extensive network of roads, railways, and waterways.
+
+The city is surrounded by several provinces, including Gansu to the west, Ningxia to the northwest, and Henan to the east. The Loess Plateau, a vast region of fertile soil and rolling hills, lies to the east and west of Xi'an, while the Qinling Mountains form a natural barrier to the south. This strategic location has made Xi'an an important center of trade, commerce, and culture throughout Chinese history.
+
+[SECTION] Terrain & Landscape [/SECTION]
+Xi'an's terrain is characterized by a mix of mountains, valleys, and plains. The Qinling Mountains, which stretch for over 1,500 kilometers, form a rugged range to the south of the city, with peaks reaching elevations of over 3,000 meters. The mountains are home to a diverse range of flora and fauna, including **pandas**, **snow leopards**, and **golden monkeys**. The Wei River Valley, which flows through the city, is a fertile and densely populated region, with rich soil and a mild climate.
+
+To the east and west of Xi'an lies the Loess Plateau, a vast region of rolling hills and fertile soil. The plateau is dotted with small villages and towns, and is known for its **loess caves**, which are carved out of the soft, yellow soil. The city itself is situated on a flat plain, with a few hills and mountains rising up in the surrounding countryside. The terrain is generally dry and **semi-arid**, with limited rainfall and a strong **monsoon** season during the summer months.
+
+The landscape around Xi'an is also dotted with numerous **temples**, **pagodas**, and **monuments**, which reflect the city's rich cultural and historical heritage. The famous **Terracotta Warriors**, for example, are located just outside the city, and are a major tourist attraction. The surrounding countryside is also home to several **national parks** and **nature reserves**, which provide a habitat for a wide range of **wildlife** and **plant species**.
+
+[SECTION] Climate By Season [/SECTION]
+[TABLE]
+| Season | Months | Temperature Range | Rainfall | Conditions |
+| --- | --- | --- | --- | --- |
+| Spring | March to May | 10-25°C | moderate | mild, with occasional rain showers |
+| Summer | June to August | 25-35°C | heavy | hot and humid, with frequent monsoon rains |
+| Autumn | September to November | 10-20°C | light | cool and dry, with clear skies |
+| Winter | December to February | -5 to 5°C | light | cold and dry, with occasional snowfall |
+[/TABLE]
+
+[SECTION] Best Time To Visit [/SECTION]
+[CALLOUT] Best months: September to November and March to May. Why: these periods offer mild and pleasant weather, with comfortable temperatures and minimal rainfall. Avoid: June to August, as the summer months can be extremely hot and humid, with frequent monsoon rains. [/CALLOUT]
+
+[SECTION] Natural Highlights [/SECTION]
+- The Qinling Mountains are a **biodiversity hotspot**, with a wide range of flora and fauna, including giant pandas and snow leopards.
+- The Loess Plateau is home to numerous **loess caves**, which are carved out of the soft, yellow soil and provide a unique insight into the region's geology.
+- The Wei River Valley is a fertile and densely populated region, with rich soil and a mild climate, making it an ideal place for **agriculture** and **farming**.
+- The **Terracotta Warriors** are a famous natural and cultural wonder, with over 8,000 life-sized clay soldiers on display.
+- The **Huanghe River** flows through the city, providing a source of water and transportation, and is an important part of Xi'an's **ecosystem**.
+- The surrounding countryside is home to several **national parks** and **nature reserves**, which provide a habitat for a wide range of **wildlife** and **plant species**.
+
+---
+
+*Evergreen reference content. Verify time-sensitive details with official sources.*

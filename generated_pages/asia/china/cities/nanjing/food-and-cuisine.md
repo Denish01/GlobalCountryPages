@@ -1,0 +1,87 @@
+---
+title: "Nanjing Food Guide — Dishes, Street Food & Dining"
+entity: "China"
+iso_code: "CN"
+continent: "asia"
+angle: "food-and-cuisine"
+date: "2026-03-02"
+---
+
+# Nanjing Food Guide — Dishes, Street Food & Dining
+
+When visiting Nanjing, be sure to try the city's signature dishes, such as **Dongpo Pork**, **Lion's Head**, and **Nanjing Salted Duck**, which showcase the city's rich culinary heritage and blend of **Huaiyang** and **Jiangsu** cuisines.
+
+[FACTBOX]
+Staple Foods: rice, noodles, pork, vegetables
+National Dish: Dongpo Pork, a braised pork belly dish named after the famous poet Su Dongpo
+Meal Times: typical breakfast times are 7-9 am, lunch times are 11:30 am-1:30 pm, and dinner times are 5:30-8:30 pm
+Tipping at Restaurants: not expected, but 5-10% is appreciated for good service
+Dietary Notes: Nanjing's cuisine is generally not **halal** or **kosher**, but **vegetarian** options are available at many restaurants
+[/FACTBOX]
+
+[SECTION] Food Culture Overview [/SECTION]
+Nanjing's cuisine is defined by its rich history, cultural heritage, and geographical location. As the capital of **Jiangsu** province, Nanjing's cuisine is heavily influenced by the **Huaiyang** style, which emphasizes the use of fresh ingredients, delicate flavors, and intricate cooking techniques. The city's cuisine is also shaped by its proximity to the **Yangtze River**, which provides an abundance of fresh fish and other seafood. Regional variations within Nanjing's cuisine include the **Qinhuai** style, which is known for its bold flavors and spices, and the **Xuanwu** style, which is characterized by its light and delicate flavors.
+
+Nanjing's food culture is also influenced by its history as a former capital city, with many dishes named after famous historical figures or landmarks. For example, **Dongpo Pork** is named after the famous poet **Su Dongpo**, who was known for his love of food and cooking. The city's cuisine is also known for its emphasis on **seasonal ingredients**, with many dishes featuring fresh fruits, vegetables, and herbs that are in season.
+
+In addition to its rich culinary heritage, Nanjing is also home to a vibrant food scene, with many restaurants, food courts, and markets offering a wide range of traditional and modern dishes. Visitors to the city can sample a variety of local specialties, from **Nanjing Salted Duck** to **Lion's Head**, and experience the city's unique food culture firsthand.
+
+[SECTION] Must-Try Dishes [/SECTION]
+[TABLE]
+| Dish | Type | Description | Where to Find |
+| --- | --- | --- | --- |
+| Dongpo Pork | Braised pork belly | A classic Nanjing dish named after the famous poet Su Dongpo, featuring tender pork belly braised in a rich sauce | Traditional restaurants in the Qinhuai district |
+| Lion's Head | Braised pork meatball | A large pork meatball braised in a savory sauce, served with steamed bok choy and rice | Local restaurants in the Xuanwu district |
+| Nanjing Salted Duck | Roasted duck | A classic Nanjing dish featuring a roasted duck seasoned with salt and other spices, served with steamed pancakes and scallions | Specialty restaurants in the Gulou district |
+| Steamed Fish with Pickled Mustard Greens | Steamed fish | A delicate dish featuring steamed fish served with pickled mustard greens and a light sauce | Seafood restaurants in the Yangtze River area |
+| Nanjing Wontons | Boiled dumplings | Thin-skinned dumplings filled with pork and vegetables, served in a light broth | Street food stalls and restaurants throughout the city |
+| Fried Dough Sticks | Fried bread | Crispy fried bread sticks served with a sweet or savory dipping sauce | Street food stalls and bakeries throughout the city |
+| Braised Abalone | Seafood | A luxurious dish featuring abalone braised in a rich sauce, served with steamed rice and vegetables | High-end seafood restaurants in the city |
+| Nanjing Dumpling Soup | Boiled dumplings | A hearty soup featuring boiled dumplings filled with pork and vegetables, served with a light broth and noodles | Local restaurants and food courts throughout the city |
+| Grilled Pork Chops | Grilled meat | Thick pork chops grilled to perfection, served with a side of steamed vegetables and rice | Outdoor barbecue stalls and restaurants throughout the city |
+| Steamed Buns with Pork and Vegetables | Steamed buns | Soft steamed buns filled with pork and vegetables, served with a light sauce | Street food stalls and bakeries throughout the city |
+[/TABLE]
+
+[SECTION] Street Food & Snacks [/SECTION]
+- **Fried Dough Sticks**: crispy fried bread sticks served with a sweet or savory dipping sauce, $1-2 USD
+- **Nanjing Wontons**: thin-skinned dumplings filled with pork and vegetables, served in a light broth, $2-3 USD
+- **Grilled Pork Chops**: thick pork chops grilled to perfection, served with a side of steamed vegetables, $3-4 USD
+- **Steamed Buns with Pork and Vegetables**: soft steamed buns filled with pork and vegetables, served with a light sauce, $1-2 USD
+- **Roasted Chestnuts**: roasted chestnuts served with a sprinkle of sugar and salt, $1-2 USD
+- **Fried Noodles**: crispy fried noodles served with a sweet or savory sauce, $2-3 USD
+- **Boiled Peanuts**: boiled peanuts served with a sprinkle of salt and chili powder, $1-2 USD
+- **Fresh Fruit**: fresh fruit such as apples, bananas, and oranges, $1-2 USD
+
+[SECTION] Drinks [/SECTION]
+- **Jasmine Tea**: a fragrant and delicate tea made from jasmine flowers, $2-3 USD
+- **Chinese Beer**: a crisp and refreshing beer made from local ingredients, $3-4 USD
+- **Fresh Juice**: fresh juice made from local fruits such as oranges, apples, and watermelon, $2-3 USD
+- **Soy Milk**: a creamy and nutritious milk alternative made from soybeans, $1-2 USD
+- **Ginger Tea**: a spicy and invigorating tea made from fresh ginger, $2-3 USD
+- **Chinese Wine**: a rich and complex wine made from local grapes, $10-20 USD
+
+[SECTION] Dining Customs [/SECTION]
+- **Table manners**: it is customary to wait for the host to invite you to sit down and start eating
+- **Chopstick etiquette**: it is considered impolite to stand your chopsticks upright in your rice bowl, as this is reminiscent of a funeral ritual
+- **Tipping**: tipping is not expected, but 5-10% is appreciated for good service
+- **Reservation culture**: it is a good idea to make a reservation at popular restaurants, especially during peak hours
+- **Dress code**: dress code is generally casual, but it is a good idea to dress up for nicer restaurants
+- **Eating with locals**: it is considered polite to try a little bit of everything, and to finish your meal completely
+
+[SECTION] Where to Eat [/SECTION]
+- **Traditional restaurants**: try traditional restaurants in the Qinhuai district for a taste of classic Nanjing cuisine
+- **Food courts**: visit food courts in the Xuanwu district for a variety of affordable and delicious options
+- **Street food stalls**: try street food stalls throughout the city for a taste of local specialties
+- **Seafood restaurants**: visit seafood restaurants in the Yangtze River area for a taste of fresh seafood
+- **High-end restaurants**: try high-end restaurants in the Gulou district for a luxurious dining experience
+
+[SECTION] Food Markets & Food Experiences [/SECTION]
+- **Qinhuai Night Market**: a lively night market featuring a variety of street food, souvenirs, and local products, located in the Qinhuai district
+- **Xuanwu Food Court**: a large food court featuring a variety of affordable and delicious options, located in the Xuanwu district
+- **Yangtze River Fish Market**: a bustling fish market featuring a wide range of fresh seafood, located in the Yangtze River area
+- **Gulou Street Food**: a popular street food destination featuring a variety of local specialties, located in the Gulou district
+- **Nanjing Cooking Class**: a cooking class where you can learn to make traditional Nanjing dishes, located in the city center
+
+---
+
+*Evergreen reference content. Verify time-sensitive details with official sources.*

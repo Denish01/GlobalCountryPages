@@ -1,0 +1,56 @@
+---
+title: "Washington D.C. Geography - Location, Terrain & Climate"
+entity: "United States"
+iso_code: "US"
+continent: "north-america"
+angle: "geography"
+date: "2026-03-02"
+---
+
+# Washington D.C. Geography - Location, Terrain & Climate
+
+Washington D.C. is located on the east coast of the United States, situated on the Potomac River and bordered by the states of Maryland and Virginia.
+
+[FACTBOX]
+Land Area: 177 km², about the size of the city of Las Vegas
+Highest Point: Fort Reno, 125 meters
+Lowest Point: Potomac River, 0 meters
+Coastline: landlocked
+Borders: Maryland, Virginia
+Climate Type: humid subtropical
+[/FACTBOX]
+
+[SECTION] Location & Borders [/SECTION]
+Washington D.C. is situated in the eastern United States, specifically in the Mid-Atlantic region. It is not a state, but a federal district, created to serve as the permanent capital of the United States. The city is bordered by the states of Maryland to the north, east, and south, and Virginia to the west, across the Potomac River. The district has a total area of 177 square kilometers, making it one of the smallest territories in the United States. The city's unique location, situated on the Potomac River, has played a significant role in its development and history.
+
+The location of Washington D.C. has been a subject of debate and discussion since its founding. The city was chosen as the capital due to its strategic location, accessibility, and neutrality. The district is surrounded by several major cities, including Baltimore, Maryland, and Arlington, Virginia, which have contributed to its growth and development. The city's proximity to the Chesapeake Bay and the Atlantic Ocean has also made it an important center for trade and commerce. The borders of Washington D.C. are well-defined, with the city being completely enclosed by the states of Maryland and Virginia.
+
+[SECTION] Terrain & Landscape [/SECTION]
+The terrain of Washington D.C. is relatively flat, with some low-lying hills and valleys. The city is situated in the **Piedmont Plateau**, a region of gentle slopes and rolling hills. The **Potomac River**, which forms the southwestern border of the district, has played a significant role in shaping the city's landscape. The river has created a number of scenic valleys and bluffs, which have been developed into parks and recreational areas. The city's terrain has also been influenced by the **Anacostia River**, which flows through the eastern part of the district and empties into the Potomac River.
+
+The landscape of Washington D.C. is characterized by a mix of urban and natural areas. The city has a number of parks and green spaces, including the **National Mall**, which is a large public park that stretches from the Lincoln Memorial to the United States Capitol. The city is also home to a number of **forests** and **wetlands**, which provide habitat for a variety of wildlife. The **Rock Creek Park**, which runs through the northern part of the district, is a large urban park that offers a range of recreational activities, including hiking, biking, and horseback riding.
+
+The city's terrain has also been shaped by human activity, with a number of **man-made features** such as canals, bridges, and tunnels. The **Chesapeake and Ohio Canal**, which runs along the Potomac River, is a historic canal that was built in the 19th century to facilitate trade and commerce. The city's landscape has also been influenced by its **geology**, with a number of **rock formations** and **soil types** that have been shaped by millions of years of erosion and weathering.
+
+[SECTION] Climate By Season [/SECTION]
+| Season | Months | Temperature Range | Rainfall | Conditions |
+| --- | --- | --- | --- | --- |
+| Spring | March to May | 10-25°C | 80-100 mm | mild, blooming flowers |
+| Summer | June to August | 25-35°C | 80-100 mm | hot, humid |
+| Autumn | September to November | 10-20°C | 60-80 mm | cool, foliage |
+| Winter | December to February | 0-10°C | 40-60 mm | cold, snowy |
+
+[SECTION] Best Time To Visit [/SECTION]
+[CALLOUT] Best months: September to November and March to May. Why: these periods offer mild weather and a range of cultural and outdoor activities. Avoid: July and August, when the weather is hot and humid, and January and February, when the weather is cold and snowy. [/CALLOUT]
+
+[SECTION] Natural Highlights [/SECTION]
+- **Rock Creek Park**: a large urban park that offers hiking, biking, and horseback riding trails, as well as a nature center and a planetarium.
+- **Kenilworth Aquatic Gardens**: a unique park that features a variety of aquatic plants, including water lilies and lotus flowers.
+- **Anacostia River**: a scenic river that flows through the eastern part of the district and offers opportunities for kayaking and fishing.
+- **National Arboretum**: a 446-acre park that features a variety of trees and plants, including the famous **Bonsai and Penjing Museum**.
+- ** Theodore Roosevelt Island**: a small island in the Potomac River that offers hiking trails, a memorial to Theodore Roosevelt, and opportunities for birdwatching.
+- **Great Falls Park**: a scenic park that features a stunning waterfall on the Potomac River, as well as hiking trails and opportunities for rock climbing.
+
+---
+
+*Evergreen reference content. Verify time-sensitive details with official sources.*

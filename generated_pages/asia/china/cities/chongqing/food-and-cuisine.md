@@ -1,0 +1,87 @@
+---
+title: "Chongqing Food Guide — Dishes, Street Food & Dining"
+entity: "China"
+iso_code: "CN"
+continent: "asia"
+angle: "food-and-cuisine"
+date: "2026-03-02"
+---
+
+# Chongqing Food Guide — Dishes, Street Food & Dining
+
+To experience the authentic taste of Chongqing, you should try its signature dishes such as **Hot Pot**, **Mapo Tofu**, and **Kung Pao Chicken**, which showcase the city's bold flavors and spicy cuisine.
+
+[FACTBOX]
+Staple Foods: chili peppers, Sichuan peppercorns, garlic, ginger
+National Dish: Hot Pot, a simmering broth filled with various ingredients
+Meal Times: 7-9 am for breakfast, 12-2 pm for lunch, 6-8 pm for dinner
+Tipping at Restaurants: not expected, but 5-10% in high-end establishments
+Dietary Notes: limited halal options, some vegetarian-friendly dishes
+[/FACTBOX]
+
+[SECTION] Food Culture Overview [/SECTION]
+Chongqing's cuisine is known for its bold flavors, spicy dishes, and hearty portions, reflecting the city's cultural heritage and geographical location. The city's culinary scene is heavily influenced by Sichuan cuisine, with its characteristic use of **Sichuan peppercorns** and **chili peppers**. Chongqing's food culture is also shaped by its history as a major transportation hub, with various regional specialties and ingredients incorporated into its dishes. The city's cuisine can be divided into several regional variations, including the **Yangtze River** style, which features fresh fish and aquatic products, and the **mountainous** style, which emphasizes game meats and wild mushrooms.
+
+Chongqing's food culture is deeply rooted in its community, with **street food** and **night markets** playing a vital role in the city's culinary scene. The city's residents take great pride in their local specialties, and visitors can experience the authentic flavors of Chongqing by trying its signature dishes at traditional restaurants and food stalls. From the spicy **Hot Pot** to the numbing **Mapo Tofu**, Chongqing's cuisine is a true reflection of the city's vibrant culture and rich history.
+
+The city's culinary scene is also influenced by its **seasonal ingredients**, with different dishes and ingredients available throughout the year. For example, **winter** is the best time to try Chongqing's signature **Hot Pot**, while **summer** is ideal for enjoying the city's refreshing **cold noodles**. With its rich culinary heritage and diverse regional variations, Chongqing offers a unique and exciting food experience for visitors from around the world.
+
+[SECTION] Must-Try Dishes [/SECTION]
+[TABLE]
+| Dish | Type | Description | Where to Find |
+| --- | --- | --- | --- |
+| Hot Pot | Soup | Simmering broth filled with various ingredients | Jiefangbei, Nan'an District |
+| Mapo Tofu | Stir-fry | Spicy tofu dish with ground pork and Sichuan peppercorns | Sichuan Restaurant, Yubei District |
+| Kung Pao Chicken | Stir-fry | Spicy chicken dish with peanuts, vegetables, and chili peppers | Kung Pao Chicken Restaurant, Jiangbei District |
+| Wontons | Dumplings | Boiled or pan-fried dumplings filled with pork or vegetables | Wonton Noodle Shop, Shapingba District |
+| Zhong Zi | Glutinous rice | Steamed glutinous rice filled with meat, vegetables, or sweet fillings | Zhong Zi Shop, Yuzhong District |
+| Xiaolongbao | Dumplings | Steamed dumplings filled with pork and broth | Xiaolongbao Restaurant, Nan'an District |
+| La Zi Ji | Chicken dish | Spicy chicken dish with chili peppers, garlic, and ginger | La Zi Ji Restaurant, Jiangbei District |
+| Shuizhu | Fish dish | Boiled fish in a spicy broth with Sichuan peppercorns and chili peppers | Shuizhu Restaurant, Yubei District |
+| Dan Dan Noodles | Noodle dish | Spicy noodle dish with peanuts, vegetables, and chili peppers | Dan Dan Noodle Shop, Shapingba District |
+| Chongqing Noodle | Noodle dish | Spicy noodle dish with pork, vegetables, and chili peppers | Chongqing Noodle Shop, Yuzhong District |
+[/TABLE]
+
+[SECTION] Street Food & Snacks [/SECTION]
+- **Chuanbei Liangpi**: cold noodles with spicy sauce and vegetables, $1.50
+- **Malatang**: spicy soup with various ingredients, $2.50
+- **Xiaolongbao**: steamed dumplings filled with pork and broth, $3.00
+- **Jiaozi**: boiled or pan-fried dumplings filled with pork or vegetables, $2.00
+- **Churros**: deep-fried dough sticks coated with sugar, $1.00
+- **Tangyuan**: glutinous rice balls filled with sweet or savory fillings, $1.50
+- **Baozi**: steamed buns filled with meat, vegetables, or sweet fillings, $1.50
+- **You Tiao**: deep-fried dough sticks, $1.00
+
+[SECTION] Drinks [/SECTION]
+- **Chongqing Beer**: local beer brewed in Chongqing, $2.50
+- **Sichuan Tea**: traditional tea from Sichuan Province, $1.50
+- **Jiangzhai**: local wine made from grapes, $5.00
+- **Huangjiu**: yellow wine made from fermented grains, $3.00
+- **Chrysanthemum Tea**: herbal tea made from chrysanthemum flowers, $1.50
+- **Ginger Tea**: spicy tea made from ginger and other ingredients, $1.00
+
+[SECTION] Dining Customs [/SECTION]
+- **Table manners**: use chopsticks to eat, and wait for the host to start eating before you begin
+- **Tipping**: not expected, but 5-10% in high-end establishments
+- **Reservation**: recommended for high-end restaurants, but not necessary for casual eateries
+- **Dress code**: casual attire is acceptable, but dress up for high-end restaurants
+- **Eating etiquette**: try a little of each dish, and don't finish a meal completely, as it implies the host did not provide enough food
+- **Beverages**: tea is the most common beverage, but beer and wine are also popular
+
+[SECTION] Where to Eat [/SECTION]
+- **Jiefangbei**: a popular dining district with a variety of restaurants and food stalls
+- **Nan'an District**: known for its street food and night markets
+- **Shapingba District**: a food haven with many restaurants and eateries
+- **Yuzhong District**: home to many high-end restaurants and bars
+- **Food courts**: try the food courts in shopping malls for a variety of dishes at affordable prices
+
+[SECTION] Food Markets & Food Experiences [/SECTION]
+- **Chongqing Food Market**: a large market offering a variety of street food and local specialties, located in Yubei District
+- **Jiefangbei Night Market**: a popular night market with many food stalls and shops, located in Jiefangbei
+- **Nan'an Street Food Market**: a bustling market with many street food vendors, located in Nan'an District
+- **Sichuan Cuisine Museum**: a museum showcasing the history and culture of Sichuan cuisine, located in Yubei District
+- **Chongqing Cooking Class**: a cooking class where you can learn to make traditional Chongqing dishes, located in Shapingba District
+
+---
+
+*Evergreen reference content. Verify time-sensitive details with official sources.*

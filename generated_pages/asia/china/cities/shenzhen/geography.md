@@ -1,0 +1,58 @@
+---
+title: "Shenzhen Geography - Location, Terrain & Climate"
+entity: "China"
+iso_code: "CN"
+continent: "asia"
+angle: "geography"
+date: "2026-03-02"
+---
+
+# Shenzhen Geography - Location, Terrain & Climate
+
+Shenzhen is a major city located in the Guangdong Province of China, situated on the southeastern coast of the country, near the border with Hong Kong.
+
+[FACTBOX]
+Land Area: 1,949 km², about the size of the city of Los Angeles
+Highest Point: Wutong Mountain, 943 meters
+Lowest Point: coastal areas, sea level
+Coastline: 257 km
+Borders: Hong Kong to the south, Dongguan to the north and northwest, Huizhou to the northeast
+Climate Type: subtropical
+[/FACTBOX]
+
+[SECTION] Location & Borders [/SECTION]
+Shenzhen is situated in the Pearl River Delta, a highly urbanized and economically developed region in southeastern China. The city is bordered by the South China Sea to the east, and the cities of Hong Kong and Dongguan to the south and north, respectively. Shenzhen's strategic location near the border with Hong Kong has made it a major hub for trade and commerce between China and the rest of the world. The city is also connected to the rest of China by a network of highways, railways, and waterways, making it an important transportation hub.
+
+The city's location in the Pearl River Delta has also made it a key player in the region's economy, with many major industries such as technology, manufacturing, and finance having a significant presence in the city. Shenzhen's proximity to Hong Kong has also made it a popular destination for tourists and business travelers, with many attractions such as theme parks, museums, and shopping centers. The city's borders are also home to several major ports, including the Yantian Port and the Shekou Port, which are among the busiest in the world.
+
+[SECTION] Terrain & Landscape [/SECTION]
+Shenzhen's terrain is characterized by a mix of flat plains and hilly areas, with several mountains and hills scattered throughout the city. The highest point in the city is Wutong Mountain, which is located in the eastern part of the city and has an elevation of 943 meters. The city's coastline is approximately 257 kilometers long, and features several bays and inlets, including the Dapeng Bay and the Mirs Bay. Shenzhen is also home to several major rivers, including the Shenzhen River, which forms the border with Hong Kong, and the Maozhou River, which flows through the western part of the city.
+
+The city's landscape is also characterized by a mix of urban and natural areas, with several parks and nature reserves scattered throughout the city. The Shenzhen Bay Park, for example, is a large urban park that runs along the coastline and features several walking and cycling trails, as well as several beaches and picnic areas. The city is also home to several major wetlands, including the Futian Nature Reserve, which is a protected area that is home to several species of birds and other wildlife.
+
+The urban area of Shenzhen is characterized by a mix of high-rise buildings, shopping centers, and residential areas, with several major commercial and financial districts, including the Luohu District and the Futian District. The city is also home to several major industrial areas, including the Bao'an District and the Longhua District, which are home to several major manufacturing and logistics companies.
+
+[SECTION] Climate By Season [/SECTION]
+[TABLE]
+| Season | Months | Temperature Range | Rainfall | Conditions |
+| --- | --- | --- | --- | --- |
+| Spring | March to May | 18-25°C | 100-200 mm | mild and humid |
+| Summer | June to August | 28-35°C | 200-300 mm | hot and rainy |
+| Autumn | September to November | 20-28°C | 50-100 mm | mild and dry |
+| Winter | December to February | 10-18°C | 20-50 mm | cool and dry |
+[/TABLE]
+
+[SECTION] Best Time To Visit [/SECTION]
+[CALLOUT] Best months: October to December and March to May. Why: these months offer mild and pleasant weather, with average temperatures ranging from 18-25°C, making it ideal for outdoor activities and sightseeing. Avoid: June to August, as the weather is hot and humid, with frequent rain showers, and December to February, as the weather is cool and dry, but can be quite crowded due to the winter holidays. [/CALLOUT]
+
+[SECTION] Natural Highlights [/SECTION]
+- The **Futian Nature Reserve** is a protected area that is home to several species of birds and other wildlife, and features several walking trails and scenic viewpoints.
+- The **Wutong Mountain** is the highest point in the city, and offers stunning views of the surrounding area, as well as several hiking trails and scenic viewpoints.
+- The **Shenzhen Bay Park** is a large urban park that runs along the coastline, and features several walking and cycling trails, as well as several beaches and picnic areas.
+- The **Dapeng Peninsula** is a scenic area that features several beaches, coves, and scenic viewpoints, and is a popular destination for hiking and outdoor activities.
+- The **Mirs Bay** is a scenic bay that is home to several species of marine life, and offers stunning views of the surrounding area.
+- The **Xichong Beach** is a popular beach that is known for its white sand and crystal-clear waters, and is a great spot for swimming, sunbathing, and water sports.
+
+---
+
+*Evergreen reference content. Verify time-sensitive details with official sources.*
