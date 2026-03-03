@@ -1,0 +1,66 @@
+---
+title: "Getting Around Sao Paulo — Transport & Travel Guide"
+entity: "Brazil"
+iso_code: "BR"
+continent: "south-america"
+angle: "transportation"
+date: "2026-03-03"
+---
+
+# Getting Around Sao Paulo — Transport & Travel Guide
+
+To get around in Sao Paulo, you can use a combination of public transportation options, including the metro, buses, and taxis, as well as ride-hailing apps and rental cars, depending on your budget and preferences.
+
+[FACTBOX]
+Main International Airport(s): Guarulhos International Airport (GRU), Congonhas Airport (CGH)
+Domestic Air Network: extensive
+Rail Network: limited
+Drives On: right
+Road Quality: moderate
+Ride-Hailing Apps: Uber, 99
+[/FACTBOX]
+
+[SECTION] Getting There [/SECTION]
+Sao Paulo is a major hub for international and domestic flights, with two main airports: Guarulhos International Airport (GRU) and Congonhas Airport (CGH). Guarulhos International Airport is the primary airport for international flights, with direct connections to major cities in North and South America, Europe, and Asia. Congonhas Airport, on the other hand, is a smaller airport that serves domestic flights and some international flights to neighboring countries. Overland entry points to Sao Paulo include bus stations and highways that connect the city to other major cities in Brazil and neighboring countries.
+
+If you're traveling to Sao Paulo from other parts of Brazil or from neighboring countries, you can also take buses or drive. The city has several bus stations, including the Terminal Rodoviario do Tiete, which is one of the largest bus stations in the country. From there, you can take buses to other cities in Brazil or to neighboring countries such as Argentina, Uruguay, and Paraguay. If you're driving, you can take highways such as the BR-116 or the SP-150, which connect Sao Paulo to other major cities in Brazil.
+
+[SECTION] Domestic Flights [/SECTION]
+Sao Paulo has an extensive domestic air network, with several airlines operating flights to and from the city. The main airlines that operate domestic flights in Brazil include **Gol Transportes Aereos**, **Azul Airlines**, and **LATAM Airlines**. You can fly from Sao Paulo to other major cities in Brazil, such as Rio de Janeiro, Brasilia, and Belo Horizonte, as well as to smaller cities and towns. To book domestic flights, you can use the airlines' websites or mobile apps, or you can go to a travel agency. Approximate costs for domestic flights vary depending on the route and the time of year, but you can expect to pay between $50 and $200 for a one-way ticket.
+
+[SECTION] Trains & Rail [/SECTION]
+Sao Paulo has a limited rail network, with only a few train lines that connect the city to neighboring cities and towns. The main train line is the **CPTM** (Companhia Paulista de Trens Metropolitanos), which operates commuter trains to and from the city. There are no high-speed train options available in Sao Paulo. To book train tickets, you can go to the train station or use the CPTM website or mobile app. Train tickets are relatively cheap, with prices starting from around $1 for a one-way ticket.
+
+[SECTION] Buses & Coaches [/SECTION]
+Sao Paulo has an extensive network of buses and coaches that connect the city to other cities and towns in Brazil and neighboring countries. The main bus companies that operate in Sao Paulo include **Ormeño**, **Util**, and **Cometa**, which offer a range of services, from budget-friendly options to more luxurious coaches with amenities such as reclining seats and air conditioning. Bus tickets can be booked at the bus station or online through the bus companies' websites or mobile apps. Approximate costs for bus tickets vary depending on the route and the time of year, but you can expect to pay between $20 and $100 for a one-way ticket.
+
+[SECTION] City Transport [/SECTION]
+| Mode | Available In | Cost (USD) | Notes |
+| --- | --- | --- | --- |
+| Metro/Subway | Sao Paulo | $1.20 | Efficient and reliable, with six lines and 64 stations |
+| City Bus | Sao Paulo | $1.20 | Extensive network, with over 1,000 bus lines and 15,000 stops |
+| Taxi | Sao Paulo | $2.50/km | Available at taxi stands or by hailing on the street |
+| Ride-Hailing | Sao Paulo | $5-10 | Uber and 99 are widely available |
+| Tuk-tuk/Rickshaw | Not available | - | Not a common mode of transportation in Sao Paulo |
+
+[SECTION] Driving [/SECTION]
+- To drive in Sao Paulo, you need a valid driver's license from your home country or an international driver's license.
+- Road conditions in Sao Paulo can be challenging, with heavy traffic and congested roads, especially during rush hour.
+- Fuel costs in Sao Paulo are relatively high, with prices starting from around $1.50 per liter.
+- If you're planning to rent a car, it's a good idea to book in advance and choose a reputable company, such as **Avis** or **Hertz**.
+- When driving in Sao Paulo, be aware of the city's complex traffic laws and regulations, including the use of **rodízio**, a system that restricts the use of certain roads during peak hours.
+- Be prepared for aggressive driving and parking challenges, especially in the city center.
+
+[SECTION] Transport Tips [/SECTION]
+- Be aware of your surroundings and keep an eye on your belongings, especially in crowded areas and public transportation.
+- Use reputable taxi companies or ride-hailing apps to avoid scams and overcharging.
+- Learn some basic Portuguese phrases, such as **"obrigado"** (thank you) and **"desculpe"** (excuse me), to help you navigate the city.
+- Download the **CPTM** or **SPTrans** apps to plan your route and track public transportation in real-time.
+- Be prepared for traffic congestion and plan your route accordingly, especially during peak hours.
+- Consider purchasing a **Bilhete Único** card, which allows you to use public transportation and ride-hailing apps at a discounted rate.
+- Always check the prices and estimated arrival times before taking a taxi or ride-hailing service to avoid overcharging.
+- Be respectful of local customs and traditions, especially when using public transportation or interacting with locals.
+
+---
+
+*Evergreen reference content. Verify time-sensitive details with official sources.*

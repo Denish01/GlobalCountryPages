@@ -1,0 +1,66 @@
+---
+title: "Getting Around Belo Horizonte — Transport & Travel Guide"
+entity: "Brazil"
+iso_code: "BR"
+continent: "south-america"
+angle: "transportation"
+date: "2026-03-03"
+---
+
+# Getting Around Belo Horizonte — Transport & Travel Guide
+
+To get around in Belo Horizonte, you can use a combination of public transportation options, including buses and taxis, as well as ride-hailing apps and rental cars, depending on your budget and preferences.
+
+[FACTBOX]
+Main International Airport(s): Tancredo Neves International Airport, CNF
+Domestic Air Network: extensive
+Rail Network: limited
+Drives On: right
+Road Quality: moderate
+Ride-Hailing Apps: Uber, 99
+[/FACTBOX]
+
+[SECTION] Getting There [/SECTION]
+Belo Horizonte is served by Tancredo Neves International Airport, also known as Confins International Airport, which is located about 38 kilometers north of the city center. The airport receives direct flights from major Brazilian cities, as well as some international flights from neighboring countries. You can also reach Belo Horizonte by bus or car from nearby cities, such as Rio de Janeiro and São Paulo. The city is connected to the rest of Brazil by a network of highways, including the BR-040 and BR-262 roads.
+
+If you are traveling from outside Brazil, you will likely need to fly into a major hub such as São Paulo or Rio de Janeiro and then take a domestic flight to Belo Horizonte. Alternatively, you can take a bus or drive from these cities, but this can take several hours. The bus station in Belo Horizonte is located in the city center and offers connections to many other cities in Brazil. Some of the main overland entry points to Belo Horizonte include the cities of Betim and Contagem, which are located just outside the city limits.
+
+[SECTION] Domestic Flights [/SECTION]
+Belo Horizonte has an extensive domestic air network, with flights connecting the city to many other major cities in Brazil. Some of the main domestic airlines that operate in Belo Horizonte include **Gol Transportes Aéreos**, **Azul Brazilian Airlines**, and **LATAM Brasil**. You can fly from Belo Horizonte to cities such as Rio de Janeiro, São Paulo, and Brasília, among others. To book a domestic flight, you can use the airline's website or a travel agency. It's a good idea to book in advance to get the best prices, especially during peak travel seasons. Approximate costs for domestic flights in Brazil can range from $50 to $200 USD, depending on the route and time of year.
+
+[SECTION] Trains & Rail [/SECTION]
+Belo Horizonte has a limited rail network, with no high-speed trains or extensive commuter rail systems. However, there are some train lines that connect the city to nearby towns and cities, such as the **Trem do Vale** line that runs to the city of Vitória. The train station in Belo Horizonte is located in the city center and offers connections to these nearby destinations. To book a train ticket, you can use the train company's website or visit the train station in person.
+
+[SECTION] Buses & Coaches [/SECTION]
+Belo Horizonte has an extensive network of buses and coaches that connect the city to other cities in Brazil. Some of the main bus companies that operate in Belo Horizonte include **Cometa**, **Util**, and **Expresso União**. You can take a bus from Belo Horizonte to cities such as Rio de Janeiro, São Paulo, and Brasília, among others. The bus station in Belo Horizonte is located in the city center and offers connections to many other cities in Brazil. Bus travel can be a good option for those on a budget, with approximate costs ranging from $20 to $100 USD, depending on the route and time of year.
+
+[SECTION] City Transport [/SECTION]
+| Mode | Available In | Cost (USD) | Notes |
+| --- | --- | --- | --- |
+| Metro/Subway | Belo Horizonte | $1.20 | 2 lines, 19 stations |
+| City Bus | Belo Horizonte | $1.10 | extensive network, many routes |
+| Taxi | everywhere | $2.50/km | available at taxi stands or by phone |
+| Ride-Hailing | Belo Horizonte | $5-$10 | available through Uber and 99 apps |
+| Tuk-tuk/Rickshaw | not available | - | not a common mode of transport in Belo Horizonte |
+
+[SECTION] Driving [/SECTION]
+- To drive in Belo Horizonte, you will need a valid driver's license from your home country or an international driver's license.
+- The road quality in Belo Horizonte is generally moderate, with some paved roads and some dirt roads, especially in rural areas.
+- Fuel costs in Brazil can be relatively high, with prices ranging from $1.50 to $3.00 USD per liter, depending on the type of fuel and location.
+- If you plan to rent a car in Belo Horizonte, be sure to research reputable rental companies and read reviews from other customers.
+- Some hazards to watch out for while driving in Belo Horizonte include aggressive drivers, pedestrians, and road construction.
+- It's also a good idea to learn some basic Portuguese phrases, such as **"direita"** (right) and **"esquerda"** (left), to help you navigate the roads.
+
+[SECTION] Transport Tips [/SECTION]
+- Be aware of your surroundings and keep an eye on your belongings, especially in crowded areas such as bus stations and airports.
+- Use reputable taxi companies or ride-hailing apps to avoid scams and ensure a safe ride.
+- Learn some basic Portuguese phrases, such as **"obrigado"** (thank you) and **"desculpe"** (excuse me), to help you communicate with locals.
+- Download ride-hailing apps such as Uber and 99 to get around the city.
+- Be prepared for traffic congestion, especially during rush hour or special events.
+- Consider purchasing a **Bilhete Único** card, which can be used to pay for public transportation fares and other services in Belo Horizonte.
+- Always wear a seatbelt and follow traffic laws to ensure your safety on the roads.
+- Research any necessary visas or travel documents before arriving in Belo Horizonte, especially if you are traveling from outside Brazil.
+
+---
+
+*Evergreen reference content. Verify time-sensitive details with official sources.*

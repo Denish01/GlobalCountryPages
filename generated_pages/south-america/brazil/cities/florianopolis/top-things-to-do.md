@@ -1,0 +1,85 @@
+---
+title: "Top Things to Do in Florianopolis — Attractions & Experiences"
+entity: "Brazil"
+iso_code: "BR"
+continent: "south-america"
+angle: "top-things-to-do"
+date: "2026-03-03"
+---
+
+# Top Things to Do in Florianopolis — Attractions & Experiences
+
+Florianopolis, the capital of Santa Catarina, Brazil, is a must-visit destination for its stunning beaches, vibrant culture, and exciting outdoor activities, offering a wide range of experiences that cater to different interests and preferences.
+
+[SECTION] Top Attractions [/SECTION]
+[TABLE]
+| Attraction | Location | Type | Why Visit |
+| --- | --- | --- | --- |
+| Hercilio Luz Bridge | Centro, Florianopolis | Historic Bridge | Offers stunning views of the city and the sea |
+| Joaquina Beach | Lagoa da Conceicao, Florianopolis | Beach | Famous for its strong waves and popular with surfers |
+| Ingleses Beach | Ingleses do Rio Vermelho, Florianopolis | Beach | Known for its calm and clear waters, perfect for swimming and snorkeling |
+| Lagoa da Conceicao | Lagoa da Conceicao, Florianopolis | Lagoon | A beautiful and tranquil spot for boat rides and fishing |
+| Sao Jose da Barra do Sul Fortress | Sao Jose, Florianopolis | Historic Fortress | Provides insight into the city's rich history and offers stunning views |
+| Museum of History of Santa Catarina | Centro, Florianopolis | Museum | Showcases the state's history and cultural heritage |
+| Ribeirao da Ilha | Ribeirao da Ilha, Florianopolis | Historic Village | A charming village with preserved colonial architecture |
+| Fortaleza de Sao Jose da Barra do Sul | Sao Jose, Florianopolis | Historic Fortress | A 18th-century fortress that now serves as a museum |
+| Costa da Lagoa | Lagoa da Conceicao, Florianopolis | Beach | A popular spot for water sports and activities |
+| Ponta das Canas Beach | Ponta das Canas, Florianopolis | Beach | Known for its strong waves and popular with surfers |
+[/TABLE]
+
+[SECTION] Unique Experiences [/SECTION]
+- Take a **sunset sail** around the Hercilio Luz Bridge for breathtaking views of the city
+- Visit the **Florianopolis Fish Market** to sample fresh seafood and local cuisine
+- Go on a **whale watching tour** in the Atlantic Ocean to spot humpback whales and other marine life
+- Explore the **Ribeirao da Ilha** historic village and experience the local culture and traditions
+- Take a **surfing lesson** at one of the many beaches in Florianopolis, such as Joaquina or Ingleses
+- Go on a **hiking tour** in the **Serra do Mar** mountains and enjoy the stunning views and scenery
+- Visit the **Florianopolis Craft Fair** to see local artisans and craftspeople at work
+
+[SECTION] Outdoor & Nature [/SECTION]
+- **Joaquina Beach**: famous for its strong waves and popular with surfers
+- **Ingleses Beach**: known for its calm and clear waters, perfect for swimming and snorkeling
+- **Lagoa da Conceicao**: a beautiful and tranquil spot for boat rides and fishing
+- **Serra do Mar**: a mountain range with stunning views and hiking trails
+- **Costa da Lagoa**: a popular spot for water sports and activities
+- **Ponta das Canas Beach**: known for its strong waves and popular with surfers
+
+[SECTION] Cultural Experiences [/SECTION]
+- **Museum of History of Santa Catarina**: showcases the state's history and cultural heritage
+- **Florianopolis Cathedral**: a beautiful and historic church in the city center
+- **Ribeirao da Ilha**: a charming village with preserved colonial architecture
+- **Sao Jose da Barra do Sul Fortress**: provides insight into the city's rich history and offers stunning views
+- **Florianopolis Craft Fair**: see local artisans and craftspeople at work
+- **Teatro Alvaro de Carvalho**: a historic theater that hosts various performances and events
+
+[SECTION] Hidden Gems [/SECTION]
+- **Praia Mole**: a secluded beach with calm and clear waters
+- **Lagoa do Peri**: a tranquil lake with stunning views and hiking trails
+- **Santo Antonio de Lisboa**: a charming historic village with preserved colonial architecture
+- **Praia do Santinho**: a popular spot for water sports and activities
+- **Morro da Cruz**: a hill with stunning views of the city and the sea
+
+[SECTION] Day Trips [/SECTION]
+- **Sao Jose**: a historic town with preserved colonial architecture, 30 km from Florianopolis, 30 minutes by car
+- **Biguaçu**: a charming town with stunning views of the surrounding mountains, 20 km from Florianopolis, 20 minutes by car
+- **Governador Celso Ramos**: a popular spot for water sports and activities, 40 km from Florianopolis, 40 minutes by car
+- **São Francisco do Sul**: a historic town with preserved colonial architecture, 60 km from Florianopolis, 1 hour by car
+- **Balneario Camboriu**: a popular beach town with stunning views and water sports, 80 km from Florianopolis, 1 hour 20 minutes by car
+
+[SECTION] Planning Tips [/SECTION]
+[CALLOUT] Suggested itineraries: 
+3-day **highlights** itinerary: visit the top attractions, such as Hercilio Luz Bridge, Joaquina Beach, and the Museum of History of Santa Catarina
+7-day **comprehensive** itinerary: explore the city's culture, history, and outdoor activities, including surfing, hiking, and whale watching
+14-day **deep exploration** itinerary: take your time to discover the city's hidden gems, such as Praia Mole and Lagoa do Peri, and visit the surrounding towns and villages
+Key tips for booking and prioritizing: book your accommodations and tours in advance, especially during peak season, and prioritize the top attractions and experiences based on your interests and preferences [/CALLOUT]
+[FACTBOX]
+Key: Population of Florianopolis: 486,852
+Key: Language: Portuguese
+Key: Currency: BRL
+[/FACTBOX]
+[RATING] 4/5 [/RATING] 
+Florianopolis is a must-visit destination for its stunning beaches, vibrant culture, and exciting outdoor activities, offering a wide range of experiences that cater to different interests and preferences.
+
+---
+
+*Evergreen reference content. Verify time-sensitive details with official sources.*

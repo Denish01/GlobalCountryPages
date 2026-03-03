@@ -1,0 +1,58 @@
+---
+title: "Fortaleza Geography - Location, Terrain & Climate"
+entity: "Brazil"
+iso_code: "BR"
+continent: "south-america"
+angle: "geography"
+date: "2026-03-03"
+---
+
+# Fortaleza Geography - Location, Terrain & Climate
+
+Fortaleza is a major city located in the northeastern part of Brazil, serving as the capital of the state of Ceará, and is situated on the Atlantic coast of South America. 
+
+[FACTBOX]
+Land Area: 8,515,767 km² (about the size of the United States)
+Highest Point: Pico da Neblina, 2,994 meters
+Lowest Point: Atlantic Ocean, 0 meters
+Coastline: 7,491 km
+Borders: 
+Climate Type: tropical
+[/FACTBOX]
+
+[SECTION] Location & Borders [/SECTION]
+Fortaleza is situated in the state of Ceará, in the northeastern part of Brazil, and is bordered by the Atlantic Ocean to the north and northeast. The city is an important coastal urban center, with the ocean playing a significant role in its economy, culture, and landscape. The state of Ceará is bordered by the states of Rio Grande do Norte to the east, Paraíba to the southeast, Pernambuco to the south, Piauí to the west, and the Atlantic Ocean to the north and northeast.
+
+The location of Fortaleza is strategic, with the city being a major hub for trade, commerce, and tourism in the region. The city is connected to other parts of Brazil and the world through its international airport, seaport, and highway system. The surrounding region is characterized by a diverse landscape, including beaches, dunes, and mountains, making it a popular destination for tourists and outdoor enthusiasts. The city's proximity to the equator and the Atlantic Ocean gives it a unique cultural and environmental identity, with a mix of indigenous, African, and European influences.
+
+[SECTION] Terrain & Landscape [/SECTION]
+The terrain and landscape of Fortaleza and its surrounding region are characterized by a mix of coastal plains, mountains, and plateaus. The city is situated on a coastal plain, with a flat and low-lying landscape that is prone to flooding during heavy rainfall. The coastal plain is bordered by a range of mountains, known as the Serra da Cantareira, which rises to an elevation of over 1,000 meters. The mountains are covered in tropical forests, and are home to a diverse range of flora and fauna, including many endemic species.
+
+The region is also characterized by a number of rivers, including the Jaguaribe River, which flows through the city and into the Atlantic Ocean. The rivers are important for irrigation, drinking water, and hydroelectric power, and support a range of aquatic life, including fish, dolphins, and turtles. The coastal region is also known for its beautiful beaches, including the famous Praia de Iracema, which is a popular destination for tourists and locals alike. The beaches are characterized by white sand, crystal-clear waters, and a vibrant marine ecosystem, with a range of species, including sea turtles, rays, and tropical fish.
+
+The landscape of Fortaleza and its surrounding region is also characterized by a number of unique features, including the **Lençóis Maranhenses** national park, which is located to the west of the city. The park is known for its unique landscape of sand dunes and freshwater lagoons, which are home to a range of flora and fauna, including many endemic species. The park is a popular destination for tourists and outdoor enthusiasts, who come to hike, swim, and explore the unique landscape.
+
+[SECTION] Climate By Season [/SECTION]
+[TABLE]
+| Season | Months | Temperature Range | Rainfall | Conditions |
+| --- | --- | --- | --- | --- |
+| Summer | December to February | 28-32°C | High | Hot and humid, with frequent rainfall |
+| Autumn | March to May | 25-30°C | Medium | Mild temperatures, with some rainfall |
+| Winter | June to August | 22-26°C | Low | Cooler temperatures, with minimal rainfall |
+| Spring | September to November | 24-28°C | Medium | Mild temperatures, with some rainfall |
+[/TABLE]
+
+[SECTION] Best Time To Visit [/SECTION]
+[CALLOUT] Best months: September to November and March to May. Why: These periods offer mild temperatures and minimal rainfall, making them ideal for outdoor activities and sightseeing. Avoid: December to February, due to the hot and humid weather, and June to August, due to the cooler temperatures and minimal rainfall. [/CALLOUT]
+
+[SECTION] Natural Highlights [/SECTION]
+- The **Praia de Iracema** beach is a popular destination for tourists and locals alike, known for its white sand and crystal-clear waters.
+- The **Serra da Cantareira** mountain range is a unique feature of the region, with a diverse range of flora and fauna, including many endemic species.
+- The **Lençóis Maranhenses** national park is a unique landscape of sand dunes and freshwater lagoons, home to a range of flora and fauna, including many endemic species.
+- The **Jaguaribe River** is an important source of water and hydroelectric power, and supports a range of aquatic life, including fish, dolphins, and turtles.
+- The **Ceará Coast** is a popular destination for surfers and beachgoers, with a range of beautiful beaches and a vibrant marine ecosystem.
+- The **Ubajara National Forest** is a protected area of tropical forest, home to a range of flora and fauna, including many endemic species, and offers opportunities for hiking and birdwatching.
+
+---
+
+*Evergreen reference content. Verify time-sensitive details with official sources.*
