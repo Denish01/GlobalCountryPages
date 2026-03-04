@@ -1,0 +1,58 @@
+---
+title: "Paris Geography - Location, Terrain & Climate"
+entity: "France"
+iso_code: "FR"
+continent: "europe"
+angle: "geography"
+date: "2026-03-04"
+---
+
+# Paris Geography - Location, Terrain & Climate
+
+Paris, the capital of France, is located in the northern part of the country, in the Île-de-France region, situated in the heart of Europe.
+
+[FACTBOX]
+Land Area: 105.4 km², about the size of the city of Boston
+Highest Point: Montmartre, 130 meters
+Lowest Point: Seine River, 28 meters
+Coastline: landlocked
+Borders: surrounded by the Île-de-France region
+Climate Type: temperate
+[/FACTBOX]
+
+[SECTION] Location & Borders [/SECTION]
+Paris is situated in the northern part of France, in the Île-de-France region, about 277 miles (446 km) west of the Franco-German border. The city is surrounded by the Île-de-France region, which is composed of eight departments, including the city of Paris itself. Paris is bordered by several departments, including Hauts-de-Seine to the west, Seine-Saint-Denis to the north, Val-de-Marne to the south, and Seine-et-Marne to the east. The city is also surrounded by several major highways, including the A1, A3, A4, and A6, which connect it to other major cities in France and Europe.
+
+The city of Paris is also situated near several major bodies of water, including the Seine River, which runs through the heart of the city, and the Marne River, which is located just to the east of the city. The Seine River is a major transportation route, with several ports and docks along its length, and it is also a popular tourist destination, with several boat tours and river cruises available. The city is also located near the English Channel, which is about 214 miles (344 km) northwest of the city, and the Atlantic Ocean, which is about 347 miles (559 km) west of the city.
+
+[SECTION] Terrain & Landscape [/SECTION]
+The terrain of Paris is generally flat, with several low-lying hills and valleys throughout the city. The city is situated in the Seine River valley, which is a relatively flat and low-lying area, with several surrounding hills and plateaus. The highest point in the city is Montmartre, which is a hill located in the north of the city, and the lowest point is the Seine River, which runs through the heart of the city. The city is also home to several major parks and gardens, including the Luxembourg Gardens, the Tuileries Garden, and the Bois de Vincennes, which provide a green oasis in the midst of the bustling city.
+
+The landscape of Paris is also characterized by several major landmarks and monuments, including the Eiffel Tower, the Arc de Triomphe, and the Notre-Dame Cathedral. The city is also home to several major museums, including the Louvre, the Musée d'Orsay, and the Musée Rodin, which are located throughout the city. The city's landscape is also influenced by its history, with several major events and periods, including the French Revolution, the Napoleonic era, and the Belle Époque, which have all left their mark on the city.
+
+The city's geography is also influenced by its **urban planning**, with several major boulevards and avenues, including the Champs-Élysées, the Boulevard Saint-Germain, and the Rue de Rivoli, which are designed to provide easy access and circulation throughout the city. The city is also home to several major public transportation systems, including the metro, the bus, and the train, which provide easy access to all parts of the city.
+
+[SECTION] Climate By Season [/SECTION]
+[TABLE]
+| Season | Months | Temperature Range | Rainfall | Conditions |
+| --- | --- | --- | --- | --- |
+| Spring | March to May | 10-20°C (50-68°F) | 60-80 mm (2.4-3.2 in) | mild, sunny, with occasional rain showers |
+| Summer | June to August | 20-30°C (68-86°F) | 50-70 mm (2-2.8 in) | warm, sunny, with occasional heatwaves |
+| Autumn | September to November | 10-20°C (50-68°F) | 70-90 mm (2.8-3.5 in) | mild, sunny, with occasional rain showers |
+| Winter | December to February | 0-10°C (32-50°F) | 50-70 mm (2-2.8 in) | cool, overcast, with occasional snowfall |
+[/TABLE]
+
+[SECTION] Best Time To Visit [/SECTION]
+[CALLOUT] Best months: September to November and March to May. Why: the weather is mild and sunny, with fewer tourists than in the summer months. Avoid: January and February, as the weather can be cool and overcast, and August, as the city can be very hot and crowded. [/CALLOUT]
+
+[SECTION] Natural Highlights [/SECTION]
+- The **Luxembourg Gardens**, a beautiful park located in the 6th arrondissement, which is home to several gardens, fountains, and statues.
+- The **Bois de Vincennes**, a large forest located in the east of the city, which is home to several walking trails, lakes, and gardens.
+- The **Seine River**, a major river that runs through the heart of the city, which is home to several boat tours and river cruises.
+- The **Montmartre hill**, a historic hill located in the north of the city, which is home to several artist studios, cafes, and restaurants.
+- The **Parc des Buttes-Chaumont**, a beautiful park located in the 19th arrondissement, which is home to several gardens, lakes, and waterfalls.
+- The **Jardin des Plantes**, a beautiful botanical garden located in the 5th arrondissement, which is home to several plant species, a small zoo, and a natural history museum.
+
+---
+
+*Evergreen reference content. Verify time-sensitive details with official sources.*

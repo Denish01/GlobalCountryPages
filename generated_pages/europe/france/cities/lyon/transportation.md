@@ -1,0 +1,65 @@
+---
+title: "Getting Around Lyon — Transport & Travel Guide"
+entity: "France"
+iso_code: "FR"
+continent: "europe"
+angle: "transportation"
+date: "2026-03-04"
+---
+
+# Getting Around Lyon — Transport & Travel Guide
+
+To get around in Lyon, you can utilize a well-developed public transportation system, including metro, bus, and tram lines, as well as taxis and ride-hailing services, making it easy to navigate the city without a car.
+
+[FACTBOX]
+Main International Airport(s): Lyon-Saint Exupéry Airport, LYS
+Domestic Air Network: moderate
+Rail Network: extensive
+Drives On: right
+Road Quality: good
+Ride-Hailing Apps: Uber, Bolt, local alternatives
+[/FACTBOX]
+
+[SECTION] Getting There [/SECTION]
+Lyon is easily accessible by air, with **Lyon-Saint Exupéry Airport** (LYS) being the main international airport, located about 25 kilometers east of the city center. The airport serves as a hub for several airlines, including Air France, and offers direct flights to many European cities, as well as some long-haul destinations. You can also reach Lyon by train, with the city being a major stop on the European rail network, or by bus, with several companies operating routes from nearby cities and countries.
+
+If you're coming from within Europe, you can also consider flying into one of the nearby airports, such as **Geneva International Airport** (GVA) in Switzerland or **Turin Airport** (TRN) in Italy, and then taking a train or bus to Lyon. Additionally, Lyon is well-connected to the rest of France by road, with several major highways passing through the city, making it a convenient stop on a road trip through the country.
+
+[SECTION] Domestic Flights [/SECTION]
+For domestic flights within France, you can use airlines such as **Air France**, **Hop!**, or **Ryanair**, which operate routes from Lyon to other major cities, including Paris, Nice, and Bordeaux. You can book flights online through the airlines' websites or through a travel agency, and prices vary depending on the time of year and how far in advance you book. A one-way ticket from Lyon to Paris, for example, can cost anywhere from $50 to $200, depending on the airline and the time of booking.
+
+[SECTION] Trains & Rail [/SECTION]
+Lyon has an **extensive rail network**, with several train stations, including the main **Lyon Part-Dieu** station, which offers connections to other major cities in France and Europe. You can take high-speed trains, such as the **TGV**, to destinations like Paris, Marseille, and Geneva, or use regional trains to explore the surrounding countryside. Train tickets can be booked online through the **SNCF** website or at the train station, and prices vary depending on the route and class of service.
+
+[SECTION] Buses & Coaches [/SECTION]
+For bus travel, you can use companies such as **FlixBus**, **Eurolines**, or **Ouibus**, which operate routes from Lyon to other cities in France and Europe. The buses are generally comfortable and affordable, with prices starting from around $10 for a one-way ticket. You can book tickets online through the companies' websites or at the bus station, and it's a good idea to book in advance to secure the best prices.
+
+[SECTION] City Transport [/SECTION]
+| Mode | Available In | Cost (USD) | Notes |
+| --- | --- | --- | --- |
+| Metro/Subway | Lyon | $2 | 4 lines, frequent service |
+| City Bus | Lyon | $2 | extensive network, frequent service |
+| Taxi | everywhere | $2.50/km | available at taxi stands or by phone |
+| Ride-Hailing | Lyon | $5-10 | available through Uber, Bolt, and local apps |
+| Bike Rental | Lyon | $10/day | available at bike-sharing stations |
+
+[SECTION] Driving [/SECTION]
+- To drive in Lyon, you'll need a valid **driver's license** from your home country, and it's a good idea to have a **car insurance** policy that covers you in France.
+- The **road quality** in Lyon is generally good, with well-maintained highways and city streets.
+- **Fuel costs** are relatively high in France, with gasoline prices averaging around $1.50 per liter.
+- If you plan to rent a car, be sure to book in advance to secure the best prices, and consider renting from a reputable company like **Europcar** or **Hertz**.
+- Be aware of **traffic rules** in France, such as the requirement to wear a seatbelt and the ban on using a phone while driving.
+- Be prepared for **limited parking** options in the city center, and consider using a parking garage or lot.
+
+[SECTION] Transport Tips [/SECTION]
+- Be aware of **pickpocketing** in crowded areas, such as train stations and tourist hotspots.
+- Use a **reputable taxi company** or ride-hailing app to avoid scams.
+- Consider purchasing a **Lyon City Card**, which grants you access to public transportation and discounts on attractions.
+- Download the **Transports Lyon** app to plan your route and track public transportation in real-time.
+- Be prepared for **strikes** or disruptions to public transportation, which can occur with little notice.
+- Use a **credit card** or **debit card** to pay for transportation, as many companies do not accept cash.
+- Consider **buying a carnet** of 10 public transportation tickets, which can be a cost-effective option for frequent travel.
+
+---
+
+*Evergreen reference content. Verify time-sensitive details with official sources.*

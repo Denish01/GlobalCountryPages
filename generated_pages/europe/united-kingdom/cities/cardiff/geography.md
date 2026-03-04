@@ -1,0 +1,61 @@
+---
+title: "Cardiff Geography - Location, Terrain & Climate"
+entity: "United Kingdom"
+iso_code: "GB"
+continent: "europe"
+angle: "geography"
+date: "2026-03-04"
+---
+
+# Cardiff Geography - Location, Terrain & Climate
+
+Cardiff is the capital and largest city of Wales, a country that is part of the United Kingdom, located in the southwest of Great Britain.
+
+[FACTBOX]
+Land Area: 4,072 km² (about the size of the state of Rhode Island)
+Highest Point: Pen y Fan, 886 m
+Lowest Point: Sea level
+Coastline: 1,200 km
+Borders: England
+Climate Type: temperate maritime
+[/FACTBOX]
+
+[SECTION] Location & Borders [/SECTION]
+Cardiff is situated in the southern part of Wales, near the Bristol Channel, which separates Wales from England. The city is located about 240 km west of London and is bordered by the counties of Glamorgan and Monmouthshire to the east, and the Bristol Channel to the south. Cardiff is also close to several major cities, including Bristol, which is located about 40 km to the southeast, and Swansea, which is about 60 km to the west. The city's proximity to the sea and its location in the southern part of Wales make it an important port and commercial center.
+
+The city of Cardiff is surrounded by a diverse range of landscapes, including the Brecon Beacons National Park to the north, the Vale of Glamorgan to the west, and the coastal cliffs and beaches of the Bristol Channel to the south. The city is also located near several major rivers, including the River Taff, which runs through the city center, and the River Severn, which forms the border between Wales and England. The combination of these natural features makes Cardiff a unique and attractive city, with a rich history and culture.
+
+[SECTION] Terrain & Landscape [/SECTION]
+The terrain and landscape of Cardiff are characterized by a mix of coastal cliffs, beaches, and flat plains. The city is situated in a valley, with the River Taff flowing through the center, and is surrounded by hills and mountains to the north and east. The Brecon Beacons National Park, which is located just north of the city, is a popular destination for hiking and outdoor activities, with its rugged mountains, lakes, and waterfalls. The park is also home to a diverse range of wildlife, including red kites, buzzards, and peregrine falcons.
+
+The coastal area of Cardiff is characterized by a mix of sandy beaches, rocky cliffs, and salt marshes. The city's coastline is about 10 km long and offers stunning views of the Bristol Channel and the surrounding countryside. The coastal path, which runs along the top of the cliffs, is a popular destination for walkers and offers breathtaking views of the sea and the surrounding landscape. The city is also home to several parks and gardens, including Bute Park, which is located in the heart of the city and offers a peaceful escape from the hustle and bustle of urban life.
+
+The landscape of Cardiff is also characterized by a mix of urban and rural areas. The city center is a bustling hub of activity, with a mix of old and new buildings, including the historic castle, the national museum, and the modern shopping centers. The surrounding areas are a mix of suburban housing estates, industrial parks, and rural countryside, with a diverse range of farms, villages, and small towns. The city's location in the southern part of Wales makes it an important center for trade and commerce, with a strong economy based on industries such as manufacturing, finance, and tourism.
+
+[SECTION] Terrain & Landscape [/SECTION] additional paragraph 
+Cardiff's geography has played a significant role in shaping the city's history and culture. The city's location on the Bristol Channel made it an important center for trade and commerce, with the port of Cardiff being one of the busiest in the UK during the 19th and early 20th centuries. The city's proximity to the coalfields of the Valleys also made it an important center for the coal industry, with many coal mines and ironworks located in and around the city. Today, the city's geography continues to play an important role in shaping its economy and culture, with tourism being a major industry and the city's natural beauty and rich history being major attractions for visitors.
+
+[SECTION] Climate By Season [/SECTION]
+[TABLE]
+| Season | Months | Temperature Range | Rainfall | Conditions |
+| --- | --- | --- | --- | --- |
+| Spring | March to May | 9-15°C | 60-80 mm | Mild and sunny, with occasional rain showers |
+| Summer | June to August | 18-22°C | 40-60 mm | Warm and sunny, with occasional heatwaves |
+| Autumn | September to November | 10-15°C | 80-100 mm | Cool and wet, with occasional storms |
+| Winter | December to February | 4-8°C | 100-120 mm | Cold and wet, with occasional snow and frost |
+[/TABLE]
+
+[SECTION] Best Time To Visit [/SECTION]
+[CALLOUT] Best months: June to August. Why: The summer months offer the best weather, with warm temperatures and long days, making it ideal for outdoor activities and sightseeing. Avoid: December to February, as the weather can be cold and wet, with short days and limited daylight. [/CALLOUT]
+
+[SECTION] Natural Highlights [/SECTION]
+- **Brecon Beacons National Park**: a beautiful national park with rugged mountains, lakes, and waterfalls, popular for hiking and outdoor activities.
+- **Cardiff Bay**: a large bay with a mix of sandy beaches, rocky cliffs, and salt marshes, offering stunning views of the Bristol Channel.
+- **Bute Park**: a large park in the heart of the city, offering a peaceful escape from the hustle and bustle of urban life.
+- **River Taff**: a river that flows through the city center, offering scenic views and a popular destination for walkers and cyclists.
+- **Pen y Fan**: the highest point in South Wales, offering stunning views of the surrounding countryside and a popular destination for hikers.
+- **Glamorgan Heritage Coast**: a scenic coastline with a mix of sandy beaches, rocky cliffs, and salt marshes, offering stunning views of the Bristol Channel.
+
+---
+
+*Evergreen reference content. Verify time-sensitive details with official sources.*
