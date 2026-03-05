@@ -1,0 +1,57 @@
+---
+title: "Bordeaux Geography - Location, Terrain & Climate"
+entity: "France"
+iso_code: "FR"
+continent: "europe"
+angle: "geography"
+date: "2026-03-05"
+---
+
+# Bordeaux Geography - Location, Terrain & Climate
+
+Bordeaux is a city located in the southwestern part of France, situated near the Atlantic coast and known for its stunning landscapes, mild climate, and rich cultural heritage.
+
+[FACTBOX]
+Land Area: 490 km², about the size of the city of Los Angeles
+Highest Point: none, the city is generally flat
+Lowest Point: the Garonne River, approximately 5 meters above sea level
+Coastline: 0 km, the city is not directly on the coastline but is connected to the Atlantic Ocean via the Gironde estuary
+Borders: the city is surrounded by the Gironde department and is not an independent country or territory
+[/FACTBOX]
+
+[SECTION] Location & Borders [/SECTION]
+Bordeaux is situated in the Nouvelle-Aquitaine region of southwestern France, approximately 580 kilometers southwest of Paris. The city is located near the Atlantic coast, where the Garonne River flows into the Gironde estuary, which is a major inlet of the Atlantic Ocean. Bordeaux is not a country or territory, but rather a city within the country of France, and as such, it does not have any international borders. The city is surrounded by the Gironde department, which is one of the most populous and economically significant departments in France.
+
+The location of Bordeaux has played a significant role in its history and development, as the city has long been an important center for trade and commerce. The Garonne River, which runs through the city, has facilitated the transportation of goods and people, and the city's proximity to the Atlantic Ocean has made it an important hub for maritime trade. Today, Bordeaux is a major city in southwestern France, known for its stunning architecture, rich cultural heritage, and world-class wine production.
+
+[SECTION] Terrain & Landscape [/SECTION]
+The terrain and landscape of Bordeaux are characterized by a mix of flat plains, rolling hills, and scenic river valleys. The city itself is generally flat, with an average elevation of approximately 10 meters above sea level. The surrounding countryside is dominated by the Garonne River, which flows through the city and into the Gironde estuary. The river valley is surrounded by rolling hills and scenic valleys, which are home to many of the region's famous vineyards and wine-producing estates.
+
+One of the most distinctive features of the Bordeaux landscape is the presence of the **Gironde estuary**, which is a large inlet of the Atlantic Ocean that stretches for approximately 75 kilometers. The estuary is an important habitat for a wide range of wildlife, including birds, fish, and marine mammals, and it is also a popular destination for boating and water sports. The surrounding countryside is also home to several **forests**, including the Forest of Les Landes, which is one of the largest forests in Europe.
+
+The landscape of Bordeaux is also characterized by a mix of **agricultural land** and **urban areas**. The city itself is a thriving metropolis, with a population of over 250,000 people, while the surrounding countryside is home to many small towns and villages. The region is known for its rich agricultural heritage, with many farms and vineyards producing a wide range of crops, including grapes, wheat, and corn.
+
+[SECTION] Climate By Season [/SECTION]
+[TABLE]
+| Season | Months | Temperature Range | Rainfall | Conditions |
+| --- | --- | --- | --- | --- |
+| Spring | March to May | 10-20°C | 60-80 mm | Mild and sunny, with occasional rain showers |
+| Summer | June to August | 20-30°C | 40-60 mm | Warm and sunny, with occasional heatwaves |
+| Autumn | September to November | 10-20°C | 80-100 mm | Mild and sunny, with occasional rain showers |
+| Winter | December to February | 5-10°C | 60-80 mm | Cool and rainy, with occasional frosts |
+[/TABLE]
+
+[SECTION] Best Time To Visit [/SECTION]
+[CALLOUT] Best months: September to November and March to May. Why: these periods offer mild and sunny weather, with comfortable temperatures and minimal rainfall. Avoid: July and August, as these months can be very hot and crowded, and January and February, as these months can be cool and rainy. [/CALLOUT]
+
+[SECTION] Natural Highlights [/SECTION]
+- The **Gironde estuary** is a unique and diverse ecosystem that is home to a wide range of wildlife, including birds, fish, and marine mammals.
+- The **Forest of Les Landes** is one of the largest forests in Europe, covering an area of over 3,000 square kilometers.
+- The **Dordogne River** is a scenic and picturesque river that flows through the countryside and offers opportunities for boating and fishing.
+- The **Bordeaux vineyards** are some of the most famous and prestigious in the world, producing a wide range of high-quality wines.
+- The **Arcachon Bay** is a beautiful and scenic bay that is located near the city of Bordeaux and offers opportunities for swimming, boating, and water sports.
+- The **Médoc Peninsula** is a scenic and picturesque peninsula that is located near the city of Bordeaux and offers stunning views of the Atlantic Ocean and the surrounding countryside.
+
+---
+
+*Evergreen reference content. Verify time-sensitive details with official sources.*
