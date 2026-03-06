@@ -1,0 +1,58 @@
+---
+title: "Lagos Geography - Location, Terrain & Climate"
+entity: "Nigeria"
+iso_code: "NG"
+continent: "africa"
+angle: "geography"
+date: "2026-03-06"
+---
+
+# Lagos Geography - Location, Terrain & Climate
+
+Lagos is a city located in the southwestern part of Nigeria, a country in West Africa, and is situated on the coast of the Gulf of Guinea.
+
+[FACTBOX]
+Land Area: 1,000 km², about the size of the city of Los Angeles
+Highest Point: none, as Lagos is a coastal city with a relatively flat terrain
+Lowest Point: Atlantic Ocean, sea level
+Coastline: 180 km, along the Gulf of Guinea
+Borders: Lagos is surrounded by Ogun State to the north and east, and the Atlantic Ocean to the south
+Climate Type: tropical savanna
+[/FACTBOX]
+
+[SECTION] Location & Borders [/SECTION]
+Lagos is situated in the southwestern part of Nigeria, a country in West Africa, and is located on the coast of the Gulf of Guinea. The city is bounded by Ogun State to the north and east, and the Atlantic Ocean to the south. Lagos is a major urban center and is separated from the rest of Nigeria by a lagoon, which provides a natural barrier and has played a significant role in the city's development. The city's proximity to the ocean and its location in a tropical region have made it an important hub for trade and commerce in West Africa.
+
+The city's borders are defined by its surrounding geographic features, including the Ogun State border to the north and east, and the Atlantic Ocean to the south. Lagos is also separated from the neighboring country of Benin by a short border to the west. The city's location has made it an important center for trade and commerce in the region, and its proximity to the ocean has facilitated the growth of a thriving port and shipping industry. The city's borders have also been influenced by its history, with the city having been a major center for the transatlantic slave trade and later a British colony.
+
+[SECTION] Terrain & Landscape [/SECTION]
+Lagos is a coastal city with a relatively flat terrain, and its landscape is characterized by a series of islands, lagoons, and mangrove swamps. The city is situated on a low-lying coastal plain, with an average elevation of about 10 meters above sea level. The terrain is generally flat, with some areas of higher ground, such as the **Victoria Island** and **Ikoyi** areas, which are located on a series of islands that are connected to the mainland by bridges. The city's landscape is also dominated by the **Lagos Lagoon**, which is a large body of water that separates the city from the rest of Nigeria.
+
+The city's terrain has been shaped by its history and geography, with the **Lagos Lagoon** playing a significant role in the city's development. The lagoon has provided a natural barrier and has facilitated the growth of a thriving port and shipping industry. The city's landscape is also characterized by a series of **mangrove swamps**, which are found along the coastline and provide a habitat for a variety of wildlife. The city's terrain has also been influenced by human activity, with the city having undergone significant urbanization and development in recent years.
+
+The city's landscape is also dominated by a series of **beaches**, which are found along the coastline and are popular with tourists and locals alike. The **Bar Beach** and **Elegushi Beach** are two of the most popular beaches in the city, and are known for their white sand and crystal-clear waters. The city's beaches are also an important part of its economy, with tourism playing a significant role in the city's GDP.
+
+[SECTION] Climate By Season [/SECTION]
+[TABLE]
+| Season | Months | Temperature Range | Rainfall | Conditions |
+| --- | --- | --- | --- | --- |
+| Dry Season | December to February | 22-32°C | Low | Hot and dry |
+| Hot Season | March to May | 25-35°C | Low | Very hot and dry |
+| Wet Season | June to September | 22-30°C | High | Hot and humid |
+| Harmattan Season | October to November | 20-28°C | Low | Cool and dry |
+[/TABLE]
+
+[SECTION] Best Time To Visit [/SECTION]
+[CALLOUT] Best months: December to February. Why: The weather is cooler and drier during this period, making it ideal for outdoor activities and sightseeing. Avoid: June to September, as the weather is hot and humid, and the city experiences heavy rainfall during this period. [/CALLOUT]
+
+[SECTION] Natural Highlights [/SECTION]
+- **Lagos Lagoon**: a large body of water that separates the city from the rest of Nigeria and provides a habitat for a variety of wildlife.
+- **Mangrove swamps**: a series of swamps that are found along the coastline and provide a habitat for a variety of wildlife.
+- **Bar Beach**: a popular beach that is known for its white sand and crystal-clear waters.
+- **Elegushi Beach**: a popular beach that is known for its white sand and crystal-clear waters.
+- **Ikoyi Island**: a small island that is located off the coast of Lagos and is known for its beautiful beaches and scenic views.
+- **Victoria Island**: a small island that is located off the coast of Lagos and is known for its beautiful beaches and scenic views.
+
+---
+
+*Evergreen reference content. Verify time-sensitive details with official sources.*

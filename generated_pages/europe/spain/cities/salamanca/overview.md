@@ -1,0 +1,56 @@
+---
+title: "Salamanca - Overview & Essential Facts"
+entity: "Spain"
+iso_code: "ES"
+continent: "europe"
+angle: "overview"
+date: "2026-03-06"
+---
+
+# Salamanca - Overview & Essential Facts
+
+Salamanca is a city located in the autonomous community of Castile and León, Spain, known for its rich history, cultural significance, and stunning architecture.
+
+[FACTBOX]
+Official Name: City of Salamanca
+Capital: Salamanca
+Population: 0 million
+Languages: Spanish
+Currency: EUR
+Government: Municipal
+Continent: Europe
+ISO Code: ES
+Calling Code: +34
+Drives On: right
+Time Zone: Central European Time (UTC+1)
+[/FACTBOX]
+
+[SECTION] What Is Salamanca? [/SECTION]
+Salamanca is a city in western Spain, situated in the autonomous community of Castile and León. The city has a population of around 145,000 people and is known for its well-preserved historic center, which is a UNESCO World Heritage Site. Salamanca is not a country, but rather a city within the country of Spain. It is located in the province of Salamanca, which has a population of around 350,000 people. The city is situated near the Tormes River and is about 200 kilometers west of Madrid, the capital city of Spain.
+
+The city of Salamanca has a rich history dating back to the Roman era, and it has been an important cultural and educational center for centuries. The city is home to the University of Salamanca, which is one of the oldest universities in Europe and was founded in 1218. The city's historic center is filled with beautiful buildings, including the stunning Salamanca Cathedral, which is a mix of Romanesque, Gothic, and Baroque styles. The city is also known for its vibrant cultural scene, with numerous festivals and events taking place throughout the year.
+
+Salamanca is also a popular tourist destination, attracting visitors from all over the world who come to admire its stunning architecture, visit its historic landmarks, and experience its rich cultural heritage. The city has a unique blend of traditional and modern attractions, including its historic center, museums, galleries, and cultural events. Visitors can also enjoy the city's delicious cuisine, which features a range of local specialties, including tapas, wine, and traditional Spanish dishes.
+
+[SECTION] Key History [/SECTION]
+1. 1218 - The University of Salamanca is founded, making it one of the oldest universities in Europe.
+2. 1255 - The city of Salamanca is granted a royal charter by King Alfonso X, giving it greater autonomy and rights.
+3. 1474 - The Catholic Monarchs, Ferdinand and Isabella, establish the Inquisition in Salamanca, which has a significant impact on the city's history and culture.
+4. 1812 - The city of Salamanca is the site of a major battle during the Napoleonic Wars, in which British and Portuguese forces defeat the French army.
+5. 1988 - The historic center of Salamanca is designated a UNESCO World Heritage Site, recognizing its cultural and historical significance.
+6. 1998 - The city of Salamanca is designated the European Capital of Culture, highlighting its rich cultural heritage and vibrant cultural scene.
+7. 2018 - The University of Salamanca celebrates its 800th anniversary, marking a major milestone in the city's history and cultural development.
+
+[SECTION] What Makes Salamanca Unique [/SECTION]
+- The city's historic center is a UNESCO World Heritage Site, featuring a range of stunning buildings and landmarks, including the Salamanca Cathedral and the University of Salamanca.
+- The University of Salamanca is one of the oldest universities in Europe, founded in 1218, and has a long history of academic excellence and cultural significance.
+- The city has a unique blend of traditional and modern attractions, including its historic center, museums, galleries, and cultural events.
+- Salamanca is known for its vibrant cultural scene, with numerous festivals and events taking place throughout the year, including the Salamanca Festival and the **Feria de Salamanca**.
+- The city's cuisine is a major part of its cultural heritage, featuring a range of local specialties, including tapas, wine, and traditional Spanish dishes.
+
+[SECTION] Quick Summary [/SECTION]
+Salamanca is a city in western Spain known for its rich history, cultural significance, and stunning architecture, featuring a well-preserved historic center, a prestigious university, and a vibrant cultural scene.
+
+---
+
+*Evergreen reference content. Verify time-sensitive details with official sources.*

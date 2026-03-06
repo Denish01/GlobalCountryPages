@@ -1,0 +1,56 @@
+---
+title: "Turin - Overview & Essential Facts"
+entity: "Italy"
+iso_code: "IT"
+continent: "europe"
+angle: "overview"
+date: "2026-03-06"
+---
+
+# Turin - Overview & Essential Facts
+
+Turin is a city located in the northwest of Italy, known for its rich history, cultural heritage, and stunning architecture. 
+
+[FACTBOX]
+Official Name: City of Turin
+Capital: Turin
+Population: 0 million
+Languages: Italian
+Currency: EUR
+Government: Local government within the Republic of Italy
+Continent: Europe
+ISO Code: IT
+Calling Code: +39
+Drives On: right
+Time Zone: UTC+1
+[/FACTBOX]
+
+[SECTION] What Is Turin? [/SECTION]
+Turin is a city in Italy, situated in the Piedmont region, and it is not a country or territory but rather a significant urban center within the country. The city has a long history dating back to the Roman Empire and has played a crucial role in Italian politics, culture, and economy. Turin is known for its beautiful baroque architecture, stunning palaces, and world-class museums. The city is also famous for being the home of the **Shroud of Turin**, a relic believed by some to be the burial cloth of Jesus Christ.
+
+Geographically, Turin is positioned in the northwest of Italy, near the French border, and is surrounded by the **Alps** and the **Piedmont** hills. The city has a population of around 900,000 people and is a major economic and cultural hub in the region. Turin is also an important transportation hub, with a major international airport and a comprehensive network of roads, railways, and public transportation.
+
+The city is situated on the **Po River**, which runs through the heart of Turin and provides a scenic backdrop to the city's historic center. The climate in Turin is typically **Mediterranean**, with warm summers and cold winters, and the city experiences a significant amount of rainfall throughout the year. Turin is a popular tourist destination, attracting visitors from all over the world with its rich history, cultural attractions, and stunning natural beauty.
+
+[SECTION] Key History [/SECTION]
+1. 1280 - The city of Turin is founded by the Romans, who establish a settlement in the area and name it **Augusta Taurinorum**.
+2. 1563 - The **Duke of Savoy** makes Turin the capital of the **Duchy of Savoy**, and the city becomes a major center of politics and culture.
+3. 1713 - Turin becomes the capital of the **Kingdom of Sardinia**, which includes a significant portion of northwest Italy and the island of Sardinia.
+4. 1861 - The **Kingdom of Italy** is established, with Turin as its first capital, and the city plays a crucial role in the country's unification.
+5. 2006 - Turin hosts the **Winter Olympics**, which brings significant investment and attention to the city, and helps to establish it as a major international tourist destination.
+6. 2015 - Turin is designated as the **European Capital of Sport**, in recognition of its excellent sports facilities and its commitment to promoting physical activity and healthy lifestyles.
+7. 2020 - The city of Turin celebrates its 700th anniversary, marking seven centuries since its founding by the Romans.
+
+[SECTION] What Makes Turin Unique [/SECTION]
+- Turin is home to the **Museo Egizio**, one of the world's most important museums of ancient Egyptian artifacts, with a collection that includes over 30,000 objects.
+- The city is famous for its **chocolate**, with many local manufacturers producing high-quality chocolate products, including the famous **Gianduja** chocolate-hazelnut spread.
+- Turin is the birthplace of the **Italian automobile industry**, with companies such as **Fiat** and **Lancia** having been founded in the city.
+- The city is home to the **University of Turin**, one of the oldest and most prestigious universities in Italy, with a strong reputation for academic excellence.
+- Turin has a unique and beautiful **baroque architecture**, with many stunning palaces and buildings, including the **Royal Palace of Turin** and the **Palazzo Madama**.
+
+[SECTION] Quick Summary [/SECTION]
+Turin is a city in northwest Italy, known for its rich history, cultural heritage, and stunning architecture, and is a popular tourist destination that attracts visitors from all over the world with its unique blend of history, culture, and natural beauty.
+
+---
+
+*Evergreen reference content. Verify time-sensitive details with official sources.*

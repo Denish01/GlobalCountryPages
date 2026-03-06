@@ -1,0 +1,56 @@
+---
+title: "Amalfi - Overview & Essential Facts"
+entity: "Italy"
+iso_code: "IT"
+continent: "europe"
+angle: "overview"
+date: "2026-03-06"
+---
+
+# Amalfi - Overview & Essential Facts
+
+Amalfi is a small city and a former republic located in the Campania region of Italy, known for its stunning coastline, rich history, and vibrant culture.
+
+[FACTBOX]
+Official Name: Republic of Amalfi
+Capital: Amalfi
+Population: 0 million
+Languages: Italian
+Currency: EUR
+Government: Republic
+Continent: Europe
+ISO Code: IT
+Calling Code: +39
+Drives On: right
+Time Zone: UTC+1
+[/FACTBOX]
+
+[SECTION] What Is Amalfi? [/SECTION]
+Amalfi is a city located in the southern part of Italy, in the Campania region. It is situated on the Amalfi Coast, a stretch of coastline known for its picturesque towns, crystal-clear waters, and stunning scenery. The city of Amalfi is nestled in a valley surrounded by mountains and cliffs, and its historic center is a maze of narrow streets and alleys filled with shops, restaurants, and historic buildings. Amalfi is not an independent country, but rather a city that is part of the Italian republic.
+
+The city of Amalfi has a long and rich history, dating back to the 4th century. It was an important center of trade and commerce in the Middle Ages, and its strategic location made it a key player in the Mediterranean region. Today, Amalfi is a popular tourist destination, attracting visitors from all over the world with its unique blend of history, culture, and natural beauty. The city is also known for its stunning cathedral, the Duomo di Amalfi, which dates back to the 9th century and features a unique blend of Byzantine and Romanesque architectural styles.
+
+Amalfi is also famous for its stunning coastline, which offers a range of activities and attractions for visitors. The city is surrounded by mountains and cliffs, and the coastline is dotted with small beaches, coves, and inlets. Visitors can enjoy a range of water sports, including swimming, snorkeling, and sailing, or take a boat tour to explore the coastline and surrounding islands. The city is also a great base for exploring the surrounding region, which is home to a range of historic towns, villages, and archaeological sites.
+
+[SECTION] Key History [/SECTION]
+1. 339 BC - The city of Amalfi is founded by the Romans.
+2. 839 AD - Amalfi becomes an independent republic, with its own government and system of laws.
+3. 1073 AD - The Normans conquer Amalfi and incorporate it into the Kingdom of Sicily.
+4. 1343 AD - A devastating earthquake strikes Amalfi, causing widespread destruction and loss of life.
+5. 1861 AD - Amalfi becomes part of the Kingdom of Italy, following the unification of the country.
+6. 1997 AD - The Amalfi Coast is designated as a UNESCO World Heritage Site, recognizing its cultural and natural significance.
+7. 2001 AD - The city of Amalfi undergoes a major restoration project, aimed at preserving its historic center and cultural heritage.
+
+[SECTION] What Makes Amalfi Unique [/SECTION]
+- Amalfi is home to a stunning cathedral, the Duomo di Amalfi, which dates back to the 9th century and features a unique blend of Byzantine and Romanesque architectural styles.
+- The city is surrounded by a stunning coastline, with crystal-clear waters, small beaches, and dramatic cliffs.
+- Amalfi has a rich history, with a range of historic buildings, museums, and archaeological sites to explore.
+- The city is famous for its local cuisine, which features a range of seafood dishes, including seafood risotto, seafood salad, and grilled fish.
+- Amalfi is a popular destination for outdoor activities, including hiking, sailing, and water sports.
+
+[SECTION] Quick Summary [/SECTION]
+Amalfi is a small city located on the Amalfi Coast in southern Italy, known for its stunning coastline, rich history, and vibrant culture, making it a unique and unforgettable destination for visitors from around the world.
+
+---
+
+*Evergreen reference content. Verify time-sensitive details with official sources.*
