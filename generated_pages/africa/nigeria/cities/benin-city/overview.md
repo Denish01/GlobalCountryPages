@@ -1,0 +1,56 @@
+---
+title: "Benin City - Overview & Essential Facts"
+entity: "Nigeria"
+iso_code: "NG"
+continent: "africa"
+angle: "overview"
+date: "2026-03-07"
+---
+
+# Benin City - Overview & Essential Facts
+
+Benin City is a city located in the Edo State of Nigeria, serving as the state's capital and a significant cultural and economic hub in the region. 
+
+[FACTBOX]
+Official Name: Benin City
+Capital: Not applicable
+Population: 0 million
+Languages: English
+Currency: NGN
+Government: Local Government Area
+Continent: Africa
+ISO Code: NG
+Calling Code: +234
+Drives On: Right
+Time Zone: UTC+1
+[/FACTBOX]
+
+[SECTION] What Is Benin City? [/SECTION]
+Benin City is a city in Nigeria, situated in the southern part of the country, and it serves as the capital of Edo State. The city has a rich history, dating back to the 10th century, and it was the capital of the Benin Empire, a powerful and influential empire in West Africa. Benin City is known for its cultural heritage, including its traditional arts, crafts, and historic landmarks such as the Benin City National Museum and the Oba's Palace. The city is also an important economic center, with a strong focus on industries such as manufacturing, construction, and agriculture.
+
+Geographically, Benin City is located in the Niger Delta region, near the Osse River, and it has a tropical monsoon climate with high temperatures and humidity levels throughout the year. The city is home to a diverse population, with various ethnic groups, including the Edo people, who are the indigenous inhabitants of the region. Benin City is also a major transportation hub, with a network of roads, railways, and airports connecting it to other parts of Nigeria and West Africa.
+
+The city's sovereignty status is that of a Local Government Area, which is a administrative division in Nigeria, and it is part of the Edo State. As a city, Benin City is not an independent country, but rather a part of the Federal Republic of Nigeria. The city's government is headed by a chairman, who is responsible for overseeing the administration of the city and providing basic services such as healthcare, education, and infrastructure.
+
+[SECTION] Key History [/SECTION]
+1. 10th century - The Benin Empire was founded, with Benin City as its capital, and it became a major power in West Africa, known for its advanced administrative systems, architecture, and art.
+2. 15th century - The Benin Empire established trade relations with European countries, including Portugal, and the city became a major center for the transatlantic slave trade.
+3. 1897 - The Benin Empire was conquered by the British, and Benin City was incorporated into the British Empire, becoming a part of the Southern Nigeria Protectorate.
+4. 1914 - The Southern Nigeria Protectorate was merged with the Northern Nigeria Protectorate to form the Colony and Protectorate of Nigeria, with Benin City as a major city in the colony.
+5. 1960 - Nigeria gained independence from Britain, and Benin City became the capital of the Mid-Western Region, which later became the Bendel State and eventually the Edo State.
+6. 1991 - The Edo State was created, with Benin City as its capital, and the city has since become a major cultural and economic hub in the region.
+7. 2010s - Benin City experienced significant growth and development, with investments in infrastructure, education, and healthcare, and it has become a major destination for tourism and business in West Africa.
+
+[SECTION] What Makes Benin City Unique [/SECTION]
+- Benin City is home to the famous Benin Bronze, a collection of bronze plaques and sculptures that date back to the 15th century and are considered some of the most important works of art in African history.
+- The city is known for its traditional arts and crafts, including woodcarvings, weaving, and pottery, which are still practiced by local artisans today.
+- Benin City is a major center for education, with several universities and institutions of higher learning, including the University of Benin, which is one of the largest universities in Nigeria.
+- The city has a rich cultural heritage, with a blend of traditional and modern influences, and it is home to several museums, galleries, and cultural centers.
+- Benin City is a major hub for business and commerce, with a strong focus on industries such as manufacturing, construction, and agriculture, and it is home to several major markets, including the Oba Market.
+
+[SECTION] Quick Summary [/SECTION]
+Benin City is a culturally and economically significant city in Nigeria, known for its rich history, traditional arts and crafts, and modern industries, and it continues to play an important role in the development of the region and the country as a whole.
+
+---
+
+*Evergreen reference content. Verify time-sensitive details with official sources.*

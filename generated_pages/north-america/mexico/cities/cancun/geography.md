@@ -1,0 +1,61 @@
+---
+title: "Cancun Geography - Location, Terrain & Climate"
+entity: "Mexico"
+iso_code: "MX"
+continent: "north-america"
+angle: "geography"
+date: "2026-03-07"
+---
+
+# Cancun Geography - Location, Terrain & Climate
+
+Cancun is a city located on the Caribbean coast of Mexico, known for its beautiful beaches, crystal-clear waters, and rich cultural heritage. 
+
+[FACTBOX]
+Land Area: 1,978 km², about the size of the state of Delaware
+Highest Point: None, as it is a coastal city
+Lowest Point: Sea level, as it is a coastal city
+Coastline: 22 km
+Borders: None, as it is a city within Mexico
+Climate Type: Tropical
+[/FACTBOX]
+
+[SECTION] Location & Borders [/SECTION]
+Cancun is situated on the northeastern coast of the Yucatan Peninsula in Mexico, facing the Caribbean Sea. The city is located in the state of Quintana Roo, which is one of the 32 states that make up the country. To the north, Cancun is bordered by the Gulf of Mexico, while to the east, it is bordered by the Caribbean Sea. To the west and south, the city is surrounded by the Mexican states of Yucatan and Quintana Roo, respectively.
+
+The city's strategic location on the Caribbean coast makes it a popular tourist destination, with many visitors drawn to its beautiful beaches, crystal-clear waters, and rich cultural heritage. The city is also close to several other popular tourist destinations, including the ancient Mayan ruins of Tulum and Chichen Itza, which are located on the mainland. The city's international airport, which is one of the busiest in Mexico, provides easy access to the city and its surrounding areas.
+
+[SECTION] Terrain & Landscape [/SECTION]
+Cancun is a coastal city, and its terrain is generally flat and low-lying. The city is situated on a narrow strip of land that separates the Caribbean Sea from the Nichupte Lagoon, which is a large body of water that is connected to the sea by several channels. The city's terrain is characterized by a series of beaches, dunes, and mangrove swamps, which provide a habitat for a wide range of flora and fauna. The beaches in Cancun are known for their white sand and crystal-clear waters, which are perfect for swimming, snorkeling, and other water sports.
+
+The city is also surrounded by several natural areas, including the Sian Ka'an Biosphere Reserve, which is a UNESCO World Heritage Site. The reserve is home to a wide range of flora and fauna, including dolphins, manatees, and several species of birds. The city's terrain is also dotted with several cenotes, which are natural sinkholes that are filled with fresh water. These cenotes are popular with tourists, who come to swim and snorkel in their crystal-clear waters.
+
+The landscape of Cancun is also characterized by several **lagoons**, which are large bodies of water that are connected to the sea by several channels. These lagoons are home to a wide range of flora and fauna, including several species of fish, birds, and mammals. The city's landscape is also dotted with several **islands**, which are located just off the coast. These islands are popular with tourists, who come to visit their beautiful beaches, snorkel in their crystal-clear waters, and explore their natural areas.
+
+[SECTION] Terrain & Landscape [/SECTION] is continued with more details on the natural beauties of the area.
+In addition to its beautiful beaches and natural areas, Cancun is also home to several **archaeological sites**, which are a testament to the city's rich cultural heritage. The most famous of these sites is the ancient Mayan ruins of El Meco, which is located just north of the city. The site is home to several **temples**, **palaces**, and **pyramids**, which are a testament to the advanced civilization of the Mayans.
+
+[SECTION] Climate By Season [/SECTION]
+[TABLE]
+| Season | Months | Temperature Range | Rainfall | Conditions |
+| --- | --- | --- | --- | --- |
+| Spring | March to May | 77-90°F (25-32°C) | Low | Sunny, dry, and warm |
+| Summer | June to August | 82-95°F (28-35°C) | High | Hot, humid, and rainy |
+| Autumn | September to November | 75-90°F (24-32°C) | Medium | Warm, sunny, and dry |
+| Winter | December to February | 68-80°F (20-27°C) | Low | Cool, sunny, and dry |
+[/TABLE]
+
+[SECTION] Best Time To Visit [/SECTION]
+[CALLOUT] Best months: December to April. Why: The weather is cool, sunny, and dry, making it perfect for outdoor activities such as swimming, snorkeling, and exploring the city's natural areas. Avoid: September to November, as the weather is hot, humid, and rainy, and there is a risk of hurricanes. [/CALLOUT]
+
+[SECTION] Natural Highlights [/SECTION]
+- The Sian Ka'an Biosphere Reserve is a UNESCO World Heritage Site that is home to a wide range of flora and fauna, including dolphins, manatees, and several species of birds.
+- The Nichupte Lagoon is a large body of water that is connected to the sea by several channels and is home to a wide range of flora and fauna.
+- The cenotes of Cancun are natural sinkholes that are filled with fresh water and are popular with tourists, who come to swim and snorkel in their crystal-clear waters.
+- The islands of Cancun are located just off the coast and are popular with tourists, who come to visit their beautiful beaches, snorkel in their crystal-clear waters, and explore their natural areas.
+- The **jungles** of Cancun are home to a wide range of flora and fauna, including several species of birds, mammals, and reptiles.
+- The **coral reefs** of Cancun are home to a wide range of marine life, including several species of fish, sea turtles, and colorful coral.
+
+---
+
+*Evergreen reference content. Verify time-sensitive details with official sources.*

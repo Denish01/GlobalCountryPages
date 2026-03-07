@@ -1,0 +1,65 @@
+---
+title: "Getting Around Calabar — Transport & Travel Guide"
+entity: "Nigeria"
+iso_code: "NG"
+continent: "africa"
+angle: "transportation"
+date: "2026-03-07"
+---
+
+# Getting Around Calabar — Transport & Travel Guide
+
+To get around in Calabar, you can use a combination of domestic flights, buses, taxis, and ride-hailing services, as the city has a limited rail network and no metro system.
+
+[FACTBOX]
+Main International Airport(s): Margaret Ekpo International Airport, CBQ
+Domestic Air Network: moderate
+Rail Network: limited
+Drives On: right
+Road Quality: moderate
+Ride-Hailing Apps: Bolt, local alternatives
+[/FACTBOX]
+
+[SECTION] Getting There [/SECTION]
+Calabar is a major city in southeastern Nigeria, and the easiest way to get there is by flying into the Margaret Ekpo International Airport, which receives domestic flights from major Nigerian cities like Lagos and Abuja. You can also enter Calabar overland from neighboring cities like Uyo or Port Harcourt, but this can be a long and arduous journey due to the state of the roads. If you're coming from outside Nigeria, you'll likely need to fly into a major international airport like Lagos or Abuja and then connect to a domestic flight to Calabar.
+
+The Margaret Ekpo International Airport is a small but modern airport that offers basic amenities like restaurants, shops, and currency exchange offices. There are also several hotels and guesthouses near the airport, ranging from budget-friendly options to more luxurious establishments. To get to your destination from the airport, you can take a taxi or use a ride-hailing service, which are widely available in Calabar. Alternatively, you can rent a car or book a private car service, which can be more convenient if you're traveling with a group or have a lot of luggage.
+
+[SECTION] Domestic Flights [/SECTION]
+If you need to travel to other parts of Nigeria from Calabar, you can use domestic airlines like Arik Air, Air Peace, or Dana Air, which operate flights to major cities like Lagos, Abuja, and Port Harcourt. The main routes from Calabar are to Lagos and Abuja, with multiple flights per day, but you can also fly to other destinations like Kano or Enugu. To book a domestic flight, you can use the airline's website or a travel agency, and prices start from around $50-$100 for a one-way ticket, depending on the route and time of year. It's a good idea to book in advance, especially during peak travel seasons, to ensure availability and get the best prices.
+
+[SECTION] Trains & Rail [/SECTION]
+Calabar has a limited rail network, with only a few trains per day connecting the city to other parts of Nigeria. The Nigerian Railway Corporation operates passenger trains from Calabar to cities like Uyo and Port Harcourt, but the journey can be slow and uncomfortable. There are no high-speed trains in Nigeria, and the rail network is generally not well-developed, so it's not a recommended way to travel long distances. However, if you're looking for a unique experience or want to see the countryside, taking the train can be a good option.
+
+[SECTION] Buses & Coaches [/SECTION]
+If you prefer to travel by bus, there are several intercity bus companies that operate from Calabar to other cities in Nigeria. Companies like God is Good Motors, ABC Transport, and Young Shall Grow offer daily services to destinations like Lagos, Abuja, and Port Harcourt, with prices starting from around $10-$30 for a one-way ticket, depending on the route and type of bus. The buses are generally comfortable and well-maintained, but the journey can be long and tiring due to the state of the roads.
+
+[SECTION] City Transport [/SECTION]
+| Mode | Available In | Cost (USD) | Notes |
+| --- | --- | --- | --- |
+| City Bus | Calabar | $0.50-$1 | Limited routes, not very frequent |
+| Taxi | Calabar | $5-$10/km | Widely available, but prices can be negotiable |
+| Ride-Hailing | Calabar | $5-$10 | Available through apps like Bolt |
+| Tuk-tuk/Rickshaw | Calabar | $2-$5 | Available in some areas, but not very common |
+
+[SECTION] Driving [/SECTION]
+- To drive in Calabar, you'll need a valid driver's license, which can be obtained from the Nigerian Federal Road Safety Corps.
+- The road quality in Calabar is generally moderate, with some paved roads and some dirt roads, especially in rural areas.
+- Fuel costs are relatively low in Nigeria, with a liter of gasoline costing around $0.50-$1.
+- Car rental companies are available in Calabar, but prices can be high, starting from around $50-$100 per day.
+- When driving in Calabar, be aware of hazards like potholes, traffic congestion, and aggressive driving.
+- It's also a good idea to have a basic knowledge of car maintenance, as roadside assistance may not be readily available.
+
+[SECTION] Transport Tips [/SECTION]
+- Always negotiate the price of a taxi ride before you start your journey, as prices can be negotiable.
+- Be aware of scams, especially when using public transport or dealing with strangers.
+- Download ride-hailing apps like Bolt to make it easier to get around the city.
+- Always carry a map or use a GPS device to navigate the city, as street signs can be limited.
+- Be prepared for traffic congestion, especially during peak hours.
+- Avoid traveling at night, especially if you're not familiar with the area.
+- Keep your valuables safe and secure, especially when using public transport.
+- Learn some basic Nigerian phrases, like "hello" (kedu) and "thank you" (ima), to help you communicate with locals.
+
+---
+
+*Evergreen reference content. Verify time-sensitive details with official sources.*

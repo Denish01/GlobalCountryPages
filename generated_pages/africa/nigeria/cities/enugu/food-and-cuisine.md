@@ -1,0 +1,85 @@
+---
+title: "Enugu Food Guide — Dishes, Street Food & Dining"
+entity: "Nigeria"
+iso_code: "NG"
+continent: "africa"
+angle: "food-and-cuisine"
+date: "2026-03-07"
+---
+
+# Enugu Food Guide — Dishes, Street Food & Dining
+
+When visiting Enugu, you should try the local delicacies such as **Ofe Owerri**, **Abacha**, and **Ukwa**, which are popular dishes that showcase the city's rich culinary heritage.
+
+[FACTBOX]
+Staple Foods: yams, cassava, plantains, rice
+National Dish: Ofe Owerri, a thick stew made with assorted meats and vegetables
+Meal Times: 7:00 am for breakfast, 12:00 pm for lunch, 7:00 pm for dinner
+Tipping at Restaurants: 5-10% of the total bill
+Dietary Notes: Enugu's cuisine is not strictly halal or kosher, but vegetarian options are available
+[/FACTBOX]
+
+[SECTION] Food Culture Overview [/SECTION]
+Enugu's cuisine is defined by its rich cultural heritage, with influences from the Igbo people, who are the dominant ethnic group in the region. The city's cuisine is characterized by the use of local ingredients such as yams, cassava, and plantains, which are often combined with meats and vegetables to create hearty stews and soups. The Igbo people's love for spicy food is also evident in Enugu's cuisine, with the use of chili peppers and other spices to add flavor to dishes. Regional variations in Enugu's cuisine are also evident, with different areas of the city having their own unique specialties and cooking styles.
+
+Enugu's cuisine has also been influenced by its history as a major city in southeastern Nigeria. The city's strategic location has made it a hub for trade and commerce, with people from different parts of the country and beyond coming to Enugu to buy and sell goods. This has led to the introduction of new ingredients and cooking styles, which have been incorporated into the local cuisine. For example, the use of rice, which is not native to the region, is now common in Enugu's cuisine, particularly in dishes such as **Jollof Rice**.
+
+The food culture in Enugu is also closely tied to the city's social and cultural practices. Food plays a significant role in Igbo culture, with meals often served at social gatherings and ceremonies. The preparation and sharing of food is also an important aspect of Igbo hospitality, with guests often being offered a variety of dishes to choose from. In Enugu, mealtimes are often seen as opportunities to bond with family and friends, and the city's cuisine reflects this emphasis on community and social bonding.
+
+[SECTION] Must-Try Dishes [/SECTION]
+[TABLE]
+| Dish | Type | Description | Where to Find |
+| --- | --- | --- | --- |
+| Ofe Owerri | Stew | A thick stew made with assorted meats and vegetables | Local restaurants and food stalls |
+| Abacha | Salad | A spicy salad made with dried cassava, vegetables, and meat or fish | Street food vendors and markets |
+| Ukwa | Soup | A thick soup made with dried cassava and vegetables | Local restaurants and food stalls |
+| Egusi Soup | Soup | A thick soup made with ground melon seeds and vegetables | Local restaurants and food stalls |
+| Akara | Breakfast | Fried bean cakes served with a spicy tomato sauce | Street food vendors and markets |
+| Puff-Puff | Snack | Fried dough balls sprinkled with sugar | Street food vendors and markets |
+| Suya | Snack | Grilled meat skewers served with a spicy peanut sauce | Street food vendors and markets |
+| Ekwang | Stew | A thick stew made with goat meat and vegetables | Local restaurants and food stalls |
+| Okpa | Snack | Steamed bean pudding served with a spicy sauce | Street food vendors and markets |
+| Nkwobi | Stew | A thick stew made with cow foot and vegetables | Local restaurants and food stalls |
+[/TABLE]
+
+[SECTION] Street Food & Snacks [/SECTION]
+- **Puff-Puff**: fried dough balls sprinkled with sugar, $0.50
+- **Suya**: grilled meat skewers served with a spicy peanut sauce, $1.00
+- **Akara**: fried bean cakes served with a spicy tomato sauce, $0.50
+- **Okpa**: steamed bean pudding served with a spicy sauce, $0.50
+- **Abacha**: spicy salad made with dried cassava, vegetables, and meat or fish, $1.50
+- **Meat Pie**: a savory pastry filled with meat and vegetables, $1.00
+
+[SECTION] Drinks [/SECTION]
+- **Palm wine**: a traditional drink made from the sap of palm trees, $2.00
+- **Malt drink**: a sweet, non-alcoholic drink made from barley, $1.00
+- **Ginger beer**: a spicy, non-alcoholic drink made from ginger, $1.00
+- **Beer**: a variety of local and international beers are available, $2.00
+- **Fresh fruit juice**: a refreshing drink made from local fruits such as oranges and pineapples, $1.50
+- **Chapman**: a sweet, fruity drink made from a combination of fruit juices, $1.50
+
+[SECTION] Dining Customs [/SECTION]
+- It is customary to wash your hands before eating, as many dishes are eaten with the hands
+- It is polite to use your right hand when eating or giving or receiving something
+- Table manners are generally informal, but it is considered impolite to eat with your mouth open or to talk with your mouth full
+- Tipping is not mandatory, but it is appreciated for good service
+- Reservations are not usually necessary, but it is a good idea to call ahead to confirm that the restaurant is open and has seating available
+- Dress codes are generally informal, but it is a good idea to dress modestly and respectfully, especially when eating at traditional restaurants
+
+[SECTION] Where to Eat [/SECTION]
+- **Local restaurants**: these are usually small, family-owned establishments that serve traditional dishes, $5.00-$10.00 per meal
+- **Food stalls**: these are usually informal establishments that serve a variety of snacks and dishes, $1.00-$3.00 per item
+- **Markets**: these are great places to try a variety of local dishes and snacks, $1.00-$5.00 per item
+- **Food courts**: these are usually found in shopping malls and serve a variety of local and international dishes, $5.00-$10.00 per meal
+- **Traditional restaurants**: these are usually more formal establishments that serve traditional dishes in a traditional setting, $10.00-$20.00 per meal
+
+[SECTION] Food Markets & Food Experiences [/SECTION]
+- **Ogbete Market**: a large market that sells a variety of local ingredients and dishes, located in the heart of the city
+- **New Market**: a smaller market that sells a variety of local snacks and dishes, located in a residential area
+- **Enugu Food Festival**: an annual festival that celebrates the city's cuisine and culture, held in the city center
+- **Cooking classes**: these are available at some local restaurants and cooking schools, and provide a hands-on introduction to Enugu's cuisine
+- **Food tours**: these are available through some local tour operators, and provide a guided tour of the city's food scene and culinary highlights
+
+---
+
+*Evergreen reference content. Verify time-sensitive details with official sources.*

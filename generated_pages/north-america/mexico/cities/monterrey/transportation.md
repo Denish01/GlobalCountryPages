@@ -1,0 +1,65 @@
+---
+title: "Getting Around Monterrey — Transport & Travel Guide"
+entity: "Mexico"
+iso_code: "MX"
+continent: "north-america"
+angle: "transportation"
+date: "2026-03-07"
+---
+
+# Getting Around Monterrey — Transport & Travel Guide
+
+To get around Monterrey, you can use a combination of transportation options including the international airport, domestic flights, buses, trains, and city transport such as the metro, city buses, taxis, and ride-hailing services.
+
+[FACTBOX]
+Main International Airport(s): General Mariano Escobedo International Airport, MTY
+Domestic Air Network: extensive
+Rail Network: limited
+Drives On: right
+Road Quality: moderate
+Ride-Hailing Apps: Uber, Didi, local alternatives
+[/FACTBOX]
+
+[SECTION] Getting There [/SECTION]
+The main airport serving Monterrey is the General Mariano Escobedo International Airport, located about 24 kilometers northeast of the city center. This airport offers direct flights to major hubs in Mexico, the United States, and other international destinations. You can also enter Monterrey by land from the United States via the Texas-Mexico border crossings, or from other parts of Mexico by bus or car. The city is well-connected to other major Mexican cities, making it a convenient destination to visit.
+
+If you prefer to travel by land, you can take a bus or drive from nearby cities such as Mexico City, Guadalajara, or Tijuana. The bus journey can take several hours, depending on the route and traffic conditions. Several bus companies operate from the Monterrey Central Bus Station, offering services to various destinations within Mexico. Additionally, you can also take a taxi or ride-hailing service from the airport or bus station to your final destination in the city.
+
+[SECTION] Domestic Flights [/SECTION]
+For domestic flights, you can choose from several airlines, including Aeromexico, Volaris, and Interjet, which operate from the General Mariano Escobedo International Airport. These airlines offer flights to major cities in Mexico, such as Mexico City, Guadalajara, and Cancun. To book a domestic flight, you can visit the airline's website or use a travel booking platform. The cost of a domestic flight can vary depending on the route, airline, and time of booking, but you can expect to pay around $100-$300 USD for a one-way ticket. It's recommended to book in advance to get the best prices.
+
+[SECTION] Trains & Rail [/SECTION]
+The rail network in Monterrey is limited, with no high-speed trains available. However, you can take a train from Monterrey to other parts of Mexico, such as Mexico City or Guadalajara, using the Ferromex or Kansas City Southern de Mexico rail lines. The train journey can take several hours, and the cost can vary depending on the route and class of service. You can book train tickets online or at the train station, and it's recommended to book in advance to ensure availability.
+
+[SECTION] Buses & Coaches [/SECTION]
+For intercity bus travel, you can choose from several companies, such as Estrella de Oro, Primera Plus, and Turobus, which operate from the Monterrey Central Bus Station. These buses offer services to various destinations within Mexico, and the cost can vary depending on the route and class of service. The bus journey can take several hours, depending on the route and traffic conditions. You can book bus tickets online or at the bus station, and it's recommended to book in advance to ensure availability.
+
+[SECTION] City Transport [/SECTION]
+| Mode | Available In | Cost (USD) | Notes |
+| --- | --- | --- | --- |
+| Metro/Subway | Monterrey | $0.25 | 2 lines, 31 stations |
+| City Bus | Monterrey | $0.25 | extensive network, affordable |
+| Taxi | everywhere | $1.50/km | available at taxi stands or by phone |
+| Ride-Hailing | Monterrey | $3-$5 | Uber, Didi, and local alternatives available |
+| Tuk-tuk/Rickshaw | not available | - | not a common mode of transport in Monterrey |
+
+[SECTION] Driving [/SECTION]
+- To drive in Monterrey, you need a valid driver's license from your home country or an international driver's license.
+- The road quality in Monterrey is moderate, with some roads in good condition and others with potholes and traffic congestion.
+- Fuel costs can vary depending on the type of vehicle and fuel efficiency, but you can expect to pay around $0.80-$1.20 USD per liter of gasoline.
+- Car rental companies are available at the airport and in the city, and it's recommended to book in advance to ensure availability.
+- Hazards to watch out for include aggressive drivers, pedestrians, and cyclists, as well as speed bumps and traffic congestion.
+- It's recommended to drive during the day and avoid driving at night, especially if you're not familiar with the roads.
+
+[SECTION] Transport Tips [/SECTION]
+- Be aware of scams and petty crimes, such as pickpocketing or robbery, especially in crowded areas and tourist hotspots.
+- Use authorized taxi services or ride-hailing apps to avoid scams and ensure a safe journey.
+- Download transportation apps, such as Uber or Didi, to book rides and track your journey.
+- Carry small bills and coins, as not all vendors or taxi drivers accept credit or debit cards.
+- Learn some basic Spanish phrases, such as "¿Cuánto cuesta?" (how much does it cost?) or "¿Dónde está...?" (where is...?), to help you navigate and communicate with locals.
+- Be mindful of traffic rules and regulations, such as wearing a seatbelt and not using your phone while driving.
+- Consider purchasing a local SIM card or portable Wi-Fi hotspot to stay connected and access maps and transportation apps during your journey.
+
+---
+
+*Evergreen reference content. Verify time-sensitive details with official sources.*

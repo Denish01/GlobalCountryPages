@@ -1,0 +1,58 @@
+---
+title: "Oaxaca Geography - Location, Terrain & Climate"
+entity: "Mexico"
+iso_code: "MX"
+continent: "north-america"
+angle: "geography"
+date: "2026-03-07"
+---
+
+# Oaxaca Geography - Location, Terrain & Climate
+
+Oaxaca is a state located in the southern region of Mexico, known for its rich cultural heritage, diverse geography, and unique biodiversity. 
+
+[FACTBOX]
+Land Area: 93,793 km², about the size of the state of South Carolina
+Highest Point: Cerro el Nacimiento, 3,750 meters
+Lowest Point: Pacific Ocean, 0 meters
+Coastline: 563 km
+Borders: Chiapas to the east, Veracruz to the north, Guerrero to the west, and the Pacific Ocean to the south
+Climate Type: tropical, with arid and temperate regions
+[/FACTBOX]
+
+[SECTION] Location & Borders [/SECTION]
+Oaxaca is situated in the southern part of Mexico, bordering the states of Chiapas to the east, Veracruz to the north, and Guerrero to the west. The state also has a coastline along the Pacific Ocean to the south, with several important ports and beaches. The geography of Oaxaca is characterized by a mix of mountains, valleys, and coastal plains, with the Sierra Madre del Sur mountain range running along the western edge of the state.
+
+The location of Oaxaca has played a significant role in shaping the state's history and culture, with the state being an important center for trade and commerce in the region. The state's borders with other Mexican states and the Pacific Ocean have also influenced the development of its economy, with major industries including agriculture, mining, and tourism. The capital city of Oaxaca, also called Oaxaca, is located in the central part of the state, in the Valley of Oaxaca, and is a major cultural and economic center.
+
+[SECTION] Terrain & Landscape [/SECTION]
+The terrain of Oaxaca is diverse and complex, with a range of different landscapes and ecosystems. The state is home to several major mountain ranges, including the Sierra Madre del Sur, which runs along the western edge of the state, and the Sierra Norte, which is located in the northern part of the state. These mountain ranges are home to a variety of different ecosystems, including **cloud forests**, **pine forests**, and **tropical forests**, and are also the source of several important rivers, including the Rio Grande and the Rio Verde.
+
+In addition to its mountainous regions, Oaxaca is also home to several coastal plains and valleys, including the Valley of Oaxaca, which is located in the central part of the state. These regions are generally flat and fertile, and are used for agriculture, with major crops including **corn**, **beans**, and **sugarcane**. The state's coastline along the Pacific Ocean is also an important feature of its landscape, with several major ports and beaches, including the popular tourist destination of Huatulco.
+
+The diversity of Oaxaca's terrain and landscape has also created a range of different microclimates, with different regions of the state experiencing different weather patterns and conditions. The state's mountainous regions tend to be cooler and wetter than the coastal plains, while the coastal regions tend to be hotter and drier. This diversity of climates and landscapes has also supported a wide range of different plant and animal species, with Oaxaca being home to several **endemic species** that are found nowhere else in the world.
+
+[SECTION] Climate By Season [/SECTION]
+[TABLE]
+| Season | Months | Temperature Range | Rainfall | Conditions |
+| --- | --- | --- | --- | --- |
+| Spring | March to May | 22-28°C | moderate | mild, with occasional rain showers |
+| Summer | June to August | 25-32°C | high | hot and humid, with frequent rain showers |
+| Autumn | September to November | 20-25°C | moderate | mild, with occasional rain showers |
+| Winter | December to February | 15-20°C | low | cool and dry, with occasional cold fronts |
+[/TABLE]
+
+[SECTION] Best Time To Visit [/SECTION]
+[CALLOUT] Best months: October to May. Why: these months offer the best weather, with mild temperatures and minimal rainfall, making it ideal for outdoor activities such as hiking and visiting archaeological sites. Avoid: June to September, due to the hot and humid weather, with frequent rain showers, which can make travel and outdoor activities more difficult. [/CALLOUT]
+
+[SECTION] Natural Highlights [/SECTION]
+- The **Sierra Madre del Sur** mountain range, which runs along the western edge of the state and is home to several **cloud forests** and **tropical forests**.
+- The **Lagunas de Chacahua** National Park, which is a protected area of coastal lagoons and mangrove forests that is home to a wide range of **wildlife**, including **sea turtles** and **birds**.
+- The **Canyon del Sumidero**, which is a deep and narrow canyon that has been carved out by the Rio Grande and is a popular destination for **boat tours** and **hiking**.
+- The **Isthmus of Tehuantepec**, which is a narrow strip of land that connects the state of Oaxaca to the rest of Mexico and is home to several **unique ecosystems**, including **tropical dry forests** and **coastal dunes**.
+- The **Parque Nacional Huatulco**, which is a protected area of coastal forest and **beaches** that is home to a wide range of **wildlife**, including **monkeys** and **birds**.
+- The **Cerro el Nacimiento**, which is the highest point in the state and offers **breathtaking views** of the surrounding countryside.
+
+---
+
+*Evergreen reference content. Verify time-sensitive details with official sources.*

@@ -1,0 +1,58 @@
+---
+title: "Kano Geography - Location, Terrain & Climate"
+entity: "Nigeria"
+iso_code: "NG"
+continent: "africa"
+angle: "geography"
+date: "2026-03-07"
+---
+
+# Kano Geography - Location, Terrain & Climate
+
+Kano is a city located in the northwestern part of Nigeria, a country in West Africa, and is situated in the Sahelian region, which is characterized by a mix of grasslands and savannas.
+
+[FACTBOX]
+Land Area: 499 km², about the size of the city of Chicago
+Highest Point: Dala Hill, 468 meters
+Lowest Point: Hadejia Valley, 200 meters
+Coastline: landlocked
+Borders: Katsina State to the northwest, Kaduna State to the southwest, Bauchi State to the southeast, and Jigawa State to the northeast
+Climate Type: tropical savanna
+[/FACTBOX]
+
+[SECTION] Location & Borders [/SECTION]
+Kano is situated in the northwestern part of Nigeria, and it is the capital of Kano State. The city is located in the Sahelian region, which is characterized by a mix of grasslands and savannas. Kano is surrounded by several states, including Katsina State to the northwest, Kaduna State to the southwest, Bauchi State to the southeast, and Jigawa State to the northeast. The city is also located near the Hadejia Valley, which is a valley that stretches from the northeast to the southwest of Nigeria. Kano is an important cultural and economic center in Nigeria, and it has a rich history that dates back to the 7th century.
+
+The location of Kano has played a significant role in its development as a major city in Nigeria. The city is situated at the intersection of several trade routes, including the Trans-Saharan Highway, which connects West Africa to North Africa. This has made Kano an important center for trade and commerce in the region. The city is also located near several major rivers, including the Niger River and the Benue River, which provide water and support agriculture in the area. The climate of Kano is characterized by a dry season and a wet season, with the dry season lasting from October to May and the wet season lasting from June to September.
+
+[SECTION] Terrain & Landscape [/SECTION]
+The terrain of Kano is characterized by a mix of grasslands and savannas, with several hills and valleys scattered throughout the area. The city is situated in the Sahelian region, which is a transitional zone between the Sahara Desert to the north and the savannas to the south. The landscape of Kano is dominated by the **Kano Plains**, which are a flat to gently sloping area of grasslands and savannas. The plains are dotted with several hills, including **Dala Hill**, which is the highest point in the area. The hills are generally low-lying, with elevations ranging from 200 to 500 meters above sea level.
+
+The **Hadejia Valley** is another notable feature of the terrain of Kano. The valley is a low-lying area that stretches from the northeast to the southwest of Nigeria, and it is characterized by a mix of grasslands and savannas. The valley is an important agricultural area, with several crops, including **cotton**, **groundnuts**, and **sorghum**, being grown in the area. The terrain of Kano is also dotted with several **rivers**, including the **Niger River** and the **Benue River**, which provide water and support agriculture in the area. The rivers are an important source of water for the city, and they also support a wide range of aquatic life.
+
+The landscape of Kano is also characterized by several **wetlands**, including the **Hadejia-Nguru Wetlands**, which are an important habitat for several species of birds and other wildlife. The wetlands are a vital component of the ecosystem of Kano, and they provide several ecosystem services, including water filtration and flood control. The wetlands are also an important source of livelihood for several communities in the area, with many people depending on them for fishing and other economic activities.
+
+[SECTION] Climate By Season [/SECTION]
+[TABLE]
+| Season | Months | Temperature Range | Rainfall | Conditions |
+| --- | --- | --- | --- | --- |
+| Dry Season | October to May | 20-35°C | low | dry and dusty |
+| Wet Season | June to September | 25-35°C | high | hot and humid |
+| Harmattan Season | December to February | 15-25°C | low | cool and dry |
+| Hot Season | March to May | 30-40°C | low | hot and dry |
+[/TABLE]
+
+[SECTION] Best Time To Visit [/SECTION]
+[CALLOUT] Best months: November to February. Why: The weather is cooler and drier, making it ideal for outdoor activities such as sightseeing and hiking. Avoid: June to September, as the weather is hot and humid, and the roads can be flooded due to heavy rainfall. [/CALLOUT]
+
+[SECTION] Natural Highlights [/SECTION]
+- **Kano National Park**: a protected area that is home to several species of wildlife, including elephants, lions, and leopards.
+- **Gashua Dam**: a large dam that provides water and hydroelectric power to the city of Kano.
+- **Hadejia-Nguru Wetlands**: an important habitat for several species of birds and other wildlife.
+- **Dala Hill**: the highest point in the area, offering stunning views of the surrounding landscape.
+- **Kano River**: a major river that provides water and supports agriculture in the area.
+- **Tiga Dam**: a large dam that provides water and hydroelectric power to the city of Kano.
+
+---
+
+*Evergreen reference content. Verify time-sensitive details with official sources.*

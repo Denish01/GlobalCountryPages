@@ -1,0 +1,87 @@
+---
+title: "Melbourne Food Guide — Dishes, Street Food & Dining"
+entity: "Australia"
+iso_code: "AU"
+continent: "oceania"
+angle: "food-and-cuisine"
+date: "2026-03-07"
+---
+
+# Melbourne Food Guide — Dishes, Street Food & Dining
+
+Melbourne, a city known for its cultural diversity and vibrant food scene, offers a wide range of delicious dishes to try, from traditional Australian cuisine to international flavors, with some must-try options including **Melbourne-style coffee**, **fish and chips**, **dim sim**, and **Australian barbecue**.
+
+[FACTBOX]
+Staple Foods: meat pies, fish and chips, seafood, coffee
+National Dish: meat pie, a filling pastry filled with minced meat and gravy
+Meal Times: 7-9 am for breakfast, 12-2 pm for lunch, 6-8 pm for dinner
+Tipping at Restaurants: 5-10% in fine dining establishments, not expected in casual eateries
+Dietary Notes: Melbourne is vegetarian-friendly, with many restaurants offering gluten-free, halal, and kosher options
+[/FACTBOX]
+
+[SECTION] Food Culture Overview [/SECTION]
+Melbourne's cuisine is defined by its cultural diversity, with a mix of traditional Australian, Asian, European, and Middle Eastern flavors. The city's food scene is heavily influenced by its immigrant history, with many restaurants serving dishes from around the world. Melbourne is also known for its **coffee culture**, with many cafes serving high-quality coffee and pastries. The city's regional variations are reflected in its many different neighborhoods, each with its own unique food scene, such as **Chinatown**, **Little Italy**, and **Greek Precinct**.
+
+Melbourne's food culture is also shaped by its proximity to fresh produce, with many restaurants using local ingredients in their dishes. The city is surrounded by fertile farmland, providing an abundance of fresh fruits, vegetables, and meats. Melbourne's **farmers' markets** are a great place to sample the city's fresh produce and artisanal foods. The city's food scene is also influenced by its many food festivals and events, such as the **Melbourne Food and Wine Festival**, which celebrates the city's culinary delights.
+
+Melbourne's cuisine is also known for its **fusion** of different flavors and techniques, with many restaurants combining traditional Australian ingredients with international flavors and cooking methods. This fusion of flavors has resulted in the creation of many unique and delicious dishes, such as **Korean barbecue tacos** and **Japanese-inspired burgers**. The city's food scene is constantly evolving, with new restaurants and cafes opening all the time, offering a wide range of different cuisines and dining experiences.
+
+[SECTION] Must-Try Dishes [/SECTION]
+[TABLE]
+| Dish | Type | Description | Where to Find |
+| --- | --- | --- | --- |
+| Dim Sim | Dumpling | Steamed or fried dumpling filled with pork and vegetables | Chinatown, Melbourne |
+| Melbourne-style Coffee | Beverage | Strong and rich coffee made from high-quality beans | Pellegrini's Espresso Bar, Melbourne |
+| Fish and Chips | Seafood | Battered and fried fish served with crispy chips and tartar sauce | The Fish Shop, Melbourne |
+| Australian Barbecue | Meat | Grilled meats such as steak, sausage, and chicken, served with salad and bread | Australian Barbecue Company, Melbourne |
+| Pavlova | Dessert | Meringue-based dessert topped with whipped cream and fresh fruits | Hopetoun Tea Rooms, Melbourne |
+| Chiko Roll | Snack | Deep-fried savory snack filled with meat, cabbage, and carrot | Food stalls, Melbourne |
+| Meat Pie | Pastry | Filling pastry filled with minced meat and gravy | Melbourne Cricket Ground, Melbourne |
+| Lamington | Dessert | Square-shaped sponge cake coated in chocolate and coconut | Melbourne Bakery, Melbourne |
+| Barramundi | Seafood | Grilled or fried fish served with salad and lemon | The Boathouse, Melbourne |
+| Vegemite on Toast | Breakfast | Toast spread with Vegemite, a savory yeast extract | Cafes, Melbourne |
+[/TABLE]
+
+[SECTION] Street Food & Snacks [/SECTION]
+- **Dim Sim**: steamed or fried dumpling filled with pork and vegetables, $5-7 USD
+- **Fish and Chips**: battered and fried fish served with crispy chips and tartar sauce, $10-12 USD
+- **Chiko Roll**: deep-fried savory snack filled with meat, cabbage, and carrot, $5-7 USD
+- **Meat Pie**: filling pastry filled with minced meat and gravy, $5-7 USD
+- **Lamington**: square-shaped sponge cake coated in chocolate and coconut, $3-5 USD
+- **Vegemite on Toast**: toast spread with Vegemite, a savory yeast extract, $2-3 USD
+- **Kangaroo Burger**: grilled kangaroo meat served with salad and bread, $12-15 USD
+- **Falafel**: crispy and flavorful chickpea patties served with salad and tahini sauce, $8-10 USD
+
+[SECTION] Drinks [/SECTION]
+- **Melbourne-style Coffee**: strong and rich coffee made from high-quality beans, $3-5 USD
+- **Victoria Bitter**: crisp and refreshing beer brewed in Melbourne, $5-7 USD
+- **Australian Wine**: high-quality wine produced in nearby regions, $10-15 USD
+- **Fresh Juice**: freshly squeezed juice made from local fruits, $5-7 USD
+- **Kombucha**: fermented tea drink with probiotic benefits, $5-7 USD
+- **Tim Tam**: chocolate-coated biscuit with a crunchy texture, $2-3 USD
+
+[SECTION] Dining Customs [/SECTION]
+- **Tipping**: 5-10% in fine dining establishments, not expected in casual eateries
+- **Reservation**: recommended for popular restaurants, especially on weekends
+- **Dress Code**: casual to formal, depending on the restaurant
+- **Eating Etiquette**: use utensils, keep elbows off the table, and wait for the host to start eating
+- **Table Manners**: respect the waiter, don't leave the table until everyone is finished eating
+- **Food Sharing**: not common in Melbourne, but becoming more popular in some restaurants
+
+[SECTION] Where to Eat [/SECTION]
+- **Restaurants**: fine dining establishments with a wide range of cuisines, $20-50 USD per meal
+- **Cafes**: casual eateries serving coffee, pastries, and light meals, $10-20 USD per meal
+- **Food Courts**: variety of food stalls serving different cuisines, $10-20 USD per meal
+- **Markets**: fresh produce, artisanal foods, and street food, $5-10 USD per meal
+- **Food Trucks**: mobile eateries serving a variety of cuisines, $10-15 USD per meal
+
+[SECTION] Food Markets & Food Experiences [/SECTION]
+- **Queen Victoria Market**: historic market with fresh produce, artisanal foods, and street food, 513 Elizabeth Street, Melbourne
+- **Prahran Market**: upscale market with gourmet foods, fresh produce, and specialty goods, 163 Commercial Road, South Yarra
+- **South Melbourne Market**: bustling market with fresh produce, street food, and specialty goods, 322-326 Coventry Street, South Melbourne
+- **Melbourne Food and Wine Festival**: annual festival celebrating the city's culinary delights, various locations, Melbourne
+- **Werribee Park Mansion**: historic mansion with a restaurant, cafe, and beautiful gardens, K Road, Werribee
+
+---
+
+*Evergreen reference content. Verify time-sensitive details with official sources.*
