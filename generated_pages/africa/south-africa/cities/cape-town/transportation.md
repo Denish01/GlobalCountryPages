@@ -1,0 +1,65 @@
+---
+title: "Getting Around Cape Town — Transport & Travel Guide"
+entity: "South Africa"
+iso_code: "ZA"
+continent: "africa"
+angle: "transportation"
+date: "2026-03-08"
+---
+
+# Getting Around Cape Town — Transport & Travel Guide
+
+To get around in Cape Town, you can use a variety of transportation options, including taxis, buses, trains, and car rentals, as well as ride-hailing apps and services.
+
+[FACTBOX]
+Main International Airport(s): Cape Town International Airport (CPT)
+Domestic Air Network: extensive
+Rail Network: limited
+Drives On: left
+Road Quality: good
+Ride-Hailing Apps: Uber, Bolt
+[/FACTBOX]
+
+[SECTION] Getting There [/SECTION]
+Cape Town International Airport (CPT) is the main entry point for international travelers, with direct flights from major hubs such as London, Amsterdam, and Dubai. The airport is located about 20 kilometers from the city center and offers a range of transportation options, including taxis, buses, and car rentals. For those traveling overland, the main entry points are from the north via the N1 highway from Johannesburg and the east via the N2 highway from Durban. There are also several bus companies that operate from other major cities in South Africa to Cape Town, including Intercape and Greyhound.
+
+The city is also accessible by sea, with the Cape Town Harbour being a major port of entry for cruise ships and cargo vessels. For travelers coming from neighboring countries, there are several border crossings, including the one at Beitbridge, which connects South Africa to Zimbabwe. It's worth noting that while overland travel can be a scenic and adventurous way to see the country, it can also be time-consuming and requires careful planning.
+
+[SECTION] Domestic Flights [/SECTION]
+For domestic travel, there are several airlines that operate from Cape Town International Airport, including South African Airways, British Airways, and Mango. The main domestic routes include flights to Johannesburg, Durban, and Port Elizabeth, as well as several smaller towns and cities. Booking in advance is recommended, especially during peak travel seasons, as prices can be steep. Approximate costs for domestic flights range from $100 to $500, depending on the route and time of year. It's also worth considering budget airlines, which can offer significant savings for travelers on a tight budget.
+
+[SECTION] Trains & Rail [/SECTION]
+The rail network in South Africa is limited, with most trains operating on a scenic route between Cape Town and Johannesburg. The Blue Train is a luxury train that offers a high-end travel experience, with fine dining and comfortable accommodations. The Shongololo Express is another option, which offers a more budget-friendly alternative. However, the train network is not extensive, and most travelers prefer to use buses or cars for domestic travel. Booking can be done online or through a travel agent, and prices vary depending on the route and class of service.
+
+[SECTION] Buses & Coaches [/SECTION]
+For bus travel, there are several companies that operate from Cape Town, including Intercape, Greyhound, and Baz Bus. The buses are generally comfortable and well-maintained, with routes covering most major cities and towns in South Africa. Prices are relatively affordable, ranging from $20 to $100, depending on the route and class of service. It's worth noting that bus travel can be a convenient and affordable way to see the country, with many companies offering scenic routes and onboard amenities.
+
+[SECTION] City Transport [/SECTION]
+| Mode | Available In | Cost (USD) | Notes |
+| --- | --- | --- | --- |
+| Metro/Subway | none | - | Cape Town does not have a subway system |
+| City Bus | Cape Town | $1-$2 | MyCiTi bus system is efficient and affordable |
+| Taxi | everywhere | $5-$10/km | Metered taxis are widely available |
+| Ride-Hailing | Cape Town | $5-$10 | Uber and Bolt are popular options |
+| Tuk-tuk/Rickshaw | none | - | Not commonly used in Cape Town |
+
+[SECTION] Driving [/SECTION]
+- To drive in South Africa, you will need a valid driver's license from your home country, as well as a credit card to rent a car.
+- Road conditions in Cape Town are generally good, with well-maintained highways and scenic routes.
+- Fuel costs are relatively affordable, with petrol prices ranging from $0.50 to $1.00 per liter.
+- Car rental companies such as Avis, Hertz, and Europcar have desks at the airport and in the city center.
+- When driving, be aware of pedestrians and cyclists, as well as the risk of carjacking and theft.
+- It's also worth noting that driving in South Africa can be challenging, especially for those not used to driving on the left-hand side of the road.
+
+[SECTION] Transport Tips [/SECTION]
+- Be aware of scams and overcharging by taxi drivers, and always use a reputable company or ride-hailing app.
+- Payment methods such as credit cards and mobile payments are widely accepted, but it's still a good idea to have some cash on hand.
+- Download the MyCiTi bus app or the Uber app to make getting around the city easier.
+- Be mindful of your belongings, especially in crowded areas and tourist hotspots.
+- Consider purchasing a SIM card or portable Wi-Fi hotspot to stay connected and navigate the city.
+- Be respectful of local customs and traditions, especially when interacting with taxi drivers or other service providers.
+- Keep an eye on the weather forecast, as Cape Town can experience strong winds and rain, which can affect transportation.
+
+---
+
+*Evergreen reference content. Verify time-sensitive details with official sources.*

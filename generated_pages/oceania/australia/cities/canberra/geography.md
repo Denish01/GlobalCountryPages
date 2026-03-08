@@ -1,0 +1,58 @@
+---
+title: "Canberra Geography - Location, Terrain & Climate"
+entity: "Australia"
+iso_code: "AU"
+continent: "oceania"
+angle: "geography"
+date: "2026-03-08"
+---
+
+# Canberra Geography - Location, Terrain & Climate
+
+Canberra, the capital city of Australia, is located in the Australian Capital Territory, situated in the southeastern part of the country, approximately 290 kilometers southwest of Sydney and 660 kilometers northeast of Melbourne.
+
+[FACTBOX]
+Land Area: 814 km², about the size of the city of Los Angeles
+Highest Point: Mount Majura, 888 meters
+Lowest Point: Lake Burley Griffin, 556 meters
+Coastline: landlocked
+Borders: New South Wales
+Climate Type: temperate
+[/FACTBOX]
+
+[SECTION] Location & Borders [/SECTION]
+Canberra is nestled in the Australian Capital Territory, an enclave within the state of New South Wales. The city is situated in the southeastern part of the country, near the confluence of the Molonglo and Queanbeyan rivers. The surrounding landscape is characterized by rolling hills, valleys, and mountains, with the Great Dividing Range located to the east. Canberra is a landlocked city, with no direct access to the ocean, but it is still within a few hours' drive of the eastern coast of Australia.
+
+The city's location was chosen for its proximity to the geographic center of Australia, as well as its accessibility to the major cities of Sydney and Melbourne. Today, Canberra is a thriving metropolis, home to many national institutions, museums, and cultural attractions. The city's borders are surrounded by the state of New South Wales, with the nearby city of Queanbeyan located just across the border. The Australian Capital Territory is a self-governing territory, with its own government and administration, separate from the state of New South Wales.
+
+[SECTION] Terrain & Landscape [/SECTION]
+The terrain of Canberra is characterized by rolling hills, valleys, and mountains, with the Great Dividing Range located to the east. The city is situated in the Molonglo Valley, which is surrounded by hills and mountains, including the notable peaks of Mount Ainslie, Mount Majura, and Black Mountain. The landscape is also dotted with numerous lakes, rivers, and wetlands, including Lake Burley Griffin, which runs through the heart of the city. The surrounding countryside is generally hilly and wooded, with areas of native forest, grasslands, and agricultural land.
+
+The city's landscape has been shaped by millions of years of geological activity, with the region experiencing a complex history of tectonic uplift, erosion, and sedimentation. As a result, the terrain is characterized by a mix of different rock types, including granite, limestone, and sandstone. The soil is generally fertile and well-suited to agriculture, with the surrounding countryside supporting a range of farming activities, including sheep and cattle grazing, crop production, and viticulture.
+
+The landscape of Canberra has also been shaped by human activity, with the city's design and layout influenced by the vision of American architect Walter Burley Griffin, who won an international competition to design the city in 1912. Griffin's design incorporated many of the natural features of the landscape, including the lakes, rivers, and hills, and created a unique and harmonious relationship between the built and natural environments.
+
+[SECTION] Climate By Season [/SECTION]
+[TABLE]
+| Season | Months | Temperature Range | Rainfall | Conditions |
+| --- | --- | --- | --- | --- |
+| Summer | December to February | 17-28°C | 60-80 mm | Hot and dry, with occasional thunderstorms |
+| Autumn | March to May | 9-20°C | 40-60 mm | Mild and pleasant, with some rainfall |
+| Winter | June to August | 2-12°C | 20-40 mm | Cool and dry, with some frost |
+| Spring | September to November | 9-20°C | 40-60 mm | Mild and pleasant, with some rainfall |
+[/TABLE]
+
+[SECTION] Best Time To Visit [/SECTION]
+[CALLOUT] Best months: September to November and March to May. Why: These periods offer mild and pleasant weather, with comfortable temperatures and minimal rainfall, making them ideal for outdoor activities and sightseeing. Avoid: June to August, as the weather can be cool and dry, with some frost, and December to February, as the summer months can be hot and dry, with occasional thunderstorms. [/CALLOUT]
+
+[SECTION] Natural Highlights [/SECTION]
+- The **Australian Alps**, a mountain range that stretches across southeastern Australia, offer excellent opportunities for hiking, skiing, and snowboarding.
+- **Lake Burley Griffin**, a large artificial lake that runs through the heart of the city, provides a scenic backdrop for boating, fishing, and walking.
+- The **Molonglo Gorge**, a deep and scenic gorge that winds its way through the surrounding hills, is home to a range of native flora and fauna.
+- **Namadgi National Park**, a large and remote national park that covers much of the surrounding countryside, offers excellent opportunities for hiking, camping, and wildlife watching.
+- The **Tidbinbilla Nature Reserve**, a protected area that is home to a range of native animals, including kangaroos, wallabies, and emus, provides a unique opportunity to experience the natural beauty of the Australian bush.
+- **Black Mountain**, a prominent hill that offers panoramic views of the city and surrounding countryside, is a popular spot for hiking and picnicking.
+
+---
+
+*Evergreen reference content. Verify time-sensitive details with official sources.*

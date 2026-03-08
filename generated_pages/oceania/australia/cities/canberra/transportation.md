@@ -1,0 +1,65 @@
+---
+title: "Getting Around Canberra — Transport & Travel Guide"
+entity: "Australia"
+iso_code: "AU"
+continent: "oceania"
+angle: "transportation"
+date: "2026-03-08"
+---
+
+# Getting Around Canberra — Transport & Travel Guide
+
+To get around in Canberra, you can use a variety of transportation options including buses, trains, taxis, and ride-hailing services, as well as driving or cycling, with the city's well-planned roads and bike paths making it easy to navigate.
+
+[FACTBOX]
+Main International Airport(s): Canberra Airport (CBR)
+Domestic Air Network: extensive
+Rail Network: limited
+Drives On: left
+Road Quality: good
+Ride-Hailing Apps: Uber, Taxi
+[/FACTBOX]
+
+[SECTION] Getting There [/SECTION]
+Canberra is easily accessible by air, with Canberra Airport (CBR) being the main international airport serving the city. The airport is located about 8 kilometers from the city center and offers direct flights to major Australian cities such as Sydney, Melbourne, and Brisbane, as well as some international destinations. If you're coming from overseas, you may need to fly into one of these major cities and then take a domestic flight to Canberra. Alternatively, you can take a bus or train from Sydney or Melbourne, which are both about a 3-4 hour journey away.
+
+If you're driving to Canberra, the city is well-connected to the rest of Australia via the Federal Highway and the Barton Highway. The city is also a popular stop on the **East Coast** route, which runs from Sydney to Melbourne and passes through many of Australia's most beautiful coastal towns. If you're coming from nearby cities, you can also take a bus or coach service, such as **Murrays Bus Service** or **Greyhound Australia**, which offer regular services to and from Canberra.
+
+[SECTION] Domestic Flights [/SECTION]
+Canberra has an extensive domestic air network, with flights to and from most major Australian cities. The main domestic airlines operating in Canberra are **Qantas**, **Virgin Australia**, and **Tigerair**, which offer multiple daily flights to destinations such as Sydney, Melbourne, Brisbane, and Adelaide. You can book flights online through the airlines' websites or through a travel agent, and it's a good idea to book in advance to get the best prices. Approximate costs for domestic flights from Canberra can range from $100 to $300, depending on the destination and time of year.
+
+[SECTION] Trains & Rail [/SECTION]
+Canberra has a limited rail network, with no high-speed trains operating in the city. However, you can take a train to nearby cities such as Sydney and Melbourne, which are both about a 4-5 hour journey away. The **NSW TrainLink** and **V/Line** services operate from Canberra Railway Station, which is located in the southern part of the city. You can book tickets online or at the station, and it's a good idea to book in advance to get the best prices. The train journey can be a scenic and relaxing way to see the countryside, but it's not always the fastest option.
+
+[SECTION] Buses & Coaches [/SECTION]
+There are several bus and coach companies operating in Canberra, including **Murrays Bus Service** and **Greyhound Australia**, which offer regular services to and from nearby cities such as Sydney and Melbourne. The buses are a affordable and convenient way to travel, with approximate costs ranging from $20 to $50, depending on the destination and time of year. The buses are also a good option for traveling to regional areas, such as the **Snowy Mountains** and the **South Coast**.
+
+[SECTION] City Transport [/SECTION]
+| Mode | Available In | Cost (USD) | Notes |
+| --- | --- | --- | --- |
+| Metro/Subway | None | N/A | Canberra does not have a metro or subway system |
+| City Bus | Canberra | $2-$5 | **Action Buses** operate throughout the city |
+| Taxi | Canberra | $2-$5/km | Available at taxi ranks or by booking in advance |
+| Ride-Hailing | Canberra | $10-$20 | **Uber** and **Taxi** operate in the city |
+| Tuk-tuk/Rickshaw | None | N/A | Not available in Canberra |
+
+[SECTION] Driving [/SECTION]
+- To drive in Canberra, you'll need to have a valid driver's license from your home country or an **International Driving Permit**.
+- The road conditions in Canberra are generally good, with well-maintained highways and city streets.
+- Fuel costs in Canberra are approximately $1.50 per liter, depending on the type of fuel and the location.
+- If you plan to rent a car, it's a good idea to book in advance to get the best prices, and be sure to read the rental agreement carefully.
+- When driving in Canberra, be aware of the city's **speed cameras** and **school zones**, and always follow the road rules.
+- If you're not used to driving on the left-hand side of the road, be sure to take your time and get accustomed to the local driving conditions.
+
+[SECTION] Transport Tips [/SECTION]
+- Be sure to plan your journey in advance to get the best prices and to avoid peak hour traffic.
+- Use a **reusable MyWay card** to pay for public transport fares, which can be purchased at most newsagents and convenience stores.
+- Download the **Transport Canberra** app to plan your journey and track your bus or train in real-time.
+- Be aware of **peak hour traffic** in the city, which can cause delays and congestion.
+- If you're using a taxi or ride-hailing service, be sure to check the fare estimate before you start your journey.
+- Consider purchasing a **Canberra Visitor Pass**, which can provide unlimited public transport travel and discounts to local attractions.
+- Always follow the local road rules and **speed limits**, and be aware of **school zones** and **roadwork**.
+
+---
+
+*Evergreen reference content. Verify time-sensitive details with official sources.*

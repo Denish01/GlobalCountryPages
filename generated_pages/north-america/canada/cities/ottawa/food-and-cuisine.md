@@ -1,0 +1,87 @@
+---
+title: "Ottawa Food Guide — Dishes, Street Food & Dining"
+entity: "Canada"
+iso_code: "CA"
+continent: "north-america"
+angle: "food-and-cuisine"
+date: "2026-03-08"
+---
+
+# Ottawa Food Guide — Dishes, Street Food & Dining
+
+When visiting Ottawa, be sure to try the city's unique blend of French-Canadian, Indigenous, and modern Canadian cuisine, featuring popular dishes such as poutine, tourtière, and BeaverTails.
+
+[FACTBOX]
+Staple Foods: maple syrup, bacon, cheese curds, wild game meats
+National Dish: poutine, a dish made with French fries, cheese curds, and gravy
+Meal Times: typical breakfast times are between 7-10 am, lunch from 11:30 am-1:30 pm, and dinner from 5-8 pm
+Tipping at Restaurants: 15% to 20% of the total bill is customary
+Dietary Notes: Ottawa has a variety of halal, kosher, and vegetarian-friendly options available
+[/FACTBOX]
+
+[SECTION] Food Culture Overview [/SECTION]
+Ottawa's cuisine is defined by its rich cultural heritage, with strong influences from French-Canadian, Indigenous, and British traditions. The city's proximity to the Ottawa River and surrounding forests has also contributed to the development of a unique regional cuisine, featuring fresh game meats, fish, and foraged ingredients. The city's culinary scene is also shaped by its vibrant cultural festivals and events, such as the Winterlude festival, which celebrates Canadian winter traditions and cuisine.
+
+The city's food culture is also characterized by its love of comfort food, with popular dishes such as poutine, tourtière, and sugar pie being staples of Ottawa's culinary scene. The city is also home to a thriving food truck scene, with many vendors offering unique and innovative twists on traditional Canadian dishes. Additionally, Ottawa's proximity to the Quebec border has also contributed to the city's strong French-Canadian influence, with many restaurants serving traditional Quebecois dishes such as **peameal bacon** and **sugar shack** treats.
+
+Ottawa's regional variations are also reflected in its diverse neighborhood culinary scenes, with areas such as the ByWard Market and Elgin Street offering a wide range of dining options, from high-end restaurants to casual eateries and cafes. The city's culinary scene is also influenced by its large student population, with many restaurants and cafes catering to the city's universities and colleges.
+
+[SECTION] Must-Try Dishes [/SECTION]
+[TABLE]
+| Dish | Type | Description | Where to Find |
+| --- | --- | --- | --- |
+| Poutine | Comfort Food | French fries topped with cheese curds and gravy | ByWard Market, Elgin Street |
+| Tourtière | Traditional Dish | A traditional Quebecois meat pie made with pork and vegetables | Maison Christian Faure, Le Petit Chou |
+| BeaverTails | Pastry | A sweet pastry topped with cinnamon sugar, typically served with a hot beverage | ByWard Market, Rideau Canal |
+| Montreal Smoked Meat Sandwich | Sandwich | A classic Canadian sandwich made with smoked meat, mustard, and pickles | Caplans, Dunn's Famous |
+| Bannock | Indigenous Dish | A traditional Indigenous bread made with flour, water, and yeast | Indigenous and Northern Affairs Committee, Odawa Native Friendship Centre |
+| Sugar Pie | Dessert | A traditional Quebecois dessert made with sugar, cream, and eggs | Le Petit Chou, Maison Christian Faure |
+| Peameal Bacon Sandwich | Sandwich | A classic Canadian sandwich made with peameal bacon, mustard, and pickles | Caplans, Dunn's Famous |
+| Butter Tarts | Dessert | A traditional Canadian pastry filled with butter, sugar, and eggs | The Butter Tart Factory, The Pastry Shop |
+| Quebecois Crepes | Dessert | Thin French crepes filled with sugar, cream, and fruit | Le Petit Chou, Maison Christian Faure |
+| Ottawa-Style Hot Chocolate | Beverage | A rich and creamy hot chocolate made with dark chocolate and topped with whipped cream | The Hot Chocolate Shop, The Chocolate Cafe |
+[/TABLE]
+
+[SECTION] Street Food & Snacks [/SECTION]
+- Poutine from a street vendor, typically costing around $5-$7 USD
+- BeaverTails pastry, typically costing around $5-$7 USD
+- Montreal Smoked Meat Sandwich from a deli, typically costing around $10-$12 USD
+- Bannock from an Indigenous food vendor, typically costing around $5-$7 USD
+- Fresh fruit and vegetables from the ByWard Market, typically costing around $5-$10 USD
+- Ottawa-Style Hot Chocolate from a cafe, typically costing around $4-$6 USD
+- Quebecois Crepes from a street vendor, typically costing around $5-$7 USD
+- Butter Tarts from a bakery, typically costing around $3-$5 USD
+
+[SECTION] Drinks [/SECTION]
+- Ottawa-Style Hot Chocolate, a rich and creamy hot chocolate made with dark chocolate and topped with whipped cream
+- **Maple Syrup Lattes**, a sweet and creamy coffee drink made with maple syrup and topped with whipped cream
+- **Quebecois Apple Cider**, a sweet and tangy apple cider made with Quebecois apples
+- **Canadian Beer**, a wide range of beers brewed in Canada, including popular brands such as Moosehead and Labatt
+- **Ice Wine**, a sweet and dessert wine made with grapes that have frozen on the vine
+- **Indigenous Herbal Tea**, a herbal tea made with traditional Indigenous herbs and plants
+
+[SECTION] Dining Customs [/SECTION]
+- Tipping at restaurants is customary, with 15% to 20% of the total bill being standard
+- Reservations are recommended for high-end restaurants, especially on weekends and during peak dining hours
+- Dining etiquette is formal, with table manners and polite conversation being expected
+- Dress codes vary depending on the restaurant, with some establishments requiring formal attire and others being more casual
+- It is customary to wait for the host to invite you to sit down and start eating
+- It is also customary to try a little of each dish, as a sign of respect for the cook and the meal
+
+[SECTION] Where to Eat [/SECTION]
+- ByWard Market, a historic market offering a wide range of dining options, from high-end restaurants to casual eateries and cafes
+- Elgin Street, a vibrant street lined with restaurants, bars, and cafes
+- Rideau Canal, a scenic canal with many restaurants and cafes offering outdoor seating and stunning views
+- Westboro Village, a charming neighborhood with a variety of restaurants, cafes, and bakeries
+- **The Whalesbone**, a seafood restaurant with a focus on sustainable and locally sourced ingredients
+
+[SECTION] Food Markets & Food Experiences [/SECTION]
+- ByWard Market, a historic market offering a wide range of food vendors, including fresh produce, meats, and baked goods
+- Ottawa Farmers' Market, a weekly market featuring local produce, meats, and artisanal goods
+- **Winterlude Festival**, a winter festival celebrating Canadian winter traditions and cuisine
+- **Ottawa Food Tour**, a guided tour of the city's culinary scene, featuring visits to local restaurants, cafes, and food vendors
+- **Sugar Shack Experience**, a traditional Quebecois experience featuring maple syrup production, sugar shack treats, and live music and dancing
+
+---
+
+*Evergreen reference content. Verify time-sensitive details with official sources.*
