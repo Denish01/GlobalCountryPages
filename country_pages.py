@@ -2135,8 +2135,15 @@ Target: 800-900 words.""",
 # HTML TEMPLATE
 # =============================================================================
 
-def build_html(entity, angle_id, title, content, breadcrumbs=None, enriched_data=None):
-    """Build themed HTML page for a country angle with two-column layout."""
+def build_html(entity, angle_id, title, content, breadcrumbs=None, enriched_data=None,
+               canonical_path=None):
+    """Build themed HTML page for a country angle with two-column layout.
+
+    canonical_path: relative path (no leading slash) the page is actually served
+    at, e.g. "africa/nigeria/regions/lagos-state/overview.html". Required for
+    Level-3 (region/city) pages so they self-canonical instead of pointing at the
+    parent country page. Defaults to the country-level path when omitted.
+    """
     continent = entity.get("continent", "europe")
     colors = CONTINENT_COLORS.get(continent, CONTINENT_COLORS["europe"])
     flag = iso_to_flag(entity.get("iso_code", ""))
@@ -2285,7 +2292,7 @@ def build_html(entity, angle_id, title, content, breadcrumbs=None, enriched_data
         continent_nav += f'<li><a href="/{cslug}/"{active_cls}>{cmeta["name"]}</a></li>\n            '
 
     meta_desc = f"{title} - Comprehensive guide to {entity_name}. {SITE_NAME}."
-    canonical_url = f"{SITE_URL}/{continent}/{entity_slug}/{angle_id}.html"
+    canonical_url = f"{SITE_URL}/{canonical_path}" if canonical_path else f"{SITE_URL}/{continent}/{entity_slug}/{angle_id}.html"
 
     # JSON-LD: BreadcrumbList
     breadcrumb_items = []
@@ -2782,6 +2789,25 @@ def generate_toc_html(content):
     </nav>"""
 
 
+_SLUG_CONTINENT = None
+
+def _target_continent(slug, fallback):
+    """Continent a linked entity actually lives under (from the registry), so
+    cross-continent links (e.g. Brazil -> Mexico) don't point at the linking
+    page's continent and 404. Falls back to the current page's continent."""
+    global _SLUG_CONTINENT
+    if _SLUG_CONTINENT is None:
+        _SLUG_CONTINENT = {}
+        try:
+            for s, e in load_entity_registry().get("entities", {}).items():
+                c = e.get("continent")
+                if c:
+                    _SLUG_CONTINENT[s] = c
+        except Exception:
+            pass
+    return _SLUG_CONTINENT.get(slug, fallback)
+
+
 def build_related_links(entity):
     """Build 'Compare With' and 'Nearby Countries' link sections."""
     comparisons = entity.get("common_comparisons", [])
@@ -2797,7 +2823,8 @@ def build_related_links(entity):
         comp_links = ""
         for comp in comparisons[:6]:
             comp_slug = slugify(comp)
-            comp_links += f'            <a href="/{continent}/{comp_slug}/overview.html" class="related-link">{comp}</a>\n'
+            comp_cont = _target_continent(comp_slug, continent)
+            comp_links += f'            <a href="/{comp_cont}/{comp_slug}/overview.html" class="related-link">{comp}</a>\n'
         sections.append(f"""<div class="related-section">
         <h4>Compare With</h4>
         <div class="related-grid">
@@ -2808,7 +2835,8 @@ def build_related_links(entity):
         nb_links = ""
         for nb in neighbors[:6]:
             nb_slug = slugify(nb)
-            nb_links += f'            <a href="/{continent}/{nb_slug}/overview.html" class="related-link">{nb}</a>\n'
+            nb_cont = _target_continent(nb_slug, continent)
+            nb_links += f'            <a href="/{nb_cont}/{nb_slug}/overview.html" class="related-link">{nb}</a>\n'
         sections.append(f"""<div class="related-section">
         <h4>Nearby Countries</h4>
         <div class="related-grid">
@@ -3261,7 +3289,7 @@ def save_level3_page(entity, sub_entity_name, sub_type, angle_id, title, content
         (sub_type.title(), f"/{continent}/{entity_slug}/{sub_type}/"),
         (sub_entity_name, f"/{continent}/{entity_slug}/{sub_type}/{sub_slug}/"),
         (angle_id.replace("-", " ").title(), None),
-    ])
+    ], canonical_path=f"{continent}/{entity_slug}/{sub_type}/{sub_slug}/{angle_id}.html")
     json_data = format_as_json(entity, angle_id, title, content)
     md = format_as_markdown(entity, angle_id, title, content)
 

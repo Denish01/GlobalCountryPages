@@ -35,6 +35,13 @@ jobs:
       - name: Setup Pages
         uses: actions/configure-pages@v5
 
+      # Don't publish the raw .md/.json sources — they were duplicate, indexable
+      # copies of every .html page (~24k extra URLs wasting crawl budget). They
+      # stay in the repo (the generator uses them); only the published site drops
+      # them. This deletes from the checkout, not the repo.
+      - name: Strip duplicate raw sources from the published site
+        run: find generated_pages -type f \( -name '*.md' -o -name '*.json' \) -delete
+
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
