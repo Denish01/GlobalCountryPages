@@ -4,3 +4,8 @@ __pycache__/
 config_local.py
 .vscode/
 .idea/
+
+client_secret.json
+token.json
+gsc_*.csv
+gsc_pull.py

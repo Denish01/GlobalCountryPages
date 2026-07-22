@@ -1,8 +1,14 @@
 name: Daily Country Expansion
 
 on:
-  schedule:
-    - cron: '0 3 * * *'  # Daily at 3 AM UTC
+  # PAUSED 2026-07-22: 360nations.com hit a Google scaled-content demotion —
+  # impressions collapsed ~97% Apr->May 2026 and the site is now ~deindexed
+  # (29 impressions/month across 12k pages). Daily auto-generation was spending
+  # Groq API credits + Actions minutes to publish pages into a deindexed site.
+  # Re-enable by uncommenting the schedule ONLY after a real content-strategy
+  # change; manual runs still work via workflow_dispatch.
+  # schedule:
+  #   - cron: '0 3 * * *'  # Daily at 3 AM UTC
   workflow_dispatch:
     inputs:
       pages_per_run:
